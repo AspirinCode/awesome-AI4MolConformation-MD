@@ -160,19 +160,19 @@ Schwing, Gregory, Luigi L. Palese, Ariel Fernández, Loren Schwiebert, and Domen
 
 * **Protein Ensemble Generation Through Variational Autoencoder Latent Space Sampling** [2024]  
 Sanaa Mansoor, Minkyung Baek, Hahnbeom Park, Gyu Rie Lee, and David Baker.   
-[J. Chem. Theory Comput. (2024)](https://pubs.acs.org/doi/10.1021/acs.jctc.3c01057)  
+[J. Chem. Theory Comput. (2024)](https://pubs.acs.org/doi/10.1021/acs.jctc.3c01057)
 
-* **Phanto-IDP: compact model for precise intrinsically disordered protein backbone generation and enhanced sampling**  
+* **Phanto-IDP: compact model for precise intrinsically disordered protein backbone generation and enhanced sampling**
 
-  Junjie Zhu, Zhengxin Li, Haowei Tong, Zhouyu Lu, Ningjie Zhang, Ting Wei and Hai-Feng Chen.  
+  Junjie Zhu, Zhengxin Li, Haowei Tong, Zhouyu Lu, Ningjie Zhang, Ting Wei and Hai-Feng Chen.
 
-  [Briefings in Bioinformatics. (2024)](https://academic.oup.com/bib/article/25/1/bbad429/7453435) | [code]([Junjie-Zhu/Phanto-IDP: A VAE-based model for generating protein conformation ensemble. (github.com)](https://github.com/Junjie-Zhu/Phanto-IDP))  
+  [Briefings in Bioinformatics. (2024)](https://academic.oup.com/bib/article/25/1/bbad429/7453435) | [code](https://github.com/Junjie-Zhu/Phanto-IDP)
 
-* **Enhancing Conformational Sampling for Intrinsically Disordered and Ordered Proteins by Variational Auotencoder**  
+* **Enhancing Conformational Sampling for Intrinsically Disordered and Ordered Proteins by Variational Auotencoder**
 
-  JunJie Zhu, NingJie Zhang, Ting Wei and Hai-Feng Chen.  
+  JunJie Zhu, NingJie Zhang, Ting Wei and Hai-Feng Chen.
 
-  [International Journal of Molecular Sciences. (2023)](https://www.mdpi.com/1422-0067/24/8/6896) | [code]([Junjie-Zhu/VAE (github.com)](https://github.com/Junjie-Zhu/VAE))
+  [International Journal of Molecular Sciences. (2023)](https://www.mdpi.com/1422-0067/24/8/6896) | [code](https://github.com/Junjie-Zhu/VAE)
 
 * **Artificial intelligence guided conformational mining of intrinsically disordered proteins** [2022]  
 Gupta, A., Dey, S., Hicks, A. et al.   
