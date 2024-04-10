@@ -41,6 +41,12 @@ List of protein conformations and molecular dynamics using generative artificial
 Monteiro da Silva, G., Cui, J.Y., Dalgarno, D.C. et al.   
 [Nat Commun 15, 2464 (2024)](https://doi.org/10.1038/s41467-024-46715-9) | [code](https://github.com/GMdSilva/gms_natcomms_1705932980_data)
 
+* **AlphaFold Meets Flow Matching for Generating Protein Ensembles** [2024]  
+Jing, Bowen, Bonnie Berger, and Tommi Jaakkola.   
+[arXiv:2402.04845 (2024)](https://arxiv.org/abs/2402.04845) | [code](https://github.com/bjing2016/alphaflow)
+
+
+
 
 
 
@@ -129,7 +135,9 @@ Gupta, A., Dey, S., Hicks, A. et al.
 
 
 
-
+* **AlphaFold Meets Flow Matching for Generating Protein Ensembles** [2024]  
+Jing, Bowen, Bonnie Berger, and Tommi Jaakkola.   
+[arXiv:2402.04845 (2024)](https://arxiv.org/abs/2402.04845) | [code](https://github.com/bjing2016/alphaflow)
 
 
 
@@ -139,6 +147,17 @@ Gupta, A., Dey, S., Hicks, A. et al.
 
 
 ### GAN-based
+
+
+
+
+
+
+
+
+* **Direct generation of protein conformational ensembles via machine learning** [2023]  
+Janson, G., Valdes-Garcia, G., Heo, L. et al.   
+[Nat Commun 14, 774 (2023)](https://doi.org/10.1038/s41467-023-36443-x) | [code](https://github.com/feiglab/idpgan)
 
 
 
