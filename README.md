@@ -35,7 +35,9 @@ List of protein conformations and molecular dynamics using generative artificial
 
 
 
-
+* **High-throughput prediction of protein conformational distributions with subsampled AlphaFold2** [2024]  
+Monteiro da Silva, G., Cui, J.Y., Dalgarno, D.C. et al.   
+[Nat Commun 15, 2464 (2024)](https://doi.org/10.1038/s41467-024-46715-9) | [code](https://github.com/GMdSilva/gms_natcomms_1705932980_data)
 
 
 
