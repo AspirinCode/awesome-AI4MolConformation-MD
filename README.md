@@ -1,4 +1,6 @@
-# awesome-AI4ProteinConformation-MD
+[![License: GPL](https://img.shields.io/badge/License-GPL-yellow)](https://github.com/AspirinCode/awesome-AI4ProteinConformation-MD)
+
+## awesome-AI4ProteinConformation-MD
 List of protein conformations and molecular dynamics using generative artificial intelligence and deep learning
 
 
