@@ -162,17 +162,17 @@ Schwing, Gregory, Luigi L. Palese, Ariel Fernández, Loren Schwiebert, and Domen
 Sanaa Mansoor, Minkyung Baek, Hahnbeom Park, Gyu Rie Lee, and David Baker.   
 [J. Chem. Theory Comput. (2024)](https://pubs.acs.org/doi/10.1021/acs.jctc.3c01057)
 
-* **Phanto-IDP: compact model for precise intrinsically disordered protein backbone generation and enhanced sampling**
+* **Phanto-IDP: compact model for precise intrinsically disordered protein backbone generation and enhanced sampling**<br>
 
-  Junjie Zhu, Zhengxin Li, Haowei Tong, Zhouyu Lu, Ningjie Zhang, Ting Wei and Hai-Feng Chen.
+  Junjie Zhu, Zhengxin Li, Haowei Tong, Zhouyu Lu, Ningjie Zhang, Ting Wei and Hai-Feng Chen.<br>
 
-  [Briefings in Bioinformatics. (2024)](https://academic.oup.com/bib/article/25/1/bbad429/7453435) | [code](https://github.com/Junjie-Zhu/Phanto-IDP)
+  [Briefings in Bioinformatics. (2024)](https://academic.oup.com/bib/article/25/1/bbad429/7453435) | [code](https://github.com/Junjie-Zhu/Phanto-IDP)<br>
 
-* **Enhancing Conformational Sampling for Intrinsically Disordered and Ordered Proteins by Variational Auotencoder**
+* **Enhancing Conformational Sampling for Intrinsically Disordered and Ordered Proteins by Variational Auotencoder**<br>
 
-  JunJie Zhu, NingJie Zhang, Ting Wei and Hai-Feng Chen.
+  JunJie Zhu, NingJie Zhang, Ting Wei and Hai-Feng Chen.<br>
 
-  [International Journal of Molecular Sciences. (2023)](https://www.mdpi.com/1422-0067/24/8/6896) | [code](https://github.com/Junjie-Zhu/VAE)
+  [International Journal of Molecular Sciences. (2023)](https://www.mdpi.com/1422-0067/24/8/6896) | [code](https://github.com/Junjie-Zhu/VAE)<br>
 
 * **Artificial intelligence guided conformational mining of intrinsically disordered proteins** [2022]  
 Gupta, A., Dey, S., Hicks, A. et al.   
