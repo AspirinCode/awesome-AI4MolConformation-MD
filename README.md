@@ -48,11 +48,131 @@ Monteiro da Silva, G., Cui, J.Y., Dalgarno, D.C. et al.
 
 
 
+
+
+
 * **RevGraphVAMP: A protein molecular simulation analysis model combining graph convolutional neural networks and physical constraints** [2024]  
 Huang, Ying, Huiling Zhang, Zhenli Lin, Yanjie Wei, and Wenhui Xi.   
 [bioRxiv (2024)](https://doi.org/10.1101/2024.03.11.584426) | [code](https://github.com/DS00HY/RevGraphVamp)
 
 
+
+
+
+
+
+
+### LSTM-based
+
+
+
+
+
+
+
+* **Learning molecular dynamics with simple language model built upon long short-term memory neural network** [2020]  
+Tsai, ST., Kuo, EJ. & Tiwary, P.   
+[Nat Commun 11, 5115 (2020)](https://doi.org/10.1038/s41467-020-18959-8) | [code](https://github.com/tiwarylab/LSTM-predict-MD)
+
+
+
+
+
+
+
+### Transformer-based
+
+
+
+
+
+
+
+* **Data-Efficient Generation of Protein Conformational Ensembles with Backbone-to-Side-Chain Transformers** [2024]  
+Chennakesavalu, Shriram, and Grant M. Rotskoff.   
+[The Journal of Physical Chemistry B (2024)](https://pubs.acs.org/doi/full/10.1021/acs.jpcb.3c08195) | [code](https://github.com/rotskoff-group/transformer-backmapping)
+
+
+
+
+
+
+
+
+
+
+### VAE-based
+
+
+
+
+
+
+
+
+
+
+
+
+
+### Flow-based
+
+
+
+
+
+
+
+
+
+
+
+
+
+### GAN-based
+
+
+
+
+
+
+
+
+
+### Score-based
+
+
+
+
+
+
+
+
+
+### Energy-based
+
+
+
+
+
+
+
+
+
+
+### Bayesian-based
+
+
+
+
+
+
+
+
+
+
+
+### Active Learning
 
 
 
