@@ -94,13 +94,17 @@ Tsai, ST., Kuo, EJ. & Tiwary, P.
 
 
 
-
+* **Exploring the conformational ensembles of protein-protein complex with transformer-based generative model** [2024]  
+Wang, Jianmin, Xun Wang, Yanyi Chu, Chunyan Li, Xue Li, Xiangyu Meng, Yitian Fang, Kyoung Tai No, Jiashun Mao, and Xiangxiang Zeng.   
+[bioRxiv (2024)](https://doi.org/10.1101/2024.02.24.581708) | [code](https://github.com/AspirinCode/AlphaPPImd)
 
 * **Data-Efficient Generation of Protein Conformational Ensembles with Backbone-to-Side-Chain Transformers** [2024]  
 Chennakesavalu, Shriram, and Grant M. Rotskoff.   
 [The Journal of Physical Chemistry B (2024)](https://pubs.acs.org/doi/full/10.1021/acs.jpcb.3c08195) | [code](https://github.com/rotskoff-group/transformer-backmapping)
 
-
+* **Molecular dynamics without molecules: searching the conformational space of proteins with generative neural networks** [2022]  
+Schwing, Gregory, Luigi L. Palese, Ariel Fernández, Loren Schwiebert, and Domenico L. Gatti.   
+[arXiv:2206.04683 (2022)](https://arxiv.org/abs/2206.04683) | [code](https://github.com/dgattiwsu/MD_without_molecules)
 
 
 
@@ -120,24 +124,25 @@ Chennakesavalu, Shriram, and Grant M. Rotskoff.
 Sanaa Mansoor, Minkyung Baek, Hahnbeom Park, Gyu Rie Lee, and David Baker.   
 [J. Chem. Theory Comput. (2024)](https://pubs.acs.org/doi/10.1021/acs.jctc.3c01057)  
 
-
-
-
 * **Artificial intelligence guided conformational mining of intrinsically disordered proteins** [2022]  
 Gupta, A., Dey, S., Hicks, A. et al.   
 [Commun Biol 5, 610 (2022)](https://doi.org/10.1038/s42003-022-03562-y) | [code](https://github.com/aaayushg/generative_IDPs)
 
+* **LAST: Latent Space-Assisted Adaptive Sampling for Protein Trajectories** [2022]  
+Tian, Hao, Xi Jiang, Sian Xiao, Hunter La Force, Eric C. Larson, and Peng Tao   
+[J. Chem. Inf. Model. (2022)](https://doi.org/10.1021/acs.jcim.2c01213) | [code](https://github.com/smu-tao-group/LAST)
 
+* **Molecular dynamics without molecules: searching the conformational space of proteins with generative neural networks** [2022]  
+Schwing, Gregory, Luigi L. Palese, Ariel Fernández, Loren Schwiebert, and Domenico L. Gatti.   
+[arXiv:2206.04683 (2022)](https://arxiv.org/abs/2206.04683) | [code](https://github.com/dgattiwsu/MD_without_molecules)
 
+* **ProGAE: A Geometric Autoencoder-based Generative Model for Disentangling Protein Conformational Space** [2021]  
+Tatro, Norman Joseph, Payel Das, Pin-Yu Chen, Vijil Chenthamarakshan, and Rongjie Lai.   
+[ICLR (2022)](https://openreview.net/forum?id=LxhlyKH6VP)  
 
-### Flow-based
-
-
-
-
-* **AlphaFold Meets Flow Matching for Generating Protein Ensembles** [2024]  
-Jing, Bowen, Bonnie Berger, and Tommi Jaakkola.   
-[arXiv:2402.04845 (2024)](https://arxiv.org/abs/2402.04845) | [code](https://github.com/bjing2016/alphaflow)
+* **Explore protein conformational space with variational autoencoder** [2021]  
+Tian, Hao, Xi Jiang, Francesco Trozzi, Sian Xiao, Eric C. Larson, and Peng Tao.   
+[Frontiers in molecular biosciences 8 (2021)](https://www.frontiersin.org/articles/10.3389/fmolb.2021.781635/full) | [code](https://github.com/smu-tao-group/protein-VAE)
 
 
 
@@ -159,6 +164,27 @@ Jing, Bowen, Bonnie Berger, and Tommi Jaakkola.
 Janson, G., Valdes-Garcia, G., Heo, L. et al.   
 [Nat Commun 14, 774 (2023)](https://doi.org/10.1038/s41467-023-36443-x) | [code](https://github.com/feiglab/idpgan)
 
+* **Molecular dynamics without molecules: searching the conformational space of proteins with generative neural networks** [2022]  
+Schwing, Gregory, Luigi L. Palese, Ariel Fernández, Loren Schwiebert, and Domenico L. Gatti.   
+[arXiv:2206.04683 (2022)](https://arxiv.org/abs/2206.04683) | [code](https://github.com/dgattiwsu/MD_without_molecules)
+
+
+
+
+
+
+
+
+
+### Flow-based
+
+
+
+
+* **AlphaFold Meets Flow Matching for Generating Protein Ensembles** [2024]  
+Jing, Bowen, Bonnie Berger, and Tommi Jaakkola.   
+[arXiv:2402.04845 (2024)](https://arxiv.org/abs/2402.04845) | [code](https://github.com/bjing2016/alphaflow)
+
 
 
 
@@ -174,10 +200,30 @@ Janson, G., Valdes-Garcia, G., Heo, L. et al.
 
 
 
+* **Str2str: A score-based framework for zero-shot protein conformation sampling** [2024]  
+Lu, Jiarui, Bozitao Zhong, Zuobai Zhang, and Jian Tang.   
+[ICLR (2024)](https://openreview.net/forum?id=C4BikKsgmK) | [code](https://github.com/lujiarui/Str2Str)
+
+* **Score-based enhanced sampling for protein molecular dynamics** [2023]  
+Lu, Jiarui, Bozitao Zhong, and Jian Tang.   
+[arXiv:2306.03117 (2023)](https://arxiv.org/abs/2306.03117) | [code](https://github.com/lujiarui/Str2Str)
+
+
+
 
 
 
 ### Energy-based
+
+
+
+
+
+
+* **Energy-based models for atomic-resolution protein conformations** [2020]  
+Du, Yilun, Joshua Meier, Jerry Ma, Rob Fergus, and Alexander Rives.   
+[ICLR (2020)](https://openreview.net/forum?id=S1e_9xrFvS) | [code](https://github.com/facebookresearch/protein-ebm)
+
 
 
 
@@ -195,16 +241,22 @@ Janson, G., Valdes-Garcia, G., Heo, L. et al.
 
 
 
+* **Deep Generative Models of Protein Structure Uncover Distant Relationships Across a Continuous Fold Space** [2023]  
+Draizen, Eli J., Stella Veretnik, Cameron Mura, and Philip E. Bourne.   
+[bioRxiv(2023)](https://doi.org/10.1101/2022.07.29.501943) | [code](https://github.com/bouralab/DeepUrfold)
 
 
 
 
 
-### Active Learning
+
+### Active Learning-based
 
 
 
-
+* **Active Learning of the Conformational Ensemble of Proteins Using Maximum Entropy VAMPNets** [2023]  
+Kleiman, Diego E., and Diwakar Shukla.   
+[J. Chem. Theory Comput. (2023)](https://doi.org/10.1021/acs.jctc.3c00040) | [code](https://github.com/ShuklaGroup/MaxEntVAMPNet)
 
 
 
