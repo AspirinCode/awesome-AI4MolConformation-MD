@@ -10,11 +10,47 @@ List of protein conformations and molecular dynamics using generative artificial
 **Updating ...**  
 
 
+## Menu
+
+  - [Deep Learning-protein conformations](#deep-learning-protein-conformations)
+
+| Menu | Menu | Menu | Menu |
+| ------ | :---------- | ------ | ------ |
+| [Reviews](#reviews) | [Datasets and Package](##datasets-and-package) |  |  |
+| [AlphaFold-based](#alphaFold-based) | [GNN-based](#gnn-based)  | [LSTM-based](#lstm-based) | [Transformer-based](#transformer-based) |
+| [VAE-based](#vae-based) | [GAN-based](#gan-based) | [Flow-based](#flow-based) |  |
+| [Score-Based](#score-Based) | [Energy-based](#energy-based) | [Bayesian-based](#bayesian-based) | [Active Learning-based](#active-learning-based) |
+
 
 
 
 ## Reviews
 
+
+
+* **Machine Learning Generation of Dynamic Protein Conformational Ensembles** [2023]   
+ Zheng, Li-E., Shrishti Barethiya, Erik Nordquist, and Jianhan Chen.   
+  [Molecules 28.10 (2023)](https://doi.org/10.3390/molecules28104047)  
+
+
+
+
+## Datasets and Package
+
+### Datasets
+
+  
+
+
+
+
+### Package
+
+
+**MMolearn**  
+a Python package streamlining the design of generative models of biomolecular dynamics  
+
+https://github.com/LumosBio/MolData   
 
 
 
@@ -45,7 +81,9 @@ Monteiro da Silva, G., Cui, J.Y., Dalgarno, D.C. et al.
 Jing, Bowen, Bonnie Berger, and Tommi Jaakkola.   
 [arXiv:2402.04845 (2024)](https://arxiv.org/abs/2402.04845) | [code](https://github.com/bjing2016/alphaflow)
 
-
+* **Exploring the Druggable Conformational Space of Protein Kinases Using AI-Generated Structures** [2023]  
+Herrington, Noah B., David Stein, Yan Chak Li, Gaurav Pandey, and Avner Schlessinger.   
+[bioRxiv (2023)](https://doi.org/10.1101/2023.08.31.555779) | [code](https://github.com/schlessinger-lab/af2_kinase_conformations/)
 
 
 
