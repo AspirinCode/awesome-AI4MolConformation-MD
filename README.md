@@ -16,7 +16,7 @@ List of protein conformations and molecular dynamics using generative artificial
 
 | Menu | Menu | Menu | Menu |
 | ------ | :---------- | ------ | ------ |
-| [Reviews](#reviews) | [Datasets and Package](##datasets-and-package) |  |  |
+| [Reviews](#reviews) | [Datasets and Package](#datasets-and-package) |  |  |
 | [AlphaFold-based](#alphaFold-based) | [GNN-based](#gnn-based)  | [LSTM-based](#lstm-based) | [Transformer-based](#transformer-based) |
 | [VAE-based](#vae-based) | [GAN-based](#gan-based) | [Flow-based](#flow-based) |  |
 | [Score-Based](#score-Based) | [Energy-based](#energy-based) | [Bayesian-based](#bayesian-based) | [Active Learning-based](#active-learning-based) |
