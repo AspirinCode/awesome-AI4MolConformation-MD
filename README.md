@@ -108,9 +108,16 @@ Chennakesavalu, Shriram, and Grant M. Rotskoff.
 
 
 
+* **Protein Ensemble Generation Through Variational Autoencoder Latent Space Sampling** [2024]  
+Sanaa Mansoor, Minkyung Baek, Hahnbeom Park, Gyu Rie Lee, and David Baker.   
+[J. Chem. Theory Comput. (2024)](https://pubs.acs.org/doi/10.1021/acs.jctc.3c01057)  
 
 
 
+
+* **Artificial intelligence guided conformational mining of intrinsically disordered proteins** [2022]  
+Gupta, A., Dey, S., Hicks, A. et al.   
+[Commun Biol 5, 610 (2022)](https://doi.org/10.1038/s42003-022-03562-y) | [code](https://github.com/aaayushg/generative_IDPs)
 
 
 
