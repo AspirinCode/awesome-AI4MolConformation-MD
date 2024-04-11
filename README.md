@@ -111,7 +111,9 @@ Jing, Bowen, Bonnie Berger, and Tommi Jaakkola.
 Herrington, Noah B., David Stein, Yan Chak Li, Gaurav Pandey, and Avner Schlessinger.   
 [bioRxiv (2023)](https://doi.org/10.1101/2023.08.31.555779) | [code](https://github.com/schlessinger-lab/af2_kinase_conformations/)
 
-
+* **Sampling alternative conformational states of transporters and receptors with AlphaFold2** [2022]  
+Del Alamo, Diego, Davide Sala, Hassane S. Mchaourab, and Jens Meiler.   
+[Elife 11 (2022)](https://elifesciences.org/articles/75751) | [code](https://github.com/delalamo/af2_conformations)
 
 
 
