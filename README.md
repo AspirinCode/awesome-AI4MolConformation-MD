@@ -1,7 +1,7 @@
 [![License: GPL](https://img.shields.io/badge/License-GPL-yellow)](https://github.com/AspirinCode/awesome-AI4ProteinConformation-MD)
 
 ## awesome-AI4ProteinConformation-MD
-List of protein (and PPIs) conformations and molecular dynamics using generative artificial intelligence and deep learning
+List of **protein (and PPIs) conformations** and **molecular dynamics (MD)** using **generative artificial intelligence** and **deep learning**
 
 
 
