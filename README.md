@@ -4,6 +4,7 @@
 List of **protein (and PPIs) conformations** and **molecular dynamics (MD)** using **generative artificial intelligence** and **deep learning**
 
 
+![Protein Space and Conformations](https://github.com/AspirinCode/awesome-AI4ProteinConformation-MD/blob/main/figure/afpro.png)
 
 
 **Updating ...**  
