@@ -106,6 +106,10 @@ Monteiro da Silva, G., Cui, J.Y., Dalgarno, D.C. et al.
 Jing, Bowen, Bonnie Berger, and Tommi Jaakkola.   
 [arXiv:2402.04845 (2024)](https://arxiv.org/abs/2402.04845) | [code](https://github.com/bjing2016/alphaflow)
 
+* **Predicting multiple conformations via sequence clustering and AlphaFold2** [2024]  
+Wayment-Steele, H.K., Ojoawo, A., Otten, R. et al.   
+[Nature 625, 832–839 (2024)](https://doi.org/10.1038/s41586-023-06832-9) | [code](https://github.com/HWaymentSteele/AF_Cluster)
+
 * **Exploring the Druggable Conformational Space of Protein Kinases Using AI-Generated Structures** [2023]  
 Herrington, Noah B., David Stein, Yan Chak Li, Gaurav Pandey, and Avner Schlessinger.   
 [bioRxiv (2023)](https://doi.org/10.1101/2023.08.31.555779) | [code](https://github.com/schlessinger-lab/af2_kinase_conformations/)
