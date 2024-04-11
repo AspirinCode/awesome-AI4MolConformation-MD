@@ -16,7 +16,7 @@ List of protein (and PPIs) conformations and molecular dynamics using generative
 
 | Menu | Menu | Menu | Menu |
 | ------ | :---------- | ------ | ------ |
-| [Reviews](#reviews) | [Datasets and Package](#datasets-and-package) | [Molecular dynamics (MD)](#molecular-dynamics-(md)) | [AI4MD](#ai4md) |
+| [Reviews](#reviews) | [Datasets and Package](#datasets-and-package) | [Molecular dynamics](#molecular-dynamics) | [AI4MD](#ai4md) |
 | [AlphaFold-based](#alphaFold-based) | [GNN-based](#gnn-based)  | [LSTM-based](#lstm-based) | [Transformer-based](#transformer-based) |
 | [VAE-based](#vae-based) | [GAN-based](#gan-based) | [Flow-based](#flow-based) |  |
 | [Score-Based](#score-Based) | [Energy-based](#energy-based) | [Bayesian-based](#bayesian-based) | [Active Learning-based](#active-learning-based) |
@@ -56,7 +56,7 @@ https://github.com/LumosBio/MolData
 
 
 
-## Molecular dynamics (MD)
+## Molecular dynamics
 
 
 
