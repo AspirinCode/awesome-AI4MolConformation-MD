@@ -95,7 +95,9 @@ Unke, Oliver T., Martin Stöhr, Stefan Ganscha, Thomas Unterthiner, Hartmut Maen
 ### AlphaFold-based
 
 
-
+* **Empowering AlphaFold2 for protein conformation selective drug discovery with AlphaFold2-RAVE** [2024]  
+Xinyu Gu, Akashnathan Aranganathan, Pratyush Tiwary.   
+[	arXiv:2404.07102 (2024)](https://arxiv.org/abs/2404.07102)  
 
 * **High-throughput prediction of protein conformational distributions with subsampled AlphaFold2** [2024]  
 Monteiro da Silva, G., Cui, J.Y., Dalgarno, D.C. et al.   
