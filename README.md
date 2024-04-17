@@ -345,7 +345,8 @@ Kleiman, Diego E., and Diwakar Shukla.
 ### LLM-MD
 
 
-* **Molecular simulation with an LLM-agent** [2024]  
+* **Molecular simulation with an LLM-agent** [2024]
+MD-Agent is a LLM-agent based toolset for Molecular Dynamics.  
 [code](https://github.com/ur-whitelab/md-agent)
 
 
