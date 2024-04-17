@@ -20,7 +20,7 @@ List of **protein (and PPIs) conformations** and **molecular dynamics (MD)** usi
 | [AlphaFold-based](#alphaFold-based) | [GNN-based](#gnn-based)  | [LSTM-based](#lstm-based) | [Transformer-based](#transformer-based) |
 | [VAE-based](#vae-based) | [GAN-based](#gan-based) | [Flow-based](#flow-based) |  |
 | [Score-Based](#score-Based) | [Energy-based](#energy-based) | [Bayesian-based](#bayesian-based) | [Active Learning-based](#active-learning-based) |
-
+| [LLM-MD](#llm-md) |  |  |  |
 
 
 
@@ -339,6 +339,18 @@ Draizen, Eli J., Stella Veretnik, Cameron Mura, and Philip E. Bourne.
 * **Active Learning of the Conformational Ensemble of Proteins Using Maximum Entropy VAMPNets** [2023]  
 Kleiman, Diego E., and Diwakar Shukla.   
 [J. Chem. Theory Comput. (2023)](https://doi.org/10.1021/acs.jctc.3c00040) | [code](https://github.com/ShuklaGroup/MaxEntVAMPNet)
+
+
+
+### LLM-MD
+
+
+* **Molecular simulation with an LLM-agent** [2024]  
+[code](https://github.com/ur-whitelab/md-agent)
+
+
+
+
 
 
 
