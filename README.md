@@ -70,7 +70,7 @@ https://github.com/LumosBio/MolData
 
 
 * [TorchMD](https://github.com/torchmd/torchmd) - End-To-End Molecular Dynamics (MD) Engine using PyTorch.  
-
+* [OpenMM-Torch](https://github.com/openmm/openmm-torch) - OpenMM plugin to define forces with neural networks.  
 
 
 
