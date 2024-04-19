@@ -86,6 +86,14 @@ https://github.com/LumosBio/MolData
 
 
 
+### Visualization
+
+* [VMD](http://www.ks.uiuc.edu/Research/vmd/) - A molecular visualization program for displaying, animating, and analyzing large biomolecular systems using 3-D graphics and built-in scripting.  
+* [NGLview](https://github.com/arose/nglview) - IPython widget to interactively view molecular structures and trajectories.  
+* [PyMOL](https://pymol.org/2/) - A user-sponsored molecular visualization system on an open-source foundation, maintained and distributed by Schrödinger.  
+* [Avogadro](https://avogadro.cc/) - An advanced molecule editor and visualizer designed for cross-platform use in computational chemistry, molecular modeling, bioinformatics, materials science, and related areas.  
+
+
 
 ## AI4MD
 
