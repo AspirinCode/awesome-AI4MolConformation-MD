@@ -66,6 +66,12 @@ https://github.com/LumosBio/MolData
 * [CHARMM](https://www.charmm.org/) - A molecular simulation program with broad application to many-particle systems.  
 
 
+### AI4MD Engines/Frameworks
+
+
+* [TorchMD](https://github.com/torchmd/torchmd) - End-To-End Molecular Dynamics (MD) Engine using PyTorch.  
+
+
 
 
 ### MD Trajectory Processing/Analysis
