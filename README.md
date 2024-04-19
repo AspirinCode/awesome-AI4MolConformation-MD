@@ -58,11 +58,24 @@ https://github.com/LumosBio/MolData
 
 ## Molecular dynamics
 
+### MD Engines/Frameworks
 
 * [Amber](http://ambermd.org/) - A suite of biomolecular simulation programs.  
 * [Gromacs](http://www.gromacs.org/) - A molecular dynamics package mainly designed for simulations of proteins, lipids and nucleic acids.
 * [OpenMM](http://openmm.org/) - A toolkit for molecular simulation using high performance GPU code.  
 * [CHARMM](https://www.charmm.org/) - A molecular simulation program with broad application to many-particle systems.  
+
+
+
+
+### MD Trajectory Processing/Analysis
+
+
+* [MDAnalysis](https://www.mdanalysis.org/) - An object-oriented Python library to analyze trajectories from molecular dynamics (MD) simulations in many popular formats.  
+* [MDTraj](http://mdtraj.org/) - A python library that allows users to manipulate molecular dynamics (MD) trajectories.  
+* [PyTraj](https://amber-md.github.io/pytraj/) - A Python front-end of [CppTraj](https://github.com/Amber-MD/cpptraj).  
+* [CppTraj](https://github.com/Amber-MD/cpptraj) - Biomolecular simulation trajectory/data analysis.  
+
 
 
 
