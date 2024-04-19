@@ -59,9 +59,10 @@ https://github.com/LumosBio/MolData
 ## Molecular dynamics
 
 
-
-
-
+* [Amber](http://ambermd.org/) - A suite of biomolecular simulation programs.  
+* [Gromacs](http://www.gromacs.org/) - A molecular dynamics package mainly designed for simulations of proteins, lipids and nucleic acids.
+* [OpenMM](http://openmm.org/) - A toolkit for molecular simulation using high performance GPU code.  
+* [CHARMM](https://www.charmm.org/) - A molecular simulation program with broad application to many-particle systems.  
 
 
 
