@@ -85,6 +85,11 @@ https://github.com/LumosBio/MolData
 * [CppTraj](https://github.com/Amber-MD/cpptraj) - Biomolecular simulation trajectory/data analysis.  
 
 
+### Reference
+
+https://github.com/ipudu/awesome-molecular-dynamics  
+
+
 
 ### Visualization
 
