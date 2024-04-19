@@ -73,7 +73,7 @@ https://github.com/LumosBio/MolData
 
 * [MDAnalysis](https://www.mdanalysis.org/) - An object-oriented Python library to analyze trajectories from molecular dynamics (MD) simulations in many popular formats.  
 * [MDTraj](http://mdtraj.org/) - A python library that allows users to manipulate molecular dynamics (MD) trajectories.  
-* [PyTraj](https://amber-md.github.io/pytraj/) - A Python front-end of [CppTraj](https://github.com/Amber-MD/cpptraj).  
+* [PyTraj](https://amber-md.github.io/pytraj/) - A Python front-end package of the popular cpptraj program.  
 * [CppTraj](https://github.com/Amber-MD/cpptraj) - Biomolecular simulation trajectory/data analysis.  
 
 
