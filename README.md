@@ -70,6 +70,8 @@ https://github.com/LumosBio/MolData
 * [CHARMM](https://www.charmm.org/) - A molecular simulation program with broad application to many-particle systems.  
 * [HTMD](https://github.com/Acellera/htmd) - Programming Environment for Molecular Discovery.  
 * [ACEMD](https://www.acellera.com/acemd) - The next generation molecular dynamic simulation software.  
+* [NAMD](https://www.ks.uiuc.edu/Research/namd/) - A parallel molecular dynamics code for large biomolecular systems..
+
 
 
 ### AI4MD Engines/Frameworks
