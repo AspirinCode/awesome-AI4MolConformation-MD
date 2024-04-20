@@ -362,7 +362,9 @@ Du, Yilun, Joshua Meier, Jerry Ma, Rob Fergus, and Alexander Rives.
 
 
 
-
+* **Deep Boosted Molecular Dynamics (DBMD): Accelerating molecular simulations with Gaussian boost potentials generated using probabilistic Bayesian deep neural network** [2023]  
+Do, Hung N., and Yinglong Miao.   
+[bioRxiv(2023)](https://doi.org/10.1101/2023.03.25.534210) | [code](https://github.com/MiaoLab20/DBMD/)
 
 * **Deep Generative Models of Protein Structure Uncover Distant Relationships Across a Continuous Fold Space** [2023]  
 Draizen, Eli J., Stella Veretnik, Cameron Mura, and Philip E. Bourne.   
