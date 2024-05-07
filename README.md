@@ -237,7 +237,9 @@ Schwing, Gregory, Luigi L. Palese, Ariel Fernández, Loren Schwiebert, and Domen
 
 
 
-
+* **Deciphering the Coevolutionary Dynamics of L2 β-Lactamases via Deep Learning** [2024]  
+  Zhu, Yu, Jing Gu, Zhuoran Zhao, AW Edith Chan, Maria F. Mojica, Andrea M. Hujer, Robert A. Bonomo, and Shozeb Haider.  
+  [J. Chem. Inf. Model. (2024)](https://doi.org/10.1021/acs.jcim.4c00189) | [data](https://zenodo.org/records/10500539)
 
 * **Protein Ensemble Generation Through Variational Autoencoder Latent Space Sampling** [2024]  
 Sanaa Mansoor, Minkyung Baek, Hahnbeom Park, Gyu Rie Lee, and David Baker.   
