@@ -304,7 +304,9 @@ Schwing, Gregory, Luigi L. Palese, Ariel Fernández, Loren Schwiebert, and Domen
 ### Flow-based
 
 
-
+* **Frame-to-Frame Coarse-grained Molecular Dynamics with SE (3) Guided Flow Matching** [2024]  
+Li, Shaoning, Yusong Wang, Mingyu Li, Jian Zhang, Bin Shao, Nanning Zheng, and Jian Tang   
+[arXiv:2405.00751 (2024)](https://arxiv.org/abs/2405.00751)  
 
 * **AlphaFold Meets Flow Matching for Generating Protein Ensembles** [2024]  
 Jing, Bowen, Bonnie Berger, and Tommi Jaakkola.   
