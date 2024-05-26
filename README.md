@@ -18,7 +18,7 @@ List of **protein ( enzymes and PPIs) conformations** and **molecular dynamics (
 | ------ | :---------- | ------ | ------ |
 | [Reviews](#reviews) | [Datasets and Package](#datasets-and-package) | [Molecular dynamics](#molecular-dynamics) | [AI4MD](#ai4md) |
 | [AlphaFold-based](#alphaFold-based) | [GNN-based](#gnn-based)  | [LSTM-based](#lstm-based) | [Transformer-based](#transformer-based) |
-| [VAE-based](#vae-based) | [GAN-based](#gan-based) | [Flow-based](#flow-based) |  |
+| [VAE-based](#vae-based) | [GAN-based](#gan-based) | [Flow-based](#flow-based) | [Diffusion-based](#diffusion-based) |
 | [Score-Based](#score-Based) | [Energy-based](#energy-based) | [Bayesian-based](#bayesian-based) | [Active Learning-based](#active-learning-based) |
 | [LLM-MD](#llm-md) |  |  |  |
 
@@ -335,6 +335,14 @@ Jing, Bowen, Bonnie Berger, and Tommi Jaakkola.
 
 
 
+
+### Diffusion-based
+
+
+
+* **Accurate Conformation Sampling via Protein Structural Diffusion** [2024]  
+Fan, Jiahao, Ziyao Li, Eric Alcaide, Guolin Ke, Huaqing Huang, and Weinan E.   
+[bioRxiv (2024)](https://doi.org/10.1101/2024.05.20.594916)  
 
 
 
