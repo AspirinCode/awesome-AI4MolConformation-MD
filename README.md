@@ -141,7 +141,9 @@ Unke, Oliver T., Martin Stöhr, Stefan Ganscha, Thomas Unterthiner, Hartmut Maen
 
 
 
-
+* **GLOW: A Workflow Integrating Gaussian-Accelerated Molecular Dynamics and Deep Learning for Free Energy Profiling** [2022]  
+Do, Hung N., Jinan Wang, Apurba Bhattarai, and Yinglong Miao.   
+[J. Chem. Theory Comput. (2022)](https://doi.org/10.1021/acs.jctc.1c01055) | [code](https://github.com/MiaoLab20/GLOW)
 
 
 
