@@ -76,7 +76,7 @@ https://github.com/LumosBio/MolData
 * [HTMD](https://github.com/Acellera/htmd) - Programming Environment for Molecular Discovery.  
 * [ACEMD](https://www.acellera.com/acemd) - The next generation molecular dynamic simulation software.  
 * [NAMD](https://www.ks.uiuc.edu/Research/namd/) - A parallel molecular dynamics code for large biomolecular systems..
-
+* [StreaMD](https://github.com/ci-lab-cz/streamd) - A tool to perform high-throughput automated molecular dynamics simulations..
 
 
 ### AI4MD Engines/Frameworks
