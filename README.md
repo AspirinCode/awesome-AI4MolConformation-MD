@@ -150,9 +150,7 @@ Do, Hung N., Jinan Wang, Apurba Bhattarai, and Yinglong Miao.
 
 ### AlphaFold-based
 
-* **AlphaFold2-RAVE: From Sequence to Boltzmann Ranking** [2023]  
-Bodhi P. Vani, Akashnathan Aranganathan, Dedi Wang, and Pratyush Tiwary.   
-[J. Chem. Theory Comput. (2023)](https://pubs.acs.org/doi/10.1021/acs.jctc.3c00290)) | [code](https://github.com/tiwarylab/alphafold2rave)
+
 
 * **AFsample2: Predicting multiple conformations and ensembles with AlphaFold2** [2024]  
 Yogesh Kalakoti, Björn Wallner.   
@@ -177,6 +175,10 @@ Jing, Bowen, Bonnie Berger, and Tommi Jaakkola.
 * **Predicting multiple conformations via sequence clustering and AlphaFold2** [2024]  
 Wayment-Steele, H.K., Ojoawo, A., Otten, R. et al.   
 [Nature 625, 832–839 (2024)](https://doi.org/10.1038/s41586-023-06832-9) | [code](https://github.com/HWaymentSteele/AF_Cluster)
+
+* **AlphaFold2-RAVE: From Sequence to Boltzmann Ranking** [2023]  
+Bodhi P. Vani, Akashnathan Aranganathan, Dedi Wang, and Pratyush Tiwary.   
+[J. Chem. Theory Comput. (2023)](https://pubs.acs.org/doi/10.1021/acs.jctc.3c00290)) | [code](https://github.com/tiwarylab/alphafold2rave)
 
 * **Exploring the Druggable Conformational Space of Protein Kinases Using AI-Generated Structures** [2023]  
 Herrington, Noah B., David Stein, Yan Chak Li, Gaurav Pandey, and Avner Schlessinger.   
