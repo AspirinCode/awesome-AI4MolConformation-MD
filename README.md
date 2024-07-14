@@ -150,6 +150,9 @@ Do, Hung N., Jinan Wang, Apurba Bhattarai, and Yinglong Miao.
 
 ### AlphaFold-based
 
+* **AlphaFold2-RAVE: From Sequence to Boltzmann Ranking** [2023]  
+Bodhi P. Vani, Akashnathan Aranganathan, Dedi Wang, and Pratyush Tiwary.   
+[J. Chem. Theory Comput. (2023)](https://pubs.acs.org/doi/10.1021/acs.jctc.3c00290)) | [code](https://github.com/tiwarylab/alphafold2rave)
 
 * **AFsample2: Predicting multiple conformations and ensembles with AlphaFold2** [2024]  
 Yogesh Kalakoti, Björn Wallner.   
