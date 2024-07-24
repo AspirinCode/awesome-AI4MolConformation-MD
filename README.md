@@ -48,7 +48,9 @@ List of **protein ( enzymes, antibody, and PPIs) conformations** and **molecular
 
 ### Datasets
 
-  
+* **mdCATH: A Large-Scale MD Dataset for Data-Driven Computational Biophysics** [2024]  
+Antonio Mirarchi, Toni Giorgino, G. D. Fabritiis.   
+[	arXiv:2407.14794 (2024)](https://arxiv.org/abs/2407.14794) | [code](https://github.com/compsciencelab/mdCATH)
 
 
 
