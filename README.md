@@ -198,7 +198,9 @@ Del Alamo, Diego, Davide Sala, Hassane S. Mchaourab, and Jens Meiler.
 
 
 
-
+* **AbFlex: Predicting the conformational flexibility of antibody CDRs** [2024]  
+Spoendlin, Fabian C., Wing Ki Wong, Guy Georges, Alexander Bujotzek, and Charlotte Deane.   
+[ICML'24 Workshop ML for Life and Material Science: From Theory to Industry Applications (2024)](https://openreview.net/forum?id=or4tArwd5a) | [code](https://openreview.net/forum?id=or4tArwd5a)
 
 * **RevGraphVAMP: A protein molecular simulation analysis model combining graph convolutional neural networks and physical constraints** [2024]  
 Huang, Ying, Huiling Zhang, Zhenli Lin, Yanjie Wei, and Wenhui Xi.   
