@@ -153,6 +153,9 @@ Do, Hung N., Jinan Wang, Apurba Bhattarai, and Yinglong Miao.
 ### AlphaFold-based
 
 
+* **Integration of AlphaFold with Molecular Dynamics for Efficient Conformational Sampling of Transporter Protein NarK** [2024]  
+Ohnuki, Jun, and Kei-ichi Okazaki.   
+[The Journal of Physical Chemistry B (2024)](https://doi.org/10.1021/acs.jpcb.4c02726)  
 
 * **AFsample2: Predicting multiple conformations and ensembles with AlphaFold2** [2024]  
 Yogesh Kalakoti, Björn Wallner.   
