@@ -69,6 +69,23 @@ https://github.com/LumosBio/MolData
 
 ## Molecular dynamics
 
+
+
+
+### Molecular Force Fields
+
+
+
+
+
+
+* **Differentiable simulation to develop molecular dynamics force fields for disordered proteins** [2024]  
+Greener, Joe G.   
+[Chemical Science 15.13 (2024)](https://doi.org/10.1039/D3SC05230C) | [code](https://github.com/greener-group/GB99dms)
+
+
+
+
 ### MD Engines/Frameworks
 
 * [Amber](http://ambermd.org/) - A suite of biomolecular simulation programs.  
