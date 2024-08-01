@@ -424,7 +424,9 @@ Du, Yilun, Joshua Meier, Jerry Ma, Rob Fergus, and Alexander Rives.
 ### Bayesian-based
 
 
-
+* **Enabling Population Protein Dynamics Through Bayesian Modeling** [2024]  
+Sylvain Lehmann, Jérôme Vialaret, Audrey Gabelle, Luc Bauchet, Jean-Philippe Villemin, Christophe Hirtz, Jacques Colinge.   
+[Bioinformatics (2024)](https://doi.org/10.1093/bioinformatics/btae484)
 
 * **Deep Boosted Molecular Dynamics (DBMD): Accelerating molecular simulations with Gaussian boost potentials generated using probabilistic Bayesian deep neural network** [2023]  
 Do, Hung N., and Yinglong Miao.   
