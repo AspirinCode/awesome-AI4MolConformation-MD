@@ -381,6 +381,9 @@ Jing, Bowen, Bonnie Berger, and Tommi Jaakkola.
 ### Diffusion-based
 
 
+* **Direct conformational sampling from peptide energy landscapes through hypernetwork-conditioned diffusion** [2024]  
+Abdin, O., Kim, P.M.   
+[Nat Mach Intell 6, 775–786 (2024)](https://doi.org/10.1038/s42256-024-00860-4) | [code](https://gitlab.com/oabdin/pepflow)
 
 * **Accurate Conformation Sampling via Protein Structural Diffusion** [2024]  
 Fan, Jiahao, Ziyao Li, Eric Alcaide, Guolin Ke, Huaqing Huang, and Weinan E.   
