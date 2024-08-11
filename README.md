@@ -486,4 +486,71 @@ MD-Agent is a LLM-agent based toolset for Molecular Dynamics.
 
 
 
+## Molecular conformational ensembles by methods
+
+
+
+
+### Small molecule-conformational ensembles
+
+
+
+
+
+
+### Peptide-conformational ensembles
+
+
+
+
+
+
+
+### Protein-conformational ensembles
+
+
+* **Active Learning of the Conformational Ensemble of Proteins Using Maximum Entropy VAMPNets** [2023]  
+Kleiman, Diego E., and Diwakar Shukla.   
+[J. Chem. Theory Comput. (2023)](https://doi.org/10.1021/acs.jctc.3c00040) | [code](https://github.com/ShuklaGroup/MaxEntVAMPNet)
+
+
+
+
+
+
+
+
+### Enzymes-conformational ensembles
+
+
+
+
+
+
+
+
+
+
+
+### Antibody-conformational ensembles
+
+
+
+
+* **AbFlex: Predicting the conformational flexibility of antibody CDRs** [2024]  
+Spoendlin, Fabian C., Wing Ki Wong, Guy Georges, Alexander Bujotzek, and Charlotte Deane.   
+[ICML'24 Workshop ML for Life and Material Science: From Theory to Industry Applications (2024)](https://openreview.net/forum?id=or4tArwd5a) | [code](https://openreview.net/forum?id=or4tArwd5a)
+
+
+
+
+
+
+
+### PPI-conformational ensembles
+
+* **Exploring the conformational ensembles of protein-protein complex with transformer-based generative model** [2024]  
+Wang, Jianmin, Xun Wang, Yanyi Chu, Chunyan Li, Xue Li, Xiangyu Meng, Yitian Fang, Kyoung Tai No, Jiashun Mao, and Xiangxiang Zeng.   
+[J. Chem. Theory Comput. (2024)](https://doi.org/10.1021/acs.jctc.4c00255) | [bioRxiv (2024)](https://doi.org/10.1101/2024.02.24.581708) | [code](https://github.com/AspirinCode/AlphaPPImd)
+
 
