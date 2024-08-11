@@ -77,7 +77,9 @@ https://github.com/LumosBio/MolData
 
 
 
-
+* **A Euclidean transformer for fast and stable machine learned force fields** [2024]  
+Frank, J.T., Unke, O.T., Müller, KR. et al.   
+[Nat Commun 15, 6539 (2024)](https://doi.org/10.1038/s41467-024-50620-6) | [code](https://github.com/microsoft/AI2BMD/tree/ViSNet/chignolin_data)
 
 * **Differentiable simulation to develop molecular dynamics force fields for disordered proteins** [2024]  
 Greener, Joe G.   
