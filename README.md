@@ -384,6 +384,12 @@ Jing, Bowen, Bonnie Berger, and Tommi Jaakkola.
 ### Diffusion-based
 
 
+
+
+* **Generating Multi-state Conformations of P-type ATPases with a Diffusion Model** [2024]  
+Jingtian Xu, Yong Wang.   
+[bioRxiv (2024)](https://doi.org/10.1101/2024.08.07.607107) | [code](https://github.com/yongwangCPH/papers/tree/main/2024/PtypeATPaseGeneration)
+
 * **Direct conformational sampling from peptide energy landscapes through hypernetwork-conditioned diffusion** [2024]  
 Abdin, O., Kim, P.M.   
 [Nat Mach Intell 6, 775–786 (2024)](https://doi.org/10.1038/s42256-024-00860-4) | [code](https://gitlab.com/oabdin/pepflow)
