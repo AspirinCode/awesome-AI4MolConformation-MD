@@ -12,7 +12,7 @@ List of **protein ( molecules,  peptide, enzymes, antibody, and PPIs) conformati
 
 ## Menu
 
-  - [Deep Learning-protein conformations](#deep-learning-protein-conformations)
+  - [Deep Learning-molecular conformations](#deep-learning-molecular-conformations)
 
 | Menu | Menu | Menu | Menu |
 | ------ | :---------- | ------ | ------ |
@@ -158,7 +158,7 @@ Unke, Oliver T., Martin Stöhr, Stefan Ganscha, Thomas Unterthiner, Hartmut Maen
 
 
 
-## Deep Learning-protein conformations
+## Deep Learning-molecular conformations
 
 
 
