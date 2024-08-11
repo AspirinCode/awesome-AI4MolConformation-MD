@@ -30,9 +30,9 @@ List of **protein ( molecules,  peptide, enzymes, antibody, and PPIs) conformati
 | Menu | Menu | Menu | Menu |
 | ------ | :---------- | ------ | ------ |
 | [Small molecule-conformational ensembles](#small-molecule-conformational-ensembles) | [Peptide-conformational ensembles](#peptide-conformational-ensembles) | [Protein-conformational ensembles](#protein-conformational-ensembles) |
-| [AlphaFold-based](#alphaFold-based) | [GNN-based](#gnn-based)  | [LSTM-based](#lstm-based) | [Transformer-based](#transformer-based) |
-| [VAE-based](#vae-based) | [GAN-based](#gan-based) | [Flow-based](#flow-based) | [Diffusion-based](#diffusion-based) |
-| [Score-Based](#score-Based) | [Energy-based](#energy-based) | [Bayesian-based](#bayesian-based) | [Active Learning-based](#active-learning-based) |
+| [AlphaFold-based](#alphaFold-based) | [GNN-based](#gnn-based)  | [LSTM-based](#lstm-based) |
+| [VAE-based](#vae-based) | [GAN-based](#gan-based) | [Flow-based](#flow-based) |
+| [Score-Based](#score-Based) | [Energy-based](#energy-based) | [Bayesian-based](#bayesian-based) |
 | [LLM-MD](#llm-md) |  |  |  |
 
 
