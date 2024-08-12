@@ -29,9 +29,9 @@ List of **protein ( molecules,  peptide, enzymes, antibody, and PPIs) conformati
 
 | Menu | Menu | Menu |
 | ------ | :---------- | ------ |
-| [Small molecule-conformational ensembles](#small-molecule-conformational-ensembles) | [Peptide-conformational ensembles](#peptide-conformational-ensembles) | [Protein-conformational ensembles](#protein-conformational-ensembles) |
-| [Enzymes-conformational ensembles](#enzymes-conformational-ensembles) | [Antibody-conformational ensembles](#antibody-conformational-ensembles)  | [PPI-conformational ensembles](#ppi-conformational-ensembles) |
-|  |  |  |
+| [Small molecule-conformational ensembles](#small-molecule-conformational-ensembles) | [RNA-conformational ensembles](#rna-conformational-ensembles) | [Peptide-conformational ensembles](#peptide-conformational-ensembles) |
+| [Protein-conformational ensembles](#protein-conformational-ensembles) | [Enzymes-conformational ensembles](#enzymes-conformational-ensembles)  | [Antibody-conformational ensembles](#antibody-conformational-ensembles) |
+| [PPI-conformational ensembles](#ppi-conformational-ensembles) |  |  |
 
 
 ## Reviews
@@ -576,8 +576,26 @@ Xu, Minkai, Wujie Wang, Shitong Luo, Chence Shi, Yoshua Bengio, Rafael Gomez-Bom
 
 
 
+
+
+### RNA-conformational ensembles
+
+
+
+
+
+
+
+
+
 ### Peptide-conformational ensembles
 
+
+
+
+* **CREMP: Conformer-rotamer ensembles of macrocyclic peptides for machine learning** [2024]  
+Grambow, C.A., Weir, H., Cunningham, C.N. et al.   
+[Sci Data 11, 859 (2024)](https://doi.org/10.1038/s41597-024-03698-y) | [code](https://github.com/Genentech/cremp)
 
 * **Direct conformational sampling from peptide energy landscapes through hypernetwork-conditioned diffusion** [2024]  
 Abdin, O., Kim, P.M.   
