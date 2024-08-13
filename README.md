@@ -1,11 +1,11 @@
-[![License: GPL](https://img.shields.io/badge/License-GPL-yellow)](https://github.com/AspirinCode/awesome-AI4ProteinConformation-MD)
+[![License: GPL](https://img.shields.io/badge/License-GPL-yellow)](https://github.com/AspirinCode/awesome-AI4MolConformation-MD)
 
 ## awesome-AI4MolConformation-MD
 List of **protein ( molecules, RNA, peptide, enzymes, antibody, and PPIs) conformations** and **molecular dynamics (force fields)** using **generative artificial intelligence** and **deep learning**
 
 
 
-![Protein Space and Conformations](https://github.com/AspirinCode/awesome-AI4ProteinConformation-MD/blob/main/figure/afpro.png)
+
 
 
 **Updating ...**  
