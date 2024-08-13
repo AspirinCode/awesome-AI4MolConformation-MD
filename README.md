@@ -95,7 +95,9 @@ Frank, J.T., Unke, O.T., Müller, KR. et al.
 Greener, Joe G.   
 [Chemical Science 15.13 (2024)](https://doi.org/10.1039/D3SC05230C) | [code](https://github.com/greener-group/GB99dms)
 
-
+* **Grappa--A Machine Learned Molecular Mechanics Force Field** [2024]  
+Seute, Leif, Eric Hartmann, Jan Stühmer, and Frauke Gräter.   
+[arXiv:2404.00050 (2024)](https://arxiv.org/abs/2404.00050) | [code](https://github.com/graeter-group/grappa)
 
 
 ### MD Engines-Frameworks
