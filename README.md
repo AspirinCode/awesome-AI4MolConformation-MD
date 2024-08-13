@@ -18,7 +18,7 @@ List of **protein ( molecules,  peptide, enzymes, antibody, and PPIs) conformati
 | Menu | Menu | Menu | Menu |
 | ------ | :---------- | ------ | ------ |
 | [Reviews](#reviews) | [Datasets and Package](#datasets-and-package) | [Molecular dynamics](#molecular-dynamics) | [Molecular Force Fields](#molecular-force-fields) |
-| [MD Engines/Frameworks](#md-engines/frameworks) |  |  | [AI4MD](#ai4md) |
+| [MD Engines-Frameworks](#md-engines-frameworks) |  |  | [AI4MD](#ai4md) |
 | [AlphaFold-based](#alphaFold-based) | [GNN-based](#gnn-based)  | [LSTM-based](#lstm-based) | [Transformer-based](#transformer-based) |
 | [VAE-based](#vae-based) | [GAN-based](#gan-based) | [Flow-based](#flow-based) | [Diffusion-based](#diffusion-based) |
 | [Score-Based](#score-Based) | [Energy-based](#energy-based) | [Bayesian-based](#bayesian-based) | [Active Learning-based](#active-learning-based) |
@@ -99,7 +99,7 @@ Greener, Joe G.
 
 
 
-### MD Engines/Frameworks
+### MD Engines-Frameworks
 
 * [Amber](http://ambermd.org/) - A suite of biomolecular simulation programs.  
 * [Gromacs](http://www.gromacs.org/) - A molecular dynamics package mainly designed for simulations of proteins, lipids and nucleic acids.
