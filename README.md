@@ -120,7 +120,7 @@ Greener, Joe G.
 
 
 
-### MD Trajectory Processing/Analysis
+### MD Trajectory Processing-Analysis
 
 
 * [MDAnalysis](https://www.mdanalysis.org/) - An object-oriented Python library to analyze trajectories from molecular dynamics (MD) simulations in many popular formats.  
