@@ -31,7 +31,9 @@ List of **molecules ( small molecules, RNA, peptide, protein, enzymes, antibody,
 | ------ | :---------- | ------ |
 | [Small molecule conformational ensembles](#small-molecule-conformational-ensembles) | [RNA conformational ensembles](#rna-conformational-ensembles) | [Peptide conformational ensembles](#peptide-conformational-ensembles) |
 | [Protein conformational ensembles](#protein-conformational-ensembles) | [Enzymes conformational ensembles](#enzymes-conformational-ensembles)  | [Antibody conformational ensembles](#antibody-conformational-ensembles) |
-| [Protein-Ligand conformational ensembles](#protein–ligand-conformational-ensembles) | [RNA-Peptide conformational ensembles](#rna-peptide-conformational-ensembles) | [PPI conformational ensembles](#ppi-conformational-ensembles) |
+| [Protein-Ligand conformational ensembles](#protein-ligand-conformational-ensembles) | [RNA-Peptide conformational ensembles](#rna-peptide-conformational-ensembles) | [PPI conformational ensembles](#ppi-conformational-ensembles) |
+
+
 
 
 ## Reviews
@@ -787,7 +789,7 @@ Spoendlin, Fabian C., Wing Ki Wong, Guy Georges, Alexander Bujotzek, and Charlot
 
 
 
-### Protein-Ligand conformational ensembles
+### Protein–Ligand conformational ensembles
 
 
 * **MISATO: machine learning dataset of protein–ligand complexes for structure-based drug discovery** [2024]  
