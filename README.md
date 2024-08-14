@@ -31,7 +31,7 @@ List of **molecules ( small molecules, RNA, peptide, protein, enzymes, antibody,
 | ------ | :---------- | ------ |
 | [Small molecule-conformational ensembles](#small-molecule-conformational-ensembles) | [RNA-conformational ensembles](#rna-conformational-ensembles) | [Peptide-conformational ensembles](#peptide-conformational-ensembles) |
 | [Protein-conformational ensembles](#protein-conformational-ensembles) | [Enzymes-conformational ensembles](#enzymes-conformational-ensembles)  | [Antibody-conformational ensembles](#antibody-conformational-ensembles) |
-| [PPI-conformational ensembles](#ppi-conformational-ensembles) |  |  |
+| [PPI conformational ensembles](#ppi-conformational-ensembles) | [RNA-Peptide conformational ensembles](#rna-peptide-conformational-ensembles) |  |
 
 
 ## Reviews
@@ -786,7 +786,7 @@ Spoendlin, Fabian C., Wing Ki Wong, Guy Georges, Alexander Bujotzek, and Charlot
 
 
 
-### PPI-conformational ensembles
+### PPI conformational ensembles
 
 * **Exploring the conformational ensembles of protein-protein complex with transformer-based generative model** [2024]  
 Wang, Jianmin, Xun Wang, Yanyi Chu, Chunyan Li, Xue Li, Xiangyu Meng, Yitian Fang, Kyoung Tai No, Jiashun Mao, and Xiangxiang Zeng.   
@@ -801,6 +801,8 @@ Jeffrey K Weber, Joseph A Morrone, Seung-gu Kang, Leili Zhang, Lijun Lang, Diego
 [Briefings in Bioinformatics (2024)](https://doi.org/10.1093/bib/bbad504) | [code](https://github.com/BiomedSciAI)  
 
 
+
+### RNA-Peptide conformational ensembles
 
 
 
