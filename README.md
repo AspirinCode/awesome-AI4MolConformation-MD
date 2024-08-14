@@ -795,7 +795,9 @@ Siebenmorgen, T., Menezes, F., Benassou, S. et al.
 [Nat Comput Sci 4, 367–378 (2024)](https://doi.org/10.1038/s43588-024-00627-2) | [code](https://github.com/t7morgen/misato-dataset)  
 
 
-
+* **Pre-Training of Equivariant Graph Matching Networks with Conformation Flexibility for Drug Binding** [2022]  
+Wu, Fang, Shuting Jin, Yinghui Jiang, Xurui Jin, Bowen Tang, Zhangming Niu, Xiangrong Liu, Qiang Zhang, Xiangxiang Zeng, and Stan Z. Li.   
+[Advanced Science 9.33 (2022)](https://doi.org/10.1002/advs.202203796) | [code](https://github.com/smiles724/ProtMD)  
 
 
 
