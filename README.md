@@ -29,8 +29,8 @@ List of **molecules ( small molecules, RNA, peptide, protein, enzymes, antibody,
 
 | Menu | Menu | Menu |
 | ------ | :---------- | ------ |
-| [Small molecule-conformational ensembles](#small-molecule-conformational-ensembles) | [RNA-conformational ensembles](#rna-conformational-ensembles) | [Peptide-conformational ensembles](#peptide-conformational-ensembles) |
-| [Protein-conformational ensembles](#protein-conformational-ensembles) | [Enzymes-conformational ensembles](#enzymes-conformational-ensembles)  | [Antibody-conformational ensembles](#antibody-conformational-ensembles) |
+| [Small molecule conformational ensembles](#small-molecule-conformational-ensembles) | [RNA conformational ensembles](#rna-conformational-ensembles) | [Peptide conformational ensembles](#peptide-conformational-ensembles) |
+| [Protein conformational ensembles](#protein-conformational-ensembles) | [Enzymes conformational ensembles](#enzymes-conformational-ensembles)  | [Antibody conformational ensembles](#antibody-conformational-ensembles) |
 | [PPI conformational ensembles](#ppi-conformational-ensembles) | [RNA-Peptide conformational ensembles](#rna-peptide-conformational-ensembles) |  |
 
 
@@ -503,7 +503,7 @@ MD-Agent is a LLM-agent based toolset for Molecular Dynamics.
 
 
 
-### Small molecule-conformational ensembles
+### Small molecule conformational ensembles
 
 * **Diffusion-based generative AI for exploring transition states from 2D molecular graphs** [2024]   
 Kim, S., Woo, J. & Kim, W.Y.   
@@ -580,7 +580,7 @@ Xu, Minkai, Wujie Wang, Shitong Luo, Chence Shi, Yoshua Bengio, Rafael Gomez-Bom
 
 
 
-### RNA-conformational ensembles
+### RNA conformational ensembles
 
 
 
@@ -592,7 +592,7 @@ Bottaro, S., Bussi, G., Kennedy, S.D., Turner, D.H. and Lindorff-Larsen, K.
 
 
 
-### Peptide-conformational ensembles
+### Peptide conformational ensembles
 
 
 
@@ -608,7 +608,7 @@ Abdin, O., Kim, P.M.
 
 
 
-### Protein-conformational ensembles
+### Protein conformational ensembles
 
 
 
@@ -753,7 +753,7 @@ Du, Yilun, Joshua Meier, Jerry Ma, Rob Fergus, and Alexander Rives.
 
 
 
-### Enzymes-conformational ensembles
+### Enzymes conformational ensembles
 
 
 * **Generating Multi-state Conformations of P-type ATPases with a Diffusion Model** [2024]  
@@ -771,7 +771,7 @@ Jingtian Xu, Yong Wang.
 
 
 
-### Antibody-conformational ensembles
+### Antibody conformational ensembles
 
 
 
@@ -803,6 +803,16 @@ Jeffrey K Weber, Joseph A Morrone, Seung-gu Kang, Leili Zhang, Lijun Lang, Diego
 
 
 ### RNA-Peptide conformational ensembles
+
+
+* **Enhanced Sampling Simulations of RNA-peptide Binding using Deep Learning Collective Variables** [2024]  
+Nisha Kumari, Sonam Dhull, Tarak Karmakar.   
+[bioRxiv (2024)](https://doi.org/10.1101/2024.08.01.606277)  
+
+
+
+
+
 
 
 
