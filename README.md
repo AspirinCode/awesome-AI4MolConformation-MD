@@ -839,6 +839,9 @@ Spoendlin, Fabian C., Wing Ki Wong, Guy Georges, Alexander Bujotzek, and Charlot
 Siebenmorgen, T., Menezes, F., Benassou, S. et al.   
 [Nat Comput Sci 4, 367–378 (2024)](https://doi.org/10.1038/s43588-024-00627-2) | [code](https://github.com/t7morgen/misato-dataset)  
 
+* **Assessment of molecular dynamics time series descriptors in protein-ligand affinity prediction** [2024]  
+Poziemski, Jakub, Artur Yurkevych, and Pawel Siedlecki.   
+[chemrxiv-2024-dxv36 (2024)](https://doi.org/10.26434/chemrxiv-2024-dxv36) | [code](https://github.com/JPoziemski/md_for_affinity_prediction)  
 
 * **Pre-Training of Equivariant Graph Matching Networks with Conformation Flexibility for Drug Binding** [2022]  
 Wu, Fang, Shuting Jin, Yinghui Jiang, Xurui Jin, Bowen Tang, Zhangming Niu, Xiangrong Liu, Qiang Zhang, Xiangxiang Zeng, and Stan Z. Li.   
