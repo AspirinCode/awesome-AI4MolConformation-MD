@@ -196,6 +196,13 @@ Anstine, Dylan, Roman Zubatyuk, and Olexandr Isayev.
 Takamoto, S., Shinagawa, C., Motoki, D. et al.   
 [Nat Commun 13, 2991 (2022)](https://doi.org/10.1038/s41467-022-30687-9) | [data](https://doi.org/10.6084/m9.figshare.19658538)  
 
+* **Four Generations of High-Dimensional Neural Network Potentials** [2021]  
+Behler, Jorg.   
+[Chemical Reviews 121.16 (2021)](https://doi.org/10.1021/acs.chemrev.0c00868)  
+
+* **DP-GEN: A concurrent learning platform for the generation of reliable deep learning based potential energy models** [2020]  
+Zhang, Yuzhi, Haidi Wang, Weijie Chen, Jinzhe Zeng, Linfeng Zhang, Han Wang, and E. Weinan.   
+[Computer Physics Communications 253 (2020)](https://doi.org/10.1016/j.cpc.2020.107206)  | [code](https://github.com/deepmodeling/dpgen)  
 
 
 
