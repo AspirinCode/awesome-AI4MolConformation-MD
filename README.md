@@ -132,6 +132,11 @@ Seute, Leif, Eric Hartmann, Jan Stühmer, and Frauke Gräter.
 * [PyTraj](https://amber-md.github.io/pytraj/) - A Python front-end package of the popular cpptraj program.  
 * [CppTraj](https://github.com/Amber-MD/cpptraj) - Biomolecular simulation trajectory/data analysis.  
 * [WEDAP](https://github.com/chonglab-pitt/wedap) - A Python Package for Streamlined Plotting of Molecular Simulation Data. 
+* [Melodia](https://github.com/rwmontalvao/Melodia_py) - A Python library for protein structure analysis. 
+
+
+
+
 
 ### Reference
 
