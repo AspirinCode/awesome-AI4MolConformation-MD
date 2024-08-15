@@ -201,6 +201,10 @@ Anstine, Dylan, Roman Zubatyuk, and Olexandr Isayev.
 Takamoto, S., Shinagawa, C., Motoki, D. et al.   
 [Nat Commun 13, 2991 (2022)](https://doi.org/10.1038/s41467-022-30687-9) | [data](https://doi.org/10.6084/m9.figshare.19658538)  
 
+* **Teaching a neural network to attach and detach electrons from molecules** [2021]  
+Zubatyuk, R., Smith, J.S., Nebgen, B.T. et al.   
+[Nat Commun 12, 4870 (2021)](https://doi.org/10.1038/s41467-021-24904-0)  | [code](https://github.com/isayevlab/aimnetnse)  
+
 * **Four Generations of High-Dimensional Neural Network Potentials** [2021]  
 Behler, Jorg.   
 [Chemical Reviews 121.16 (2021)](https://doi.org/10.1021/acs.chemrev.0c00868)  
