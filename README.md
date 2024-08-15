@@ -190,11 +190,11 @@ Duignan, Timothy T.
 
 * **AIMNet2: A Neural Network Potential to Meet your Neutral, Charged, Organic, and Elemental-Organic Needs** [2024]  
 Anstine, Dylan, Roman Zubatyuk, and Olexandr Isayev.   
-[chemrxiv-2023-296ch-v2 (2024)](https://doi.org/10.26434/chemrxiv-2023-296ch-v2) | [data](https://github.com/isayevlab/aimnet2)  
+[chemrxiv-2023-296ch-v2 (2024)](https://doi.org/10.26434/chemrxiv-2023-296ch-v2) | [code](https://github.com/isayevlab/aimnet2)  
 
-
-
-
+* **Towards universal neural network potential for material discovery applicable to arbitrary combination of 45 elements** [2022]  
+Takamoto, S., Shinagawa, C., Motoki, D. et al.   
+[Nat Commun 13, 2991 (2022)](https://doi.org/10.1038/s41467-022-30687-9) | [data](https://doi.org/10.6084/m9.figshare.19658538)  
 
 
 
