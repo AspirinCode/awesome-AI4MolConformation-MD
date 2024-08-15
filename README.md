@@ -18,7 +18,7 @@ List of **molecules ( small molecules, RNA, peptide, protein, enzymes, antibody,
 | ------ | :---------- | ------ | ------ |
 | [Reviews](#reviews) | [Datasets and Package](#datasets-and-package) | [Molecular dynamics](#molecular-dynamics) | [Molecular Force Fields](#molecular-force-fields) |
 | [MD Engines-Frameworks](#md-engines-frameworks) | [AI4MD Engines-Frameworks](#ai4md-engines-frameworks) | [MD Trajectory Processing-Analysis](#md-trajectory-processing-analysis) | [AI4MD](#ai4md) |
-| [Neural Network Potential](#neural-network-potential) |  |  |  |
+| [Neural Network Potentials](#neural-network-potentials) |  |  |  |
 | [AlphaFold-based](#alphaFold-based) | [GNN-based](#gnn-based)  | [LSTM-based](#lstm-based) | [Transformer-based](#transformer-based) |
 | [VAE-based](#vae-based) | [GAN-based](#gan-based) | [Flow-based](#flow-based) | [Diffusion-based](#diffusion-based) |
 | [Score-Based](#score-Based) | [Energy-based](#energy-based) | [Bayesian-based](#bayesian-based) | [Active Learning-based](#active-learning-based) |
@@ -168,13 +168,24 @@ Unke, Oliver T., Martin Stöhr, Stefan Ganscha, Thomas Unterthiner, Hartmut Maen
 
 
 
-### Neural Network Potential
 
 
+
+### Neural Network Potentials
+
+
+
+* **The Potential of Neural Network Potentials** [2024]  
+Duignan, Timothy T.   
+[ACS Physical Chemistry Au 4.3 (2024)](https://doi.org/10.1021/acsphyschemau.4c00004)  
 
 * **AIMNet2: A Neural Network Potential to Meet your Neutral, Charged, Organic, and Elemental-Organic Needs** [2024]  
 Anstine, Dylan, Roman Zubatyuk, and Olexandr Isayev.   
 [chemrxiv-2023-296ch-v2 (2024)](https://doi.org/10.26434/chemrxiv-2023-296ch-v2) | [data](https://github.com/isayevlab/aimnet2)  
+
+
+
+
 
 
 
