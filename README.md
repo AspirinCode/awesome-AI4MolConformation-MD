@@ -447,8 +447,12 @@ Jing, Bowen, Bonnie Berger, and Tommi Jaakkola.
 Jingtian Xu, Yong Wang.   
 [bioRxiv (2024)](https://doi.org/10.1101/2024.08.07.607107) | [code](https://github.com/yongwangCPH/papers/tree/main/2024/PtypeATPaseGeneration)
 
-* **Direct conformational sampling from peptide energy landscapes through hypernetwork-conditioned diffusion** [2024]  
+* **Transferable deep generative modeling of intrinsically disordered protein conformations** [2024]  
 Abdin, O., Kim, P.M.   
+[PLOS Computational Biology 20.5 (2024)](https://doi.org/10.1371/journal.pcbi.1012144) | [code](https://github.com/giacomo-janson/idpsam)  
+
+* **Direct conformational sampling from peptide energy landscapes through hypernetwork-conditioned diffusion** [2024]  
+Janson, Giacomo, and Michael Feig.   
 [Nat Mach Intell 6, 775–786 (2024)](https://doi.org/10.1038/s42256-024-00860-4) | [code](https://gitlab.com/oabdin/pepflow)
 
 * **Accurate Conformation Sampling via Protein Structural Diffusion** [2024]  
@@ -664,6 +668,10 @@ Hannah K Wayment-Steele, Sergey Ovchinnikov, Lucy Colwell, Dorothee Kern.
 * **Integration of AlphaFold with Molecular Dynamics for Efficient Conformational Sampling of Transporter Protein NarK** [2024]  
 Ohnuki, Jun, and Kei-ichi Okazaki.   
 [The Journal of Physical Chemistry B (2024)](https://doi.org/10.1021/acs.jpcb.4c02726)  
+
+* **Transferable deep generative modeling of intrinsically disordered protein conformations** [2024]  
+Abdin, O., Kim, P.M.   
+[PLOS Computational Biology 20.5 (2024)](https://doi.org/10.1371/journal.pcbi.1012144) | [code](https://github.com/giacomo-janson/idpsam)  
 
 * **AFsample2: Predicting multiple conformations and ensembles with AlphaFold2** [2024]  
 Yogesh Kalakoti, Björn Wallner.   
