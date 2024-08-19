@@ -135,7 +135,7 @@ Seute, Leif, Eric Hartmann, Jan Stühmer, and Frauke Gräter.
 * [CppTraj](https://github.com/Amber-MD/cpptraj) - Biomolecular simulation trajectory/data analysis.  
 * [WEDAP](https://github.com/chonglab-pitt/wedap) - A Python Package for Streamlined Plotting of Molecular Simulation Data. 
 * [Melodia](https://github.com/rwmontalvao/Melodia_py) - A Python library for protein structure analysis. 
-
+* [MDANCE](https://github.com/mqcomplab/MDANCE) - A flexible n-ary clustering package that provides a set of tools for clustering Molecular Dynamics trajectories.  
 
 
 
