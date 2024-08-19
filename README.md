@@ -88,7 +88,9 @@ https://github.com/LumosBio/MolData
 ### Molecular Force Fields
 
 
-
+* **HessFit: A Toolkit to Derive Automated Force Fields from Quantum Mechanical Information** [2024]  
+Falbo, E. and Lavecchia, A.   
+[J. Chem. Inf. Model. (2024)](https://doi.org/10.1021/acs.jcim.4c00540) | [code](https://github.com/emanuelefalbo/HessFit)  
 
 * **A Euclidean transformer for fast and stable machine learned force fields** [2024]  
 Frank, J.T., Unke, O.T., Müller, KR. et al.   
