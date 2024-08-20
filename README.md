@@ -248,9 +248,13 @@ Do, Hung N., Jinan Wang, Apurba Bhattarai, and Yinglong Miao.
 
 
 
+* **Leveraging Machine Learning and AlphaFold2 Steering to Discover State-Specific Inhibitors Across the Kinome** [2024]  
+Francesco Trozzi, Oanh Tran, Carmen Al Masri, Shu-Hang Lin, Balaguru Ravikumar, Rayees Rahman.   
+[bioRxiv (2024)](https://doi.org/10.1101/2024.08.16.608358)  
+
 * **A resource for comparing AF-Cluster and other AlphaFold2 sampling methods** [2024]  
 Hannah K Wayment-Steele, Sergey Ovchinnikov, Lucy Colwell, Dorothee Kern.   
-[bioRxiv (2024)](https://doi.org/10.1101/2024.07.29.605333) 
+[bioRxiv (2024)](https://doi.org/10.1101/2024.07.29.605333)  
 
 * **Integration of AlphaFold with Molecular Dynamics for Efficient Conformational Sampling of Transporter Protein NarK** [2024]  
 Ohnuki, Jun, and Kei-ichi Okazaki.   
