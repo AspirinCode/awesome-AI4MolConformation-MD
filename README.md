@@ -33,8 +33,7 @@ List of **molecules ( small molecules, RNA, peptide, protein, enzymes, antibody,
 | [Small molecule conformational ensembles](#small-molecule-conformational-ensembles) | [RNA conformational ensembles](#rna-conformational-ensembles) | [Peptide conformational ensembles](#peptide-conformational-ensembles) |
 | [Protein conformational ensembles](#protein-conformational-ensembles) | [Enzymes conformational ensembles](#enzymes-conformational-ensembles)  | [Antibody conformational ensembles](#antibody-conformational-ensembles) |
 | [Ligand-Protein conformational ensembles](#ligand-protein-conformational-ensembles) | [RNA-Peptide conformational ensembles](#rna-peptide-conformational-ensembles) | [PPI conformational ensembles](#ppi-conformational-ensembles) |
-
-
+|  |  | [Material ensembles](#material-ensembles) |
 
 
 ## Reviews
@@ -190,6 +189,12 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 ### Neural Network Potentials
 
 
+
+
+
+* **Universal-neural-network-potential molecular dynamics for lithium metal and garnet-type solid electrolyte interface** [2024]  
+Iwasaki, R., Tanibata, N., Takeda, H. et al.   
+[Commun Mater 5, 148 (2024)](https://doi.org/10.1038/s43246-024-00595-0)  
 
 * **The Potential of Neural Network Potentials** [2024]  
 Duignan, Timothy T.   
@@ -909,6 +914,17 @@ Jeffrey K Weber, Joseph A Morrone, Seung-gu Kang, Leili Zhang, Lijun Lang, Diego
 * **Enhanced Sampling Simulations of RNA-peptide Binding using Deep Learning Collective Variables** [2024]  
 Nisha Kumari, Sonam Dhull, Tarak Karmakar.   
 [bioRxiv (2024)](https://doi.org/10.1101/2024.08.01.606277)  
+
+
+
+### Material ensembles
+
+
+
+
+* **Universal-neural-network-potential molecular dynamics for lithium metal and garnet-type solid electrolyte interface** [2024]  
+Iwasaki, R., Tanibata, N., Takeda, H. et al.   
+[Commun Mater 5, 148 (2024)](https://doi.org/10.1038/s43246-024-00595-0)  
 
 
 
