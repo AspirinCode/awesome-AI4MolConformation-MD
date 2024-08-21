@@ -253,6 +253,11 @@ Do, Hung N., Jinan Wang, Apurba Bhattarai, and Yinglong Miao.
 
 
 
+
+* **Predicting protein conformational motions using energetic frustration analysis and AlphaFold2** [2024]  
+Xingyue Guan  and Qian-Yuan Tang  and Weitong Ren  and Mingchen Chen  and Wei Wang  and Peter G. Wolynes  and Wenfei Li.   
+[Proceedings of the National Academy of Sciences (2024)](https://doi.org/10.1073/pnas.2410662121)  
+
 * **Leveraging Machine Learning and AlphaFold2 Steering to Discover State-Specific Inhibitors Across the Kinome** [2024]  
 Francesco Trozzi, Oanh Tran, Carmen Al Masri, Shu-Hang Lin, Balaguru Ravikumar, Rayees Rahman.   
 [bioRxiv (2024)](https://doi.org/10.1101/2024.08.16.608358)  
@@ -689,9 +694,18 @@ Grambow, Colin A., Hayley Weir, Nathaniel Diamant, Alex Tseng, Tommaso Biancalan
 [	arXiv:2305.19800 (2023)](https://arxiv.org/abs/2305.19800) | [code](https://github.com/genentech/ringer)  
 
 
+
+
+
 ### Protein conformational ensembles
 
 
+
+
+
+* **Predicting protein conformational motions using energetic frustration analysis and AlphaFold2** [2024]  
+Xingyue Guan  and Qian-Yuan Tang  and Weitong Ren  and Mingchen Chen  and Wei Wang  and Peter G. Wolynes  and Wenfei Li.   
+[Proceedings of the National Academy of Sciences (2024)](https://doi.org/10.1073/pnas.2410662121)  
 
 * **A resource for comparing AF-Cluster and other AlphaFold2 sampling methods** [2024]  
 Hannah K Wayment-Steele, Sergey Ovchinnikov, Lucy Colwell, Dorothee Kern.   
