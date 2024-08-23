@@ -204,6 +204,10 @@ Duignan, Timothy T.
 Anstine, Dylan, Roman Zubatyuk, and Olexandr Isayev.   
 [chemrxiv-2023-296ch-v2 (2024)](https://doi.org/10.26434/chemrxiv-2023-296ch-v2) | [code](https://github.com/isayevlab/aimnet2)  
 
+* **NNP/MM: Accelerating Molecular Dynamics Simulations with Machine Learning Potentials and Molecular Mechanics** [2023]  
+Galvelis, R., Varela-Rial, A., Doerr, S., Fino, R., Eastman, P., Markland, T.E., Chodera, J.D. and De Fabritiis, G.   
+[J. Chem. Inf. Model. (2023)](https://doi.org/10.1021/acs.jcim.3c00773) | [code](https://github.com/openmm/nnpops)  
+
 * **Towards universal neural network potential for material discovery applicable to arbitrary combination of 45 elements** [2022]  
 Takamoto, S., Shinagawa, C., Motoki, D. et al.   
 [Nat Commun 13, 2991 (2022)](https://doi.org/10.1038/s41467-022-30687-9) | [data](https://doi.org/10.6084/m9.figshare.19658538)  
