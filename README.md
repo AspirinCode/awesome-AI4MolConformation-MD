@@ -103,6 +103,12 @@ Greener, Joe G.
 Seute, Leif, Eric Hartmann, Jan Stühmer, and Frauke Gräter.   
 [arXiv:2404.00050 (2024)](https://arxiv.org/abs/2404.00050) | [code](https://github.com/graeter-group/grappa)
 
+* **An implementation of the Martini coarse-grained force field in OpenMM** [2023]  
+MacCallum, J. L., Hu, S., Lenz, S., Souza, P. C., Corradi, V., & Tieleman, D. P.   
+[Biophysical Journal 122.14 (2023)](https://doi.org/10.1016/j.bpj.2023.04.007)  
+
+
+
 
 ### MD Engines-Frameworks
 
