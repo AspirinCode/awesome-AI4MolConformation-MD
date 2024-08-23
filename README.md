@@ -190,7 +190,9 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
-
+* **Enhancing Protein–Ligand Binding Affinity Predictions Using Neural Network Potentials** [2024]  
+Sabanés Zariquiey, F., Galvelis, R., Gallicchio, E., Chodera, J.D., Markland, T.E. and De Fabritiis, G.   
+[J. Chem. Inf. Model. (2024)](https://doi.org/10.1021/acs.jcim.3c02031) | [code](https://github.com/compsciencelab/ATM_benchmark/tree/main/ATM_With_NNPs)  
 
 * **Universal-neural-network-potential molecular dynamics for lithium metal and garnet-type solid electrolyte interface** [2024]  
 Iwasaki, R., Tanibata, N., Takeda, H. et al.   
@@ -896,6 +898,10 @@ Spoendlin, Fabian C., Wing Ki Wong, Guy Georges, Alexander Bujotzek, and Charlot
 * **MISATO: machine learning dataset of protein–ligand complexes for structure-based drug discovery** [2024]  
 Siebenmorgen, T., Menezes, F., Benassou, S. et al.   
 [Nat Comput Sci 4, 367–378 (2024)](https://doi.org/10.1038/s43588-024-00627-2) | [code](https://github.com/t7morgen/misato-dataset)  
+
+* **Enhancing Protein–Ligand Binding Affinity Predictions Using Neural Network Potentials** [2024]  
+Sabanés Zariquiey, F., Galvelis, R., Gallicchio, E., Chodera, J.D., Markland, T.E. and De Fabritiis, G.   
+[J. Chem. Inf. Model. (2024)](https://doi.org/10.1021/acs.jcim.3c02031) | [code](https://github.com/compsciencelab/ATM_benchmark/tree/main/ATM_With_NNPs)  
 
 * **Assessment of molecular dynamics time series descriptors in protein-ligand affinity prediction** [2024]  
 Poziemski, Jakub, Artur Yurkevych, and Pawel Siedlecki.   
