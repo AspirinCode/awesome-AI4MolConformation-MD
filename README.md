@@ -487,6 +487,13 @@ Jing, Bowen, Bonnie Berger, and Tommi Jaakkola.
 
 
 
+
+
+
+* **4D Diffusion for Dynamic Protein Structure Prediction with Reference Guided Motion Alignment** [2024]  
+Cheng, Kaihui, Ce Liu, Qingkun Su, Jun Wang, Liwei Zhang, Yining Tang, Yao Yao, Siyu Zhu, and Yuan Qi.   
+[arXiv:2408.12419 (2024)](https://arxiv.org/abs/2408.12419)  
+
 * **Generating Multi-state Conformations of P-type ATPases with a Diffusion Model** [2024]  
 Jingtian Xu, Yong Wang.   
 [bioRxiv (2024)](https://doi.org/10.1101/2024.08.07.607107) | [code](https://github.com/yongwangCPH/papers/tree/main/2024/PtypeATPaseGeneration)
@@ -714,7 +721,9 @@ Grambow, Colin A., Hayley Weir, Nathaniel Diamant, Alex Tseng, Tommaso Biancalan
 
 
 
-
+* **4D Diffusion for Dynamic Protein Structure Prediction with Reference Guided Motion Alignment** [2024]  
+Cheng, Kaihui, Ce Liu, Qingkun Su, Jun Wang, Liwei Zhang, Yining Tang, Yao Yao, Siyu Zhu, and Yuan Qi.   
+[arXiv:2408.12419 (2024)](https://arxiv.org/abs/2408.12419)  
 
 * **Predicting protein conformational motions using energetic frustration analysis and AlphaFold2** [2024]  
 Xingyue Guan  and Qian-Yuan Tang  and Weitong Ren  and Mingchen Chen  and Wei Wang  and Peter G. Wolynes  and Wenfei Li.   
