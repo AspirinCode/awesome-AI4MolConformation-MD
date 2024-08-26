@@ -197,6 +197,11 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
+
+* **Revisiting Aspirin Polymorphic Stability Using a Machine Learning Potential** [2024]  
+Hattori, Shinnosuke, and Qiang Zhu.  
+[ACS Omega (2024)](https://doi.org/10.1021/acsomega.4c04782)  
+
 * **Enhancing Protein–Ligand Binding Affinity Predictions Using Neural Network Potentials** [2024]  
 Sabanés Zariquiey, F., Galvelis, R., Gallicchio, E., Chodera, J.D., Markland, T.E. and De Fabritiis, G.   
 [J. Chem. Inf. Model. (2024)](https://doi.org/10.1021/acs.jcim.3c02031) | [code](https://github.com/compsciencelab/ATM_benchmark/tree/main/ATM_With_NNPs)  
@@ -995,7 +1000,9 @@ Nisha Kumari, Sonam Dhull, Tarak Karmakar.
 ### Material ensembles
 
 
-
+* **Neural-network-based molecular dynamics simulations reveal that proton transport in water is doubly gated by sequential hydrogen-bond exchange** [2024]  
+Gomez, A., Thompson, W.H. & Laage, D.   
+[Nat. Chem. (2024)](https://doi.org/10.1038/s41557-024-01593-y) | [data](https://zenodo.org/records/11965260)  
 
 * **Universal-neural-network-potential molecular dynamics for lithium metal and garnet-type solid electrolyte interface** [2024]  
 Iwasaki, R., Tanibata, N., Takeda, H. et al.   
