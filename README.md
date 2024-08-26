@@ -265,7 +265,9 @@ Do, Hung N., Jinan Wang, Apurba Bhattarai, and Yinglong Miao.
 ### AlphaFold-based
 
 
-
+* **AlphaFold predictions of fold-switched conformations are driven by structure memorization** [2024]  
+Chakravarty, D., Schafer, J.W., Chen, E.A. et al.   
+[Nat Commun 15, 7296 (2024)](https://doi.org/10.1038/s41467-024-51801-z) | [code](https://github.com/ncbi/AF2_benchmark)  
 
 * **Predicting protein conformational motions using energetic frustration analysis and AlphaFold2** [2024]  
 Xingyue Guan  and Qian-Yuan Tang  and Weitong Ren  and Mingchen Chen  and Wei Wang  and Peter G. Wolynes  and Wenfei Li.   
@@ -285,7 +287,7 @@ Ohnuki, Jun, and Kei-ichi Okazaki.
 
 * **AFsample2: Predicting multiple conformations and ensembles with AlphaFold2** [2024]  
 Yogesh Kalakoti, Björn Wallner.   
-[bioRxiv (2024)](https://doi.org/10.1101/2024.05.28.596195) | [code](https://github.com/iamysk/AFsample2/)
+[bioRxiv (2024)](https://doi.org/10.1101/2024.05.28.596195) | [code](https://github.com/iamysk/AFsample2/)  
 
 * **Prediction of Conformational Ensembles and Structural Effects of State-Switching Allosteric Mutants in the Protein Kinases Using Comparative Analysis of AlphaFold2 Adaptations with Sequence Masking and Shallow Subsampling** [2024]  
 Nishank Raisinghani, Mohammed Alshahrani, Grace Gupta, Hao Tian, Sian Xiao, Peng Tao, Gennady Verkhivker.   
@@ -696,6 +698,10 @@ Bottaro, S., Bussi, G., Kennedy, S.D., Turner, D.H. and Lindorff-Larsen, K.
 
 
 
+
+
+
+
 ### Peptide conformational ensembles
 
 
@@ -717,9 +723,22 @@ Grambow, Colin A., Hayley Weir, Nathaniel Diamant, Alex Tseng, Tommaso Biancalan
 
 
 
+
+
+
+
 ### Protein conformational ensembles
 
 
+
+
+* **Deep learning guided design of dynamic proteins** [2024]  
+Amy B. Guo, Deniz Akpinaroglu, Mark J.S. Kelly, Tanja Kortemme.   
+[bioRxiv. (2024)](https://doi.org/10.1101/2024.07.17.603962)  
+
+* **AlphaFold predictions of fold-switched conformations are driven by structure memorization** [2024]  
+Chakravarty, D., Schafer, J.W., Chen, E.A. et al.   
+[Nat Commun 15, 7296 (2024)](https://doi.org/10.1038/s41467-024-51801-z) | [code](https://github.com/ncbi/AF2_benchmark)  
 
 * **4D Diffusion for Dynamic Protein Structure Prediction with Reference Guided Motion Alignment** [2024]  
 Cheng, Kaihui, Ce Liu, Qingkun Su, Jun Wang, Liwei Zhang, Yining Tang, Yao Yao, Siyu Zhu, and Yuan Qi.   
