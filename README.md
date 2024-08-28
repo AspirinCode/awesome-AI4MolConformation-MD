@@ -267,8 +267,16 @@ Do, Hung N., Jinan Wang, Apurba Bhattarai, and Yinglong Miao.
 
 
 
+
+
+
 ### AlphaFold-based
 
+
+
+* **Structure prediction of alternative protein conformations** [2024]  
+Bryant, P., Noé, F.   
+[Nat Commun 15, 7328 (2024)](https://doi.org/10.1038/s41467-024-51507-2) | [code](https://github.com/patrickbryant1/Cfold)  
 
 * **AlphaFold predictions of fold-switched conformations are driven by structure memorization** [2024]  
 Chakravarty, D., Schafer, J.W., Chen, E.A. et al.   
@@ -735,7 +743,9 @@ Grambow, Colin A., Hayley Weir, Nathaniel Diamant, Alex Tseng, Tommaso Biancalan
 ### Protein conformational ensembles
 
 
-
+* **Structure prediction of alternative protein conformations** [2024]  
+Bryant, P., Noé, F.   
+[Nat Commun 15, 7328 (2024)](https://doi.org/10.1038/s41467-024-51507-2) | [code](https://github.com/patrickbryant1/Cfold)  
 
 * **Deep learning guided design of dynamic proteins** [2024]  
 Amy B. Guo, Deniz Akpinaroglu, Mark J.S. Kelly, Tanja Kortemme.   
