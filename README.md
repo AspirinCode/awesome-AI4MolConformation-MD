@@ -1023,14 +1023,30 @@ Jeffrey K Weber, Joseph A Morrone, Seung-gu Kang, Leili Zhang, Lijun Lang, Diego
 ### RNA-Peptide conformational ensembles
 
 
+
+
+
+
 * **Enhanced Sampling Simulations of RNA-peptide Binding using Deep Learning Collective Variables** [2024]  
 Nisha Kumari, Sonam Dhull, Tarak Karmakar.   
 [bioRxiv (2024)](https://doi.org/10.1101/2024.08.01.606277)  
 
 
 
+
+
+
+
 ### Material ensembles
 
+
+
+
+
+
+* **Generative AI model trained by molecular dynamics for rapid mechanical design of architected graphene** [2024]  
+Milad Masrouri, Kamalendu Paul, Zhao Qin.   
+[Extreme Mechanics Letters (2024)](https://doi.org/10.1016/j.eml.2024.102230)  
 
 * **Neural-network-based molecular dynamics simulations reveal that proton transport in water is doubly gated by sequential hydrogen-bond exchange** [2024]  
 Gomez, A., Thompson, W.H. & Laage, D.   
@@ -1039,6 +1055,8 @@ Gomez, A., Thompson, W.H. & Laage, D.
 * **Universal-neural-network-potential molecular dynamics for lithium metal and garnet-type solid electrolyte interface** [2024]  
 Iwasaki, R., Tanibata, N., Takeda, H. et al.   
 [Commun Mater 5, 148 (2024)](https://doi.org/10.1038/s43246-024-00595-0)  
+
+
 
 
 
