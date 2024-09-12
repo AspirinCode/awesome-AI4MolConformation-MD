@@ -264,6 +264,11 @@ Zhang, Yuzhi, Haidi Wang, Weijie Chen, Jinzhe Zeng, Linfeng Zhang, Han Wang, and
 
 
 
+
+* **Automated Adaptive Absolute Binding Free Energy Calculations** [2024]  
+Clark, Finlay, Graeme Robb, Daniel Cole, and Julien Michel.   
+[J. Chem. Theory Comput. (2024)](https://doi.org/10.1021/acs.jctc.4c00806) | [code](https://github.com/michellab/a3fe)  
+
 * **Machine Learning Guided AQFEP: A Fast and Efficient Absolute Free Energy Perturbation Solution for Virtual Screening** [2024]  
 Crivelli-Decker, J.E., Beckwith, Z., Tom, G., Le, L., Khuttan, S., Salomon-Ferrer, R., Beall, J., Gómez-Bombarelli, R. and Bortolato, A.   
 [J. Chem. Theory Comput. (2024)](https://doi.org/10.1021/acs.jctc.4c00399) | [code](https://zenodo.org/records/12827945)  
