@@ -296,6 +296,11 @@ Do, Hung N., Jinan Wang, Apurba Bhattarai, and Yinglong Miao.
 
 
 
+
+* **AlphaFold with conformational sampling reveals the structural landscape of homorepeats** [2024]  
+Bonet, David Fernandez et al.   
+[Structure (2024)](https://doi.org/10.1016/j.str.2024.08.016) | [code](	https://doi.org/10.5281/zenodo.13255318)  
+
 * **Structure prediction of alternative protein conformations** [2024]  
 Bryant, P., Noé, F.   
 [Nat Commun 15, 7328 (2024)](https://doi.org/10.1038/s41467-024-51507-2) | [code](https://github.com/patrickbryant1/Cfold)  
@@ -764,6 +769,10 @@ Grambow, Colin A., Hayley Weir, Nathaniel Diamant, Alex Tseng, Tommaso Biancalan
 
 ### Protein conformational ensembles
 
+
+* **AlphaFold with conformational sampling reveals the structural landscape of homorepeats** [2024]  
+Bonet, David Fernandez et al.   
+[Structure (2024)](https://doi.org/10.1016/j.str.2024.08.016) | [code](	https://doi.org/10.5281/zenodo.13255318)  
 
 * **Structure prediction of alternative protein conformations** [2024]  
 Bryant, P., Noé, F.   
