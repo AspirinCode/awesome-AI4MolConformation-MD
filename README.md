@@ -1010,11 +1010,13 @@ Wu, Fang, Shuting Jin, Yinghui Jiang, Xurui Jin, Bowen Tang, Zhangming Niu, Xian
 
 
 
-
+* **Computational screening of the effects of mutations on protein-protein off-rates and dissociation mechanisms by τRAMD** [2024]  
+D’Arrigo, G., Kokh, D.B., Nunes-Alves, A. et al.   
+[Commun Biol 7, 1159 (2024)](https://doi.org/10.1038/s42003-024-06880-5) | [code](https://github.com/HITS-MCM/tauRAMD)  
 
 * **Quantifying conformational changes in the TCR:pMHC-I binding interface** [2024]  
 Benjamin McMaster, Christopher Thorpe, Jamie Rossjohn, Charlotte M. Deane, Hashem Koohy.   
-[bioRxiv (2024)](https://doi.org/10.1101/2024.08.13.607715) | [code](https://github.com/benjiemc/tcr-pmhc-interface-analysis)
+[bioRxiv (2024)](https://doi.org/10.1101/2024.08.13.607715) | [code](https://github.com/benjiemc/tcr-pmhc-interface-analysis)  
 
 * **Exploring the conformational ensembles of protein-protein complex with transformer-based generative model** [2024]  
 Wang, Jianmin, Xun Wang, Yanyi Chu, Chunyan Li, Xue Li, Xiangyu Meng, Yitian Fang, Kyoung Tai No, Jiashun Mao, and Xiangxiang Zeng.   
