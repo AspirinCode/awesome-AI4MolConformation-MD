@@ -770,6 +770,14 @@ Grambow, Colin A., Hayley Weir, Nathaniel Diamant, Alex Tseng, Tommaso Biancalan
 ### Protein conformational ensembles
 
 
+
+
+
+
+* **Identifying protein conformational states in the Protein Data Bank: Toward unlocking the potential of integrative dynamics studies** [2024]  
+Ellaway, J. I., Anyango, S., Nair, S., Zaki, H. A., Nadzirin, N., Powell, H. R., ... & Velankar, S.   
+[Structural Dynamics (2024)](https://doi.org/10.1063/4.0000251)   
+
 * **AlphaFold with conformational sampling reveals the structural landscape of homorepeats** [2024]  
 Bonet, David Fernandez et al.   
 [Structure (2024)](https://doi.org/10.1016/j.str.2024.08.016) | [code](	https://doi.org/10.5281/zenodo.13255318)  
