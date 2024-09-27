@@ -779,6 +779,13 @@ Grambow, Colin A., Hayley Weir, Nathaniel Diamant, Alex Tseng, Tommaso Biancalan
 
 
 
+
+
+
+* **Conformations of KRAS4B Affected by Its Partner Binding and G12C Mutation: Insights from GaMD Trajectory-Image Transformation-Based Deep Learning** [2024]  
+Chen, Jianzhong, Jian Wang, Wanchun Yang, Lu Zhao, and Guodong Hu.   
+[J. Chem. Inf. Model. (2024)](https://doi.org/10.1021/acs.jcim.4c01174) | [code](https://github.com/jianzhong70/Visualiztion-for-MD-trajectory-analysis)  
+
 * **Assessing AF2’s ability to predict structural ensembles of proteins** [2024]  
 Riccabona, Jakob R., Fabian C. Spoendlin, Anna-Lena M. Fischer, Johannes R. Loeffler, Patrick K. Quoika, Timothy P. Jenkins, James A. Ferguson et al.   
 [Structure (2024)](https://doi.org/10.1016/j.str.2024.09.001)  
