@@ -631,12 +631,17 @@ Draizen, Eli J., Stella Veretnik, Cameron Mura, and Philip E. Bourne.
 
 * **Active Learning of the Conformational Ensemble of Proteins Using Maximum Entropy VAMPNets** [2023]  
 Kleiman, Diego E., and Diwakar Shukla.   
-[J. Chem. Theory Comput. (2023)](https://doi.org/10.1021/acs.jctc.3c00040) | [code](https://github.com/ShuklaGroup/MaxEntVAMPNet)
+[J. Chem. Theory Comput. (2023)](https://doi.org/10.1021/acs.jctc.3c00040) | [code](https://github.com/ShuklaGroup/MaxEntVAMPNet)  
 
 
 
 ### LLM-MD
 
+
+
+* **SeaMoon: Prediction of molecular motions based on language models** [2024]  
+Valentin Lombard, Dan Timsit, Sergei Grudinin, Elodie Laine.   
+[bioRxiv. (2024)](https://doi.org/10.1101/2024.09.23.614585) | [code](https://github.com/PhyloSofS-Team//seamoon)  
 
 * **Molecular simulation with an LLM-agent** [2024]  
 MD-Agent is a LLM-agent based toolset for Molecular Dynamics.  
