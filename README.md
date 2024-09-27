@@ -518,13 +518,18 @@ Schwing, Gregory, Luigi L. Palese, Ariel Fernández, Loren Schwiebert, and Domen
 ### Flow-based
 
 
+
+* **Generative Modeling of Molecular Dynamics Trajectories** [2024]  
+Jing, Bowen, Hannes Stark, Tommi Jaakkola, and Bonnie Berger.   
+[ICML'24 Workshop ML for Life and Material Science: From Theory to Industry Applications (2024)](https://openreview.net/forum?id=LbwM4VCDUU) | [code](https://github.com/bjing2016/mdgen)  
+
 * **Frame-to-Frame Coarse-grained Molecular Dynamics with SE (3) Guided Flow Matching** [2024]  
 Li, Shaoning, Yusong Wang, Mingyu Li, Jian Zhang, Bin Shao, Nanning Zheng, and Jian Tang   
 [arXiv:2405.00751 (2024)](https://arxiv.org/abs/2405.00751)  
 
 * **AlphaFold Meets Flow Matching for Generating Protein Ensembles** [2024]  
 Jing, Bowen, Bonnie Berger, and Tommi Jaakkola.   
-[arXiv:2402.04845 (2024)](https://arxiv.org/abs/2402.04845) | [code](https://github.com/bjing2016/alphaflow)
+[arXiv:2402.04845 (2024)](https://arxiv.org/abs/2402.04845) | [code](https://github.com/bjing2016/alphaflow)  
 
 
 
