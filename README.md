@@ -297,6 +297,13 @@ Do, Hung N., Jinan Wang, Apurba Bhattarai, and Yinglong Miao.
 
 
 
+
+
+
+* **Assessing AF2’s ability to predict structural ensembles of proteins** [2024]  
+Riccabona, Jakob R., Fabian C. Spoendlin, Anna-Lena M. Fischer, Johannes R. Loeffler, Patrick K. Quoika, Timothy P. Jenkins, James A. Ferguson et al.   
+[Structure (2024)](https://doi.org/10.1016/j.str.2024.09.001)  
+
 * **AlphaFold with conformational sampling reveals the structural landscape of homorepeats** [2024]  
 Bonet, David Fernandez et al.   
 [Structure (2024)](https://doi.org/10.1016/j.str.2024.08.016) | [code](	https://doi.org/10.5281/zenodo.13255318)  
@@ -772,7 +779,9 @@ Grambow, Colin A., Hayley Weir, Nathaniel Diamant, Alex Tseng, Tommaso Biancalan
 
 
 
-
+* **Assessing AF2’s ability to predict structural ensembles of proteins** [2024]  
+Riccabona, Jakob R., Fabian C. Spoendlin, Anna-Lena M. Fischer, Johannes R. Loeffler, Patrick K. Quoika, Timothy P. Jenkins, James A. Ferguson et al.   
+[Structure (2024)](https://doi.org/10.1016/j.str.2024.09.001)  
 
 * **Identifying protein conformational states in the Protein Data Bank: Toward unlocking the potential of integrative dynamics studies** [2024]  
 Ellaway, J. I., Anyango, S., Nair, S., Zaki, H. A., Nadzirin, N., Powell, H. R., ... & Velankar, S.   
