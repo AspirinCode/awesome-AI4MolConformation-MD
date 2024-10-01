@@ -569,6 +569,10 @@ Grambow, Colin A., Hayley Weir, Nathaniel Diamant, Alex Tseng, Tommaso Biancalan
 [	arXiv:2305.19800 (2023)](https://arxiv.org/abs/2305.19800) | [code](https://github.com/genentech/ringer)  
 
 
+
+
+
+
 ### Score-based
 
 
@@ -1009,6 +1013,13 @@ Spoendlin, Fabian C., Wing Ki Wong, Guy Georges, Alexander Bujotzek, and Charlot
 
 ### Ligand-Protein conformational ensembles
 
+
+
+
+
+* **Modeling protein-small molecule conformational ensembles with ChemNet** [2024]  
+Ivan Anishchenko, Yakov Kipnis, Indrek Kalvet, Guangfeng Zhou, Rohith Krishna, Samuel J. Pellock, Anna Lauko, Gyu Rie Lee, Linna An, Justas Dauparas, Frank DiMaio, David Baker.   
+[bioRxiv (2024)](https://doi.org/10.1101/2024.09.25.614868)  
 
 * **MISATO: machine learning dataset of protein–ligand complexes for structure-based drug discovery** [2024]  
 Siebenmorgen, T., Menezes, F., Benassou, S. et al.   
