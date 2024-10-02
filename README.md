@@ -213,7 +213,9 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 ### Neural Network Potentials
 
 
-
+* **AMARO: All Heavy-Atom Transferable Neural Network Potentials of Protein Thermodynamics** [2024]  
+Mirarchi, Antonio, Raul P. Pelaez, Guillem Simeon, and Gianni De Fabritiis.  
+[arXiv:2409.17852 (2024)](https://arxiv.org/abs/2409.17852) | [code](https://github.com/compsciencelab/amaro)  
 
 * **Revisiting Aspirin Polymorphic Stability Using a Machine Learning Potential** [2024]  
 Hattori, Shinnosuke, and Qiang Zhu.  
@@ -796,7 +798,9 @@ Grambow, Colin A., Hayley Weir, Nathaniel Diamant, Alex Tseng, Tommaso Biancalan
 
 
 
-
+* **AMARO: All Heavy-Atom Transferable Neural Network Potentials of Protein Thermodynamics** [2024]  
+Mirarchi, Antonio, Raul P. Pelaez, Guillem Simeon, and Gianni De Fabritiis.  
+[arXiv:2409.17852 (2024)](https://arxiv.org/abs/2409.17852) | [code](https://github.com/compsciencelab/amaro)  
 
 * **Conformations of KRAS4B Affected by Its Partner Binding and G12C Mutation: Insights from GaMD Trajectory-Image Transformation-Based Deep Learning** [2024]  
 Chen, Jianzhong, Jian Wang, Wanchun Yang, Lu Zhao, and Guodong Hu.   
