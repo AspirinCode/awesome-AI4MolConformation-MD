@@ -562,7 +562,7 @@ Janson, Giacomo, and Michael Feig.
 
 * **Accurate Conformation Sampling via Protein Structural Diffusion** [2024]  
 Fan, Jiahao, Ziyao Li, Eric Alcaide, Guolin Ke, Huaqing Huang, and Weinan E.   
-[bioRxiv (2024)](https://doi.org/10.1101/2024.05.20.594916)  
+[J. Chem. Inf. Model. (2024)](https://doi.org/10.1021/acs.jcim.4c00928) | [bioRxiv (2024)](https://doi.org/10.1101/2024.05.20.594916) | [code](https://github.com/PKUfjh/Uni-Fold/tree/ufconf)    
 
 * **Accurate and Efficient Structural Ensemble Generation of Macrocyclic Peptides using Internal Coordinate Diffusion** [2023]  
 Grambow, Colin A., Hayley Weir, Nathaniel Diamant, Alex Tseng, Tommaso Biancalani, Gabriele Scalia and Kangway V Chuang.   
