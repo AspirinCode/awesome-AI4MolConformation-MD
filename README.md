@@ -210,8 +210,16 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
+
+
 ### Neural Network Potentials
 
+
+
+
+* **Molecular Simulations with a Pretrained Neural Network and Universal Pairwise Force Fields** [2024]  
+Kabylda A, Frank JT, Dou SS, Khabibrakhmanov A, Sandonas LM, Unke OT, et al.  
+[ChemRxiv. (2024)](https://doi.org/10.26434/chemrxiv-2024-bdfr0) | [code](https://github.com/general-molecular-simulations/so3lr)  
 
 * **AMARO: All Heavy-Atom Transferable Neural Network Potentials of Protein Thermodynamics** [2024]  
 Mirarchi, Antonio, Raul P. Pelaez, Guillem Simeon, and Gianni De Fabritiis.  
@@ -282,7 +290,9 @@ Crivelli-Decker, J.E., Beckwith, Z., Tom, G., Le, L., Khuttan, S., Salomon-Ferre
 ## Deep Learning-molecular conformations
 
 
-
+* **Molecular Simulations with a Pretrained Neural Network and Universal Pairwise Force Fields** [2024]  
+Kabylda A, Frank JT, Dou SS, Khabibrakhmanov A, Sandonas LM, Unke OT, et al.  
+[ChemRxiv. (2024)](https://doi.org/10.26434/chemrxiv-2024-bdfr0) | [code](https://github.com/general-molecular-simulations/so3lr)  
 
 * **GLOW: A Workflow Integrating Gaussian-Accelerated Molecular Dynamics and Deep Learning for Free Energy Profiling** [2022]  
 Do, Hung N., Jinan Wang, Apurba Bhattarai, and Yinglong Miao.   
