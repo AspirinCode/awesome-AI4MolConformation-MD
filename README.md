@@ -294,9 +294,13 @@ Crivelli-Decker, J.E., Beckwith, Z., Tom, G., Le, L., Khuttan, S., Salomon-Ferre
 Kabylda A, Frank JT, Dou SS, Khabibrakhmanov A, Sandonas LM, Unke OT, et al.  
 [ChemRxiv. (2024)](https://doi.org/10.26434/chemrxiv-2024-bdfr0) | [code](https://github.com/general-molecular-simulations/so3lr)  
 
+* **SpaiNN: Equivariant Message Passing for Excited-State Nonadiabatic Molecular Dynamics** [2024]  
+Mausenberger, Sascha, Carolin Müller, Alexandre Tkatchenko, Philipp Marquetand, Leticia González, and Julia Westermayr.   
+[Chemical Science (2024)](https://doi.org/10.1039/D4SC04164J) | [code](https://github.com/schnarc/SchNarc)  
+
 * **GLOW: A Workflow Integrating Gaussian-Accelerated Molecular Dynamics and Deep Learning for Free Energy Profiling** [2022]  
 Do, Hung N., Jinan Wang, Apurba Bhattarai, and Yinglong Miao.   
-[J. Chem. Theory Comput. (2022)](https://doi.org/10.1021/acs.jctc.1c01055) | [code](https://github.com/MiaoLab20/GLOW)
+[J. Chem. Theory Comput. (2022)](https://doi.org/10.1021/acs.jctc.1c01055) | [code](https://github.com/MiaoLab20/GLOW)  
 
 
 
