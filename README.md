@@ -312,7 +312,9 @@ Do, Hung N., Jinan Wang, Apurba Bhattarai, and Yinglong Miao.
 
 
 
-
+* **AlphaFold2 Predicts Alternative Conformation Populations in Green Fluorescent Protein Variants** [2024]  
+Núñez-Franco, Reyes, M. Milagros Muriel-Olaya, Gonzalo Jiménez-Osés, and Francesca Peccati.   
+[J. Chem. Inf. Model. (2024)](https://doi.org/10.1021/acs.jcim.4c01388) | [data](https://zenodo.org/records/13133811)  
 
 * **AlphaFold Ensemble Competition Screens Enable Peptide Binder Design with Single-Residue Sensitivity** [2024]  
 Vosbein, Pernille, Paula Paredes Vergara, Danny T. Huang, and Andrew R. Thomson.   
