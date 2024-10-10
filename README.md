@@ -215,7 +215,9 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 ### Neural Network Potentials
 
 
-
+* **Quantum-accurate machine learning potentials for metal-organic frameworks using temperature driven active learning** [2024]  
+Sharma, A., Sanvito, S.  
+[npj Comput Mater 10, 237 (2024)](https://doi.org/10.1038/s41524-024-01427-y) | [code](https://github.com/asharma-ms/MOF_MLP_2024)  
 
 * **Molecular Simulations with a Pretrained Neural Network and Universal Pairwise Force Fields** [2024]  
 Kabylda A, Frank JT, Dou SS, Khabibrakhmanov A, Sandonas LM, Unke OT, et al.  
@@ -1120,7 +1122,9 @@ Nisha Kumari, Sonam Dhull, Tarak Karmakar.
 
 
 
-
+* **Quantum-accurate machine learning potentials for metal-organic frameworks using temperature driven active learning** [2024]  
+Sharma, A., Sanvito, S.  
+[npj Comput Mater 10, 237 (2024)](https://doi.org/10.1038/s41524-024-01427-y) | [code](https://github.com/asharma-ms/MOF_MLP_2024)  
 
 * **Generative AI model trained by molecular dynamics for rapid mechanical design of architected graphene** [2024]  
 Milad Masrouri, Kamalendu Paul, Zhao Qin.   
