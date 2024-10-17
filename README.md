@@ -69,9 +69,14 @@ List of **molecules ( small molecules, RNA, peptide, protein, enzymes, antibody,
 
 
 
+
+* **Molecular Quantum Chemical Data Sets and Databases for Machine Learning Potentials** [2024]  
+Antonio Mirarchi, Toni Giorgino, G. D. Fabritiis.   
+[ChemRxiv. (2024)](https://doi.org/10.26434/chemrxiv-2024-w3ld0-v2) | [code](https://github.com/Arif-PhyChem/datasets_and_databases_4_MLPs)  
+
 * **mdCATH: A Large-Scale MD Dataset for Data-Driven Computational Biophysics** [2024]  
 Antonio Mirarchi, Toni Giorgino, G. D. Fabritiis.   
-[	arXiv:2407.14794 (2024)](https://arxiv.org/abs/2407.14794) | [code](https://github.com/compsciencelab/mdCATH)
+[	arXiv:2407.14794 (2024)](https://arxiv.org/abs/2407.14794) | [code](https://github.com/compsciencelab/mdCATH)  
 
 
 
