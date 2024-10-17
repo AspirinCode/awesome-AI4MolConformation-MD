@@ -41,6 +41,9 @@ List of **molecules ( small molecules, RNA, peptide, protein, enzymes, antibody,
 
 ## Reviews
 
+* **Alchemical Transformations and Beyond: Recent Advances and Real-World Applications of Free Energy Calculations in Drug Discovery** [2024]   
+ Qian, Runtong, Jing Xue, You Xu, and Jing Huang.   
+  [J. Chem. Inf. Model. (2024)](https://doi.org/10.1021/acs.jcim.4c01024)  
 
 * **The need to implement FAIR principles in biomolecular simulations** [2024]   
  Amaro, Rommie, Johan Åqvist, Ivet Bahar, Federica Battistini, Adam Bellaiche, Daniel Beltran, Philip C. Biggin et al.   
@@ -299,7 +302,9 @@ Zhang, Yuzhi, Haidi Wang, Weijie Chen, Jinzhe Zeng, Linfeng Zhang, Han Wang, and
 ### Free Energy Perturbation
 
 
-
+* **Alchemical Transformations and Beyond: Recent Advances and Real-World Applications of Free Energy Calculations in Drug Discovery** [2024]   
+ Qian, Runtong, Jing Xue, You Xu, and Jing Huang.   
+  [J. Chem. Inf. Model. (2024)](https://doi.org/10.1021/acs.jcim.4c01024)  
 
 * **Automated Adaptive Absolute Binding Free Energy Calculations** [2024]  
 Clark, Finlay, Graeme Robb, Daniel Cole, and Julien Michel.   
