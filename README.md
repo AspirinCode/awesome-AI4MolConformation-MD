@@ -140,8 +140,11 @@ MacCallum, J. L., Hu, S., Lenz, S., Souza, P. C., Corradi, V., & Tieleman, D. P.
 * [CHARMM](https://www.charmm.org/) - A molecular simulation program with broad application to many-particle systems.  
 * [HTMD](https://github.com/Acellera/htmd) - Programming Environment for Molecular Discovery.  
 * [ACEMD](https://www.acellera.com/acemd) - The next generation molecular dynamic simulation software.  
-* [NAMD](https://www.ks.uiuc.edu/Research/namd/) - A parallel molecular dynamics code for large biomolecular systems..
-* [StreaMD](https://github.com/ci-lab-cz/streamd) - A tool to perform high-throughput automated molecular dynamics simulations..
+* [NAMD](https://www.ks.uiuc.edu/Research/namd/) - A parallel molecular dynamics code for large biomolecular systems.
+* [StreaMD](https://github.com/ci-lab-cz/streamd) - A tool to perform high-throughput automated molecular dynamics simulations.
+* [BEMM-GEN](https://github.com/y4suda/BEMM-GEN) - A Toolkit for Generating a Biomolecular Environment-Mimicking Model for Molecular Dynamics Simulation.
+
+
 
 
 ### AI4MD Engines-Frameworks
