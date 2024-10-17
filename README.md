@@ -171,6 +171,17 @@ MacCallum, J. L., Hu, S., Lenz, S., Souza, P. C., Corradi, V., & Tieleman, D. P.
 
 
 
+
+
+
+* **NRIMD, a Web Server for Analyzing Protein Allosteric Interactions Based on Molecular Dynamics Simulation** [2024]  
+He, Yi, Shuang Wang, Shuai Zeng, Jingxuan Zhu, Dong Xu, Weiwei Han, and Juexin Wang.   
+[J. Chem. Inf. Model. (2024)](https://doi.org/10.1021/acs.jcim.4c00783) | [web](https://nrimd.luddy.indianapolis.iu.edu/)  
+
+
+
+
+
 ### Reference
 
 https://github.com/ipudu/awesome-molecular-dynamics  
