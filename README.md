@@ -463,9 +463,12 @@ Schwing, Gregory, Luigi L. Palese, Ariel Fernández, Loren Schwiebert, and Domen
 ### VAE-based
 
 
+
+
+
 * **Exploring Protein Conformational Changes Using a Large-Scale Biophysical Sampling Augmented Deep Learning Strategy** [2024]  
-Sanaa Mansoor, Minkyung Baek, Hahnbeom Park, Gyu Rie Lee, and David Baker.   
-[Advanced Science (2024)](https://doi.org/10.1002/advs.202400884)  
+Hu, Yao, Hao Yang, Mingwei Li, Zhicheng Zhong, Yongqi Zhou, Fang Bai, and Qian Wang.   
+[Advanced Science (2024)](https://doi.org/10.1002/advs.202400884) | [code](https://github.com/qwang897/PATHpre)  
 
 * **Deciphering the Coevolutionary Dynamics of L2 β-Lactamases via Deep Learning** [2024]  
   Zhu, Yu, Jing Gu, Zhuoran Zhao, AW Edith Chan, Maria F. Mojica, Andrea M. Hujer, Robert A. Bonomo, and Shozeb Haider.  
@@ -817,8 +820,8 @@ Grambow, Colin A., Hayley Weir, Nathaniel Diamant, Alex Tseng, Tommaso Biancalan
 
 
 * **Exploring Protein Conformational Changes Using a Large-Scale Biophysical Sampling Augmented Deep Learning Strategy** [2024]  
-Sanaa Mansoor, Minkyung Baek, Hahnbeom Park, Gyu Rie Lee, and David Baker.   
-[Advanced Science (2024)](https://doi.org/10.1002/advs.202400884)  
+Hu, Yao, Hao Yang, Mingwei Li, Zhicheng Zhong, Yongqi Zhou, Fang Bai, and Qian Wang.   
+[Advanced Science (2024)](https://doi.org/10.1002/advs.202400884) | [code](https://github.com/qwang897/PATHpre)  
 
 * **AMARO: All Heavy-Atom Transferable Neural Network Potentials of Protein Thermodynamics** [2024]  
 Mirarchi, Antonio, Raul P. Pelaez, Guillem Simeon, and Gianni De Fabritiis.  
