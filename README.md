@@ -319,6 +319,11 @@ Do, Hung N., Jinan Wang, Apurba Bhattarai, and Yinglong Miao.
 
 
 
+
+* **AlphaFold2's training set powers its predictions of fold-switched conformations** [2024]  
+Joseph W. Schafer, Lauren Porter.   
+[bioRxiv. (2024)](https://doi.org/10.1101/2024.10.11.617857) | [data](https://github.com/porterll/CFold_AF2)  
+
 * **AlphaFold2 Predicts Alternative Conformation Populations in Green Fluorescent Protein Variants** [2024]  
 Núñez-Franco, Reyes, M. Milagros Muriel-Olaya, Gonzalo Jiménez-Osés, and Francesca Peccati.   
 [J. Chem. Inf. Model. (2024)](https://doi.org/10.1021/acs.jcim.4c01388) | [data](https://zenodo.org/records/13133811)  
@@ -823,6 +828,12 @@ Grambow, Colin A., Hayley Weir, Nathaniel Diamant, Alex Tseng, Tommaso Biancalan
 ### Protein conformational ensembles
 
 
+
+
+
+* **AlphaFold2's training set powers its predictions of fold-switched conformations** [2024]  
+Joseph W. Schafer, Lauren Porter.   
+[bioRxiv. (2024)](https://doi.org/10.1101/2024.10.11.617857) | [data](https://github.com/porterll/CFold_AF2)  
 
 * **Exploring Protein Conformational Changes Using a Large-Scale Biophysical Sampling Augmented Deep Learning Strategy** [2024]  
 Hu, Yao, Hao Yang, Mingwei Li, Zhicheng Zhong, Yongqi Zhou, Fang Bai, and Qian Wang.   
