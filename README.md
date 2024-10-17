@@ -223,6 +223,11 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 ### Neural Network Potentials
 
 
+
+* **Learning together: Towards foundation models for machine learning interatomic potentials with meta-learning** [2024]  
+Allen, A.E.A., Lubbers, N., Matin, S. et al.  
+[npj Comput Mater 10, 154 (2024)](https://doi.org/10.1038/s41524-024-01339-x)  
+
 * **Quantum-accurate machine learning potentials for metal-organic frameworks using temperature driven active learning** [2024]  
 Sharma, A., Sanvito, S.  
 [npj Comput Mater 10, 237 (2024)](https://doi.org/10.1038/s41524-024-01427-y) | [code](https://github.com/asharma-ms/MOF_MLP_2024)  
