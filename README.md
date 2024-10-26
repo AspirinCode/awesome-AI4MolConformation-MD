@@ -204,7 +204,9 @@ https://github.com/ipudu/awesome-molecular-dynamics
 
 
 
-
+* **Accelerating Molecular Dynamics Simulations with Quantum Accuracy by Hierarchical Classification** [2024]  
+Brunken, Christoph, Sebastien Boyer, Mustafa Omar, Bakary N'tji Diallo, Karim Beguir, Nicolas Lopez Carranza, and Oliver Bent.   
+[ChemRxiv. (2024)](https://doi.org/10.26434/chemrxiv-2024-20q1v) | [code](https://github.com/multiscale-modelling/humf)  
 
 * **Machine learning of force fields towards molecular dynamics simulations of proteins at DFT accuracy** [2024]  
 Brunken, Christoph, Sebastien Boyer, Mustafa Omar, Bakary N'tji Diallo, Karim Beguir, Nicolas Lopez Carranza, and Oliver Bent.   
@@ -316,7 +318,9 @@ Zhang, Yuzhi, Haidi Wang, Weijie Chen, Jinzhe Zeng, Linfeng Zhang, Han Wang, and
 ### Free Energy Perturbation
 
 
-
+* **FEP-SPell-ABFE: An Open-Source Automated Alchemical Absolute Binding Free Energy Calculation Workflow for Drug Discovery** [2024]   
+Pengfei Li,Tingting Pu ,Ye Mei.    
+  [ChemRxiv. (2024)](https://doi.org/10.26434/chemrxiv-2024-tkvrh) | [code](https://github.com/freeenergylab/FEP-SPell-ABFE)    
 
 * **Studying the Collective Functional Response of a Receptor in Alchemical Ligand Binding Free Energy Simulations with Accelerated Solvation Layer Dynamics** [2024]   
 Wei Jiang.   
