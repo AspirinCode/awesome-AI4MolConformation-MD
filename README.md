@@ -359,7 +359,9 @@ Do, Hung N., Jinan Wang, Apurba Bhattarai, and Yinglong Miao.
 ### AlphaFold-based
 
 
-
+* **Harnessing AlphaFold to reveal hERG channel conformational state secrets** [2024]  
+Khoa Ngo, Pei-Chi Yang, Vladimir Yarov-Yarovoy, Colleen E. Clancy, Igor Vorobyov.   
+[bioRxiv. (2024)](https://doi.org/10.1101/2024.01.27.577468)  
 
 * **AlphaFold2's training set powers its predictions of fold-switched conformations** [2024]  
 Joseph W. Schafer, Lauren Porter.   
@@ -725,6 +727,11 @@ Kleiman, Diego E., and Diwakar Shukla.
 ### LLM-MD
 
 
+
+
+* **Structure Language Models for Protein Conformation Generation** [2024]  
+Jiarui Lu, Xiaoyin Chen, Stephen Zhewen Lu, Chence Shi, Hongyu Guo, Yoshua Bengio, Jian Tang.   
+[	arXiv:2410.18403 (2024)](https://arxiv.org/abs/2410.18403) | [code](https://github.com/lujiarui/esmdiff)  
 
 * **SeaMoon: Prediction of molecular motions based on language models** [2024]  
 Valentin Lombard, Dan Timsit, Sergei Grudinin, Elodie Laine.   
