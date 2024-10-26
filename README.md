@@ -313,6 +313,12 @@ Zhang, Yuzhi, Haidi Wang, Weijie Chen, Jinzhe Zeng, Linfeng Zhang, Han Wang, and
 ### Free Energy Perturbation
 
 
+
+
+* **Studying the Collective Functional Response of a Receptor in Alchemical Ligand Binding Free Energy Simulations with Accelerated Solvation Layer Dynamics** [2024]   
+Wei Jiang.   
+  [J. Chem. Theory Comput. (2024)](https://doi.org/10.1021/acs.jctc.4c00191)  
+
 * **Alchemical Transformations and Beyond: Recent Advances and Real-World Applications of Free Energy Calculations in Drug Discovery** [2024]   
  Qian, Runtong, Jing Xue, You Xu, and Jing Huang.   
   [J. Chem. Inf. Model. (2024)](https://doi.org/10.1021/acs.jcim.4c01024)  
