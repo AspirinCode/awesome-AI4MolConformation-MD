@@ -375,6 +375,11 @@ Do, Hung N., Jinan Wang, Apurba Bhattarai, and Yinglong Miao.
 ### AlphaFold-based
 
 
+
+* **AlphaFold-Multimer accurately captures interactions and dynamics of intrinsically disordered protein regions** [2024]  
+Alireza Omidi, Mads Harder Møller, Nawar Malhis, and Jörg Gsponer.   
+[bioRxiv. (2024)](https://doi.org/10.1073/pnas.2406407121) | [code](https://github.com/alirezaomidi/AFM-IDR)  
+
 * **Harnessing AlphaFold to reveal hERG channel conformational state secrets** [2024]  
 Khoa Ngo, Pei-Chi Yang, Vladimir Yarov-Yarovoy, Colleen E. Clancy, Igor Vorobyov.   
 [bioRxiv. (2024)](https://doi.org/10.1101/2024.01.27.577468)  
