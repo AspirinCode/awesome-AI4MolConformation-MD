@@ -236,6 +236,15 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 ### Neural Network Potentials
 
+
+
+
+
+
+* **HH130: a standardized database of machine learning interatomic potentials, datasets, and its applications in the thermal transport of half-Heusler thermoelectrics** [2024]  
+Yang, Yuyan, Yifei Lin, Shengnan Dai, Yifan Zhu, Jinyang Xi, Lili Xi, Xiaokun Gu, David J. Singh, Wenqing Zhang, and Jiong Yang.  
+[Digital Discovery (2024)](https://doi.org/10.1039/D4DD00240G) | [data](http://www.mathub3d.net)    
+
 * **Efficient Training of Neural Network Potentials for Chemical and Enzymatic Reactions by Continual Learning** [2024]  
 Lei Y-K, Yagi K, Sugita Y.  
 [ChemRxiv. (2024)](https://doi.org/10.26434/chemrxiv-2024-xkxd5)  
