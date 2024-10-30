@@ -319,7 +319,9 @@ Zhang, Yuzhi, Haidi Wang, Weijie Chen, Jinzhe Zeng, Linfeng Zhang, Han Wang, and
 
 
 
-
+* **Comparison of Methodologies for Absolute Binding Free Energy Calculations of Ligands to Intrinsically Disordered Proteins** [2024]   
+Michail Papadourakis, Zoe Cournia, Antonia S. J. S. Mey, and Julien Michel.    
+  [J. Chem. Theory Comput. (2024)](https://doi.org/10.1021/acs.jctc.4c00942) | [code](https://github.com/michellab/idpabfe)    
 
 * **FEP-SPell-ABFE: An Open-Source Automated Alchemical Absolute Binding Free Energy Calculation Workflow for Drug Discovery** [2024]   
 Pengfei Li,Tingting Pu ,Ye Mei.    
