@@ -318,6 +318,9 @@ Zhang, Yuzhi, Haidi Wang, Weijie Chen, Jinzhe Zeng, Linfeng Zhang, Han Wang, and
 ### Free Energy Perturbation
 
 
+
+
+
 * **FEP-SPell-ABFE: An Open-Source Automated Alchemical Absolute Binding Free Energy Calculation Workflow for Drug Discovery** [2024]   
 Pengfei Li,Tingting Pu ,Ye Mei.    
   [ChemRxiv. (2024)](https://doi.org/10.26434/chemrxiv-2024-tkvrh) | [code](https://github.com/freeenergylab/FEP-SPell-ABFE)    
@@ -338,7 +341,9 @@ Clark, Finlay, Graeme Robb, Daniel Cole, and Julien Michel.
 Crivelli-Decker, J.E., Beckwith, Z., Tom, G., Le, L., Khuttan, S., Salomon-Ferrer, R., Beall, J., Gómez-Bombarelli, R. and Bortolato, A.   
 [J. Chem. Theory Comput. (2024)](https://doi.org/10.1021/acs.jctc.4c00399) | [code](https://zenodo.org/records/12827945)  
 
-
+* **The maximal and current accuracy of rigorous protein-ligand binding free energy calculations** [2023]   
+Ross, G.A., Lu, C., Scarabelli, G. et al.    
+  [Commun Chem 6, 222 (2023)](https://doi.org/10.1038/s42004-023-01019-9) | [code](https://github.com/schrodinger/public_binding_free_energy_benchmark)    
 
 
 
