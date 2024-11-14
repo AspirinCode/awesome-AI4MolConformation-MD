@@ -39,7 +39,15 @@ List of **molecules ( small molecules, RNA, peptide, protein, enzymes, antibody,
 
 
 
+
+
 ## Reviews
+
+
+
+* **Recent advances in protein conformation sampling by combining machine learning with molecular simulation** [2024]   
+ Tang, Y., Yang, Z., Yao, Y., Zhou, Y., Tan, Y., Wang, Z., Pan, T., Xiong, R., Sun, J. and Wei, G.   
+  [Chinese Physics B. (2024)](https://iopscience.iop.org/article/10.1088/1674-1056/ad1a92)  
 
 * **Alchemical Transformations and Beyond: Recent Advances and Real-World Applications of Free Energy Calculations in Drug Discovery** [2024]   
  Qian, Runtong, Jing Xue, You Xu, and Jing Huang.   
