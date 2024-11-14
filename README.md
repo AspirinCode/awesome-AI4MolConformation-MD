@@ -664,7 +664,9 @@ Jing, Bowen, Bonnie Berger, and Tommi Jaakkola.
 
 
 
-
+* **Deep learning of protein energy landscape and conformational dynamics from experimental structures in PDB** [2024]  
+Yike Tang, Mendi Yu, Ganggang Bai, Xinjun Li, Yanyan Xu, Buyong Ma.   
+[bioRxiv (2024)](https://doi.org/10.1101/2024.06.27.600251)  
 
 * **4D Diffusion for Dynamic Protein Structure Prediction with Reference Guided Motion Alignment** [2024]  
 Cheng, Kaihui, Ce Liu, Qingkun Su, Jun Wang, Liwei Zhang, Yining Tang, Yao Yao, Siyu Zhu, and Yuan Qi.   
