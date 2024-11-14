@@ -921,6 +921,11 @@ Grambow, Colin A., Hayley Weir, Nathaniel Diamant, Alex Tseng, Tommaso Biancalan
 
 
 
+
+* **Fast Sampling of Protein Conformational Dynamics** [2024]  
+Michael A. Sauer, Souvik Mondal, Brandon Neff, Sthitadhi Maiti, Matthias Heyden.   
+[	arXiv:2411.08154 (2024)](https://arxiv.org/abs/2411.08154)  
+
 * **Sampling Conformational Ensembles of Highly Dynamic Proteins via Generative Deep Learning** [2024]  
 Talant Ruzmetov, Ta I Hung, Saisri Padmaja Jonnalagedda, Si-han Chen, Parisa Fasihianifard, Zhefeng Guo, Bir Bhanu, Chia-en A. Chang.   
 [bioRxiv. (2024)](https://doi.org/10.1101/2024.05.05.592587) | [data](https://github.com/chang-group/ICoN)  
