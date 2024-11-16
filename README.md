@@ -397,6 +397,11 @@ Do, Hung N., Jinan Wang, Apurba Bhattarai, and Yinglong Miao.
 
 
 
+
+* **Modeling Protein Conformations by Guiding AlphaFold2 with Distance Distributions. Application to Double Electron Electron Resonance (DEER) Spectroscopy** [2024]  
+Tianqi Wu, Richard A. Stein, Te-Yu Kao, Benjamin Brown, Hassane S. Mchaourab   
+[bioRxiv. (2024)](https://doi.org/10.1101/2024.10.30.621127)  
+
 * **AlphaFold-Multimer accurately captures interactions and dynamics of intrinsically disordered protein regions** [2024]  
 Alireza Omidi, Mads Harder Møller, Nawar Malhis, and Jörg Gsponer.   
 [bioRxiv. (2024)](https://doi.org/10.1073/pnas.2406407121) | [code](https://github.com/alirezaomidi/AFM-IDR)  
