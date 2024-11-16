@@ -183,7 +183,9 @@ MacCallum, J. L., Hu, S., Lenz, S., Souza, P. C., Corradi, V., & Tieleman, D. P.
 
 
 
-
+* **MDRefine: a Python package for refining Molecular Dynamics trajectories with experimental data** [2024]  
+Ivan Gilardoni, Valerio Piomponi, Thorben Fröhlking, Giovanni Bussi.   
+[	arXiv:2411.07798 (2024)](https://arxiv.org/abs/2411.07798) | [code](https://github.com/bussilab/MDRefine)  
 
 * **NRIMD, a Web Server for Analyzing Protein Allosteric Interactions Based on Molecular Dynamics Simulation** [2024]  
 He, Yi, Shuang Wang, Shuai Zeng, Jingxuan Zhu, Dong Xu, Weiwei Han, and Juexin Wang.   
