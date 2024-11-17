@@ -251,7 +251,9 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
-
+* **Ab initio Accuracy Neural Network Potential for Drug-like Molecules** [2024]  
+Yang M, Zhang D, Wang X, Zhang L, Zhu T, Wang H.  
+[ChemRxiv. (2024)](https://doi.org/10.26434/chemrxiv-2024-sq8nh) | [data](https://www.aissquare.com/datasets/detail?pageType=datasets&name=Drug%28drug-like-molecule%29_DPA_v1_0&id=143)    
 
 * **HH130: a standardized database of machine learning interatomic potentials, datasets, and its applications in the thermal transport of half-Heusler thermoelectrics** [2024]  
 Yang, Yuyan, Yifei Lin, Shengnan Dai, Yifan Zhu, Jinyang Xi, Lili Xi, Xiaokun Gu, David J. Singh, Wenqing Zhang, and Jiong Yang.  
