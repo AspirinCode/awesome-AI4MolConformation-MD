@@ -45,6 +45,10 @@ List of **molecules ( small molecules, RNA, peptide, protein, enzymes, antibody,
 
 
 
+* **Deep learning for intrinsically disordered proteins: From improved predictions to deciphering conformational ensembles** [2024]   
+ Erdős, G., & Dosztányi, Z.   
+  [Current opinion in structural biology (2024)](https://doi.org/10.1016/j.sbi.2024.102950)  
+
 * **Recent advances in protein conformation sampling by combining machine learning with molecular simulation** [2024]   
  Tang, Y., Yang, Z., Yao, Y., Zhou, Y., Tan, Y., Wang, Z., Pan, T., Xiong, R., Sun, J. and Wei, G.   
   [Chinese Physics B. (2024)](https://iopscience.iop.org/article/10.1088/1674-1056/ad1a92)  
