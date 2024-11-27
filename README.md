@@ -253,7 +253,9 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 ### Neural Network Potentials
 
 
-
+* **General-purpose machine-learned potential for 16 elemental metals and their alloys** [2024]  
+Song, K., Zhao, R., Liu, J. et al.  
+[Nat Commun 15, 10208 (2024)](https://doi.org/10.1038/s41467-024-54554-x) | [code](https://github.com/brucefan1983/GPUMD)    
 
 * **Ab initio Accuracy Neural Network Potential for Drug-like Molecules** [2024]  
 Yang M, Zhang D, Wang X, Zhang L, Zhu T, Wang H.  
@@ -1255,7 +1257,9 @@ Nisha Kumari, Sonam Dhull, Tarak Karmakar.
 ### Material ensembles
 
 
-
+* **General-purpose machine-learned potential for 16 elemental metals and their alloys** [2024]  
+Song, K., Zhao, R., Liu, J. et al.  
+[Nat Commun 15, 10208 (2024)](https://doi.org/10.1038/s41467-024-54554-x) | [code](https://github.com/brucefan1983/GPUMD)    
 
 * **Quantum-accurate machine learning potentials for metal-organic frameworks using temperature driven active learning** [2024]  
 Sharma, A., Sanvito, S.  
