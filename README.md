@@ -170,7 +170,7 @@ MacCallum, J. L., Hu, S., Lenz, S., Souza, P. C., Corradi, V., & Tieleman, D. P.
 * [TorchMD-NET](https://github.com/torchmd/torchmd-net) - TorchMD-NET provides state-of-the-art neural networks potentials (NNPs) and a mechanism to train them.  
 * [OpenMM-Torch](https://github.com/openmm/openmm-torch) - OpenMM plugin to define forces with neural networks.  
 * [AI<sup>2</sup>BMD](https://github.com/microsoft/AI2BMD) - AI-powered ab initio biomolecular dynamics simulation.  
-
+* [NeuralMD](https://github.com/chao1224/NeuralMD) - A Multi-Grained Symmetric Differential Equation Model for Learning Protein-Ligand Binding Dynamics.  
 
 ### MD Trajectory Processing-Analysis
 
@@ -214,9 +214,17 @@ https://github.com/ipudu/awesome-molecular-dynamics
 
 
 
+
+
+
 ## AI4MD
 
 
+
+
+* **A Multi-Grained Symmetric Differential Equation Model for Learning Protein-Ligand Binding Dynamics** [2024]  
+Shengchao Liu, Weitao Du, Hannan Xu, Yanjing Li, Zhuoxinran Li, Vignesh Bhethanabotla, Divin Yan, Christian Borgs, Anima Anandkumar, Hongyu Guo, Jennifer Chayes.   
+[arXiv:2401.15122 (2024)](https://arxiv.org/abs/2401.15122) | [code](https://github.com/chao1224/NeuralMD)  
 
 * **Accelerating Molecular Dynamics Simulations with Quantum Accuracy by Hierarchical Classification** [2024]  
 Brunken, Christoph, Sebastien Boyer, Mustafa Omar, Bakary N'tji Diallo, Karim Beguir, Nicolas Lopez Carranza, and Oliver Bent.   
@@ -1178,7 +1186,7 @@ Spoendlin, Fabian C., Wing Ki Wong, Guy Georges, Alexander Bujotzek, and Charlot
 
 * **A Multi-Grained Symmetric Differential Equation Model for Learning Protein-Ligand Binding Dynamics** [2024]  
 Shengchao Liu, Weitao Du, Hannan Xu, Yanjing Li, Zhuoxinran Li, Vignesh Bhethanabotla, Divin Yan, Christian Borgs, Anima Anandkumar, Hongyu Guo, Jennifer Chayes.   
-[	arXiv:2401.15122 (2024)](https://arxiv.org/abs/2401.15122) | [code](https://github.com/chao1224/NeuralMD)  
+[arXiv:2401.15122 (2024)](https://arxiv.org/abs/2401.15122) | [code](https://github.com/chao1224/NeuralMD)  
 
 * **Modeling protein-small molecule conformational ensembles with ChemNet** [2024]  
 Ivan Anishchenko, Yakov Kipnis, Indrek Kalvet, Guangfeng Zhou, Rohith Krishna, Samuel J. Pellock, Anna Lauko, Gyu Rie Lee, Linna An, Justas Dauparas, Frank DiMaio, David Baker.   
