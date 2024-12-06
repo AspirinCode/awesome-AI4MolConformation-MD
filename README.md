@@ -946,6 +946,14 @@ Grambow, Colin A., Hayley Weir, Nathaniel Diamant, Alex Tseng, Tommaso Biancalan
 ### Protein conformational ensembles
 
 
+
+
+
+
+* **Scalable emulation of protein equilibrium ensembles with generative deep learning** [2024]  
+Sarah Lewis, Tim Hempel, José Jiménez Luna, Michael Gastegger, Yu Xie, Andrew Y. K. Foong, Victor García Satorras, Osama Abdin, Bastiaan S. Veeling, Iryna Zaporozhets, Yaoyi Chen, Soojung Yang, Arne Schneuing, Jigyasa Nigam, Federico Barbero, Vincent Stimper, Andrew Campbell, Jason Yim, Marten Lienen, Yu Shi, Shuxin Zheng, Hannes Schulz, Usman Munir, Cecilia Clementi, Frank Noé.   
+[bioRxiv. (2024)](https://doi.org/10.1101/2024.12.05.626885)  
+
 * **P2DFlow: A Protein Ensemble Generative Model with SE(3) Flow Matching** [2024]  
 Yaowei Jin, Qi Huang, Ziyang Song, Mingyue Zheng, Dan Teng, Qian Shi.   
 [	arXiv:2411.17196 (2024)](https://arxiv.org/abs/2411.17196) | [code](https://github.com/BLEACH366/P2DFlow)  
@@ -1221,7 +1229,9 @@ Wu, Fang, Shuting Jin, Yinghui Jiang, Xurui Jin, Bowen Tang, Zhangming Niu, Xian
 ### PPI conformational ensembles
 
 
-
+* **Scalable emulation of protein equilibrium ensembles with generative deep learning** [2024]  
+Sarah Lewis, Tim Hempel, José Jiménez Luna, Michael Gastegger, Yu Xie, Andrew Y. K. Foong, Victor García Satorras, Osama Abdin, Bastiaan S. Veeling, Iryna Zaporozhets, Yaoyi Chen, Soojung Yang, Arne Schneuing, Jigyasa Nigam, Federico Barbero, Vincent Stimper, Andrew Campbell, Jason Yim, Marten Lienen, Yu Shi, Shuxin Zheng, Hannes Schulz, Usman Munir, Cecilia Clementi, Frank Noé.   
+[bioRxiv. (2024)](https://doi.org/10.1101/2024.12.05.626885)  
 
 * **Computational screening of the effects of mutations on protein-protein off-rates and dissociation mechanisms by τRAMD** [2024]  
 D’Arrigo, G., Kokh, D.B., Nunes-Alves, A. et al.   
