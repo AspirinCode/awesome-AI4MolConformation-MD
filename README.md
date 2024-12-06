@@ -663,6 +663,10 @@ Schwing, Gregory, Luigi L. Palese, Ariel Fernández, Loren Schwiebert, and Domen
 
 
 
+* **P2DFlow: A Protein Ensemble Generative Model with SE(3) Flow Matching** [2024]  
+Yaowei Jin, Qi Huang, Ziyang Song, Mingyue Zheng, Dan Teng, Qian Shi.   
+[	arXiv:2411.17196 (2024)](https://arxiv.org/abs/2411.17196) | [code](https://github.com/BLEACH366/P2DFlow)  
+
 * **Generative Modeling of Molecular Dynamics Trajectories** [2024]  
 Jing, Bowen, Hannes Stark, Tommi Jaakkola, and Bonnie Berger.   
 [ICML'24 Workshop ML for Life and Material Science: From Theory to Industry Applications (2024)](https://openreview.net/forum?id=LbwM4VCDUU) | [code](https://github.com/bjing2016/mdgen)  
@@ -942,7 +946,9 @@ Grambow, Colin A., Hayley Weir, Nathaniel Diamant, Alex Tseng, Tommaso Biancalan
 ### Protein conformational ensembles
 
 
-
+* **P2DFlow: A Protein Ensemble Generative Model with SE(3) Flow Matching** [2024]  
+Yaowei Jin, Qi Huang, Ziyang Song, Mingyue Zheng, Dan Teng, Qian Shi.   
+[	arXiv:2411.17196 (2024)](https://arxiv.org/abs/2411.17196) | [code](https://github.com/BLEACH366/P2DFlow)  
 
 * **Fast Sampling of Protein Conformational Dynamics** [2024]  
 Michael A. Sauer, Souvik Mondal, Brandon Neff, Sthitadhi Maiti, Matthias Heyden.   
