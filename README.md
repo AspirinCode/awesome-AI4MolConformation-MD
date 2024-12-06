@@ -123,6 +123,11 @@ https://github.com/LumosBio/MolData
 ### Molecular Force Fields
 
 
+
+* **Reversible molecular simulation for training classical and machine learning force fields** [2024]  
+Joe G Greener.   
+[	arXiv:2412.04374 (2024)](https://arxiv.org/abs/2412.04374) | [code](https://github.com/JuliaMolSim/Molly.jl)  
+
 * **HessFit: A Toolkit to Derive Automated Force Fields from Quantum Mechanical Information** [2024]  
 Falbo, E. and Lavecchia, A.   
 [J. Chem. Inf. Model. (2024)](https://doi.org/10.1021/acs.jcim.4c00540) | [code](https://github.com/emanuelefalbo/HessFit)  
