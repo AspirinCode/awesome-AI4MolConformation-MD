@@ -44,6 +44,10 @@ List of **molecules ( small molecules, RNA, peptide, protein, enzymes, antibody,
 
 
 
+* **Graph theory approaches for molecular dynamics simulations** [2024]   
+ Patel AC, Sinha S, Palermo G.  
+  [Quarterly Reviews of Biophysics. (2024)](https://doi.org/10.1017/S0033583524000143)  
+
 * **Deep learning for intrinsically disordered proteins: From improved predictions to deciphering conformational ensembles** [2024]   
  Erdős, G., & Dosztányi, Z.   
   [Current opinion in structural biology (2024)](https://doi.org/10.1016/j.sbi.2024.102950)  
@@ -516,9 +520,18 @@ Del Alamo, Diego, Davide Sala, Hassane S. Mchaourab, and Jens Meiler.
 
 
 
+
+
+
+
+
 ### GNN-based
 
 
+
+* **Graph theory approaches for molecular dynamics simulations** [2024]   
+ Patel AC, Sinha S, Palermo G.  
+  [Quarterly Reviews of Biophysics. (2024)](https://doi.org/10.1017/S0033583524000143)  
 
 * **EquiJump: Protein Dynamics Simulation via SO(3)-Equivariant Stochastic Interpolants** [2024]  
 Allan dos Santos Costa, Ilan Mitnikov, Franco Pellegrini, Ameya Daigavane, Mario Geiger, Zhonglin Cao, Karsten Kreis, Tess Smidt, Emine Kucukbenli, Joseph Jacobson.   
