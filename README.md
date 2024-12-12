@@ -529,6 +529,11 @@ Del Alamo, Diego, Davide Sala, Hassane S. Mchaourab, and Jens Meiler.
 
 
 
+
+* **A graph neural network-state predictive information bottleneck (GNN-SPIB) approach for learning molecular thermodynamics and kinetics** [2024]   
+ Zou, Ziyue, Dedi Wang, and Pratyush Tiwary.  
+  [Digital Discovery (2024)](https://doi.org/10.1039/D4DD00315B) | [code](https://github.com/connorzzou/PLUMED-NEST)  
+
 * **Graph theory approaches for molecular dynamics simulations** [2024]   
  Patel AC, Sinha S, Palermo G.  
   [Quarterly Reviews of Biophysics. (2024)](https://doi.org/10.1017/S0033583524000143)  
