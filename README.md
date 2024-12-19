@@ -90,7 +90,9 @@ List of **molecules ( small molecules, RNA, peptide, protein, enzymes, antibody,
 ### Datasets
 
 
-
+* **OpenQDC: Open Quantum Data Commons** [2024]  
+Cristian Gabellini, Nikhil Shenoy, Stephan Thaler, Semih Canturk, Daniel McNeela, Dominique Beaini, Michael Bronstein, Prudencio Tossou.   
+[arXiv:2411.19629 (2024)](https://arxiv.org/abs/2411.19629) | [data](https://github.com/valence-labs/openQDC)  
 
 * **Molecular Quantum Chemical Data Sets and Databases for Machine Learning Potentials** [2024]  
 Antonio Mirarchi, Toni Giorgino, G. D. Fabritiis.   
