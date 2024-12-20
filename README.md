@@ -134,6 +134,11 @@ https://github.com/LumosBio/MolData
 
 
 
+
+* **BoostMD: Accelerated Molecular Sampling Leveraging ML Force Field Features** [2024]  
+Schaaf, Lars Leon, Ilyes Batatia, Jules Tilly, and Thomas D. Barrett.   
+[NeurIPS 2024 Workshop on Data-driven and Differentiable Simulations, Surrogates, and Solvers. (2024)](https://openreview.net/forum?id=H0USH61HnF)  
+
 * **Reversible molecular simulation for training classical and machine learning force fields** [2024]  
 Joe G Greener.   
 [	arXiv:2412.04374 (2024)](https://arxiv.org/abs/2412.04374) | [code](https://github.com/JuliaMolSim/Molly.jl)  
@@ -235,6 +240,11 @@ https://github.com/ipudu/awesome-molecular-dynamics
 
 
 
+
+
+* **BoostMD: Accelerated Molecular Sampling Leveraging ML Force Field Features** [2024]  
+Schaaf, Lars Leon, Ilyes Batatia, Jules Tilly, and Thomas D. Barrett.   
+[NeurIPS 2024 Workshop on Data-driven and Differentiable Simulations, Surrogates, and Solvers. (2024)](https://openreview.net/forum?id=H0USH61HnF)  
 
 * **A Multi-Grained Symmetric Differential Equation Model for Learning Protein-Ligand Binding Dynamics** [2024]  
 Shengchao Liu, Weitao Du, Hannan Xu, Yanjing Li, Zhuoxinran Li, Vignesh Bhethanabotla, Divin Yan, Christian Borgs, Anima Anandkumar, Hongyu Guo, Jennifer Chayes.   
