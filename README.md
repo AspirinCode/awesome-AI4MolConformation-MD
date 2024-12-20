@@ -935,13 +935,17 @@ Xu, Minkai, Wujie Wang, Shitong Luo, Chence Shi, Yoshua Bengio, Rafael Gomez-Bom
 
 
 
+* **Determining structures of RNA conformers using AFM and deep neural networks** [2024]  
+Degenhardt, M.F.S., Degenhardt, H.F., Bhandari, Y.R. et al.   
+[Nature (2024)](https://doi.org/10.1038/s41586-024-07559-x) | [code](https://zenodo.org/records/10637777)  
+
 * **On the Power and Challenges of Atomistic Molecular Dynamics to Investigate RNA Molecules** [2024]  
 Muscat, Stefano, Gianfranco Martino, Jacopo Manigrasso, Marco Marcia, and Marco De Vivo.   
 [J. Chem. Theory Comput. (2024)](https://doi.org/10.1021/acs.jctc.4c00773)  
 
 * **Conformational ensembles of RNA oligonucleotides from integrating NMR and molecular simulations** [2018]  
 Bottaro, S., Bussi, G., Kennedy, S.D., Turner, D.H. and Lindorff-Larsen, K.   
-[Science advances 4.5 (2018)](https://doi.org/10.1038/s41597-024-03698-y) | [code](https://github.com/sbottaro/rr) | [data](https://github.com/sbottaro/tetranucleotides_data)
+[Science advances 4.5 (2018)](https://doi.org/10.1038/s41597-024-03698-y) | [code](https://github.com/sbottaro/rr) | [data](https://github.com/sbottaro/tetranucleotides_data)  
 
 
 
