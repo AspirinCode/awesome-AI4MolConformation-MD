@@ -206,6 +206,11 @@ MacCallum, J. L., Hu, S., Lenz, S., Souza, P. C., Corradi, V., & Tieleman, D. P.
 
 
 
+
+* **Systematic analysis of biomolecular conformational ensembles with PENSA** [2025]  
+Vögele, Martin, Neil J. Thomson, Sang T. Truong, Jasper McAvity, Ulrich Zachariae, and Ron O. Dror.  
+[The Journal of Chemical Physics 162.1 (2025)](https://doi.org/10.1063/5.0235544) | [code](https://github.com/drorlab/pensa)  
+
 * **MDRefine: a Python package for refining Molecular Dynamics trajectories with experimental data** [2024]  
 Ivan Gilardoni, Valerio Piomponi, Thorben Fröhlking, Giovanni Bussi.   
 [	arXiv:2411.07798 (2024)](https://arxiv.org/abs/2411.07798) | [code](https://github.com/bussilab/MDRefine)  
