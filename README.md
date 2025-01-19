@@ -291,6 +291,11 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
+
+* **Universal Machine Learning Interatomic Potentials are Ready for Phonons** [2024]  
+Antoine Loew, Dewen Sun, Hai-Chen Wang, Silvana Botti, Miguel A. L. Marques.  
+[arXiv:2412.16551 (2024)](https://arxiv.org/abs/2412.16551) | [code](https://github.com/hyllios/utils)   
+
 * **Neural Network Potentials for Enabling Advanced Small-Molecule Drug Discovery and Generative Design** [2024]  
 Barnett, Simon, and John D. Chodera.  
 [GEN Biotechnology 3.3 (2024)](https://doi.org/10.1089/genbio.2024.0011)    
