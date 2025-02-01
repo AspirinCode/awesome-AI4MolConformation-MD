@@ -290,7 +290,9 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 ### Neural Network Potentials
 
 
-
+* **PiNN: Equivariant Neural Network Suite for Modeling Electrochemical Systems** [2025]  
+Jichen Li, Lisanne Knijff, Zhan-Yun Zhang, Linnéa Andersson, and Chao Zhang.  
+[J. Chem. Theory Comput. (2025)](https://doi.org/10.1021/acs.jctc.4c01570) | [code](https://teoroo-cmc.github.io/PiNN/master/usage/pinet)   
 
 * **Universal Machine Learning Interatomic Potentials are Ready for Phonons** [2024]  
 Antoine Loew, Dewen Sun, Hai-Chen Wang, Silvana Botti, Miguel A. L. Marques.  
