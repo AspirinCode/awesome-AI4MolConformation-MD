@@ -455,7 +455,7 @@ Do, Hung N., Jinan Wang, Apurba Bhattarai, and Yinglong Miao.
 
 * **Gradations in protein dynamics captured by experimental NMR are not well represented by AlphaFold2 models and other computational metrics** [2025]  
 Gavalda-Garcia, Jose, Bhawna Dixit, Adrián Díaz, An Ghysels, and Wim Vranken.   
-[Journal of Molecular Biology 437.2 (2025)](https://doi.org/10.1016/j.jmb.2024.168900)  
+[Journal of Molecular Biology 437.2 (2025)](https://doi.org/10.1016/j.jmb.2024.168900) | [code](https://zenodo.org/records/14192555)  
 
 * **Modeling Protein Conformations by Guiding AlphaFold2 with Distance Distributions. Application to Double Electron Electron Resonance (DEER) Spectroscopy** [2024]  
 Tianqi Wu, Richard A. Stein, Te-Yu Kao, Benjamin Brown, Hassane S. Mchaourab   
@@ -1012,7 +1012,9 @@ Grambow, Colin A., Hayley Weir, Nathaniel Diamant, Alex Tseng, Tommaso Biancalan
 ### Protein conformational ensembles
 
 
-
+* **Gradations in protein dynamics captured by experimental NMR are not well represented by AlphaFold2 models and other computational metrics** [2025]  
+Gavalda-Garcia, Jose, Bhawna Dixit, Adrián Díaz, An Ghysels, and Wim Vranken.   
+[Journal of Molecular Biology 437.2 (2025)](https://doi.org/10.1016/j.jmb.2024.168900) | [code](https://zenodo.org/records/14192555)  
 
 * **Generative modeling of protein ensembles guided by crystallographic electron densities** [2024]  
 Sai Advaith Maddipatla, Nadav Bojan Sellam, Sanketh Vedula, Ailie Marx, Alex Bronstein.   
