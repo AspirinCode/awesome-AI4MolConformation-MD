@@ -453,6 +453,10 @@ Do, Hung N., Jinan Wang, Apurba Bhattarai, and Yinglong Miao.
 ### AlphaFold-based
 
 
+* **AlphaFold2-RAVE: Protein Ensemble Generation with Physics-Based Sampling** [2025]  
+Teng D, Meraz VJ, Aranganathan A, Gu X, Tiwary P.   
+[ChemRxiv. (2025)](https://doi.org/10.26434/chemrxiv-2025-q3mwr) | [code](https://github.com/tiwarylab/af2rave)  
+
 * **Gradations in protein dynamics captured by experimental NMR are not well represented by AlphaFold2 models and other computational metrics** [2025]  
 Gavalda-Garcia, Jose, Bhawna Dixit, Adrián Díaz, An Ghysels, and Wim Vranken.   
 [Journal of Molecular Biology 437.2 (2025)](https://doi.org/10.1016/j.jmb.2024.168900) | [code](https://zenodo.org/records/14192555)  
@@ -1012,6 +1016,10 @@ Grambow, Colin A., Hayley Weir, Nathaniel Diamant, Alex Tseng, Tommaso Biancalan
 ### Protein conformational ensembles
 
 
+* **AlphaFold2-RAVE: Protein Ensemble Generation with Physics-Based Sampling** [2025]  
+Teng D, Meraz VJ, Aranganathan A, Gu X, Tiwary P.   
+[ChemRxiv. (2025)](https://doi.org/10.26434/chemrxiv-2025-q3mwr) | [code](https://github.com/tiwarylab/af2rave)  
+
 * **Gradations in protein dynamics captured by experimental NMR are not well represented by AlphaFold2 models and other computational metrics** [2025]  
 Gavalda-Garcia, Jose, Bhawna Dixit, Adrián Díaz, An Ghysels, and Wim Vranken.   
 [Journal of Molecular Biology 437.2 (2025)](https://doi.org/10.1016/j.jmb.2024.168900) | [code](https://zenodo.org/records/14192555)  
@@ -1026,7 +1034,7 @@ Sarah Lewis, Tim Hempel, José Jiménez Luna, Michael Gastegger, Yu Xie, Andrew 
 
 * **P2DFlow: A Protein Ensemble Generative Model with SE(3) Flow Matching** [2024]  
 Yaowei Jin, Qi Huang, Ziyang Song, Mingyue Zheng, Dan Teng, Qian Shi.   
-[	arXiv:2411.17196 (2024)](https://arxiv.org/abs/2411.17196) | [code](https://github.com/BLEACH366/P2DFlow)  
+[arXiv:2411.17196 (2024)](https://arxiv.org/abs/2411.17196) | [code](https://github.com/BLEACH366/P2DFlow)  
 
 * **Fast Sampling of Protein Conformational Dynamics** [2024]  
 Michael A. Sauer, Souvik Mondal, Brandon Neff, Sthitadhi Maiti, Matthias Heyden.   
