@@ -294,6 +294,10 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 Jichen Li, Lisanne Knijff, Zhan-Yun Zhang, Linnéa Andersson, and Chao Zhang.  
 [J. Chem. Theory Comput. (2025)](https://doi.org/10.1021/acs.jctc.4c01570) | [code](https://teoroo-cmc.github.io/PiNN/master/usage/pinet)   
 
+* **An automated framework for exploring and learning potential-energy surfaces** [2024]  
+Liu, Yuanbin, Joe D. Morrow, Christina Ertural, Natascia L. Fragapane, John LA Gardner, Aakash A. Naik, Yuxing Zhou, Janine George, and Volker L. Deringer.  
+[arXiv:2412.16736 (2024)](https://arxiv.org/abs/2412.16736) | [code](https://github.com/autoatml/autoplex)   
+
 * **Universal Machine Learning Interatomic Potentials are Ready for Phonons** [2024]  
 Antoine Loew, Dewen Sun, Hai-Chen Wang, Silvana Botti, Miguel A. L. Marques.  
 [arXiv:2412.16551 (2024)](https://arxiv.org/abs/2412.16551) | [code](https://github.com/hyllios/utils)   
