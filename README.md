@@ -44,6 +44,10 @@ List of **molecules ( small molecules, RNA, peptide, protein, enzymes, antibody,
 
 
 
+* **Recent Advances in Machine Learning and Coarse-Grained Potentials for Biomolecular Simulations and Their Applications** [2025]   
+ B. Poma A, Hinostroza Caldas A, Cofas-Vargas L, Jones M, L. Ferguson A, Medrano Sandonas L.  
+  [JChemRxiv. (2025)](https://doi.org/10.26434/chemrxiv-2025-vxjlk)  
+
 * **Recent Advances in Simulation Software and Force Fields: Their Importance in Theoretical and Computational Chemistry and Biophysics** [2024]   
  Christophe Chipot.  
   [J. Phys. Chem. B (2024)](https://doi.org/10.1021/acs.jpcb.4c06231)  
