@@ -841,17 +841,21 @@ Du, Yilun, Joshua Meier, Jerry Ma, Rob Fergus, and Alexander Rives.
 ### Bayesian-based
 
 
+* **BaNDyT: Bayesian Network Modeling of Molecular Dynamics Trajectories** [2025]  
+Mukhaleva, Elizaveta, Babgen Manookian, Hanyu Chen, Indira R. Sivaraj, Ning Ma, Wenyuan Wei, Konstancja Urbaniak et al.   
+[J. Chem. Inf. Model. (2025)](https://doi.org/10.1021/acs.jcim.4c01981) | [code](https://github.com/bandyt-group/bandyt)  
+
 * **Enabling Population Protein Dynamics Through Bayesian Modeling** [2024]  
 Sylvain Lehmann, Jérôme Vialaret, Audrey Gabelle, Luc Bauchet, Jean-Philippe Villemin, Christophe Hirtz, Jacques Colinge.   
-[Bioinformatics (2024)](https://doi.org/10.1093/bioinformatics/btae484)
+[Bioinformatics (2024)](https://doi.org/10.1093/bioinformatics/btae484)  
 
 * **Deep Boosted Molecular Dynamics (DBMD): Accelerating molecular simulations with Gaussian boost potentials generated using probabilistic Bayesian deep neural network** [2023]  
 Do, Hung N., and Yinglong Miao.   
-[bioRxiv(2023)](https://doi.org/10.1101/2023.03.25.534210) | [code](https://github.com/MiaoLab20/DBMD/)
+[bioRxiv(2023)](https://doi.org/10.1101/2023.03.25.534210) | [code](https://github.com/MiaoLab20/DBMD/)  
 
 * **Deep Generative Models of Protein Structure Uncover Distant Relationships Across a Continuous Fold Space** [2023]  
 Draizen, Eli J., Stella Veretnik, Cameron Mura, and Philip E. Bourne.   
-[bioRxiv(2023)](https://doi.org/10.1101/2022.07.29.501943) | [code](https://github.com/bouralab/DeepUrfold)
+[bioRxiv(2023)](https://doi.org/10.1101/2022.07.29.501943) | [code](https://github.com/bouralab/DeepUrfold)  
 
 
 
