@@ -294,6 +294,10 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 ### Neural Network Potentials
 
 
+* **Learning Smooth and Expressive Interatomic Potentials for Physical Property Prediction** [2025]  
+Xiang Fu, Brandon M. Wood, Luis Barroso-Luque, Daniel S. Levine, Meng Gao, Misko Dzamba, C. Lawrence Zitnick.  
+[arXiv:2502.12147 (2025)](https://arxiv.org/abs/2502.12147) | [code](https://github.com/FAIR-Chem/fairchem)   
+
 * **PiNN: Equivariant Neural Network Suite for Modeling Electrochemical Systems** [2025]  
 Jichen Li, Lisanne Knijff, Zhan-Yun Zhang, Linnéa Andersson, and Chao Zhang.  
 [J. Chem. Theory Comput. (2025)](https://doi.org/10.1021/acs.jctc.4c01570) | [code](https://teoroo-cmc.github.io/PiNN/master/usage/pinet)   
