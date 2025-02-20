@@ -1286,14 +1286,13 @@ Spoendlin, Fabian C., Wing Ki Wong, Guy Georges, Alexander Bujotzek, and Charlot
 ### Ligand-Protein conformational ensembles
 
 
-
 * **A Multi-Grained Symmetric Differential Equation Model for Learning Protein-Ligand Binding Dynamics** [2024]  
 Shengchao Liu, Weitao Du, Hannan Xu, Yanjing Li, Zhuoxinran Li, Vignesh Bhethanabotla, Divin Yan, Christian Borgs, Anima Anandkumar, Hongyu Guo, Jennifer Chayes.   
 [arXiv:2401.15122 (2024)](https://arxiv.org/abs/2401.15122) | [code](https://github.com/chao1224/NeuralMD)  
 
 * **Modeling protein-small molecule conformational ensembles with ChemNet** [2024]  
 Ivan Anishchenko, Yakov Kipnis, Indrek Kalvet, Guangfeng Zhou, Rohith Krishna, Samuel J. Pellock, Anna Lauko, Gyu Rie Lee, Linna An, Justas Dauparas, Frank DiMaio, David Baker.   
-[bioRxiv (2024)](https://doi.org/10.1101/2024.09.25.614868)  
+[bioRxiv (2024)](https://doi.org/10.1101/2024.09.25.614868) | [code](https://github.com/baker-laboratory/PLACER)  
 
 * **MISATO: machine learning dataset of protein–ligand complexes for structure-based drug discovery** [2024]  
 Siebenmorgen, T., Menezes, F., Benassou, S. et al.   
