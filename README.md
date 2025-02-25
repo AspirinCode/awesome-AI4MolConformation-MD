@@ -294,6 +294,11 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 ### Neural Network Potentials
 
 
+
+* **End-To-End Learning of Classical Interatomic Potentials for Benchmarking Anion Polarization Effects in Lithium Polymer Electrolytes** [2025]  
+Pablo A. Leon, Avni Singhal, Jurgis Ruza, Jeremiah A. Johnson, Yang Shao-Horn, and Rafael Gomez-Bombarelli.  
+[Chem. Mater. (2025)](https://doi.org/10.1021/acs.chemmater.4c02529) | [code](https://github.com/learningmatter-mit/AutoBADDIE)   
+
 * **Learning Smooth and Expressive Interatomic Potentials for Physical Property Prediction** [2025]  
 Xiang Fu, Brandon M. Wood, Luis Barroso-Luque, Daniel S. Levine, Meng Gao, Misko Dzamba, C. Lawrence Zitnick.  
 [arXiv:2502.12147 (2025)](https://arxiv.org/abs/2502.12147) | [code](https://github.com/FAIR-Chem/fairchem)   
@@ -1393,6 +1398,10 @@ A. Clay Richard, Robert J. Pantazes.
 
 ### Material ensembles
 
+
+* **End-To-End Learning of Classical Interatomic Potentials for Benchmarking Anion Polarization Effects in Lithium Polymer Electrolytes** [2025]  
+Pablo A. Leon, Avni Singhal, Jurgis Ruza, Jeremiah A. Johnson, Yang Shao-Horn, and Rafael Gomez-Bombarelli.  
+[Chem. Mater. (2025)](https://doi.org/10.1021/acs.chemmater.4c02529) | [code](https://github.com/learningmatter-mit/AutoBADDIE)   
 
 * **General-purpose machine-learned potential for 16 elemental metals and their alloys** [2024]  
 Song, K., Zhao, R., Liu, J. et al.  
