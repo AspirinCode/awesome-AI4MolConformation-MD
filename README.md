@@ -396,7 +396,9 @@ Zhang, Yuzhi, Haidi Wang, Weijie Chen, Jinzhe Zeng, Linfeng Zhang, Han Wang, and
 
 ### Free Energy Perturbation
 
-
+* **Robust protein–ligand interaction modeling through integrating physical laws and geometric knowledge for absolute binding free energy calculation** [2025]   
+Su, Qun, Jike Wang, Qiaolin Gou, Renling Hu, Linlong Jiang, Hui Zhang, Tianyue Wang et al.  
+  [Chemical Science (2025)](https://doi.org/10.1039/D4SC07405J) | [code](https://github.com/lingcon01/LumiNet)  
 
 * **Lambda-ABF-OPES: Faster Convergence with High Accuracy in Alchemical Free Energy Calculations** [2025]  
 Narjes Ansari, Francis Jing, Antoine Gagelin, Florent Hédin, Félix Aviat, Jérôme Hénin, Jean-Philip Piquemal, Louis Lagardère.  
@@ -404,7 +406,7 @@ Narjes Ansari, Francis Jing, Antoine Gagelin, Florent Hédin, Félix Aviat, Jér
 
 * **Comparison of Methodologies for Absolute Binding Free Energy Calculations of Ligands to Intrinsically Disordered Proteins** [2024]   
 Michail Papadourakis, Zoe Cournia, Antonia S. J. S. Mey, and Julien Michel.    
-  [J. Chem. Theory Comput. (2024)](https://doi.org/10.1021/acs.jctc.4c00942) | [code](https://github.com/michellab/idpabfe)    
+  [J. Chem. Theory Comput. (2024)](https://doi.org/10.1021/acs.jctc.4c00942) | [code](https://github.com/michellab/idpabfe)  
 
 * **FEP-SPell-ABFE: An Open-Source Automated Alchemical Absolute Binding Free Energy Calculation Workflow for Drug Discovery** [2024]   
 Pengfei Li,Tingting Pu ,Ye Mei.    
