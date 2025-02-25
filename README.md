@@ -398,6 +398,10 @@ Zhang, Yuzhi, Haidi Wang, Weijie Chen, Jinzhe Zeng, Linfeng Zhang, Han Wang, and
 
 
 
+* **Lambda-ABF-OPES: Faster Convergence with High Accuracy in Alchemical Free Energy Calculations** [2025]  
+Narjes Ansari, Francis Jing, Antoine Gagelin, Florent Hédin, Félix Aviat, Jérôme Hénin, Jean-Philip Piquemal, Louis Lagardère.  
+  [arXiv:2502.17233 (2025)](https://arxiv.org/abs/2502.17233)   
+
 * **Comparison of Methodologies for Absolute Binding Free Energy Calculations of Ligands to Intrinsically Disordered Proteins** [2024]   
 Michail Papadourakis, Zoe Cournia, Antonia S. J. S. Mey, and Julien Michel.    
   [J. Chem. Theory Comput. (2024)](https://doi.org/10.1021/acs.jctc.4c00942) | [code](https://github.com/michellab/idpabfe)    
