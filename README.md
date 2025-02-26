@@ -476,8 +476,12 @@ Do, Hung N., Jinan Wang, Apurba Bhattarai, and Yinglong Miao.
 ### AlphaFold-based
 
 
+* **Characterizing the Conformational States of G Protein Coupled Receptors Generated with AlphaFold** [2025]  
+Garima Chib, Parisa Mollaei, Amir Barati Farimani.  
+[arXiv:2502.17628(2025)](hhttps://arxiv.org/abs/2502.17628) | [code](https://github.com/garimachib01/GPCR_AlphaFold)  
+
 * **AlphaFold2-RAVE: Protein Ensemble Generation with Physics-Based Sampling** [2025]  
-Teng D, Meraz VJ, Aranganathan A, Gu X, Tiwary P.   
+Teng D, Meraz VJ, Aranganathan A, Gu X, Tiwary P.  
 [ChemRxiv. (2025)](https://doi.org/10.26434/chemrxiv-2025-q3mwr) | [code](https://github.com/tiwarylab/af2rave)  
 
 * **Gradations in protein dynamics captured by experimental NMR are not well represented by AlphaFold2 models and other computational metrics** [2025]  
