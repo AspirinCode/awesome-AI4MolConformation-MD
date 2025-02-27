@@ -185,6 +185,15 @@ MacCallum, J. L., Hu, S., Lenz, S., Souza, P. C., Corradi, V., & Tieleman, D. P.
 
 
 
+
+* **OpenCafeMol: A GPU-accelerated coarse-grained biomolecular dynamics simulator with OpenMM library** [2025]  
+Barnett, Simon, and John D. Chodera.  
+[bioRxiv. (2025)](https://doi.org/10.1101/2025.02.20.639390)  
+
+
+
+
+
 ### AI4MD Engines-Frameworks
 
 * [OpenMM 8](https://github.com/openmm/openmm) - Molecular Dynamics Simulation with Machine Learning Potentials.  
