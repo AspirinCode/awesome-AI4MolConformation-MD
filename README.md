@@ -1036,15 +1036,17 @@ Bottaro, S., Bussi, G., Kennedy, S.D., Turner, D.H. and Lindorff-Larsen, K.
 ### Peptide conformational ensembles
 
 
-
+* **Scoring Conformational Metastability of Macrocyclic Peptides with Binding Pose Metadynamics** [2025]  
+Ryan Dykstra and Dan Sindhikara.  
+[J. Chem. Inf. Model. (2025)](https://doi.org/10.1021/acs.jcim.4c01408)  
 
 * **CREMP: Conformer-rotamer ensembles of macrocyclic peptides for machine learning** [2024]  
 Grambow, C.A., Weir, H., Cunningham, C.N. et al.   
-[Sci Data 11, 859 (2024)](https://doi.org/10.1038/s41597-024-03698-y) | [code](https://github.com/Genentech/cremp)
+[Sci Data 11, 859 (2024)](https://doi.org/10.1038/s41597-024-03698-y) | [code](https://github.com/Genentech/cremp)  
 
 * **Direct conformational sampling from peptide energy landscapes through hypernetwork-conditioned diffusion** [2024]  
 Abdin, O., Kim, P.M.   
-[Nat Mach Intell 6, 775–786 (2024)](https://doi.org/10.1038/s42256-024-00860-4) | [code](https://gitlab.com/oabdin/pepflow)
+[Nat Mach Intell 6, 775–786 (2024)](https://doi.org/10.1038/s42256-024-00860-4) | [code](https://gitlab.com/oabdin/pepflow)  
 
 * **Accurate and Efficient Structural Ensemble Generation of Macrocyclic Peptides using Internal Coordinate Diffusion** [2023]  
 Grambow, Colin A., Hayley Weir, Nathaniel Diamant, Alex Tseng, Tommaso Biancalani, Gabriele Scalia and Kangway V Chuang.   
