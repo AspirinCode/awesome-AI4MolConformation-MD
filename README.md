@@ -137,7 +137,9 @@ https://github.com/LumosBio/MolData
 ### Molecular Force Fields
 
 
-
+* **BoostMD: Accelerated Molecular Sampling Leveraging ML Force Field Features** [2025]  
+Zhaoxin Xie, Yanheng Li, Yijie Xia, Jun Zhang, Sihao Yuan, Cheng Fan, Yi Isaac Yang, and Yi Qin Gao.  
+[J. Chem. Theory Comput. (2025)](https://doi.org/10.1021/acs.jctc.4c01449)  
 
 * **BoostMD: Accelerated Molecular Sampling Leveraging ML Force Field Features** [2024]  
 Schaaf, Lars Leon, Ilyes Batatia, Jules Tilly, and Thomas D. Barrett.   
