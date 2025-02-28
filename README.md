@@ -1419,6 +1419,11 @@ A. Clay Richard, Robert J. Pantazes.
 ### Material ensembles
 
 
+
+* **Advancing nonadiabatic molecular dynamics simulations in solids with E(3) equivariant deep neural hamiltonians** [2025]  
+Zhang, C., Zhong, Y., Tao, ZG. et al.  
+[Nat Commun 16, 2033 (2025)](https://doi.org/10.1038/s41467-025-57328-1) | [code](https://github.com/QuantumLab-ZY/HamGNN)  
+
 * **End-To-End Learning of Classical Interatomic Potentials for Benchmarking Anion Polarization Effects in Lithium Polymer Electrolytes** [2025]  
 Pablo A. Leon, Avni Singhal, Jurgis Ruza, Jeremiah A. Johnson, Yang Shao-Horn, and Rafael Gomez-Bombarelli.  
 [Chem. Mater. (2025)](https://doi.org/10.1021/acs.chemmater.4c02529) | [code](https://github.com/learningmatter-mit/AutoBADDIE)   
