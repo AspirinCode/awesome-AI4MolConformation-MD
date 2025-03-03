@@ -489,12 +489,17 @@ Do, Hung N., Jinan Wang, Apurba Bhattarai, and Yinglong Miao.
 
 
 
+Pajkos, Mátyás, et al. "AFflecto: A web server to generate conformational ensembles of flexible proteins from AlphaFold models." Journal of Molecular Biology (2025): 169003.
 
 
 
 
 ### AlphaFold-based
 
+
+* **AFflecto: A web server to generate conformational ensembles of flexible proteins from AlphaFold models** [2025]  
+Pajkos, Mátyás, Ilinka Clerc, Christophe Zanon, Pau Bernadó, and Juan Cortés.  
+[Journal of Molecular Biology (2025)](https://doi.org/10.1016/j.jmb.2025.169003) | [web](https://moma.laas.fr/applications/AFflecto)  
 
 * **Characterizing the Conformational States of G Protein Coupled Receptors Generated with AlphaFold** [2025]  
 Garima Chib, Parisa Mollaei, Amir Barati Farimani.  
