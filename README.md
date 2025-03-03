@@ -327,6 +327,10 @@ Jichen Li, Lisanne Knijff, Zhan-Yun Zhang, Linnéa Andersson, and Chao Zhang.
 Liu, Yuanbin, Joe D. Morrow, Christina Ertural, Natascia L. Fragapane, John LA Gardner, Aakash A. Naik, Yuxing Zhou, Janine George, and Volker L. Deringer.  
 [arXiv:2412.16736 (2024)](https://arxiv.org/abs/2412.16736) | [code](https://github.com/autoatml/autoplex)   
 
+* **The Importance of Being Scalable: Improving the Speed and Accuracy of Neural Network Interatomic Potentials Across Chemical Domains** [2024]  
+Eric Qu, Aditi S. Krishnapriyan.  
+[arXiv:2410.24169 (2024)](https://arxiv.org/abs/2410.24169v1)   
+
 * **Universal Machine Learning Interatomic Potentials are Ready for Phonons** [2024]  
 Antoine Loew, Dewen Sun, Hai-Chen Wang, Silvana Botti, Miguel A. L. Marques.  
 [arXiv:2412.16551 (2024)](https://arxiv.org/abs/2412.16551) | [code](https://github.com/hyllios/utils)   
