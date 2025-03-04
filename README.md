@@ -314,6 +314,10 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 Zeng, Jinzhe, Duo Zhang, Anyang Peng, Xiangyu Zhang, Sensen He, Yan Wang, Xinzijian Liu et al.  
 [arXiv:2502.19161 (2025)](https://arxiv.org/abs/2502.19161) | [code](https://github.com/njzjz/benchmark-dpv3)  
 
+* **ANI-1xBB: an ANI based reactive potential** [2025]  
+Zhang S, Zubatyuk R, Yang Y, Roitberg A, Isayev O.  
+[ChemRxiv. (2025)](https://doi.org/10.26434/chemrxiv-2025-m2nqq)  
+
 * **Efficient Training of Neural Network Potentials for Chemical and Enzymatic Reactions by Continual Learning** [2025]  
 Yao-Kun Lei, Kiyoshi Yagi, and Yuji Sugita.  
 [J. Chem. Theory Comput. (2025)](https://doi.org/10.1021/acs.jctc.4c01393)   
