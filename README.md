@@ -497,6 +497,10 @@ Pajkos, Mátyás, et al. "AFflecto: A web server to generate conformational ense
 ### AlphaFold-based
 
 
+* **Hidden Structural States of Proteins Revealed by Conformer Selection with AlphaFold-NMR** [2025]  
+Yuanpeng J. Huang, Theresa A. Ramelot, Laura E. Spaman, Naohiro Kobayashi, Gaetano T. Montelione.  
+[bioRxiv (2025)](https://doi.org/10.1101/2024.06.26.600902) | [code](https://github.rpi.edu/RPIBioinformatics/AlphaFold-NMR)  
+
 * **AFflecto: A web server to generate conformational ensembles of flexible proteins from AlphaFold models** [2025]  
 Pajkos, Mátyás, Ilinka Clerc, Christophe Zanon, Pau Bernadó, and Juan Cortés.  
 [Journal of Molecular Biology (2025)](https://doi.org/10.1016/j.jmb.2025.169003) | [web](https://moma.laas.fr/applications/AFflecto)  
@@ -1075,6 +1079,10 @@ Grambow, Colin A., Hayley Weir, Nathaniel Diamant, Alex Tseng, Tommaso Biancalan
 
 ### Protein conformational ensembles
 
+
+* **Hidden Structural States of Proteins Revealed by Conformer Selection with AlphaFold-NMR** [2025]  
+Yuanpeng J. Huang, Theresa A. Ramelot, Laura E. Spaman, Naohiro Kobayashi, Gaetano T. Montelione.  
+[bioRxiv (2025)](https://doi.org/10.1101/2024.06.26.600902) | [code](https://github.rpi.edu/RPIBioinformatics/AlphaFold-NMR)  
 
 * **Insights into phosphorylation-induced influences on conformations and inhibitor binding of CDK6 through GaMD trajectory-based deep learning** [2025]  
 Zhao, Lu and Wang, Jian and Yang, Wanchun and Zhang, Canqing and Zhang, Weiwei and Chen, Jianzhong.   
