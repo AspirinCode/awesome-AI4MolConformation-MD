@@ -305,7 +305,9 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 ### Neural Network Potentials
 
 
-
+* **Efficient Training of Neural Network Potentials for Chemical and Enzymatic Reactions by Continual Learning** [2025]  
+Yao-Kun Lei, Kiyoshi Yagi, and Yuji Sugita.  
+[J. Chem. Theory Comput. (2025)](https://doi.org/10.1021/acs.jctc.4c01393)   
 
 * **Efficient equivariant model for machine learning interatomic potentials** [2025]  
 Yang, Z., Wang, X., Li, Y. et al.  
