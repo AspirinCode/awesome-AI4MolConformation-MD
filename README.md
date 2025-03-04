@@ -757,15 +757,17 @@ Tatro, Norman Joseph, Payel Das, Pin-Yu Chen, Vijil Chenthamarakshan, and Rongji
 
 
 
-
+* **DeepPath: Overcoming data scarcity for protein transition pathway prediction using physics-based deep learning** [2025]  
+Yui Tik Pang, Katie M. Kuo, Lixinhao Yang, James C. Gumbart.   
+[bioRxiv. (2025)](https://doi.org/10.1101/2025.02.27.640693)   
 
 * **Direct generation of protein conformational ensembles via machine learning** [2023]  
 Janson, G., Valdes-Garcia, G., Heo, L. et al.   
-[Nat Commun 14, 774 (2023)](https://doi.org/10.1038/s41467-023-36443-x) | [code](https://github.com/feiglab/idpgan)
+[Nat Commun 14, 774 (2023)](https://doi.org/10.1038/s41467-023-36443-x) | [code](https://github.com/feiglab/idpgan)  
 
 * **Molecular dynamics without molecules: searching the conformational space of proteins with generative neural networks** [2022]  
 Schwing, Gregory, Luigi L. Palese, Ariel Fernández, Loren Schwiebert, and Domenico L. Gatti.   
-[arXiv:2206.04683 (2022)](https://arxiv.org/abs/2206.04683) | [code](https://github.com/dgattiwsu/MD_without_molecules)
+[arXiv:2206.04683 (2022)](https://arxiv.org/abs/2206.04683) | [code](https://github.com/dgattiwsu/MD_without_molecules)  
 
 
 
