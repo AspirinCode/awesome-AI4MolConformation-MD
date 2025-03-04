@@ -141,13 +141,13 @@ https://github.com/LumosBio/MolData
 Zhaoxin Xie, Yanheng Li, Yijie Xia, Jun Zhang, Sihao Yuan, Cheng Fan, Yi Isaac Yang, and Yi Qin Gao.  
 [J. Chem. Theory Comput. (2025)](https://doi.org/10.1021/acs.jctc.4c01449)  
 
-* **BoostMD: Accelerated Molecular Sampling Leveraging ML Force Field Features** [2024]  
-Schaaf, Lars Leon, Ilyes Batatia, Jules Tilly, and Thomas D. Barrett.   
-[NeurIPS 2024 Workshop on Data-driven and Differentiable Simulations, Surrogates, and Solvers. (2024)](https://openreview.net/forum?id=H0USH61HnF)  
+* **Efficient and Precise Force Field Optimization for Biomolecules Using DPA-2** [2024]  
+Junhan Chang, Duo Zhang, Yuqing Deng, Hongrui Lin, Zhirong Liu, Linfeng Zhang, Hang Zheng, Xinyan Wang.   
+[arXiv:2406.09817 (2024)](https://arxiv.org/abs/2406.09817) | [code](https://github.com/deepmodeling/DeePDih)  
 
 * **Reversible molecular simulation for training classical and machine learning force fields** [2024]  
 Joe G Greener.   
-[	arXiv:2412.04374 (2024)](https://arxiv.org/abs/2412.04374) | [code](https://github.com/JuliaMolSim/Molly.jl)  
+[arXiv:2412.04374 (2024)](https://arxiv.org/abs/2412.04374) | [code](https://github.com/JuliaMolSim/Molly.jl)  
 
 * **HessFit: A Toolkit to Derive Automated Force Fields from Quantum Mechanical Information** [2024]  
 Falbo, E. and Lavecchia, A.   
