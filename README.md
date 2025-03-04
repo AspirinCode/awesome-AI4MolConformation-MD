@@ -305,6 +305,10 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 ### Neural Network Potentials
 
 
+* **DeePMD-kit v3: A Multiple-Backend Framework for Machine Learning Potentials** [2025]  
+Zeng, Jinzhe, Duo Zhang, Anyang Peng, Xiangyu Zhang, Sensen He, Yan Wang, Xinzijian Liu et al.  
+[arXiv:2502.19161 (2025)](https://arxiv.org/abs/2502.19161) | [code](https://github.com/njzjz/benchmark-dpv3)  
+
 * **Efficient Training of Neural Network Potentials for Chemical and Enzymatic Reactions by Continual Learning** [2025]  
 Yao-Kun Lei, Kiyoshi Yagi, and Yuji Sugita.  
 [J. Chem. Theory Comput. (2025)](https://doi.org/10.1021/acs.jctc.4c01393)   
