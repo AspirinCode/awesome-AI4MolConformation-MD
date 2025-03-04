@@ -136,6 +136,9 @@ https://github.com/LumosBio/MolData
 
 ### Molecular Force Fields
 
+* **Towards Fast, Specialized Machine Learning Force Fields: Distilling Foundation Models via Energy Hessians** [2025]  
+Ishan Amin, Sanjeev Raja, Aditi Krishnapriyan.  
+[arXiv:2501.09009 (2025)](https://arxiv.org/abs/2501.09009) | [code](https://github.com/ASK-Berkeley/MLFF-distill)  
 
 * **BoostMD: Accelerated Molecular Sampling Leveraging ML Force Field Features** [2025]  
 Zhaoxin Xie, Yanheng Li, Yijie Xia, Jun Zhang, Sihao Yuan, Cheng Fan, Yi Isaac Yang, and Yi Qin Gao.  
