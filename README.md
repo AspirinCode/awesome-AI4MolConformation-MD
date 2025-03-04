@@ -1074,6 +1074,10 @@ Grambow, Colin A., Hayley Weir, Nathaniel Diamant, Alex Tseng, Tommaso Biancalan
 ### Protein conformational ensembles
 
 
+* **Insights into phosphorylation-induced influences on conformations and inhibitor binding of CDK6 through GaMD trajectory-based deep learning** [2025]  
+Zhao, Lu and Wang, Jian and Yang, Wanchun and Zhang, Canqing and Zhang, Weiwei and Chen, Jianzhong.   
+[Phys. Chem. Chem. Phys. (2025)](http://dx.doi.org/10.1039/D4CP04579C) | [code](https://github.com/Peach92/CDK6-pho-GaMD-trajectory-based-deep-learning)  
+
 * **AlphaFold2-RAVE: Protein Ensemble Generation with Physics-Based Sampling** [2025]  
 Teng D, Meraz VJ, Aranganathan A, Gu X, Tiwary P.   
 [ChemRxiv. (2025)](https://doi.org/10.26434/chemrxiv-2025-q3mwr) | [code](https://github.com/tiwarylab/af2rave)  
