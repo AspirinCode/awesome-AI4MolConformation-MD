@@ -310,6 +310,10 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 ### Neural Network Potentials
 
 
+* **Accurate Free Energy Calculation via Multiscale Simulations Driven by Hybrid Machine Learning and Molecular Mechanics Potentials** [2025]  
+Wang X, Wu X, Brooks B, Wang J.  
+[ChemRxiv. (2025)](https://doi.org/10.26434/chemrxiv-2024-zq975-v2)  
+
 * **DeePMD-kit v3: A Multiple-Backend Framework for Machine Learning Potentials** [2025]  
 Zeng, Jinzhe, Duo Zhang, Anyang Peng, Xiangyu Zhang, Sensen He, Yan Wang, Xinzijian Liu et al.  
 [arXiv:2502.19161 (2025)](https://arxiv.org/abs/2502.19161) | [code](https://github.com/njzjz/benchmark-dpv3)  
@@ -435,6 +439,11 @@ Zhang, Yuzhi, Haidi Wang, Weijie Chen, Jinzhe Zeng, Linfeng Zhang, Han Wang, and
 
 
 ### Free Energy Perturbation
+
+
+* **Accurate Free Energy Calculation via Multiscale Simulations Driven by Hybrid Machine Learning and Molecular Mechanics Potentials** [2025]  
+Wang X, Wu X, Brooks B, Wang J.  
+[ChemRxiv. (2025)](https://doi.org/10.26434/chemrxiv-2024-zq975-v2)  
 
 * **Robust protein–ligand interaction modeling through integrating physical laws and geometric knowledge for absolute binding free energy calculation** [2025]   
 Su, Qun, Jike Wang, Qiaolin Gou, Renling Hu, Linlong Jiang, Hui Zhang, Tianyue Wang et al.  
