@@ -310,6 +310,10 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 ### Neural Network Potentials
 
 
+* **Free energy profiles for chemical reactions in solution from high-dimensional neural network potentials: The case of the Strecker synthesis** [2025]  
+Alea Miako Tokita, Timothée Devergne, A. Marco Saitta, Jörg Behler.  
+[arXiv:2503.05370 (2025)](https://arxiv.org/abs/2503.05370)  
+
 * **Accurate Free Energy Calculation via Multiscale Simulations Driven by Hybrid Machine Learning and Molecular Mechanics Potentials** [2025]  
 Wang X, Wu X, Brooks B, Wang J.  
 [ChemRxiv. (2025)](https://doi.org/10.26434/chemrxiv-2024-zq975-v2)  
@@ -440,6 +444,9 @@ Zhang, Yuzhi, Haidi Wang, Weijie Chen, Jinzhe Zeng, Linfeng Zhang, Han Wang, and
 
 ### Free Energy Perturbation
 
+* **Free energy profiles for chemical reactions in solution from high-dimensional neural network potentials: The case of the Strecker synthesis** [2025]  
+Alea Miako Tokita, Timothée Devergne, A. Marco Saitta, Jörg Behler.  
+[arXiv:2503.05370 (2025)](https://arxiv.org/abs/2503.05370)  
 
 * **Accurate Free Energy Calculation via Multiscale Simulations Driven by Hybrid Machine Learning and Molecular Mechanics Potentials** [2025]  
 Wang X, Wu X, Brooks B, Wang J.  
