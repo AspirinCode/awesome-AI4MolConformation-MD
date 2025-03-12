@@ -310,6 +310,9 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 ### Neural Network Potentials
 
 
+
+
+
 * **Free energy profiles for chemical reactions in solution from high-dimensional neural network potentials: The case of the Strecker synthesis** [2025]  
 Alea Miako Tokita, Timothée Devergne, A. Marco Saitta, Jörg Behler.  
 [arXiv:2503.05370 (2025)](https://arxiv.org/abs/2503.05370)  
@@ -353,6 +356,10 @@ Liu, Yuanbin, Joe D. Morrow, Christina Ertural, Natascia L. Fragapane, John LA G
 * **The Importance of Being Scalable: Improving the Speed and Accuracy of Neural Network Interatomic Potentials Across Chemical Domains** [2024]  
 Eric Qu, Aditi S. Krishnapriyan.  
 [arXiv:2410.24169 (2024)](https://arxiv.org/abs/2410.24169v1)   
+
+* **DeepConf: Leveraging ANI-ML Potentials for Exploring Local Minima with A Focus on Bioactive Conformations** [2024]  
+Tayfuroglu O, Zengin İN, Koca MS, Kocak A.  
+[ChemRxiv. (2024)](https://doi.org/10.26434/chemrxiv-2024-xqbdp-v2) | [code](https://github.com/otayfuroglu/DeepConf)  
 
 * **Universal Machine Learning Interatomic Potentials are Ready for Phonons** [2024]  
 Antoine Loew, Dewen Sun, Hai-Chen Wang, Silvana Botti, Miguel A. L. Marques.  
