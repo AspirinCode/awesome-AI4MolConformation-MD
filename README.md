@@ -16,7 +16,7 @@ List of **molecules ( small molecules, RNA, peptide, protein, enzymes, antibody,
 
 | Menu | Menu | Menu | Menu |
 | ------ | :---------- | ------ | ------ |
-| [Reviews](#reviews) | [Datasets and Package](#datasets-and-package) | [Molecular dynamics](#molecular-dynamics) | [Molecular Force Fields](#molecular-force-fields) |
+| [Reviews](#reviews) | [Datasets and Package](#datasets-and-package) | [Molecular dynamics](#molecular-dynamics) | [Neural Molecular Force Fields](#neural-molecular-force-fields) |
 | [MD Engines-Frameworks](#md-engines-frameworks) | [AI4MD Engines-Frameworks](#ai4md-engines-frameworks) | [MD Trajectory Processing-Analysis](#md-trajectory-processing-analysis) | [AI4MD](#ai4md) |
 | [Neural Network Potentials](#neural-network-potentials) | [Free Energy Perturbation](#free-energy-perturbation) | [Ab Initio](#ab-initio) |  |
 | [AlphaFold-based](#alphaFold-based) | [GNN-based](#gnn-based)  | [LSTM-based](#lstm-based) | [Transformer-based](#transformer-based) |
@@ -134,7 +134,11 @@ https://github.com/LumosBio/MolData
 
 
 
-### Molecular Force Fields
+### Neural Molecular Force Fields
+
+
+
+
 
 * **Towards Fast, Specialized Machine Learning Force Fields: Distilling Foundation Models via Energy Hessians** [2025]  
 Ishan Amin, Sanjeev Raja, Aditi Krishnapriyan.  
@@ -172,7 +176,9 @@ Seute, Leif, Eric Hartmann, Jan Stühmer, and Frauke Gräter.
 MacCallum, J. L., Hu, S., Lenz, S., Souza, P. C., Corradi, V., & Tieleman, D. P.   
 [Biophysical Journal 122.14 (2023)](https://doi.org/10.1016/j.bpj.2023.04.007)  
 
-
+* **End-to-end differentiable construction of molecular mechanics force fields** [2022]  
+Wang, Yuanqing, Josh Fass, Benjamin Kaminow, John E. Herr, Dominic Rufa, Ivy Zhang, Iván Pulido et al.   
+[Chemical Science (2022)](https://doi.org/10.1039/D2SC02739A) | [code](https://github.com/openforcefield/openff-nagl)  
 
 
 ### MD Engines-Frameworks
