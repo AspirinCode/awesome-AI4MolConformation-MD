@@ -33,7 +33,7 @@ List of **molecules ( small molecules, RNA, peptide, protein, enzymes, antibody,
 | [Small molecule conformational ensembles](#small-molecule-conformational-ensembles) | [RNA conformational ensembles](#rna-conformational-ensembles) | [Peptide conformational ensembles](#peptide-conformational-ensembles) |
 | [Protein conformational ensembles](#protein-conformational-ensembles) | [Enzymes conformational ensembles](#enzymes-conformational-ensembles)  | [Antibody conformational ensembles](#antibody-conformational-ensembles) |
 | [Ligand-Protein conformational ensembles](#ligand-protein-conformational-ensembles) | [RNA-Peptide conformational ensembles](#rna-peptide-conformational-ensembles) | [PPI conformational ensembles](#ppi-conformational-ensembles) |
-| [Antibody-Protein conformational ensembles](#antibody-protein-conformational-ensembles) |  | [Material ensembles](#material-ensembles) |
+| [Antibody-Protein conformational ensembles](#antibody-protein-conformational-ensembles) | [Nucleic acid-Protein conformational ensembles](#nucleic-acid-protein-conformational-ensembles) | [Material ensembles](#material-ensembles) |
 
 
 
@@ -1494,6 +1494,24 @@ Nisha Kumari, Sonam Dhull, Tarak Karmakar.
 * **Using Short Molecular Dynamics Simulations to Determine the Important Features of Interactions in Antibody–Protein Complexes** [2024]  
 A. Clay Richard, Robert J. Pantazes.   
 [Proteins. (2024)](https://doi.org/10.1002/prot.26773)  
+
+
+
+
+
+
+
+
+### Nucleic acid-Protein conformational ensembles
+
+
+
+
+* **Communication pathway analysis within protein-nucleic acid complexes** [2025]  
+Sneha Bheemireddy, Roy González-Alemán, Emmanuelle Bignon, Yasaman Karami.  
+[bioRxiv. (2025)](https://doi.org/10.1101/2025.02.14.638259) | [code](https://github.com/yasamankarami/compass)  
+
+
 
 
 
