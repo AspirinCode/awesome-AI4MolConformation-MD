@@ -317,7 +317,9 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
-
+* **Does Hessian Data Improve the Performance of Machine Learning Potentials?** [2025]  
+Austin Rodriguez, Justin S. Smith, Jose L. Mendoza-Cortes.  
+[arXiv:2503.07839 (2025)](https://arxiv.org/abs/2503.07839)  
 
 * **Free energy profiles for chemical reactions in solution from high-dimensional neural network potentials: The case of the Strecker synthesis** [2025]  
 Alea Miako Tokita, Timothée Devergne, A. Marco Saitta, Jörg Behler.  
