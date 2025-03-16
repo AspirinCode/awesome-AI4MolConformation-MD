@@ -381,6 +381,10 @@ Barnett, Simon, and John D. Chodera.
 Song, K., Zhao, R., Liu, J. et al.  
 [Nat Commun 15, 10208 (2024)](https://doi.org/10.1038/s41467-024-54554-x) | [code](https://github.com/brucefan1983/GPUMD)    
 
+* **Scalable Parallel Algorithm for Graph Neural Network Interatomic Potentials in Molecular Dynamics Simulations** [2024]  
+Yutack Park, Jaesun Kim, Seungwoo Hwang, and Seungwu Han.  
+[J. Chem. Theory Comput. (2024)](https://doi.org/10.1021/acs.jctc.4c00190) | [code](https://github.com/MDIL-SNU/SevenNet)  
+
 * **Ab initio Accuracy Neural Network Potential for Drug-like Molecules** [2024]  
 Yang M, Zhang D, Wang X, Zhang L, Zhu T, Wang H.  
 [ChemRxiv. (2024)](https://doi.org/10.26434/chemrxiv-2024-sq8nh) | [data](https://www.aissquare.com/datasets/detail?pageType=datasets&name=Drug%28drug-like-molecule%29_DPA_v1_0&id=143)    
