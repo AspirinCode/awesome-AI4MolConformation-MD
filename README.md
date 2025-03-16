@@ -1519,6 +1519,9 @@ Sneha Bheemireddy, Roy González-Alemán, Emmanuelle Bignon, Yasaman Karami.
 ### Material ensembles
 
 
+* **Machine learning-driven molecular dynamics unveils a bulk phase transformation driving ammonia synthesis on barium hydride** [2025]  
+Tosello Gardini, A., Raucci, U. & Parrinello, M..  
+[Nat Commun 16, 2475 (2025)](https://doi.org/10.1038/s41467-025-57688-8) | [code](https://doi.org/10.5281/zenodo.14789082)  
 
 * **Advancing nonadiabatic molecular dynamics simulations in solids with E(3) equivariant deep neural hamiltonians** [2025]  
 Zhang, C., Zhong, Y., Tao, ZG. et al.  
