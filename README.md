@@ -1134,6 +1134,10 @@ Grambow, Colin A., Hayley Weir, Nathaniel Diamant, Alex Tseng, Tommaso Biancalan
 ### Protein conformational ensembles
 
 
+* **Unsupervised Learning of Progress Coordinates during Weighted Ensemble Simulations: Application to NTL9 Protein Folding** [2025]  
+Jeremy M. G. Leung, Nicolas C. Frazee, Alexander Brace, Anthony T. Bogetti, Arvind Ramanathan, and Lillian T. Chong.  
+[J. Chem. Theory Comput. (2025)](https://doi.org/10.1021/acs.jctc.4c01136) | [code](https://github.com/westpa/DL-enhancedWE)  
+
 * **Generalizable Protein Dynamics in Serine-Threonine Kinases: Physics is the key** [2025]  
 Soumendranath Bhakat, Shray Vats, Andreas Mardt, Alexei Degterev.  
 [bioRxiv (2025)](https://doi.org/10.1101/2025.03.06.641878)  
