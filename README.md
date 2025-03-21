@@ -138,7 +138,9 @@ https://github.com/LumosBio/MolData
 
 
 
-
+* **ILVES: Accurate and efficient bond length and angle constraints in molecular dynamics** [2025]  
+López-Villellas, L., Mikkelsen, C.C.K., Galano-Frutos, J.J., Marco-Sola, S., Alastruey-Benedé, J., Ibáñez, P., Moretó, M., De Rosa, M.C. and García-Risueño, P.  
+[arXiv:2503.13075 (2025)](https://arxiv.org/abs/2503.13075)  
 
 * **Towards Fast, Specialized Machine Learning Force Fields: Distilling Foundation Models via Energy Hessians** [2025]  
 Ishan Amin, Sanjeev Raja, Aditi Krishnapriyan.  
