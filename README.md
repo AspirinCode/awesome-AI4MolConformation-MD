@@ -43,6 +43,9 @@ List of **molecules ( small molecules, RNA, peptide, protein, enzymes, antibody,
 ## Reviews
 
 
+* **A comparison of probabilistic generative frameworks for molecular simulations** [2025]   
+ Richard John, Lukas Herron, Pratyush Tiwary.  
+  [J. Chem. Phys. (2025)](https://doi.org/10.1063/5.0249683)  
 
 * **Recent Advances in Machine Learning and Coarse-Grained Potentials for Biomolecular Simulations and Their Applications** [2025]   
  B. Poma A, Hinostroza Caldas A, Cofas-Vargas L, Jones M, L. Ferguson A, Medrano Sandonas L.  
