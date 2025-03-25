@@ -16,9 +16,9 @@ List of **molecules ( small molecules, RNA, peptide, protein, enzymes, antibody,
 
 | Menu | Menu | Menu | Menu |
 | ------ | :---------- | ------ | ------ |
-| [Reviews](#reviews) | [Datasets and Package](#datasets-and-package) | [Molecular dynamics](#molecular-dynamics) | [Neural Molecular Force Fields](#neural-molecular-force-fields) |
+| [Reviews](#reviews) | [Datasets and Package](#datasets-and-package) | [Molecular dynamics](#molecular-dynamics) | [Molecular Force Fields](#molecular-force-fields) |
 | [MD Engines-Frameworks](#md-engines-frameworks) | [AI4MD Engines-Frameworks](#ai4md-engines-frameworks) | [MD Trajectory Processing-Analysis](#md-trajectory-processing-analysis) | [AI4MD](#ai4md) |
-| [Neural Network Potentials](#neural-network-potentials) | [Free Energy Perturbation](#free-energy-perturbation) | [Ab Initio](#ab-initio) |  |
+| [Neural Network Potentials](#neural-network-potentials) | [Free Energy Perturbation](#free-energy-perturbation) | [Ab Initio](#ab-initio) | [Neural Molecular Force Fields](#neural-molecular-force-fields) |
 | [AlphaFold-based](#alphaFold-based) | [GNN-based](#gnn-based)  | [LSTM-based](#lstm-based) | [Transformer-based](#transformer-based) |
 | [VAE-based](#vae-based) | [GAN-based](#gan-based) | [Flow-based](#flow-based) | [Diffusion-based](#diffusion-based) |
 | [Score-Based](#score-Based) | [Energy-based](#energy-based) | [Bayesian-based](#bayesian-based) | [Active Learning-based](#active-learning-based) |
@@ -134,6 +134,13 @@ https://github.com/LumosBio/MolData
 
 
 
+### Molecular Force Fields
+
+
+
+* **Martini3-IDP: improved Martini 3 force field for disordered proteins** [2025]  
+Wang, L., Brasnett, C., Borges-Araújo, L. et al.  
+[Nat Commun 16, 2874 (2025)](https://doi.org/10.1038/s41467-025-58199-2) | [code](https://github.com/Martini-Force-Field-Initiative/Martini3-IDP-parameters)  
 
 
 
