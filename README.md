@@ -1427,6 +1427,12 @@ Spoendlin, Fabian C., Wing Ki Wong, Guy Georges, Alexander Bujotzek, and Charlot
 
 
 
+
+
+* **Towards automated physics-based absolute drug residence time predictions** [2025]  
+Smith Z, Branduardi D, Lupyan D, D’Arrigo G, Tiwary P, Wang L, et al.  
+[ChemRxiv. (2025)](https://doi.org/10.26434/chemrxiv-2025-wg75c)  
+
 * **Comparative Analysis of Quantum-Mechanical and standard Single-Structure Protein-Ligand Scoring Functions with MD-Based Free Energy Calculations** [2025]  
 SJalaie M, Fanfrlík J, Pecina A, Lepšík M, Řezáč J.  
 [ChemRxiv. (2025)](https://doi.org/10.26434/chemrxiv-2025-38lf5) | [code](https://github.com/Honza-R/Wang_dataset_SQM)  
