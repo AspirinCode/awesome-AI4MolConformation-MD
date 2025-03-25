@@ -551,6 +551,9 @@ Pajkos, Mátyás, et al. "AFflecto: A web server to generate conformational ense
 
 ### AlphaFold-based
 
+* **AlphaFold prediction of structural ensembles of disordered proteins** [2025]  
+Brotzakis, Z.F., Zhang, S., Murtada, M.H. et al.  
+[Nat Commun 16, 1632 (2025)](https://doi.org/10.1038/s41467-025-56572-9) | [code](https://github.com/vendruscolo-lab/AlphaFold-IDP)  
 
 * **Hidden Structural States of Proteins Revealed by Conformer Selection with AlphaFold-NMR** [2025]  
 Yuanpeng J. Huang, Theresa A. Ramelot, Laura E. Spaman, Naohiro Kobayashi, Gaetano T. Montelione.  
@@ -1136,6 +1139,11 @@ Grambow, Colin A., Hayley Weir, Nathaniel Diamant, Alex Tseng, Tommaso Biancalan
 
 ### Protein conformational ensembles
 
+
+
+* **AlphaFold prediction of structural ensembles of disordered proteins** [2025]  
+Brotzakis, Z.F., Zhang, S., Murtada, M.H. et al.  
+[Nat Commun 16, 1632 (2025)](https://doi.org/10.1038/s41467-025-56572-9) | [code](https://github.com/vendruscolo-lab/AlphaFold-IDP)  
 
 * **Unsupervised Learning of Progress Coordinates during Weighted Ensemble Simulations: Application to NTL9 Protein Folding** [2025]  
 Jeremy M. G. Leung, Nicolas C. Frazee, Alexander Brace, Anthony T. Bogetti, Arvind Ramanathan, and Lillian T. Chong.  
