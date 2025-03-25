@@ -1411,6 +1411,11 @@ Spoendlin, Fabian C., Wing Ki Wong, Guy Georges, Alexander Bujotzek, and Charlot
 ### Ligand-Protein conformational ensembles
 
 
+
+* **Comparative Analysis of Quantum-Mechanical and standard Single-Structure Protein-Ligand Scoring Functions with MD-Based Free Energy Calculations** [2025]  
+SJalaie M, Fanfrlík J, Pecina A, Lepšík M, Řezáč J.  
+[ChemRxiv. (2025)](https://doi.org/10.26434/chemrxiv-2025-38lf5) | [code](https://github.com/Honza-R/Wang_dataset_SQM)  
+
 * **A Multi-Grained Symmetric Differential Equation Model for Learning Protein-Ligand Binding Dynamics** [2024]  
 Shengchao Liu, Weitao Du, Hannan Xu, Yanjing Li, Zhuoxinran Li, Vignesh Bhethanabotla, Divin Yan, Christian Borgs, Anima Anandkumar, Hongyu Guo, Jennifer Chayes.   
 [arXiv:2401.15122 (2024)](https://arxiv.org/abs/2401.15122) | [code](https://github.com/chao1224/NeuralMD)  
