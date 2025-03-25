@@ -327,7 +327,9 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 ### Neural Network Potentials
 
-
+* **Hierarchical Deep Potential with Structure Constraints for Efficient Coarse-Grained Modeling** [2025]  
+Qi Huang, Yedi Li, Lei Zhu, and Wenjie Yu.  
+[J. Chem. Inf. Model.(2025)](https://doi.org/10.1021/acs.jcim.4c02042) | [code](https://github.com/huang-qi/HDP-SC/)  
 
 * **Does Hessian Data Improve the Performance of Machine Learning Potentials?** [2025]  
 Austin Rodriguez, Justin S. Smith, Jose L. Mendoza-Cortes.  
