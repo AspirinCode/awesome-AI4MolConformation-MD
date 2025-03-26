@@ -280,10 +280,13 @@ https://github.com/ipudu/awesome-molecular-dynamics
 ## AI4MD
 
 
+* **Kinetically Consistent Coarse Graining using Kernel-based Extended Dynamic Mode Decomposition** [2025]  
+Vahid Nateghi, Feliks Nüske.   
+[arXiv:2409.16396 (2025)](https://arxiv.org/abs/2409.16396) | [code](https://zenodo.org/records/13808938)  
 
 * **Advancing nonadiabatic molecular dynamics simulations in solids with E(3) equivariant deep neural hamiltonians** [2025]  
 Zhang, C., Zhong, Y., Tao, ZG. et al.   
-[Nat Commun 16, 2033 (2025)](https://doi.org/10.1038/s41467-025-57328-1) | [code](https://github.com/QuantumLab-ZY/HamGNN)   
+[Nat Commun 16, 2033 (2025)](https://doi.org/10.1038/s41467-025-57328-1) | [code](https://github.com/QuantumLab-ZY/HamGNN)  
 
 * **BoostMD: Accelerated Molecular Sampling Leveraging ML Force Field Features** [2024]  
 Schaaf, Lars Leon, Ilyes Batatia, Jules Tilly, and Thomas D. Barrett.   
