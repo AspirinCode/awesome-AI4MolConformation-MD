@@ -330,6 +330,11 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 ### Neural Network Potentials
 
+
+* **An Investigation of Physics Informed Neural Networks to Solve the Poisson–Boltzmann Equation in Molecular Electrostatics** [2025]  
+Martín A. Achondo, Jehanzeb H. Chaudhry, and Christopher D. Cooper.  
+[J. Chem. Theory Comput. (2025)](https://doi.org/10.1021/acs.jctc.4c01747) | [code](https://github.com/MartinAchondo/XPPBE)  
+
 * **Hierarchical Deep Potential with Structure Constraints for Efficient Coarse-Grained Modeling** [2025]  
 Qi Huang, Yedi Li, Lei Zhu, and Wenjie Yu.  
 [J. Chem. Inf. Model.(2025)](https://doi.org/10.1021/acs.jcim.4c02042) | [code](https://github.com/huang-qi/HDP-SC/)  
