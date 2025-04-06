@@ -19,10 +19,10 @@ List of **molecules ( small molecules, RNA, peptide, protein, enzymes, antibody,
 | [Reviews](#reviews) | [Datasets and Package](#datasets-and-package) | [Molecular dynamics](#molecular-dynamics) | [Molecular Force Fields](#molecular-force-fields) |
 | [MD Engines-Frameworks](#md-engines-frameworks) | [AI4MD Engines-Frameworks](#ai4md-engines-frameworks) | [MD Trajectory Processing-Analysis](#md-trajectory-processing-analysis) | [AI4MD](#ai4md) |
 | [Neural Network Potentials](#neural-network-potentials) | [Free Energy Perturbation](#free-energy-perturbation) | [Ab Initio](#ab-initio) | [Neural Molecular Force Fields](#neural-molecular-force-fields) |
-| [AlphaFold-based](#alphaFold-based) | [GNN-based](#gnn-based)  | [LSTM-based](#lstm-based) | [Transformer-based](#transformer-based) |
+| [AlphaFold-based](#alphaFold-based) | [Autoregressive-Based](#autoregressive-Based)  | [LSTM-based](#lstm-based) | [Transformer-based](#transformer-based) |
 | [VAE-based](#vae-based) | [GAN-based](#gan-based) | [Flow-based](#flow-based) | [Diffusion-based](#diffusion-based) |
 | [Score-Based](#score-Based) | [Energy-based](#energy-based) | [Bayesian-based](#bayesian-based) | [Active Learning-based](#active-learning-based) |
-| [LLM-MD](#llm-md) | [Autoregressive-Based](#autoregressive-Based) |  |  |
+| [GNN-based](#gnn-based) | [LLM-MD](#llm-md) |  |  |
 
 
 
@@ -703,35 +703,14 @@ Del Alamo, Diego, Davide Sala, Hassane S. Mchaourab, and Jens Meiler.
 
 
 
-### GNN-based
+
+### Autoregressive-Based
 
 
 
-
-* **A graph neural network-state predictive information bottleneck (GNN-SPIB) approach for learning molecular thermodynamics and kinetics** [2024]   
- Zou, Ziyue, Dedi Wang, and Pratyush Tiwary.  
-  [Digital Discovery (2024)](https://doi.org/10.1039/D4DD00315B) | [code](https://github.com/connorzzou/PLUMED-NEST)  
-
-* **Graph theory approaches for molecular dynamics simulations** [2024]   
- Patel AC, Sinha S, Palermo G.  
-  [Quarterly Reviews of Biophysics. (2024)](https://doi.org/10.1017/S0033583524000143)  
-
-* **EquiJump: Protein Dynamics Simulation via SO(3)-Equivariant Stochastic Interpolants** [2024]  
-Allan dos Santos Costa, Ilan Mitnikov, Franco Pellegrini, Ameya Daigavane, Mario Geiger, Zhonglin Cao, Karsten Kreis, Tess Smidt, Emine Kucukbenli, Joseph Jacobson.   
-[	arXiv:2410.09667 (2024)](https://arxiv.org/abs/2410.09667)  
-
-* **AbFlex: Predicting the conformational flexibility of antibody CDRs** [2024]  
-Spoendlin, Fabian C., Wing Ki Wong, Guy Georges, Alexander Bujotzek, and Charlotte Deane.   
-[ICML'24 Workshop ML for Life and Material Science: From Theory to Industry Applications (2024)](https://openreview.net/forum?id=or4tArwd5a) | [code](https://openreview.net/forum?id=or4tArwd5a)
-
-* **RevGraphVAMP: A protein molecular simulation analysis model combining graph convolutional neural networks and physical constraints** [2024]  
-Huang, Ying, Huiling Zhang, Zhenli Lin, Yanjie Wei, and Wenhui Xi.   
-[bioRxiv (2024)](https://doi.org/10.1101/2024.03.11.584426) | [code](https://github.com/DS00HY/RevGraphVamp)  
-
-
-
-
-
+* **Force-Free Molecular Dynamics Through Autoregressive Equivariant Networks** [2025]   
+Fabian L. Thiemann, Thiago Reschützegger, Massimiliano Esposito, Tseden Taddese, Juan D. Olarte-Plata, Fausto Martelli.  
+[	arXiv:2503.23794 (2025)](https://www.arxiv.org/abs/2503.23794) |  [code](https://github.com/IBM/trajcast)  
 
 
 
@@ -1007,6 +986,38 @@ Kleiman, Diego E., and Diwakar Shukla.
 
 
 
+
+
+
+
+### GNN-based
+
+
+
+
+* **A graph neural network-state predictive information bottleneck (GNN-SPIB) approach for learning molecular thermodynamics and kinetics** [2024]   
+ Zou, Ziyue, Dedi Wang, and Pratyush Tiwary.  
+  [Digital Discovery (2024)](https://doi.org/10.1039/D4DD00315B) | [code](https://github.com/connorzzou/PLUMED-NEST)  
+
+* **Graph theory approaches for molecular dynamics simulations** [2024]   
+ Patel AC, Sinha S, Palermo G.  
+  [Quarterly Reviews of Biophysics. (2024)](https://doi.org/10.1017/S0033583524000143)  
+
+* **EquiJump: Protein Dynamics Simulation via SO(3)-Equivariant Stochastic Interpolants** [2024]  
+Allan dos Santos Costa, Ilan Mitnikov, Franco Pellegrini, Ameya Daigavane, Mario Geiger, Zhonglin Cao, Karsten Kreis, Tess Smidt, Emine Kucukbenli, Joseph Jacobson.   
+[	arXiv:2410.09667 (2024)](https://arxiv.org/abs/2410.09667)  
+
+* **AbFlex: Predicting the conformational flexibility of antibody CDRs** [2024]  
+Spoendlin, Fabian C., Wing Ki Wong, Guy Georges, Alexander Bujotzek, and Charlotte Deane.   
+[ICML'24 Workshop ML for Life and Material Science: From Theory to Industry Applications (2024)](https://openreview.net/forum?id=or4tArwd5a) | [code](https://openreview.net/forum?id=or4tArwd5a)
+
+* **RevGraphVAMP: A protein molecular simulation analysis model combining graph convolutional neural networks and physical constraints** [2024]  
+Huang, Ying, Huiling Zhang, Zhenli Lin, Yanjie Wei, and Wenhui Xi.   
+[bioRxiv (2024)](https://doi.org/10.1101/2024.03.11.584426) | [code](https://github.com/DS00HY/RevGraphVamp)  
+
+
+
+
 ### LLM-MD
 
 
@@ -1028,13 +1039,6 @@ MD-Agent is a LLM-agent based toolset for Molecular Dynamics.
 
 
 
-### Autoregressive-Based
-
-
-
-* **Force-Free Molecular Dynamics Through Autoregressive Equivariant Networks** [2025]   
-Fabian L. Thiemann, Thiago Reschützegger, Massimiliano Esposito, Tseden Taddese, Juan D. Olarte-Plata, Fausto Martelli.  
-[	arXiv:2503.23794 (2025)](https://www.arxiv.org/abs/2503.23794) |  [code](https://github.com/IBM/trajcast)  
 
 
 
