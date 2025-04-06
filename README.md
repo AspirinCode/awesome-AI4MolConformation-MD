@@ -22,7 +22,7 @@ List of **molecules ( small molecules, RNA, peptide, protein, enzymes, antibody,
 | [AlphaFold-based](#alphaFold-based) | [GNN-based](#gnn-based)  | [LSTM-based](#lstm-based) | [Transformer-based](#transformer-based) |
 | [VAE-based](#vae-based) | [GAN-based](#gan-based) | [Flow-based](#flow-based) | [Diffusion-based](#diffusion-based) |
 | [Score-Based](#score-Based) | [Energy-based](#energy-based) | [Bayesian-based](#bayesian-based) | [Active Learning-based](#active-learning-based) |
-| [LLM-MD](#llm-md) |  |  |  |
+| [LLM-MD](#llm-md) | [Autoregressive-Based](#autoregressive-Based) |  |  |
 
 
 
@@ -1027,6 +1027,14 @@ MD-Agent is a LLM-agent based toolset for Molecular Dynamics.
 
 
 
+
+### Autoregressive-Based
+
+
+
+* **Force-Free Molecular Dynamics Through Autoregressive Equivariant Networks** [2025]   
+Fabian L. Thiemann, Thiago Reschützegger, Massimiliano Esposito, Tseden Taddese, Juan D. Olarte-Plata, Fausto Martelli.  
+[	arXiv:2503.23794 (2025)](https://www.arxiv.org/abs/2503.23794) |  [code](https://github.com/IBM/trajcast)  
 
 
 
