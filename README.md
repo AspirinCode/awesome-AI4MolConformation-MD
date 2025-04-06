@@ -243,6 +243,10 @@ Barnett, Simon, and John D. Chodera.
 
 
 
+* **gmx_RRCS: a precision tool for detecting subtle conformational dynamics in molecular simulations** [2025]  
+Wei Han, Zhenghan Chen, Ming-Wei Wang, Qingtong Zhou.  
+[Journal of Molecular Biology (2025)](https://doi.org/10.1016/j.jmb.2025.169129) | [code](https://github.com/RuijinHospitalRCMSB/gmx_RRCS)  
+
 * **Systematic analysis of biomolecular conformational ensembles with PENSA** [2025]  
 Vögele, Martin, Neil J. Thomson, Sang T. Truong, Jasper McAvity, Ulrich Zachariae, and Ron O. Dror.  
 [The Journal of Chemical Physics 162.1 (2025)](https://doi.org/10.1063/5.0235544) | [code](https://github.com/drorlab/pensa)  
