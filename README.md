@@ -226,6 +226,10 @@ Barnett, Simon, and John D. Chodera.
 * [OpenMM-Torch](https://github.com/openmm/openmm-torch) - OpenMM plugin to define forces with neural networks.  
 * [AI<sup>2</sup>BMD](https://github.com/microsoft/AI2BMD) - AI-powered ab initio biomolecular dynamics simulation.  
 * [NeuralMD](https://github.com/chao1224/NeuralMD) - A Multi-Grained Symmetric Differential Equation Model for Learning Protein-Ligand Binding Dynamics.  
+* [TorchSim](https://github.com/Radical-AI/torch-sim) - A next-generation open-source atomistic simulation engine for the MLIP era.  
+
+
+
 
 ### MD Trajectory Processing-Analysis
 
