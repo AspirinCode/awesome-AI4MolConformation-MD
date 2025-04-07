@@ -288,6 +288,12 @@ https://github.com/ipudu/awesome-molecular-dynamics
 ## AI4MD
 
 
+
+
+* **Fast, Modular, and Differentiable Framework for Machine Learning-Enhanced Molecular Simulations** [2025]  
+Henrik Christiansen, Takashi Maruyama, Federico Errica, Viktor Zaverkin, Makoto Takamoto, Francesco Alesiani.   
+[arXiv:2503.20541 (2025)](https://arxiv.org/abs/2503.20541) | [code](https://github.com/nec-research/DIMOS)  
+
 * **Kinetically Consistent Coarse Graining using Kernel-based Extended Dynamic Mode Decomposition** [2025]  
 Vahid Nateghi, Feliks Nüske.   
 [arXiv:2409.16396 (2025)](https://arxiv.org/abs/2409.16396) | [code](https://zenodo.org/records/13808938)  
