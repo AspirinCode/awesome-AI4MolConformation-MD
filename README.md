@@ -1188,6 +1188,10 @@ Grambow, Colin A., Hayley Weir, Nathaniel Diamant, Alex Tseng, Tommaso Biancalan
 
 
 
+* **Towards a Unified Framework for Determining Conformational Ensembles of Disordered Proteins** [2025]  
+Hamidreza Ghafouri and Pavel Kadeřávek and Ana M Melo. et al.  
+[arXiv:2504.03590 (2025)](https://arxiv.org/abs/2504.03590)  
+
 * **AlphaFold prediction of structural ensembles of disordered proteins** [2025]  
 Brotzakis, Z.F., Zhang, S., Murtada, M.H. et al.  
 [Nat Commun 16, 1632 (2025)](https://doi.org/10.1038/s41467-025-56572-9) | [code](https://github.com/vendruscolo-lab/AlphaFold-IDP)  
