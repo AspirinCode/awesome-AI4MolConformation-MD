@@ -288,10 +288,12 @@ https://github.com/ipudu/awesome-molecular-dynamics
 ## AI4MD
 
 
-
+* **A predictive machine learning force-field framework for liquid electrolyte development** [2025]  
+Gong, S., Zhang, Y., Mu, Z. et al.  
+[Nat Mach Intell (2025)](https://doi.org/10.1038/s42256-025-01009-7) | [code](https://github.com/bytedance/bamboo)  
 
 * **Fast, Modular, and Differentiable Framework for Machine Learning-Enhanced Molecular Simulations** [2025]  
-Henrik Christiansen, Takashi Maruyama, Federico Errica, Viktor Zaverkin, Makoto Takamoto, Francesco Alesiani.   
+Henrik Christiansen, Takashi Maruyama, Federico Errica, Viktor Zaverkin, Makoto Takamoto, Francesco Alesiani.  
 [arXiv:2503.20541 (2025)](https://arxiv.org/abs/2503.20541) | [code](https://github.com/nec-research/DIMOS)  
 
 * **Kinetically Consistent Coarse Graining using Kernel-based Extended Dynamic Mode Decomposition** [2025]  
@@ -1624,6 +1626,12 @@ Sneha Bheemireddy, Roy González-Alemán, Emmanuelle Bignon, Yasaman Karami.
 
 ### Material ensembles
 
+
+
+
+* **A predictive machine learning force-field framework for liquid electrolyte development** [2025]  
+Gong, S., Zhang, Y., Mu, Z. et al.  
+[Nat Mach Intell (2025)](https://doi.org/10.1038/s42256-025-01009-7) | [code](https://github.com/bytedance/bamboo)  
 
 * **Machine learning-driven molecular dynamics unveils a bulk phase transformation driving ammonia synthesis on barium hydride** [2025]  
 Tosello Gardini, A., Raucci, U. & Parrinello, M..  
