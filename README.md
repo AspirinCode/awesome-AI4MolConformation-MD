@@ -564,10 +564,18 @@ Ross, G.A., Lu, C., Scarabelli, G. et al.
 
 
 
+
+
+
+
 ### Ab Initio
 
 
 
+
+* **Accurate Ab-initio Neural-network Solutions to Large-Scale Electronic Structure Problems** [2025]  
+Michael Scherbela, Nicholas Gao, Philipp Grohs, Stephan Günnemann.  
+[arXiv:2504.06087(2025)](https://arxiv.org/abs/2504.06087) | [code](hhttps://arxiv.org/abs/2504.06087)  
 
 * **Analytical ab initio hessian from a deep learning potential for transition state optimization** [2024]  
 KYuan, E.CY., Kumar, A., Guan, X. et al.  
