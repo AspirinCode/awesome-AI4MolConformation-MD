@@ -355,7 +355,7 @@ Peichen Zhong, Dongjin Kim, Daniel S. King, Bingqing Cheng.
 
 * **QuantumBind-RBFE: Accurate Relative Binding Free Energy Calculations Using Neural Network Potentials** [2025]  
 Zariquiey, Francesc Sabanés, Stephen E. Farr, Stefan Doerr, and Gianni De Fabritiis.  
-[arXiv:2501.01811 (2025)](https://arxiv.org/abs/2501.01811) | [code](https://github.com/Acellera/quantumbind_rbfe)  
+[J. Chem. Inf. Model. (2025)](https://doi.org/10.1021/acs.jcim.5c00033) | [arXiv:2501.01811 (2025)](https://arxiv.org/abs/2501.01811) | [code](https://github.com/Acellera/quantumbind_rbfe)  
 
 * **DeePMD-GNN: A DeePMD-kit Plugin for External Graph Neural Network Potentials** [2025]  
 Jinzhe Zeng, Timothy J. Giese, Duo Zhang, Han Wang, and Darrin M. York.  
@@ -518,7 +518,7 @@ Zhang, Yuzhi, Haidi Wang, Weijie Chen, Jinzhe Zeng, Linfeng Zhang, Han Wang, and
 
 * **QuantumBind-RBFE: Accurate Relative Binding Free Energy Calculations Using Neural Network Potentials** [2025]  
 Zariquiey, Francesc Sabanés, Stephen E. Farr, Stefan Doerr, and Gianni De Fabritiis.  
-[arXiv:2501.01811 (2025)](https://arxiv.org/abs/2501.01811) | [code](https://github.com/Acellera/quantumbind_rbfe)  
+[J. Chem. Inf. Model. (2025)](https://doi.org/10.1021/acs.jcim.5c00033) | [arXiv:2501.01811 (2025)](https://arxiv.org/abs/2501.01811) | [code](https://github.com/Acellera/quantumbind_rbfe)  
 
 * **Free energy profiles for chemical reactions in solution from high-dimensional neural network potentials: The case of the Strecker synthesis** [2025]  
 Alea Miako Tokita, Timothée Devergne, A. Marco Saitta, Jörg Behler.  
