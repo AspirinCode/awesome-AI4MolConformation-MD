@@ -1507,7 +1507,9 @@ Spoendlin, Fabian C., Wing Ki Wong, Guy Georges, Alexander Bujotzek, and Charlot
 
 
 
-
+* **Molecular dynamics-powered hierarchical geometric deep learning framework for protein-ligand interaction** [2025]  
+Liu, Mingquan and Jin, Shuting and Lai, Houtim and Wang, Longyue and Wang, Jianmin and Cheng, Zhixiang and Zeng, Xiangxiang.  
+[IEEE Transactions on Computational Biology and Bioinformatics. (2025)](https://doi.org/10.1109/TCBBIO.2025.3558959) | [code](https://github.com/lmqfly/Dynamics-PLI)  
 
 * **Towards automated physics-based absolute drug residence time predictions** [2025]  
 Smith Z, Branduardi D, Lupyan D, D’Arrigo G, Tiwary P, Wang L, et al.  
