@@ -352,6 +352,14 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 ### Neural Network Potentials
 
 
+* **Generator of Neural Network Potential for Molecular Dynamics: Constructing Robust and Accurate Potentials with Active Learning for Nanosecond-Scale Simulations** [2025]  
+Benjamin Rhodes, Sander Vandenhaute, Vaidotas Šimkus, James Gin, Jonathan Godwin, Tim Duignan, Mark Neumann.  
+[J. Chem. Theory Comput. (2025)](https://doi.org/10.1021/acs.jctc.4c01613)  
+
+* **Orb-v3: atomistic simulation at scale** [2025]  
+Benjamin Rhodes, Sander Vandenhaute, Vaidotas Šimkus, James Gin, Jonathan Godwin, Tim Duignan, Mark Neumann.  
+[arXiv:2504.06231 (2025)](https://arxiv.org/abs/2504.06231) | [code](https://github.com/orbital-materials/orb-models)  
+
 * **Orb-v3: atomistic simulation at scale** [2025]  
 Benjamin Rhodes, Sander Vandenhaute, Vaidotas Šimkus, James Gin, Jonathan Godwin, Tim Duignan, Mark Neumann.  
 [arXiv:2504.06231 (2025)](https://arxiv.org/abs/2504.06231) | [code](https://github.com/orbital-materials/orb-models)  
