@@ -288,6 +288,11 @@ https://github.com/ipudu/awesome-molecular-dynamics
 ## AI4MD
 
 
+
+* **Orb-v3: atomistic simulation at scale** [2025]  
+Benjamin Rhodes, Sander Vandenhaute, Vaidotas Šimkus, James Gin, Jonathan Godwin, Tim Duignan, Mark Neumann.  
+[arXiv:2504.06231 (2025)](https://arxiv.org/abs/2504.06231) | [code](https://github.com/orbital-materials/orb-models)  
+
 * **A predictive machine learning force-field framework for liquid electrolyte development** [2025]  
 Gong, S., Zhang, Y., Mu, Z. et al.  
 [Nat Mach Intell (2025)](https://doi.org/10.1038/s42256-025-01009-7) | [code](https://github.com/bytedance/bamboo)  
@@ -347,7 +352,13 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 ### Neural Network Potentials
 
 
+* **Orb-v3: atomistic simulation at scale** [2025]  
+Benjamin Rhodes, Sander Vandenhaute, Vaidotas Šimkus, James Gin, Jonathan Godwin, Tim Duignan, Mark Neumann.  
+[arXiv:2504.06231 (2025)](https://arxiv.org/abs/2504.06231) | [code](https://github.com/orbital-materials/orb-models)  
 
+* **Carbonic anhydrase II simulated with a universal neural network potential** [2025]  
+Timothy T. Duignan.  
+[arXiv:2503.13789 (2025)](https://arxiv.org/abs/2503.13789) | [code](https://github.com/timduignan/CAII-Orb-d3-v2)  
 
 * **Machine learning interatomic potential can infer electrical response** [2025]  
 Peichen Zhong, Dongjin Kim, Daniel S. King, Bingqing Cheng.  
