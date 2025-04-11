@@ -793,11 +793,13 @@ Tsai, ST., Kuo, EJ. & Tiwary, P.
 
 
 
-
+* **Accurate Prediction of the Kinetic Sequence of Physicochemical States Using Generative Artificial Intelligence** [2025]  
+Bera, Palash and Mondal, Jagannath.   
+[Chem. Sci. (2025)](https://doi.org/10.1039/D5SC00108K) | [code](https://github.com/palash892/gpt_state_generation)  
 
 * **Exploring the conformational ensembles of protein-protein complex with transformer-based generative model** [2024]  
 Wang, Jianmin, Xun Wang, Yanyi Chu, Chunyan Li, Xue Li, Xiangyu Meng, Yitian Fang, Kyoung Tai No, Jiashun Mao, and Xiangxiang Zeng.   
-[J. Chem. Theory Comput. (2024)](https://doi.org/10.1021/acs.jctc.4c00255) | [bioRxiv (2024)](https://doi.org/10.1101/2024.02.24.581708) | [code](https://github.com/AspirinCode/AlphaPPImd)
+[J. Chem. Theory Comput. (2024)](https://doi.org/10.1021/acs.jctc.4c00255) | [bioRxiv (2024)](https://doi.org/10.1101/2024.02.24.581708) | [code](https://github.com/AspirinCode/AlphaPPImd)  
 
 * **Data-Efficient Generation of Protein Conformational Ensembles with Backbone-to-Side-Chain Transformers** [2024]  
 Chennakesavalu, Shriram, and Grant M. Rotskoff.   
