@@ -147,6 +147,9 @@ Wang, L., Brasnett, C., Borges-Araújo, L. et al.
 ### Neural Molecular Force Fields
 
 
+* **Grappa--A Machine Learned Molecular Mechanics Force Field** [2025]  
+Seute, Leif, Eric Hartmann, Jan Stühmer, and Frauke Gräter.  
+[Chemical Science 16.6 (2025)](https://doi.org/10.1039/D4SC05465B) | [arXiv:2404.00050 (2024)](https://arxiv.org/abs/2404.00050) | [code](https://github.com/graeter-group/grappa)  
 
 * **ILVES: Accurate and efficient bond length and angle constraints in molecular dynamics** [2025]  
 López-Villellas, L., Mikkelsen, C.C.K., Galano-Frutos, J.J., Marco-Sola, S., Alastruey-Benedé, J., Ibáñez, P., Moretó, M., De Rosa, M.C. and García-Risueño, P.  
@@ -181,8 +184,8 @@ Greener, Joe G.
 [Chemical Science 15.13 (2024)](https://doi.org/10.1039/D3SC05230C) | [code](https://github.com/greener-group/GB99dms)
 
 * **Grappa--A Machine Learned Molecular Mechanics Force Field** [2024]  
-Seute, Leif, Eric Hartmann, Jan Stühmer, and Frauke Gräter.   
-[arXiv:2404.00050 (2024)](https://arxiv.org/abs/2404.00050) | [code](https://github.com/graeter-group/grappa)
+Seute, Leif, Eric Hartmann, Jan Stühmer, and Frauke Gräter.  
+[arXiv:2404.00050 (2024)](https://arxiv.org/abs/2404.00050) | [code](https://github.com/graeter-group/grappa)  
 
 * **An implementation of the Martini coarse-grained force field in OpenMM** [2023]  
 MacCallum, J. L., Hu, S., Lenz, S., Souza, P. C., Corradi, V., & Tieleman, D. P.   
