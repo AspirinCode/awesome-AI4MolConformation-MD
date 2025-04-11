@@ -1237,6 +1237,11 @@ Grambow, Colin A., Hayley Weir, Nathaniel Diamant, Alex Tseng, Tommaso Biancalan
 
 
 
+
+* **Accurate Prediction of the Kinetic Sequence of Physicochemical States Using Generative Artificial Intelligence** [2025]  
+Bera, Palash and Mondal, Jagannath.   
+[Chem. Sci. (2025)](https://doi.org/10.1039/D5SC00108K) | [code](https://github.com/palash892/gpt_state_generation)  
+
 * **Towards a Unified Framework for Determining Conformational Ensembles of Disordered Proteins** [2025]  
 Hamidreza Ghafouri and Pavel Kadeřávek and Ana M Melo. et al.  
 [arXiv:2504.03590 (2025)](https://arxiv.org/abs/2504.03590)  
