@@ -538,6 +538,11 @@ Zhang, Yuzhi, Haidi Wang, Weijie Chen, Jinzhe Zeng, Linfeng Zhang, Han Wang, and
 ### Free Energy Perturbation
 
 
+
+* **Applying Absolute Free Energy Perturbation Molecular Dynamics to Diffusively Binding Ligands** [2025]  
+Laracuente, Xavier E., Bryan M. Delfing, Xingyu Luo, Audrey Olson, William Jeffries, Steven R. Bowers, Kenneth W. Foreman et al.  
+  [J. Chem. Theory Comput. (2025)](https://doi.org/10.1021/acs.jctc.5c00121) | [code](https://github.com/KlimovLab/AFEP-REST_KKPK_impa)  
+
 * **QuantumBind-RBFE: Accurate Relative Binding Free Energy Calculations Using Neural Network Potentials** [2025]  
 Zariquiey, Francesc Sabanés, Stephen E. Farr, Stefan Doerr, and Gianni De Fabritiis.  
 [J. Chem. Inf. Model. (2025)](https://doi.org/10.1021/acs.jcim.5c00033) | [arXiv:2501.01811 (2025)](https://arxiv.org/abs/2501.01811) | [code](https://github.com/Acellera/quantumbind_rbfe)  
