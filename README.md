@@ -42,6 +42,9 @@ List of **molecules ( small molecules, RNA, peptide, protein, enzymes, antibody,
 
 ## Reviews
 
+* **Advancing Molecular Simulations: Merging Physical Models, Experiments, and AI to Tackle Multiscale Complexity** [2025]   
+ Giorgio Bonollo, Gauthier Trèves, Denis Komarov, Samman Mansoor, Elisabetta Moroni, and Giorgio Colombo.  
+  [J. Phys. Chem. Lett. (2025)](https://doi.org/10.1021/acs.jpclett.5c00652)  
 
 * **A comparison of probabilistic generative frameworks for molecular simulations** [2025]   
  Richard John, Lukas Herron, Pratyush Tiwary.  
