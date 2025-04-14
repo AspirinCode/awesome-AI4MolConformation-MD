@@ -295,6 +295,11 @@ https://github.com/ipudu/awesome-molecular-dynamics
 
 
 
+
+* **A Foundation Model for Accurate Atomistic Simulations in Drug Design** [2025]  
+Plé T, Adjoua O, Benali A, Posenitskiy E, Villot C, Lagardère L, et al.  
+[ChemRxiv. (2025)](https://doi.org/10.26434/chemrxiv-2025-f1hgn) | [code](https://github.com/thomasple/FeNNol-PMC)  
+
 * **Orb-v3: atomistic simulation at scale** [2025]  
 Benjamin Rhodes, Sander Vandenhaute, Vaidotas Šimkus, James Gin, Jonathan Godwin, Tim Duignan, Mark Neumann.  
 [arXiv:2504.06231 (2025)](https://arxiv.org/abs/2504.06231) | [code](https://github.com/orbital-materials/orb-models)  
