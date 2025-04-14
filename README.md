@@ -147,7 +147,13 @@ Wang, L., Brasnett, C., Borges-Araújo, L. et al.
 
 
 
+
+
+
 ### Neural Molecular Force Fields
+
+
+
 
 
 * **Grappa--A Machine Learned Molecular Mechanics Force Field** [2025]  
@@ -169,6 +175,10 @@ Zhaoxin Xie, Yanheng Li, Yijie Xia, Jun Zhang, Sihao Yuan, Cheng Fan, Yi Isaac Y
 * **Efficient and Precise Force Field Optimization for Biomolecules Using DPA-2** [2024]  
 Junhan Chang, Duo Zhang, Yuqing Deng, Hongrui Lin, Zhirong Liu, Linfeng Zhang, Hang Zheng, Xinyan Wang.   
 [arXiv:2406.09817 (2024)](https://arxiv.org/abs/2406.09817) | [code](https://github.com/deepmodeling/DeePDih)  
+
+* **FeNNol: An efficient and flexible library for building force-field-enhanced neural network potentials** [2024]  
+Thomas Plé, Olivier Adjoua, Louis Lagardère, Jean-Philip Piquemal.   
+[J. Chem. Phys. (2024)](https://doi.org/10.1063/5.0217688) | [code](https://github.com/thomasple/FeNNol)  
 
 * **Reversible molecular simulation for training classical and machine learning force fields** [2024]  
 Joe G Greener.   
