@@ -104,6 +104,10 @@ List of **molecules ( small molecules, RNA, peptide, protein, enzymes, antibody,
 ### Datasets
 
 
+* **QMe14S: A Comprehensive and Efficient Spectral Data Set for Small Organic Molecules** [2025]  
+Cristian Gabellini, Nikhil Shenoy, Stephan Thaler, Semih Canturk, Daniel McNeela, Dominique Beaini, Michael Bronstein, Prudencio Tossou.   
+[J. Phys. Chem. Lett. (2025)](https://doi.org/10.1021/acs.jpclett.5c00839) | [data](https://figshare.com/s/889262a4e999b5c9a5b3)  
+
 * **OpenQDC: Open Quantum Data Commons** [2024]  
 Cristian Gabellini, Nikhil Shenoy, Stephan Thaler, Semih Canturk, Daniel McNeela, Dominique Beaini, Michael Bronstein, Prudencio Tossou.   
 [arXiv:2411.19629 (2024)](https://arxiv.org/abs/2411.19629) | [data](https://github.com/valence-labs/openQDC)  
