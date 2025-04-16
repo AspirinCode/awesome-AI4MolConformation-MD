@@ -381,6 +381,10 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 ### Neural Network Potentials
 
 
+* **Extending atomic decomposition and many-body representation with a chemistry-motivated approach to machine learning potentials** [2025]  
+Yu, Q., Ma, R., Qu, C. et al.  
+[Nat Comput Sci (2025)](https://doi.org/10.1038/s43588-025-00790-0) | [code](https://doi.org/10.5281/zenodo.14954863)  
+
 * **Learning Pairwise Interaction for Extrapolative and Interpretable Machine Learning Interatomic Potentials with Physics-Informed Neural Network** [2025]  
 Hoje Chun, Minjoon Hong, Seung Hyo Noh, and Byungchan Han.  
 [J. Chem. Theory Comput. (2025)](https://doi.org/10.1021/acs.jctc.5c00090) | [code](https://figshare.com/s/d13b57f2fbca1d0d4b57)  
