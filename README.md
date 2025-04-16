@@ -312,7 +312,9 @@ https://github.com/ipudu/awesome-molecular-dynamics
 ## AI4MD
 
 
-
+* **Deep Signature: Characterization of Large-Scale Molecular Dynamics** [2025]  
+Tiexin Qin, Mengxu ZHU, Chunyang Li, Terry Lyons, Hong Yan, Haoliang Li.  
+[ICLR (2025)](https://openreview.net/forum?id=xayT1nn8Mg) | [code](https://github.com/WonderSeven/Deep-Signature)  
 
 * **A Foundation Model for Accurate Atomistic Simulations in Drug Design** [2025]  
 Plé T, Adjoua O, Benali A, Posenitskiy E, Villot C, Lagardère L, et al.  
