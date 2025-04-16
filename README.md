@@ -665,8 +665,18 @@ KYuan, E.CY., Kumar, A., Guan, X. et al.
 
 
 
+
+
+
 ## Deep Learning-molecular conformations
 
+
+
+
+
+* **Accurate Electrostatics for Biomolecular Systems through Machine Learning** [2025]  
+Hosseini AN, Kriz K, van der Spoel D.  
+[ChemRxiv. (2025)](https://doi.org/10.26434/chemrxiv-2025-q2v9m) | [code](https://github.com/AlexandriaChemistry/ACT)  
 
 * **Molecular Simulations with a Pretrained Neural Network and Universal Pairwise Force Fields** [2024]  
 Kabylda A, Frank JT, Dou SS, Khabibrakhmanov A, Sandonas LM, Unke OT, et al.  
