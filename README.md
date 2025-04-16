@@ -381,7 +381,9 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 ### Neural Network Potentials
 
 
-
+* **Learning Pairwise Interaction for Extrapolative and Interpretable Machine Learning Interatomic Potentials with Physics-Informed Neural Network** [2025]  
+Hoje Chun, Minjoon Hong, Seung Hyo Noh, and Byungchan Han.  
+[J. Chem. Theory Comput. (2025)](https://doi.org/10.1021/acs.jctc.5c00090) | [code](https://figshare.com/s/d13b57f2fbca1d0d4b57)  
 
 * **Accurate and Affordable Simulation of Molecular Infrared Spectra with AIQM Models** [2025]  
 Yi-Fan Hou, Cheng Wang, and Pavlo O. Dral.  
