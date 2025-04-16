@@ -378,6 +378,11 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
+
+* **Accurate and Affordable Simulation of Molecular Infrared Spectra with AIQM Models** [2025]  
+Yi-Fan Hou, Cheng Wang, and Pavlo O. Dral.  
+[J. Phys. Chem. A  (2025)](https://doi.org/10.1021/acs.jpca.5c00146) | [code](https://github.com/dralgroup/mlatom)  
+
 * **PET-MAD, a universal interatomic potential for advanced materials modeling** [2025]  
 BArslan Mazitov, Filippo Bigi, Matthias Kellner, Paolo Pegolo, Davide Tisi, Guillaume Fraux, Sergey Pozdnyakov, Philip Loche, Michele Ceriotti.  
 [arXiv:2503.14118 (2025)](https://doi.org/10.48550/arXiv.2503.14118) | [code](https://github.com/lab-cosmo/pet-mad)  
