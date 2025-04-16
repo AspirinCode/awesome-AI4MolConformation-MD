@@ -42,6 +42,10 @@ List of **molecules ( small molecules, RNA, peptide, protein, enzymes, antibody,
 
 ## Reviews
 
+* **The evolution of machine learning potentials for molecules, reactions and materials** [2025]   
+ Xia, Junfan and Zhang, Yaolong and Jiang, Bin.  
+  [Chem. Soc. Rev. (2025)](https://doi.org/10.1039/D5CS00104H)  
+
 * **Advancing Molecular Simulations: Merging Physical Models, Experiments, and AI to Tackle Multiscale Complexity** [2025]   
  Giorgio Bonollo, Gauthier Trèves, Denis Komarov, Samman Mansoor, Elisabetta Moroni, and Giorgio Colombo.  
   [J. Phys. Chem. Lett. (2025)](https://doi.org/10.1021/acs.jpclett.5c00652)  
@@ -372,6 +376,10 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 ### Neural Network Potentials
 
+
+* **The evolution of machine learning potentials for molecules, reactions and materials** [2025]   
+ Xia, Junfan and Zhang, Yaolong and Jiang, Bin.  
+  [Chem. Soc. Rev. (2025)](https://doi.org/10.1039/D5CS00104H)  
 
 * **Generator of Neural Network Potential for Molecular Dynamics: Constructing Robust and Accurate Potentials with Active Learning for Nanosecond-Scale Simulations** [2025]  
 Benjamin Rhodes, Sander Vandenhaute, Vaidotas Šimkus, James Gin, Jonathan Godwin, Tim Duignan, Mark Neumann.  
