@@ -1254,7 +1254,9 @@ Xu, Minkai, Wujie Wang, Shitong Luo, Chence Shi, Yoshua Bengio, Rafael Gomez-Bom
 
 ### RNA conformational ensembles
 
-
+* **Determining structures of RNA conformers using AFM and deep neural networks** [2025]  
+Boccalini, Matteo, Yelyzaveta Berezovska, Giovanni Bussi, Matteo Paloni, and Alessandro Barducci.  
+[Proceedings of the National Academy of Sciences 122.15 (2025)](https://doi.org/10.1073/pnas.2425261122) | [code](https://doi.org/10.5281/zenodo.14203857)  
 
 * **Determining structures of RNA conformers using AFM and deep neural networks** [2024]  
 Degenhardt, M.F.S., Degenhardt, H.F., Bhandari, Y.R. et al.   
