@@ -377,6 +377,11 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 ### Neural Network Potentials
 
 
+
+* **PET-MAD, a universal interatomic potential for advanced materials modeling** [2025]  
+BArslan Mazitov, Filippo Bigi, Matthias Kellner, Paolo Pegolo, Davide Tisi, Guillaume Fraux, Sergey Pozdnyakov, Philip Loche, Michele Ceriotti.  
+[arXiv:2503.14118 (2025)](https://doi.org/10.48550/arXiv.2503.14118) | [code](https://github.com/lab-cosmo/pet-mad)  
+
 * **The evolution of machine learning potentials for molecules, reactions and materials** [2025]   
  Xia, Junfan and Zhang, Yaolong and Jiang, Bin.  
   [Chem. Soc. Rev. (2025)](https://doi.org/10.1039/D5CS00104H)  
