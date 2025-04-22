@@ -906,6 +906,10 @@ Hu, Yao, Hao Yang, Mingwei Li, Zhicheng Zhong, Yongqi Zhou, Fang Bai, and Qian W
 Sanaa Mansoor, Minkyung Baek, Hahnbeom Park, Gyu Rie Lee, and David Baker.   
 [J. Chem. Theory Comput. (2024)](https://pubs.acs.org/doi/10.1021/acs.jctc.3c01057)  
 
+* **Emerging Frontiers in Conformational Exploration of Disordered Proteins: Integrating Autoencoder and Molecular Simulations** [2024]  
+Sanaa Mansoor, Minkyung Baek, Hahnbeom Park, Gyu Rie Lee, and David Baker.  
+[ACS Chem. Neurosci. (2024)](https://doi.org/10.1021/acschemneuro.4c00670)  
+
 * **Phanto-IDP: compact model for precise intrinsically disordered protein backbone generation and enhanced sampling** [2024]  
   Junjie Zhu, Zhengxin Li, Haowei Tong, Zhouyu Lu, Ningjie Zhang, Ting Wei and Hai-Feng Chen.  
   [Briefings in Bioinformatics. (2024)](https://academic.oup.com/bib/article/25/1/bbad429/7453435) | [code](https://github.com/Junjie-Zhu/Phanto-IDP)
@@ -1306,7 +1310,9 @@ Grambow, Colin A., Hayley Weir, Nathaniel Diamant, Alex Tseng, Tommaso Biancalan
 ### Protein conformational ensembles
 
 
-
+* **Emerging Frontiers in Conformational Exploration of Disordered Proteins: Integrating Autoencoder and Molecular Simulations** [2024]  
+Sanaa Mansoor, Minkyung Baek, Hahnbeom Park, Gyu Rie Lee, and David Baker.  
+[ACS Chem. Neurosci. (2024)](https://doi.org/10.1021/acschemneuro.4c00670)  
 
 * **Accurate Prediction of the Kinetic Sequence of Physicochemical States Using Generative Artificial Intelligence** [2025]  
 Bera, Palash and Mondal, Jagannath.   
