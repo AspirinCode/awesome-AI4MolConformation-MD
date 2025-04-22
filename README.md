@@ -382,7 +382,9 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 ### Neural Network Potentials
 
-
+* **Evaluating Universal Interatomic Potentials for Molecular Dynamics of Real-World Minerals** [2025]  
+Sajid Mannan, Carmelo Gonzales, Vaibhav Bihani, Kin Long Kelvin Lee, Nitya Nand Gosvami, Santiago Miret, N M Anoop Krishnan.  
+[ ICLR 2025 Workshop AI4MAT (2025)](https://openreview.net/forum?id=me0flBb1hi)  
 
 * **Automated Pynta-Based Curriculum for ML-Accelerated Calculation of Transition States** [2025]  
 revor Price, Saurabh Sivakumar, Matthew S. Johnson, Judit Zádor, and Ambarish Kulkarni.  
