@@ -655,7 +655,9 @@ Ross, G.A., Lu, C., Scarabelli, G. et al.
 ### Ab Initio
 
 
-
+* **Accurate Electrostatics for Biomolecular Systems through Machine Learning** [2025]  
+Hosseini AN, Kriz K, van der Spoel D.  
+[ChemRxiv. (2025)](https://doi.org/10.26434/chemrxiv-2025-q2v9m) | [code](https://github.com/AlexandriaChemistry/ACT)  
 
 * **Accurate Ab-initio Neural-network Solutions to Large-Scale Electronic Structure Problems** [2025]  
 Michael Scherbela, Nicholas Gao, Philipp Grohs, Stephan Günnemann.  
