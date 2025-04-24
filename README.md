@@ -1314,6 +1314,12 @@ Grambow, Colin A., Hayley Weir, Nathaniel Diamant, Alex Tseng, Tommaso Biancalan
 ### Protein conformational ensembles
 
 
+
+
+* **Learning Biophysical Dynamics with Protein Language Models** [2025]  
+Chao Hou, Haiqing Zhao, Yufeng Shen.  
+[bioRxiv. (2025)](https://doi.org/10.1101/2024.10.11.617911)  
+
 * **Emerging Frontiers in Conformational Exploration of Disordered Proteins: Integrating Autoencoder and Molecular Simulations** [2024]  
 Sanaa Mansoor, Minkyung Baek, Hahnbeom Park, Gyu Rie Lee, and David Baker.  
 [ACS Chem. Neurosci. (2024)](https://doi.org/10.1021/acschemneuro.4c00670)  
