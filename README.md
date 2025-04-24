@@ -271,6 +271,10 @@ Barnett, Simon, and John D. Chodera.
 
 
 
+* **GEODES: Geometric Descriptors for the Assessment of Global and Local Flexibility of Proteins During Molecular Dynamics Simulation** [2025]  
+Pats, Karina and Glukhov, Igor and Petrosian, Stepan and Mamaeva, Maria and Sergushichev, Alexey and Devignes, Marie-Dominique and Molnár, Ferdinand.  
+[IEEE Access (2025)](https://doi.org/10.1109/ACCESS.2025.3558781) | [code](https://github.com/rinnifox/GEODES)  
+
 * **gmx_RRCS: a precision tool for detecting subtle conformational dynamics in molecular simulations** [2025]  
 Wei Han, Zhenghan Chen, Ming-Wei Wang, Qingtong Zhou.  
 [Journal of Molecular Biology (2025)](https://doi.org/10.1016/j.jmb.2025.169129) | [code](https://github.com/RuijinHospitalRCMSB/gmx_RRCS)  
