@@ -386,6 +386,14 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 ### Neural Network Potentials
 
+
+
+
+
+* **Advancing Density Functional Tight-Binding method for Large Organic Molecules through Equivariant Neural Networks** [2025]  
+Medrano Sandonas LR, Puleva M, Parra Payano R, Stöhr M, Cuniberti G, Tkatchenko A.  
+[ChemRxiv. (2025)](https://doi.org/10.26434/chemrxiv-2025-z3mhh) | [code](https://github.com/lmedranos/EquiDTB)  
+
 * **Evaluating Universal Interatomic Potentials for Molecular Dynamics of Real-World Minerals** [2025]  
 Sajid Mannan, Carmelo Gonzales, Vaibhav Bihani, Kin Long Kelvin Lee, Nitya Nand Gosvami, Santiago Miret, N M Anoop Krishnan.  
 [ ICLR 2025 Workshop AI4MAT (2025)](https://openreview.net/forum?id=me0flBb1hi)  
@@ -658,6 +666,12 @@ Ross, G.A., Lu, C., Scarabelli, G. et al.
 
 ### Ab Initio
 
+
+
+
+* **Advancing Density Functional Tight-Binding method for Large Organic Molecules through Equivariant Neural Networks** [2025]  
+Medrano Sandonas LR, Puleva M, Parra Payano R, Stöhr M, Cuniberti G, Tkatchenko A.  
+[ChemRxiv. (2025)](https://doi.org/10.26434/chemrxiv-2025-z3mhh) | [code](https://github.com/lmedranos/EquiDTB)  
 
 * **Accurate Electrostatics for Biomolecular Systems through Machine Learning** [2025]  
 Hosseini AN, Kriz K, van der Spoel D.  
