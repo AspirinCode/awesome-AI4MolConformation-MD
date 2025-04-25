@@ -19,6 +19,7 @@ List of **molecules ( small molecules, RNA, peptide, protein, enzymes, antibody,
 | [Reviews](#reviews) | [Datasets and Package](#datasets-and-package) | [Molecular dynamics](#molecular-dynamics) | [Molecular Force Fields](#molecular-force-fields) |
 | [MD Engines-Frameworks](#md-engines-frameworks) | [AI4MD Engines-Frameworks](#ai4md-engines-frameworks) | [MD Trajectory Processing-Analysis](#md-trajectory-processing-analysis) | [AI4MD](#ai4md) |
 | [Neural Network Potentials](#neural-network-potentials) | [Free Energy Perturbation](#free-energy-perturbation) | [Ab Initio](#ab-initio) | [Neural Molecular Force Fields](#neural-molecular-force-fields) |
+| [Neural Reactive Potential](#neural-reactive-potential) |  |  |  |
 | [AlphaFold-based](#alphaFold-based) | [Autoregressive-Based](#autoregressive-Based)  | [LSTM-based](#lstm-based) | [Transformer-based](#transformer-based) |
 | [VAE-based](#vae-based) | [GAN-based](#gan-based) | [Flow-based](#flow-based) | [Diffusion-based](#diffusion-based) |
 | [Score-Based](#score-Based) | [Energy-based](#energy-based) | [Bayesian-based](#bayesian-based) | [Active Learning-based](#active-learning-based) |
@@ -418,10 +419,6 @@ Yi-Fan Hou, Cheng Wang, and Pavlo O. Dral.
 BArslan Mazitov, Filippo Bigi, Matthias Kellner, Paolo Pegolo, Davide Tisi, Guillaume Fraux, Sergey Pozdnyakov, Philip Loche, Michele Ceriotti.  
 [arXiv:2503.14118 (2025)](https://doi.org/10.48550/arXiv.2503.14118) | [code](https://github.com/lab-cosmo/pet-mad)  
 
-* **The evolution of machine learning potentials for molecules, reactions and materials** [2025]   
- Xia, Junfan and Zhang, Yaolong and Jiang, Bin.  
-  [Chem. Soc. Rev. (2025)](https://doi.org/10.1039/D5CS00104H)  
-
 * **Generator of Neural Network Potential for Molecular Dynamics: Constructing Robust and Accurate Potentials with Active Learning for Nanosecond-Scale Simulations** [2025]  
 Benjamin Rhodes, Sander Vandenhaute, Vaidotas Šimkus, James Gin, Jonathan Godwin, Tim Duignan, Mark Neumann.  
 [J. Chem. Theory Comput. (2025)](https://doi.org/10.1021/acs.jctc.4c01613)  
@@ -595,6 +592,23 @@ Zhang, Yuzhi, Haidi Wang, Weijie Chen, Jinzhe Zeng, Linfeng Zhang, Han Wang, and
 [Computer Physics Communications 253 (2020)](https://doi.org/10.1016/j.cpc.2020.107206)  | [code](https://github.com/deepmodeling/dpgen)  
 
 
+
+
+
+
+
+### Neural Reactive Potential
+
+
+
+
+* **ANI-1xBB: An ANI-Based Reactive Potential for Small Organic Molecules** [2025]   
+ Shuhao Zhang, Roman Zubatyuk, Yinuo Yang, Adrian Roitberg, and Olexandr Isayev.  
+  [J. Chem. Theory Comput. (2025)](https://doi.org/10.1021/acs.jctc.5c00347) | [code](https://github.com/amateurcat/ANI-1xBB)  
+
+* **The evolution of machine learning potentials for molecules, reactions and materials** [2025]   
+ Xia, Junfan and Zhang, Yaolong and Jiang, Bin.  
+  [Chem. Soc. Rev. (2025)](https://doi.org/10.1039/D5CS00104H)  
 
 
 
