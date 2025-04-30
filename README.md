@@ -395,7 +395,9 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
-
+* **AIMNet2: A Neural Network Potential to Meet your Neutral, Charged, Organic, and Elemental-Organic Needs** [2025]  
+Isayev, Olexandr and Anstine, Dylan and Zubaiuk, Roman.  
+[Chem. Sci. (2025)](http://dx.doi.org/10.1039/D4SC08572H) | [code](https://github.com/isayevlab/aimnetcentral)  
 
 * **Advancing Density Functional Tight-Binding method for Large Organic Molecules through Equivariant Neural Networks** [2025]  
 Medrano Sandonas LR, Puleva M, Parra Payano R, Stöhr M, Cuniberti G, Tkatchenko A.  
