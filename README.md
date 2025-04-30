@@ -395,6 +395,10 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
+* **Egret-1: Pretrained Neural Network Potentials For Efficient and Accurate Bioorganic Simulation** [2025]  
+Corin C. Wagen, Elias L. Mann, Jonathon E. Vandezande, Arien M. Wagen, Spencer C. Schneider.  
+[arXiv:2504.20955(2025)](https://arxiv.org/abs/2504.20955) | [code](https://github.com/rowansci/egret-public)  
+
 * **AIMNet2: A Neural Network Potential to Meet your Neutral, Charged, Organic, and Elemental-Organic Needs** [2025]  
 Isayev, Olexandr and Anstine, Dylan and Zubaiuk, Roman.  
 [Chem. Sci. (2025)](http://dx.doi.org/10.1039/D4SC08572H) | [code](https://github.com/isayevlab/aimnetcentral)  
