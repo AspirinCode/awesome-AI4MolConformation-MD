@@ -105,6 +105,12 @@ List of **molecules ( small molecules, RNA, peptide, protein, enzymes, antibody,
 ### Datasets
 
 
+
+
+* **Enhanced Sampling, Public Dataset and Generative Model for Drug-Protein Dissociation Dynamics** [2025]  
+Maodong Li, Jiying Zhang, Bin Feng, Wenqi Zeng, Dechin Chen, Zhijun Pan, Yu Li, Zijing Liu, Yi Isaac Yang.   
+[arXiv:2504.18367 (2025)](https://arxiv.org/abs/2504.18367) | [data](https://huggingface.co/SZBL-IDEA)  
+
 * **QMe14S: A Comprehensive and Efficient Spectral Data Set for Small Organic Molecules** [2025]  
 Cristian Gabellini, Nikhil Shenoy, Stephan Thaler, Semih Canturk, Daniel McNeela, Dominique Beaini, Michael Bronstein, Prudencio Tossou.   
 [J. Phys. Chem. Lett. (2025)](https://doi.org/10.1021/acs.jpclett.5c00839) | [data](https://figshare.com/s/889262a4e999b5c9a5b3)  
@@ -1016,6 +1022,12 @@ Schwing, Gregory, Luigi L. Palese, Ariel Fernández, Loren Schwiebert, and Domen
 
 
 
+
+
+* **Enhanced Sampling, Public Dataset and Generative Model for Drug-Protein Dissociation Dynamics** [2025]  
+Maodong Li, Jiying Zhang, Bin Feng, Wenqi Zeng, Dechin Chen, Zhijun Pan, Yu Li, Zijing Liu, Yi Isaac Yang.   
+[arXiv:2504.18367 (2025)](https://arxiv.org/abs/2504.18367) | [data](https://huggingface.co/SZBL-IDEA)  
+
 * **P2DFlow: A Protein Ensemble Generative Model with SE(3) Flow Matching** [2024]  
 Yaowei Jin, Qi Huang, Ziyang Song, Mingyue Zheng, Dan Teng, Qian Shi.   
 [	arXiv:2411.17196 (2024)](https://arxiv.org/abs/2411.17196) | [code](https://github.com/BLEACH366/P2DFlow)  
@@ -1642,6 +1654,12 @@ Spoendlin, Fabian C., Wing Ki Wong, Guy Georges, Alexander Bujotzek, and Charlot
 ### Ligand-Protein conformational ensembles
 
 
+
+
+
+* **Enhanced Sampling, Public Dataset and Generative Model for Drug-Protein Dissociation Dynamics** [2025]  
+Maodong Li, Jiying Zhang, Bin Feng, Wenqi Zeng, Dechin Chen, Zhijun Pan, Yu Li, Zijing Liu, Yi Isaac Yang.   
+[arXiv:2504.18367 (2025)](https://arxiv.org/abs/2504.18367) | [data](https://huggingface.co/SZBL-IDEA)  
 
 * **Molecular dynamics-powered hierarchical geometric deep learning framework for protein-ligand interaction** [2025]  
 Liu, Mingquan and Jin, Shuting and Lai, Houtim and Wang, Longyue and Wang, Jianmin and Cheng, Zhixiang and Zeng, Xiangxiang.  
