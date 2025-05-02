@@ -632,6 +632,12 @@ Zhang, Yuzhi, Haidi Wang, Weijie Chen, Jinzhe Zeng, Linfeng Zhang, Han Wang, and
 
 
 
+
+
+* **Narjes Ansari, Zhifeng Francis Jing, Antoine Gagelin, Florent Hédin, Félix Aviat, Jérôme Hénin, Jean-Philip Piquemal, and Louis Lagardère** [2025]  
+Narjes Ansari, Zhifeng Francis Jing, Antoine Gagelin, Florent Hédin, Félix Aviat, Jérôme Hénin, Jean-Philip Piquemal, and Louis Lagardère.  
+  [J. Phys. Chem. Lett. (2025)](https://doi.org/10.1021/acs.jpclett.5c00683) | [code](https://github.com/ansarinarjes/ABFE-L-ABF-OPES)  
+
 * **Applying Absolute Free Energy Perturbation Molecular Dynamics to Diffusively Binding Ligands** [2025]  
 Laracuente, Xavier E., Bryan M. Delfing, Xingyu Luo, Audrey Olson, William Jeffries, Steven R. Bowers, Kenneth W. Foreman et al.  
   [J. Chem. Theory Comput. (2025)](https://doi.org/10.1021/acs.jctc.5c00121) | [code](https://github.com/KlimovLab/AFEP-REST_KKPK_impa)  
