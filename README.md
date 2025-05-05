@@ -323,6 +323,12 @@ https://github.com/ipudu/awesome-molecular-dynamics
 ## AI4MD
 
 
+
+
+* **Towards Unraveling Biomolecular Conformational Landscapes with a Generative Foundation Model** [2025]  
+The OpenComplex Team, Qiwei Ye.  
+[bioRxiv. (2025)](https://doi.org/10.1101/2025.05.01.651643)  
+
 * **Deep Signature: Characterization of Large-Scale Molecular Dynamics** [2025]  
 Tiexin Qin, Mengxu ZHU, Chunyang Li, Terry Lyons, Hong Yan, Haoliang Li.  
 [ICLR (2025)](https://openreview.net/forum?id=xayT1nn8Mg) | [code](https://github.com/WonderSeven/Deep-Signature)  
