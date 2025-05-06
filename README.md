@@ -35,7 +35,7 @@ List of **molecules ( small molecules, RNA, peptide, protein, enzymes, antibody,
 | [Protein conformational ensembles](#protein-conformational-ensembles) | [Enzymes conformational ensembles](#enzymes-conformational-ensembles)  | [Antibody conformational ensembles](#antibody-conformational-ensembles) |
 | [Ligand-Protein conformational ensembles](#ligand-protein-conformational-ensembles) | [RNA-Peptide conformational ensembles](#rna-peptide-conformational-ensembles) | [PPI conformational ensembles](#ppi-conformational-ensembles) |
 | [Antibody-Protein conformational ensembles](#antibody-protein-conformational-ensembles) | [Nucleic acid-Protein conformational ensembles](#nucleic-acid-protein-conformational-ensembles) | [Material ensembles](#material-ensembles) |
-
+| [Nucleic acid-Ligand conformational ensembles](#nucleic-acid-ligand-conformational-ensembles) |  |  |
 
 
 
@@ -1806,6 +1806,14 @@ Sneha Bheemireddy, Roy González-Alemán, Emmanuelle Bignon, Yasaman Karami.
 
 
 
+
+
+### Nucleic acid-Ligand conformational ensembles
+
+
+* **Machine learning-augmented molecular dynamics simulations (MD) reveal insights into the disconnect between affinity and activation of ZTP riboswitch ligands** [2025]  
+Christopher Fullenkamp, Shams Mehdi, Christopher Jones, Logan Tenney, Patricio Pichling, Peri R. Prestwood, Adrian R. Ferré-D'Amaré, Pratyush Tiwary, John Schneekloth.  
+[ Angew. Chem. Int. Ed. (2025)](https://doi.org/10.1002/anie.202505971)  
 
 
 
