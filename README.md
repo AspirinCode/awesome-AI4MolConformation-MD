@@ -1247,9 +1247,21 @@ MD-Agent is a LLM-agent based toolset for Molecular Dynamics.
 
 ### Small molecule conformational ensembles
 
+
+
+
+
+
+
+
+
+* **Challenges and opportunities for machine learning potentials in transition path sampling: alanine dipeptide and azobenzene studies** [2025]  
+Fedik, Nikita and Li, Wei and Lubbers, Nicholas and Nebgen, Benjamin and Tretiak, Sergei and Li, Ying Wai.  
+[Digital Discovery (2025)](https://doi.org/10.1039/D4DD00265B) |  [code](https://github.com/nikitafedik/ml_tps_si)  
+
 * **Diffusion-based generative AI for exploring transition states from 2D molecular graphs** [2024]   
 Kim, S., Woo, J. & Kim, W.Y.   
-[Nat Commun 15, 341 (2024)](https://doi.org/10.1038/s41467-023-44629-6) |  [code](https://github.com/seonghann/tsdiff)
+[Nat Commun 15, 341 (2024)](https://doi.org/10.1038/s41467-023-44629-6) |  [code](https://github.com/seonghann/tsdiff)  
 
 * **Physics-informed generative model for drug-like molecule conformers** [2024]   
 David C. Williams, Neil Imana.   
