@@ -401,6 +401,11 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
+
+* **Multi-fidelity learning for interatomic potentials: Low-level forces and high-level energies are all you need** [2025]  
+Mitchell Messerly, Sakib Matin, Alice E. A. Allen, Benjamin Nebgen, Kipton Barros, Justin S. Smith, Nicholas Lubbers, Richard Messerly.  
+[arXiv:2505.01590 (2025)](https://doi.org/10.48550/arXiv.2505.01590)  
+
 * **Egret-1: Pretrained Neural Network Potentials For Efficient and Accurate Bioorganic Simulation** [2025]  
 Corin C. Wagen, Elias L. Mann, Jonathon E. Vandezande, Arien M. Wagen, Spencer C. Schneider.  
 [arXiv:2504.20955(2025)](https://arxiv.org/abs/2504.20955) | [code](https://github.com/rowansci/egret-public)  
