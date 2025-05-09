@@ -400,6 +400,11 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 ### Neural Network Potentials
 
 
+
+* **Uncertainty quantification for neural network potential foundation models** [2025]  
+Bilbrey, J.A., Firoz, J.S., Lee, MS. et al..  
+[npj Comput Mater 11, 109 (2025)](https://doi.org/10.1038/s41524-025-01572-y) | [code](https://github.com/pnnl/SNAP)  
+
 * **DeePMD-kit v3: A Multiple-Backend Framework for Machine Learning Potentials** [2025]  
 Zeng, Jinzhe, Duo Zhang, Anyang Peng, Xiangyu Zhang, Sensen He, Yan Wang, Xinzijian Liu et al.  
 [J. Chem. Theory Comput. (2025)](https://arxiv.org/abs/2502.19161) | [arXiv:2502.19161 (2025)](https://arxiv.org/abs/2502.19161) | [code](https://github.com/njzjz/benchmark-dpv3)  
