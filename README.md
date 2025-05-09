@@ -400,7 +400,9 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 ### Neural Network Potentials
 
 
-
+* **DeePMD-kit v3: A Multiple-Backend Framework for Machine Learning Potentials** [2025]  
+Zeng, Jinzhe, Duo Zhang, Anyang Peng, Xiangyu Zhang, Sensen He, Yan Wang, Xinzijian Liu et al.  
+[J. Chem. Theory Comput. (2025)](https://arxiv.org/abs/2502.19161) | [arXiv:2502.19161 (2025)](https://arxiv.org/abs/2502.19161) | [code](https://github.com/njzjz/benchmark-dpv3)  
 
 * **Multi-fidelity learning for interatomic potentials: Low-level forces and high-level energies are all you need** [2025]  
 Mitchell Messerly, Sakib Matin, Alice E. A. Allen, Benjamin Nebgen, Kipton Barros, Justin S. Smith, Nicholas Lubbers, Richard Messerly.  
@@ -489,10 +491,6 @@ Alea Miako Tokita, Timothée Devergne, A. Marco Saitta, Jörg Behler.
 * **Accurate Free Energy Calculation via Multiscale Simulations Driven by Hybrid Machine Learning and Molecular Mechanics Potentials** [2025]  
 Wang X, Wu X, Brooks B, Wang J.  
 [ChemRxiv. (2025)](https://doi.org/10.26434/chemrxiv-2024-zq975-v2)  
-
-* **DeePMD-kit v3: A Multiple-Backend Framework for Machine Learning Potentials** [2025]  
-Zeng, Jinzhe, Duo Zhang, Anyang Peng, Xiangyu Zhang, Sensen He, Yan Wang, Xinzijian Liu et al.  
-[arXiv:2502.19161 (2025)](https://arxiv.org/abs/2502.19161) | [code](https://github.com/njzjz/benchmark-dpv3)  
 
 * **ANI-1xBB: an ANI based reactive potential** [2025]  
 Zhang S, Zubatyuk R, Yang Y, Roitberg A, Isayev O.  
