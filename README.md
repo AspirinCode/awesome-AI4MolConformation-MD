@@ -1396,7 +1396,9 @@ Grambow, Colin A., Hayley Weir, Nathaniel Diamant, Alex Tseng, Tommaso Biancalan
 ### Protein conformational ensembles
 
 
-
+* **GōMartini 3: From large conformational changes in proteins to environmental bias corrections** [2025]  
+Souza, P.C.T., Borges-Araújo, L., Brasnett, C. et al.   
+[Nat Commun 16, 4051 (2025)](https://doi.org/10.1038/s41467-025-58719-0) | [code](https://github.com/marrink-lab/vermouth-martinize)  
 
 * **Learning Biophysical Dynamics with Protein Language Models** [2025]  
 Chao Hou, Haiqing Zhao, Yufeng Shen.  
