@@ -169,7 +169,9 @@ Wang, L., Brasnett, C., Borges-Araújo, L. et al.
 
 
 
-
+* **Interpolation and differentiation of alchemical degrees of freedom in machine learning interatomic potentials** [2025]  
+Nam, J., Peng, J. & Gómez-Bombarelli, R.  
+[Nat Commun 16, 4350 (2025)](https://doi.org/10.1038/s41467-025-59543-2) | [code](https://github.com/learningmatter-mit/alchemical-mlip)  
 
 * **Grappa--A Machine Learned Molecular Mechanics Force Field** [2025]  
 Seute, Leif, Eric Hartmann, Jan Stühmer, and Frauke Gräter.  
