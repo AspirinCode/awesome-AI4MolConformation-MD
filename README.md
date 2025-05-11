@@ -43,6 +43,12 @@ List of **molecules ( small molecules, RNA, peptide, protein, enzymes, antibody,
 
 ## Reviews
 
+
+
+* **Application of machine learning interatomic potentials in heterogeneous catalysis** [2025]  
+ Olajide, Gbolagade, Khagendra Baral, Sophia Ezendu, Ademola Soyemi, and Tibor Szilvasi.  
+  [Journal of Catalysis (2025)](https://doi.org/10.1016/j.jcat.2025.116202)  
+
 * **The evolution of machine learning potentials for molecules, reactions and materials** [2025]   
  Xia, Junfan and Zhang, Yaolong and Jiang, Bin.  
   [Chem. Soc. Rev. (2025)](https://doi.org/10.1039/D5CS00104H)  
