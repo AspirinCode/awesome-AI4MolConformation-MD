@@ -628,7 +628,9 @@ Zhang, Yuzhi, Haidi Wang, Weijie Chen, Jinzhe Zeng, Linfeng Zhang, Han Wang, and
 ### Neural Reactive Potential
 
 
-
+* **Capturing Excited State Proton Transfer Dynamics with Reactive Machine Learning Potentials** [2025]   
+ Umberto Raucci.  
+  [J. Phys. Chem. Lett. (2025)](https://doi.org/10.1021/acs.jpclett.5c00688)  
 
 * **ANI-1xBB: An ANI-Based Reactive Potential for Small Organic Molecules** [2025]   
  Shuhao Zhang, Roman Zubatyuk, Yinuo Yang, Adrian Roitberg, and Olexandr Isayev.  
