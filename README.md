@@ -1092,6 +1092,10 @@ Jing, Bowen, Bonnie Berger, and Tommi Jaakkola.
 
 
 
+* **Protein Conformation Generation via Force-Guided SE(3) Diffusion Models** [2024]  
+Yan Wang, Lihao Wang, Yuning Shen, Yiqun Wang, Huizhuo Yuan, Yue Wu, Quanquan Gu.   
+[ICML 2024 (2024)](https://arxiv.org/abs/2403.14088) | [code](https://github.com/bytedance/ConfDiff)  
+
 * **Generative modeling of protein ensembles guided by crystallographic electron densities** [2024]  
 Sai Advaith Maddipatla, Nadav Bojan Sellam, Sanketh Vedula, Ailie Marx, Alex Bronstein.   
 [arXiv:2412.13223(2024)](https://arxiv.org/abs/2412.13223)  
@@ -1106,7 +1110,7 @@ Cheng, Kaihui, Ce Liu, Qingkun Su, Jun Wang, Liwei Zhang, Yining Tang, Yao Yao, 
 
 * **Generating Multi-state Conformations of P-type ATPases with a Diffusion Model** [2024]  
 Jingtian Xu, Yong Wang.   
-[bioRxiv (2024)](https://doi.org/10.1101/2024.08.07.607107) | [code](https://github.com/yongwangCPH/papers/tree/main/2024/PtypeATPaseGeneration)
+[bioRxiv (2024)](https://doi.org/10.1101/2024.08.07.607107) | [code](https://github.com/yongwangCPH/papers/tree/main/2024/PtypeATPaseGeneration)  
 
 * **Transferable deep generative modeling of intrinsically disordered protein conformations** [2024]  
 Abdin, O., Kim, P.M.   
@@ -1408,6 +1412,11 @@ Grambow, Colin A., Hayley Weir, Nathaniel Diamant, Alex Tseng, Tommaso Biancalan
 
 ### Protein conformational ensembles
 
+
+
+* **Protein Conformation Generation via Force-Guided SE(3) Diffusion Models** [2024]  
+Yan Wang, Lihao Wang, Yuning Shen, Yiqun Wang, Huizhuo Yuan, Yue Wu, Quanquan Gu.   
+[ICML 2024 (2024)](https://arxiv.org/abs/2403.14088) | [code](https://github.com/bytedance/ConfDiff)  
 
 * **GōMartini 3: From large conformational changes in proteins to environmental bias corrections** [2025]  
 Souza, P.C.T., Borges-Araújo, L., Brasnett, C. et al.   
