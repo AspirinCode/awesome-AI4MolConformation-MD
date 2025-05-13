@@ -1414,9 +1414,7 @@ Grambow, Colin A., Hayley Weir, Nathaniel Diamant, Alex Tseng, Tommaso Biancalan
 
 
 
-* **Protein Conformation Generation via Force-Guided SE(3) Diffusion Models** [2024]  
-Yan Wang, Lihao Wang, Yuning Shen, Yiqun Wang, Huizhuo Yuan, Yue Wu, Quanquan Gu.   
-[ICML 2024 (2024)](https://arxiv.org/abs/2403.14088) | [code](https://github.com/bytedance/ConfDiff)  
+
 
 * **GōMartini 3: From large conformational changes in proteins to environmental bias corrections** [2025]  
 Souza, P.C.T., Borges-Araújo, L., Brasnett, C. et al.   
@@ -1437,6 +1435,10 @@ Bera, Palash and Mondal, Jagannath.
 * **Towards a Unified Framework for Determining Conformational Ensembles of Disordered Proteins** [2025]  
 Hamidreza Ghafouri and Pavel Kadeřávek and Ana M Melo. et al.  
 [arXiv:2504.03590 (2025)](https://arxiv.org/abs/2504.03590)  
+
+* **Protein Conformation Generation via Force-Guided SE(3) Diffusion Models** [2024]  
+Yan Wang, Lihao Wang, Yuning Shen, Yiqun Wang, Huizhuo Yuan, Yue Wu, Quanquan Gu.   
+[ICML 2024 (2024)](https://arxiv.org/abs/2403.14088) | [code](https://github.com/bytedance/ConfDiff)  
 
 * **AlphaFold prediction of structural ensembles of disordered proteins** [2025]  
 Brotzakis, Z.F., Zhang, S., Murtada, M.H. et al.  
