@@ -1450,7 +1450,7 @@ Jeremy M. G. Leung, Nicolas C. Frazee, Alexander Brace, Anthony T. Bogetti, Arvi
 
 * **Generalizable Protein Dynamics in Serine-Threonine Kinases: Physics is the key** [2025]  
 Soumendranath Bhakat, Shray Vats, Andreas Mardt, Alexei Degterev.  
-[bioRxiv (2025)](https://doi.org/10.1101/2025.03.06.641878)  
+[bioRxiv (2025)](https://doi.org/10.1101/2025.03.06.641878) | [code](https://github.com/svats73/mdml)  
 
 * **Hidden Structural States of Proteins Revealed by Conformer Selection with AlphaFold-NMR** [2025]  
 Yuanpeng J. Huang, Theresa A. Ramelot, Laura E. Spaman, Naohiro Kobayashi, Gaetano T. Montelione.  
@@ -1772,7 +1772,7 @@ Wu, Fang, Shuting Jin, Yinghui Jiang, Xurui Jin, Bowen Tang, Zhangming Niu, Xian
 
 * **Generalizable Protein Dynamics in Serine-Threonine Kinases: Physics is the key** [2025]  
 Soumendranath Bhakat, Shray Vats, Andreas Mardt, Alexei Degterev.  
-[bioRxiv (2025)](https://doi.org/10.1101/2025.03.06.641878)  
+[bioRxiv (2025)](https://doi.org/10.1101/2025.03.06.641878) | [code](https://github.com/svats73/mdml)  
 
 * **Scalable emulation of protein equilibrium ensembles with generative deep learning** [2024]  
 Sarah Lewis, Tim Hempel, José Jiménez Luna, Michael Gastegger, Yu Xie, Andrew Y. K. Foong, Victor García Satorras, Osama Abdin, Bastiaan S. Veeling, Iryna Zaporozhets, Yaoyi Chen, Soojung Yang, Arne Schneuing, Jigyasa Nigam, Federico Barbero, Vincent Stimper, Andrew Campbell, Jason Yim, Marten Lienen, Yu Shi, Shuxin Zheng, Hannes Schulz, Usman Munir, Cecilia Clementi, Frank Noé.   
