@@ -1280,7 +1280,9 @@ MD-Agent is a LLM-agent based toolset for Molecular Dynamics.
 
 
 
-
+* **The pucke.rs toolkit to facilitate sampling the conformational space of biomolecular monomers** [2025]  
+Rihon, J., Reynders, S., Bernardes Pinheiro, V. et al.  
+[J Cheminform 17, 53 (2025)](https://doi.org/10.1186/s13321-025-00977-7) |  [code](https://github.com/jrihon/puckepy)  
 
 * **Challenges and opportunities for machine learning potentials in transition path sampling: alanine dipeptide and azobenzene studies** [2025]  
 Fedik, Nikita and Li, Wei and Lubbers, Nicholas and Nebgen, Benjamin and Tretiak, Sergei and Li, Ying Wai.  
