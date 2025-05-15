@@ -111,7 +111,9 @@ List of **molecules ( small molecules, RNA, peptide, protein, enzymes, antibody,
 ### Datasets
 
 
-
+* **The Open Molecules 2025 (OMol25) Dataset, Evaluations, and Models** [2025]  
+Levine, Daniel S., Muhammed Shuaibi, Evan Walter Clark Spotte-Smith, Michael G. Taylor, Muhammad R. Hasyim, Kyle Michel, Ilyes Batatia, G'abor Cs'anyi, Misko Dzamba, Peter K. Eastman, Nathan C. Frey, Xiang Fu, Vahe Gharakhanyan, Aditi S. Krishnapriyan, Joshua A. Rackers, Sanjeev Raja, Ammar Rizvi, Andrew S. Rosen, Zachary W. Ulissi, Santiago Vargas, C. Lawrence Zitnick, Samuel M. Blau and Brandon M. Wood.   
+[arXiv:2505.08762 (2025)](https://arxiv.org/abs/2505.08762) | [data](https://huggingface.co/facebook/OMol25)  
 
 * **Enhanced Sampling, Public Dataset and Generative Model for Drug-Protein Dissociation Dynamics** [2025]  
 Maodong Li, Jiying Zhang, Bin Feng, Wenqi Zeng, Dechin Chen, Zhijun Pan, Yu Li, Zijing Liu, Yi Isaac Yang.   
