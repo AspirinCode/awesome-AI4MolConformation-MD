@@ -1430,7 +1430,9 @@ Grambow, Colin A., Hayley Weir, Nathaniel Diamant, Alex Tseng, Tommaso Biancalan
 
 
 
-
+* **Caver Web 2.0: analysis of tunnels and ligand transport in dynamic ensembles of proteins** [2025]  
+Sérgio M Marques, Simeon Borko, Ondrej Vavra, Jan Dvorsky, Petr Kohout, Petr Kabourek, Lukas Hejtmanek, Jiri Damborsky, David Bednar.   
+[Nucleic Acids Research (2025)](https://doi.org/10.1093/nar/gkaf399) | [web](https://loschmidt.chemi.muni.cz/caverweb)  
 
 * **GōMartini 3: From large conformational changes in proteins to environmental bias corrections** [2025]  
 Souza, P.C.T., Borges-Araújo, L., Brasnett, C. et al.   
@@ -1735,7 +1737,9 @@ Spoendlin, Fabian C., Wing Ki Wong, Guy Georges, Alexander Bujotzek, and Charlot
 
 
 
-
+* **Caver Web 2.0: analysis of tunnels and ligand transport in dynamic ensembles of proteins** [2025]  
+Sérgio M Marques, Simeon Borko, Ondrej Vavra, Jan Dvorsky, Petr Kohout, Petr Kabourek, Lukas Hejtmanek, Jiri Damborsky, David Bednar.   
+[Nucleic Acids Research (2025)](https://doi.org/10.1093/nar/gkaf399) | [web](https://loschmidt.chemi.muni.cz/caverweb)  
 
 * **Enhanced Sampling, Public Dataset and Generative Model for Drug-Protein Dissociation Dynamics** [2025]  
 Maodong Li, Jiying Zhang, Bin Feng, Wenqi Zeng, Dechin Chen, Zhijun Pan, Yu Li, Zijing Liu, Yi Isaac Yang.   
