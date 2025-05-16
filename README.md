@@ -1302,7 +1302,11 @@ Kim, S., Woo, J. & Kim, W.Y.
 
 * **Physics-informed generative model for drug-like molecule conformers** [2024]   
 David C. Williams, Neil Imana.   
-[	arXiv:2403.07925. (2024)](https://arxiv.org/abs/2403.07925v1) |  [code](https://github.com/nobiastx/diffusion-conformer)   
+[arXiv:2403.07925. (2024)](https://arxiv.org/abs/2403.07925v1) |  [code](https://github.com/nobiastx/diffusion-conformer)   
+
+* **ET-Flow: Equivariant Flow-Matching for Molecular Conformer Generation** [2024]   
+Majdi Hassan, Nikhil Shenoy, Jungyoon Lee, Hannes Stark, Stephan Thaler, Dominique Beaini.   
+[NeurIPS 2024 (2024)](https://arxiv.org/abs/2410.22388) |  [code](https://github.com/shenoynikhil/ETFlow)  
 
 * **COSMIC: Molecular Conformation Space Modeling in Internal Coordinates with an Adversarial Framework** [2024]   
 Kuznetsov, Maksim, Fedor Ryabov, Roman Schutski, Rim Shayakhmetov, Yen-Chu Lin, Alex Aliper, and Daniil Polykovskiy.   
