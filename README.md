@@ -19,7 +19,7 @@ List of **molecules ( small molecules, RNA, peptide, protein, enzymes, antibody,
 | [Reviews](#reviews) | [Datasets and Package](#datasets-and-package) | [Molecular dynamics](#molecular-dynamics) | [Molecular Force Fields](#molecular-force-fields) |
 | [MD Engines-Frameworks](#md-engines-frameworks) | [AI4MD Engines-Frameworks](#ai4md-engines-frameworks) | [MD Trajectory Processing-Analysis](#md-trajectory-processing-analysis) | [AI4MD](#ai4md) |
 | [Neural Network Potentials](#neural-network-potentials) | [Free Energy Perturbation](#free-energy-perturbation) | [Ab Initio](#ab-initio) | [Neural Molecular Force Fields](#neural-molecular-force-fields) |
-| [Neural Reactive Potential](#neural-reactive-potential) |  |  |  |
+| [Neural Reactive Potential](#neural-reactive-potential) | [Reactive Force Fields](#reactive-force-fields) |  |  |
 | [AlphaFold-based](#alphaFold-based) | [Autoregressive-Based](#autoregressive-Based)  | [LSTM-based](#lstm-based) | [Transformer-based](#transformer-based) |
 | [VAE-based](#vae-based) | [GAN-based](#gan-based) | [Flow-based](#flow-based) | [Diffusion-based](#diffusion-based) |
 | [Score-Based](#score-Based) | [Energy-based](#energy-based) | [Bayesian-based](#bayesian-based) | [Active Learning-based](#active-learning-based) |
@@ -654,6 +654,14 @@ Zhang, Yuzhi, Haidi Wang, Weijie Chen, Jinzhe Zeng, Linfeng Zhang, Han Wang, and
 
 
 
+### Reactive Force Fields
+
+
+
+
+* **Boosting ReaxFF Reactive Force Field Optimization with Adaptive Sampling** [2025]   
+ Shuang Li, Siyuan Yang, Sibing Chen, Wei Zheng, Zejian Dong, Langli Luo, Weiwei Zhang, and Xing Chen.  
+  [J. Chem. Theory Comput. (2025)](https://doi.org/10.1021/acs.jctc.4c01748) | [code](https://github.com/tju-chen-group/Adaptive-Sampling-Optimization-code)  
 
 
 
