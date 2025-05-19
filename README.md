@@ -408,7 +408,9 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 ### Neural Network Potentials
 
 
-
+* **OMNI-P2x: A Universal Neural Network Potential for Excited-State Simulations** [2025]  
+Martyka M, Tong X-Y, Jankowska J, Dral PO.  
+[ChemRxiv. (2025)](https://doi.org/10.26434/chemrxiv-2025-j207x) | [code](https://github.com/dralgroup/omni-p2x)  
 
 * **Interpolation and differentiation of alchemical degrees of freedom in machine learning interatomic potentials** [2025]  
 Nam, J., Peng, J. & Gómez-Bombarelli, R.  
