@@ -546,6 +546,10 @@ Liu, Yuanbin, Joe D. Morrow, Christina Ertural, Natascia L. Fragapane, John LA G
 Eric Qu, Aditi S. Krishnapriyan.  
 [arXiv:2410.24169 (2024)](https://arxiv.org/abs/2410.24169v1)   
 
+* **Cartesian atomic moment machine learning interatomic potentials** [2024]  
+Mingjian Wen, Wei-Fan Huang, Jin Dai, Santosh Adhikari.  
+[arXiv:2411.12096 (2024)](https://doi.org/10.48550/arXiv.2411.12096) | [code](https://github.com/wengroup/camp)  
+
 * **DeepConf: Leveraging ANI-ML Potentials for Exploring Local Minima with A Focus on Bioactive Conformations** [2024]  
 Tayfuroglu O, Zengin İN, Koca MS, Kocak A.  
 [ChemRxiv. (2024)](https://doi.org/10.26434/chemrxiv-2024-xqbdp-v2) | [code](https://github.com/otayfuroglu/DeepConf)  
