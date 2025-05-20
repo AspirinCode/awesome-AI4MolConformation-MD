@@ -177,7 +177,9 @@ Wang, L., Brasnett, C., Borges-Araújo, L. et al.
 
 
 
-
+* **MACE-OFF: Short-Range Transferable Machine Learning Force Fields for Organic Molecules** [2025]  
+Dávid Péter Kovács, J. Harry Moore, Nicholas J. Browning, Ilyes Batatia, Joshua T. Horton, Yixuan Pu, Venkat Kapil, William C. Witt, Ioan-Bogdan Magdău, Daniel J. Cole, and Gábor Csányi.  
+[J. Am. Chem. Soc. (2025)](https://doi.org/10.1021/jacs.4c07099) | [code](https://github.com/ACEsuit/mace-off)  
 
 * **Grappa--A Machine Learned Molecular Mechanics Force Field** [2025]  
 Seute, Leif, Eric Hartmann, Jan Stühmer, and Frauke Gräter.  
