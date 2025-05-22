@@ -562,6 +562,10 @@ Antoine Loew, Dewen Sun, Hai-Chen Wang, Silvana Botti, Miguel A. L. Marques.
 Barnett, Simon, and John D. Chodera.  
 [GEN Biotechnology 3.3 (2024)](https://doi.org/10.1089/genbio.2024.0011)    
 
+* **Uncertainty-biased molecular dynamics for learning uniformly accurate interatomic potentials** [2024]  
+Zaverkin, V., Holzmüller, D., Christiansen, H. et al.  
+[npj Comput Mater 10, 83 (2024)](https://doi.org/10.1038/s41524-024-01254-1) | [code](https://github.com/nec-research/alebrew)   
+
 * **General-purpose machine-learned potential for 16 elemental metals and their alloys** [2024]  
 Song, K., Zhao, R., Liu, J. et al.  
 [Nat Commun 15, 10208 (2024)](https://doi.org/10.1038/s41467-024-54554-x) | [code](https://github.com/brucefan1983/GPUMD)    
