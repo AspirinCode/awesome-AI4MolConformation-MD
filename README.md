@@ -630,6 +630,10 @@ Galvelis, R., Varela-Rial, A., Doerr, S., Fino, R., Eastman, P., Markland, T.E.,
 Takamoto, S., Shinagawa, C., Motoki, D. et al.   
 [Nat Commun 13, 2991 (2022)](https://doi.org/10.1038/s41467-022-30687-9) | [data](https://doi.org/10.6084/m9.figshare.19658538)  
 
+* **E(3)-equivariant graph neural networks for data-efficient and accurate interatomic potentials** [2022]  
+Batzner, S., Musaelian, A., Sun, L. et al.   
+[Nat Commun 13, 2453 (2022)](https://doi.org/10.1038/s41467-022-29939-5) | [data](https://github.com/teddykoker/nequip-eqx)  
+
 * **Teaching a neural network to attach and detach electrons from molecules** [2021]  
 Zubatyuk, R., Smith, J.S., Nebgen, B.T. et al.   
 [Nat Commun 12, 4870 (2021)](https://doi.org/10.1038/s41467-021-24904-0)  | [code](https://github.com/isayevlab/aimnetnse)  
