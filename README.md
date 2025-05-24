@@ -177,6 +177,11 @@ Wang, L., Brasnett, C., Borges-Araújo, L. et al.
 
 
 
+
+* **Efficient Long-Range Machine Learning Force Fields for Liquid and Materials Properties** [2025]  
+Weber, John L., Rishabh D. Guha, Garvit Agarwal, Yujing Wei, Aidan A. Fike, Xiaowei Xie, James Stevenson et al.  
+[arXiv:2505.06462 (2025)](https://arxiv.org/abs/2505.06462) | [code](https://github.com/leifjacobson/MLFF_test_data)  
+
 * **MACE-OFF: Short-Range Transferable Machine Learning Force Fields for Organic Molecules** [2025]  
 Dávid Péter Kovács, J. Harry Moore, Nicholas J. Browning, Ilyes Batatia, Joshua T. Horton, Yixuan Pu, Venkat Kapil, William C. Witt, Ioan-Bogdan Magdău, Daniel J. Cole, and Gábor Csányi.  
 [J. Am. Chem. Soc. (2025)](https://doi.org/10.1021/jacs.4c07099) | [code](https://github.com/ACEsuit/mace-off)  
