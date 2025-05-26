@@ -531,6 +531,10 @@ Yao-Kun Lei, Kiyoshi Yagi, and Yuji Sugita.
 Yang, Z., Wang, X., Li, Y. et al.  
 [npj Comput Mater 11, 49 (2025)](https://doi.org/10.1038/s41524-025-01535-3) | [code](https://github.com/Shen-Group/E2GNN)   
 
+* **Neural Network Potential with Multiresolution Approach Enables Accurate Prediction of Reaction Free Energies in Solution** [2025]  
+Felix Pultar, Moritz Thürlemann, Igor Gordiy, Eva Doloszeski, and Sereina Riniker.  
+[J. Am. Chem. Soc. (2025)](https://doi.org/10.1021/jacs.4c17015) | [code](https://github.com/rinikerlab/amp_qmmm)  
+
 * **End-To-End Learning of Classical Interatomic Potentials for Benchmarking Anion Polarization Effects in Lithium Polymer Electrolytes** [2025]  
 Pablo A. Leon, Avni Singhal, Jurgis Ruza, Jeremiah A. Johnson, Yang Shao-Horn, and Rafael Gomez-Bombarelli.  
 [Chem. Mater. (2025)](https://doi.org/10.1021/acs.chemmater.4c02529) | [code](https://github.com/learningmatter-mit/AutoBADDIE)   
