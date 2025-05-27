@@ -178,6 +178,13 @@ Wang, L., Brasnett, C., Borges-Araújo, L. et al.
 
 
 
+
+
+
+* **NepoIP/MM: Toward Accurate Biomolecular Simulation with a Machine Learning/Molecular Mechanics Model Incorporating Polarization Effects** [2025]  
+Ge Song and Weitao Yang.  
+[J. Chem. Theory Comput. (2025)](https://doi.org/10.1021/acs.jctc.5c00372) | [code](https://github.com/Yang-Laboratory/NepoIP)  
+
 * **Efficient Long-Range Machine Learning Force Fields for Liquid and Materials Properties** [2025]  
 Weber, John L., Rishabh D. Guha, Garvit Agarwal, Yujing Wei, Aidan A. Fike, Xiaowei Xie, James Stevenson et al.  
 [arXiv:2505.06462 (2025)](https://arxiv.org/abs/2505.06462) | [code](https://github.com/leifjacobson/MLFF_test_data)  
