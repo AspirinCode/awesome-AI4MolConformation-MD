@@ -1347,7 +1347,9 @@ MD-Agent is a LLM-agent based toolset for Molecular Dynamics.
 
 
 
-
+* **WGFormer: An SE(3)-Transformer Driven by Wasserstein Gradient Flows for Molecular Ground-State Conformation Prediction** [2025]  
+Fanmeng Wang, Minjie Cheng, Hongteng Xu.  
+[arXiv:2410.09795 (2025)](https://doi.org/10.48550/arXiv.2410.09795) |  [code](https://github.com/FanmengWang/WGFormer)  
 
 * **The pucke.rs toolkit to facilitate sampling the conformational space of biomolecular monomers** [2025]  
 Rihon, J., Reynders, S., Bernardes Pinheiro, V. et al.  
