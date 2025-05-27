@@ -415,6 +415,12 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 ### Neural Network Potentials
 
 
+
+
+* **Transferability of MACE Graph Neural Network for Range Corrected Δ-Machine Learning Potential QM/MM Applications** [2025]  
+Timothy J. Giese, Jinzhe Zeng, and Darrin M. York.  
+[J. Phys. Chem. B (2025)](https://doi.org/10.1021/acs.jpcb.5c02006)  
+
 * **OMNI-P2x: A Universal Neural Network Potential for Excited-State Simulations** [2025]  
 Martyka M, Tong X-Y, Jankowska J, Dral PO.  
 [ChemRxiv. (2025)](https://doi.org/10.26434/chemrxiv-2025-j207x) | [code](https://github.com/dralgroup/omni-p2x)  
