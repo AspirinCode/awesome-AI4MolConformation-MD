@@ -415,7 +415,9 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 ### Neural Network Potentials
 
 
-
+* **INN-FF: A Scalable and Efficient Machine Learning Potential for Molecular Dynamics** [2025]  
+Taskin Mehereen, Sourav Saha, Intesar Jawad Jaigirdar, Chanwook Park.  
+[arXiv:2505.18141 (2025)](https://doi.org/10.48550/arXiv.2505.18141)  
 
 * **Transferability of MACE Graph Neural Network for Range Corrected Δ-Machine Learning Potential QM/MM Applications** [2025]  
 Timothy J. Giese, Jinzhe Zeng, and Darrin M. York.  
