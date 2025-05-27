@@ -695,8 +695,18 @@ Zhang, Yuzhi, Haidi Wang, Weijie Chen, Jinzhe Zeng, Linfeng Zhang, Han Wang, and
 
 
 
+
+
+
 ### Neural Reactive Potential
 
+
+
+
+
+* **Harnessing Machine Learning to Enhance Transition State Search with Interatomic Potentials and Generative Models** [2025]   
+ Zhao Q, Han Y, Zhang D, Wang J, Zhong P, Cui T, et al.  
+  [ChemRxiv. (2025)](https://doi.org/10.26434/chemrxiv-2025-mt6hc-v2)  
 
 * **Capturing Excited State Proton Transfer Dynamics with Reactive Machine Learning Potentials** [2025]   
  Umberto Raucci.  
