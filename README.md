@@ -1357,7 +1357,9 @@ MD-Agent is a LLM-agent based toolset for Molecular Dynamics.
 
 
 
-
+* **DihedralsDiff: A Diffusion Conformation Generation Model That Unifies Local and Global Molecular Structures** [2025]  
+Jianhui Xiao, Zheng Zheng, and Hao Liu.  
+[J. Chem. Inf. Model. (2025)](https://doi.org/10.1021/acs.jcim.5c00367) |  [code](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/JNGTDF)  
 
 * **WGFormer: An SE(3)-Transformer Driven by Wasserstein Gradient Flows for Molecular Ground-State Conformation Prediction** [2025]  
 Fanmeng Wang, Minjie Cheng, Hongteng Xu.  
