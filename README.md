@@ -300,7 +300,9 @@ Barnett, Simon, and John D. Chodera.
 
 
 
-
+* **NeuralTSNE: A Python Package for the Dimensionality Reduction of Molecular Dynamics Data Using Neural Networks** [2025]  
+Patryk Tajs, Mateusz Skarupski, Jakub Rydzewski.  
+[arXiv:2505.16476(2025)](https://doi.org/10.48550/arXiv.2505.16476) | [code](https://github.com/NeuralTSNE/NeuralTSNE)  
 
 * **GEODES: Geometric Descriptors for the Assessment of Global and Local Flexibility of Proteins During Molecular Dynamics Simulation** [2025]  
 Pats, Karina and Glukhov, Igor and Petrosian, Stepan and Mamaeva, Maria and Sergushichev, Alexey and Devignes, Marie-Dominique and Molnár, Ferdinand.  
