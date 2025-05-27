@@ -415,6 +415,13 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 ### Neural Network Potentials
 
 
+
+
+
+* **Impact of Derivative Observations on Gaussian Process Machine Learning Potentials: A Direct Comparison of Three Modeling Approaches** [2025]  
+Yulian T. Manchev and Paul L. A. Popelier.  
+[J. Chem. Theory Comput. (2025)](https://doi.org/10.1021/acs.jctc.5c00344)  
+
 * **INN-FF: A Scalable and Efficient Machine Learning Potential for Molecular Dynamics** [2025]  
 Taskin Mehereen, Sourav Saha, Intesar Jawad Jaigirdar, Chanwook Park.  
 [arXiv:2505.18141 (2025)](https://doi.org/10.48550/arXiv.2505.18141)  
