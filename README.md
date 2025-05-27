@@ -429,6 +429,10 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
+* **chemtrain: Learning deep potential models via automatic differentiation and statistical physics** [2025]  
+Fuchs, Paul, Stephan Thaler, Sebastien Röcken, and Julija Zavadlav.  
+[Computer Physics Communications (2025)](https://doi.org/10.1016/j.cpc.2025.109512) | [code](https://github.com/tummfm/chemtrain)  
+
 * **Accurate and efficient machine learning interatomic potentials for finite temperature modelling of molecular crystals** [2025]  
 Della Pia, Flaviano and Shi, Benjamin X. and Kapil, Venkat and Zen, Andrea and Alfè, Dario and Michaelides, Angelos.  
 [Chem. Sci. (2025)](https://doi.org/10.1039/D5SC01325A) | [code](https://github.com/water-ice-group/MolCrys-MACE)  
