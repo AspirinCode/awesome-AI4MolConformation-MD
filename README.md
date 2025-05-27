@@ -954,10 +954,13 @@ Del Alamo, Diego, Davide Sala, Hassane S. Mchaourab, and Jens Meiler.
 ### Autoregressive-Based
 
 
+* **Simultaneous Modeling of Protein Conformation and Dynamics via Autoregression** [2025]   
+Yuning Shen, Lihao Wang, Huizhuo Yuan, Yan Wang, Bangji Yang, Quanquan Gu.  
+[arXiv:2505.17478 (2025)](https://doi.org/10.48550/arXiv.2505.17478)  
 
 * **Force-Free Molecular Dynamics Through Autoregressive Equivariant Networks** [2025]   
 Fabian L. Thiemann, Thiago Reschützegger, Massimiliano Esposito, Tseden Taddese, Juan D. Olarte-Plata, Fausto Martelli.  
-[	arXiv:2503.23794 (2025)](https://www.arxiv.org/abs/2503.23794) |  [code](https://github.com/IBM/trajcast)  
+[arXiv:2503.23794 (2025)](https://www.arxiv.org/abs/2503.23794) |  [code](https://github.com/IBM/trajcast)  
 
 
 
@@ -1132,6 +1135,9 @@ Jing, Bowen, Bonnie Berger, and Tommi Jaakkola.
 ### Diffusion-based
 
 
+* **Simultaneous Modeling of Protein Conformation and Dynamics via Autoregression** [2025]   
+Yuning Shen, Lihao Wang, Huizhuo Yuan, Yan Wang, Bangji Yang, Quanquan Gu.  
+[arXiv:2505.17478 (2025)](https://doi.org/10.48550/arXiv.2505.17478)  
 
 * **Protein Conformation Generation via Force-Guided SE(3) Diffusion Models** [2024]  
 Yan Wang, Lihao Wang, Yuning Shen, Yiqun Wang, Huizhuo Yuan, Yue Wu, Quanquan Gu.   
@@ -1408,6 +1414,9 @@ Xu, Minkai, Wujie Wang, Shitong Luo, Chence Shi, Yoshua Bengio, Rafael Gomez-Bom
 
 ### RNA conformational ensembles
 
+
+
+
 * **Determining structures of RNA conformers using AFM and deep neural networks** [2025]  
 Boccalini, Matteo, Yelyzaveta Berezovska, Giovanni Bussi, Matteo Paloni, and Alessandro Barducci.  
 [Proceedings of the National Academy of Sciences 122.15 (2025)](https://doi.org/10.1073/pnas.2425261122) | [code](https://doi.org/10.5281/zenodo.14203857)  
@@ -1431,6 +1440,9 @@ Bottaro, S., Bussi, G., Kennedy, S.D., Turner, D.H. and Lindorff-Larsen, K.
 
 
 ### Peptide conformational ensembles
+
+
+
 
 
 * **Scoring Conformational Metastability of Macrocyclic Peptides with Binding Pose Metadynamics** [2025]  
@@ -1460,6 +1472,11 @@ Grambow, Colin A., Hayley Weir, Nathaniel Diamant, Alex Tseng, Tommaso Biancalan
 ### Protein conformational ensembles
 
 
+
+
+* **Simultaneous Modeling of Protein Conformation and Dynamics via Autoregression** [2025]   
+Yuning Shen, Lihao Wang, Huizhuo Yuan, Yan Wang, Bangji Yang, Quanquan Gu.  
+[arXiv:2505.17478 (2025)](https://doi.org/10.48550/arXiv.2505.17478)  
 
 * **Caver Web 2.0: analysis of tunnels and ligand transport in dynamic ensembles of proteins** [2025]  
 Sérgio M Marques, Simeon Borko, Ondrej Vavra, Jan Dvorsky, Petr Kohout, Petr Kabourek, Lukas Hejtmanek, Jiri Damborsky, David Bednar.   
