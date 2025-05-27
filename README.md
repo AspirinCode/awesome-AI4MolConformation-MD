@@ -791,6 +791,12 @@ Ross, G.A., Lu, C., Scarabelli, G. et al.
 ### Ab Initio
 
 
+
+
+* **The Enduring Relevance of Semiempirical Quantum Mechanics** [2025]  
+Jonathan E. Moussa.  
+[arXiv:2505.13424 (2025)](https://doi.org/10.48550/arXiv.2505.13424)  
+
 * **DENSE SENSE : A novel approach utilizing an electron density augmented machine learning paradigm to understand a complex odour landscape** [2025]  
 Saha P, Sharma M, Balaji S, Barsainyan AA, Kumar R, Steuber V, et al.  
 [ChemRxiv. (2025)](https://doi.org/10.26434/chemrxiv-2025-68d6w-v3) | [code](https://github.com/CSIO-FPIL/Dense-Sense-ODOR)  
