@@ -179,7 +179,9 @@ Wang, L., Brasnett, C., Borges-Araújo, L. et al.
 
 
 
-
+* **Artificial Intelligence for Direct Prediction of Molecular Dynamics Across Chemical Space** [2025]  
+Ge F, Dral PO.  
+[ChemRxiv. (2025)](https://doi.org/10.26434/chemrxiv-2025-kc7sn) | [code](https://github.com/dralgroup/mlatom)  
 
 * **NepoIP/MM: Toward Accurate Biomolecular Simulation with a Machine Learning/Molecular Mechanics Model Incorporating Polarization Effects** [2025]  
 Ge Song and Weitao Yang.  
