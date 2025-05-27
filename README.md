@@ -349,7 +349,9 @@ https://github.com/ipudu/awesome-molecular-dynamics
 ## AI4MD
 
 
-
+* **Investigating the Nature of PRM:SH3 Interactions Using Artificial Intelligence and Molecular Dynamics** [2025]  
+Se-Jun Kim, Da-Eun Hwang, Hyungjun Kim, and Jeong-Mo Choi.  
+[J. Chem. Inf. Model. (2025)](https://doi.org/10.1021/acs.jcim.5c00342) | [code](https://github.com/sejunkim6370/AlphaFold2-and-Molecular-Dynamics)  
 
 * **Towards Unraveling Biomolecular Conformational Landscapes with a Generative Foundation Model** [2025]  
 The OpenComplex Team, Qiwei Ye.  
