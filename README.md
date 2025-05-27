@@ -797,9 +797,15 @@ Ross, G.A., Lu, C., Scarabelli, G. et al.
 
 
 
+
+
+* **High-order Equivariant Flow Matching for Density Functional Theory Hamiltonian Prediction** [2025]  
+Seongsu Kim, Nayoung Kim, Dongwoo Kim, Sungsoo Ahn.  
+[arXiv:2505.13424 (2025)](https://doi.org/10.48550/arXiv.2505.13424)  
+
 * **The Enduring Relevance of Semiempirical Quantum Mechanics** [2025]  
 Jonathan E. Moussa.  
-[arXiv:2505.13424 (2025)](https://doi.org/10.48550/arXiv.2505.13424)  
+[arXiv:2505.18817 (2025)](https://doi.org/10.48550/arXiv.2505.18817)  
 
 * **DENSE SENSE : A novel approach utilizing an electron density augmented machine learning paradigm to understand a complex odour landscape** [2025]  
 Saha P, Sharma M, Balaji S, Barsainyan AA, Kumar R, Steuber V, et al.  
