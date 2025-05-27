@@ -767,7 +767,9 @@ Ross, G.A., Lu, C., Scarabelli, G. et al.
 ### Ab Initio
 
 
-
+* **DENSE SENSE : A novel approach utilizing an electron density augmented machine learning paradigm to understand a complex odour landscape** [2025]  
+Saha P, Sharma M, Balaji S, Barsainyan AA, Kumar R, Steuber V, et al.  
+[ChemRxiv. (2025)](https://doi.org/10.26434/chemrxiv-2025-68d6w-v3) | [code](https://github.com/CSIO-FPIL/Dense-Sense-ODOR)  
 
 * **Advancing Density Functional Tight-Binding method for Large Organic Molecules through Equivariant Neural Networks** [2025]  
 Medrano Sandonas LR, Puleva M, Parra Payano R, Stöhr M, Cuniberti G, Tkatchenko A.  
