@@ -135,7 +135,9 @@ Antonio Mirarchi, Toni Giorgino, G. D. Fabritiis.
 Antonio Mirarchi, Toni Giorgino, G. D. Fabritiis.   
 [	arXiv:2407.14794 (2024)](https://arxiv.org/abs/2407.14794) | [code](https://github.com/compsciencelab/mdCATH)  
 
-
+* **nablaDFT: Large-Scale Conformational Energy and Hamiltonian Prediction benchmark and dataset** [2022]  
+Khrabrov, Kuzma and Shenbin, Ilya and Ryabov, Alexander and Tsypin, Artem and Telepov, Alexander and Alekseev, Anton and Grishin, Alexander and Strashnov, Pavel and Zhilyaev, Petr and Nikolenko, Sergey and Kadurin, Artur.   
+[Phys. Chem. Chem. Phys. (2022)](https://doi.org/10.1039/D2CP03966D) | [code](https://github.com/AIRI-Institute/nablaDFT)  
 
 
 
