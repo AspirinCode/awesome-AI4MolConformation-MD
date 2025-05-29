@@ -1473,7 +1473,9 @@ Xu, Minkai, Wujie Wang, Shitong Luo, Chence Shi, Yoshua Bengio, Rafael Gomez-Bom
 ### RNA conformational ensembles
 
 
-
+* **DynaRNA: Dynamic RNA Conformation Ensemble Generation with Diffusion Model** [2025]  
+Zhengxin Li, Junjie Zhu, Xiaokun Hong, Zhuoqi Zheng, Taeyoung Cui, Yutong Sun, Ting Wei, Haifeng Chen.   
+[bioRxiv. (2025)](https://doi.org/10.1101/2025.05.22.655453)  
 
 * **Determining structures of RNA conformers using AFM and deep neural networks** [2025]  
 Boccalini, Matteo, Yelyzaveta Berezovska, Giovanni Bussi, Matteo Paloni, and Alessandro Barducci.  
