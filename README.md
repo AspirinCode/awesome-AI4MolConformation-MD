@@ -431,6 +431,11 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
+
+* **Structure and Dynamics of CO2 at the Air–Water Interface from Classical and Neural Network Potentials** [2025]  
+Nitesh Kumar and Vyacheslav S. Bryantsev.  
+[J. Phys. Chem. Lett. (2025)](https://doi.org/10.1021/acs.jpclett.5c01206)  
+
 * **chemtrain: Learning deep potential models via automatic differentiation and statistical physics** [2025]  
 Fuchs, Paul, Stephan Thaler, Sebastien Röcken, and Julija Zavadlav.  
 [Computer Physics Communications (2025)](https://doi.org/10.1016/j.cpc.2025.109512) | [code](https://github.com/tummfm/chemtrain)  
