@@ -432,6 +432,11 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
+
+* **Practical Machine Learning Strategies. 2. Accurate Prediction of ωB97X-V/6-311+G(2df,2p), ωB97M-V/6-311+G(2df,2p) and ωB97M(2)/6-311+G(2df,2p) Energies From Neural Networks Trained From ωB97X-D/6-31G* Equilibrium Geometries and Energies** [2025]  
+Philip Klunzinger, Thomas Hehre, Bernard Deppmeier, William Ohlinger, Warren Hehre.  
+[Computer Physics Communications (2025)](https://doi.org/10.1002/jcc.70129)  
+
 * **Structure and Dynamics of CO2 at the Air–Water Interface from Classical and Neural Network Potentials** [2025]  
 Nitesh Kumar and Vyacheslav S. Bryantsev.  
 [J. Phys. Chem. Lett. (2025)](https://doi.org/10.1021/acs.jpclett.5c01206)  
