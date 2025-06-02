@@ -431,6 +431,11 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
+
+* **Discovering High-Entropy Oxides with a Machine-Learning Interatomic Potential** [2025]  
+Sivak, Jacob T., Saeed SI Almishal, Mary Kathleen Caucci, Yueze Tan, Dhiya Srikanth, Joseph Petruska, Matthew Furst et al.  
+[Phys. Rev. Lett. (2025)](https://doi.org/10.1103/PhysRevLett.134.216101)  
+
 * **Fast and Fourier Features for Transfer Learning of Interatomic Potentials** [2025]  
 Pietro Novelli, Giacomo Meanti, Pedro J. Buigues, Lorenzo Rosasco, Michele Parrinello, Massimiliano Pontil, Luigi Bonati.  
 [arXiv:2505.05652 (2025)](https://doi.org/10.48550/arXiv.2505.05652) | [code](https://franken.readthedocs.io/)  
