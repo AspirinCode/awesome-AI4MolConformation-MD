@@ -302,6 +302,12 @@ Barnett, Simon, and John D. Chodera.
 
 
 
+
+
+* **Self-Supervised Evolution Operator Learning for High-Dimensional Dynamical Systems** [2025]  
+Giacomo Turri, Luigi Bonati, Kai Zhu, Massimiliano Pontil, Pietro Novelli.  
+[arXiv:2505.18671 (2025)](https://doi.org/10.48550/arXiv.2505.18671) | [code](https://github.com/pietronvll/encoderops)  
+
 * **NeuralTSNE: A Python Package for the Dimensionality Reduction of Molecular Dynamics Data Using Neural Networks** [2025]  
 Patryk Tajs, Mateusz Skarupski, Jakub Rydzewski.  
 [arXiv:2505.16476(2025)](https://doi.org/10.48550/arXiv.2505.16476) | [code](https://github.com/NeuralTSNE/NeuralTSNE)  
