@@ -351,6 +351,13 @@ https://github.com/ipudu/awesome-molecular-dynamics
 ## AI4MD
 
 
+
+
+
+* **FlashMD: long-stride, universal prediction of molecular dynamics** [2025]  
+Bigi, Filippo, Sanggyu Chong, Agustinus Kristiadi, and Michele Ceriotti.  
+[arXiv:2505.19350 (2025)](https://arxiv.org/abs/2505.19350) | [code](https://github.com/lab-cosmo/flashmd)  
+
 * **Investigating the Nature of PRM:SH3 Interactions Using Artificial Intelligence and Molecular Dynamics** [2025]  
 Se-Jun Kim, Da-Eun Hwang, Hyungjun Kim, and Jeong-Mo Choi.  
 [J. Chem. Inf. Model. (2025)](https://doi.org/10.1021/acs.jcim.5c00342) | [code](https://github.com/sejunkim6370/AlphaFold2-and-Molecular-Dynamics)  
