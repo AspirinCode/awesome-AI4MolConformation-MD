@@ -443,7 +443,9 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 ### Neural Network Potentials
 
 
-
+* **Weighted Active Space Protocol for Multireference Machine-Learned Potentials** [2025]  
+Aniruddha Seal, Simone Perego, Matthew R. Hennefarth, Umberto Raucci, Luigi Bonati, Andrew L. Ferguson, Michele Parrinello, Laura Gagliardi.  
+[arXiv:2505.10505 (2025)](https://arxiv.org/abs/2505.10505)  
 
 * **Discovering High-Entropy Oxides with a Machine-Learning Interatomic Potential** [2025]  
 Sivak, Jacob T., Saeed SI Almishal, Mary Kathleen Caucci, Yueze Tan, Dhiya Srikanth, Joseph Petruska, Matthew Furst et al.  
