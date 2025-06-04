@@ -440,8 +440,16 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
+
+
 ### Neural Network Potentials
 
+
+
+
+* **DistMLIP: A Distributed Inference Platform for Machine Learning Interatomic Potentials** [2025]  
+Kevin Han, Bowen Deng, Amir Barati Farimani, Gerbrand Ceder.  
+[arXiv:2506.02023 (2025)](https://doi.org/10.48550/arXiv.2506.02023)  
 
 * **Weighted Active Space Protocol for Multireference Machine-Learned Potentials** [2025]  
 Aniruddha Seal, Simone Perego, Matthew R. Hennefarth, Umberto Raucci, Luigi Bonati, Andrew L. Ferguson, Michele Parrinello, Laura Gagliardi.  
