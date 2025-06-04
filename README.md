@@ -647,6 +647,10 @@ Antoine Loew, Dewen Sun, Hai-Chen Wang, Silvana Botti, Miguel A. L. Marques.
 Barnett, Simon, and John D. Chodera.  
 [GEN Biotechnology 3.3 (2024)](https://doi.org/10.1089/genbio.2024.0011)    
 
+* **Online Test-time Adaptation for Interatomic Potentials** [2024]  
+Taoyong Cui, Chenyu Tang, Dongzhan Zhou, Yuqiang Li, Xingao Gong, Wanli Ouyang, Mao Su, Shufei Zhang.  
+[arXiv:2405.08308 (2024)](https://arxiv.org/abs/2405.08308) | [code](https://github.com/TaoyongCui/TAIP-codes)   
+
 * **Uncertainty-biased molecular dynamics for learning uniformly accurate interatomic potentials** [2024]  
 Zaverkin, V., Holzmüller, D., Christiansen, H. et al.  
 [npj Comput Mater 10, 83 (2024)](https://doi.org/10.1038/s41524-024-01254-1) | [code](https://github.com/nec-research/alebrew)   
