@@ -185,6 +185,11 @@ Wang, L., Brasnett, C., Borges-Araújo, L. et al.
 
 
 
+
+* **Reversible molecular simulation for training classical and machine-learning force fields** [2025]  
+Greener, Joe G.   
+[Proc. Natl. Acad. Sci. (2025)](https://doi.org/10.1073/pnas.2426058122) | [code](https://github.com/greener-group/rev-sim)  
+
 * **Artificial Intelligence for Direct Prediction of Molecular Dynamics Across Chemical Space** [2025]  
 Ge F, Dral PO.  
 [ChemRxiv. (2025)](https://doi.org/10.26434/chemrxiv-2025-kc7sn) | [code](https://github.com/dralgroup/mlatom)  
@@ -239,7 +244,7 @@ Frank, J.T., Unke, O.T., Müller, KR. et al.
 
 * **Differentiable simulation to develop molecular dynamics force fields for disordered proteins** [2024]  
 Greener, Joe G.   
-[Chemical Science 15.13 (2024)](https://doi.org/10.1039/D3SC05230C) | [code](https://github.com/greener-group/GB99dms)
+[Chemical Science 15.13 (2024)](https://doi.org/10.1039/D3SC05230C) | [code](https://github.com/greener-group/GB99dms)  
 
 * **Grappa--A Machine Learned Molecular Mechanics Force Field** [2024]  
 Seute, Leif, Eric Hartmann, Jan Stühmer, and Frauke Gräter.  
