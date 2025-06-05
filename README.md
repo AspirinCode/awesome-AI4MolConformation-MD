@@ -890,7 +890,9 @@ Ross, G.A., Lu, C., Scarabelli, G. et al.
 
 
 
-
+* **Unified deep learning framework for many-body quantum chemistry via Green’s functions** [2025]  
+SVenturella, C., Li, J., Hillenbrand, C. et al.  
+[Nat Comput Sci (2025)](https://doi.org/10.1038/s43588-025-00810-z) | [code](https://github.com/ZhuGroup-Yale/mlgf)  
 
 * **High-order Equivariant Flow Matching for Density Functional Theory Hamiltonian Prediction** [2025]  
 Seongsu Kim, Nayoung Kim, Dongwoo Kim, Sungsoo Ahn.  
