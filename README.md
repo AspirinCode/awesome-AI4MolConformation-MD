@@ -184,7 +184,13 @@ Wang, L., Brasnett, C., Borges-Araújo, L. et al.
 
 
 
+* **On the design space between molecular mechanics and machine learning force fields** [2025]  
+Wang, Yuanqing, Kenichiro Takaba, Michael S. Chen, Marcus Wieder, Yuzhi Xu, Tong Zhu, John ZH Zhang et al.  
+[Appl. Phys. Rev. (2025)](https://doi.org/10.1063/5.0237876)  
 
+* **ABFML: A problem-oriented package for rapidly creating, screening, and optimizing new machine learning force fields** [2025]  
+Xingze Geng, Jianing Gu, Gaowu Qin, Lin-Wang Wang, Xiangying Meng.  
+[J. Chem. Phys. (2025)](https://doi.org/10.1063/5.0247559) | [code](https://github.com/gengxingze/ABFML)  
 
 * **Reversible molecular simulation for training classical and machine-learning force fields** [2025]  
 Greener, Joe G.   
@@ -254,9 +260,19 @@ Seute, Leif, Eric Hartmann, Jan Stühmer, and Frauke Gräter.
 MacCallum, J. L., Hu, S., Lenz, S., Souza, P. C., Corradi, V., & Tieleman, D. P.   
 [Biophysical Journal 122.14 (2023)](https://doi.org/10.1016/j.bpj.2023.04.007)  
 
+* **Improving machine learning force fields for molecular dynamics simulations with fine-grained force metrics** [2023]  
+Zun Wang, Hongfei Wu, Lixin Sun, Xinheng He, Zhirong Liu, Bin Shao, Tong Wang, Tie-Yan Liu.   
+[J. Chem. Phys. (2023)](https://doi.org/10.1063/5.0147023) | [data](https://figshare.com/articles/dataset/Revised_MD17_dataset_rMD17_/12672038)    
+
 * **End-to-end differentiable construction of molecular mechanics force fields** [2022]  
 Wang, Yuanqing, Josh Fass, Benjamin Kaminow, John E. Herr, Dominic Rufa, Ivy Zhang, Iván Pulido et al.   
 [Chemical Science (2022)](https://doi.org/10.1039/D2SC02739A) | [code](https://github.com/openforcefield/openff-nagl)  
+
+* **Improving molecular force fields across configurational space by combining supervised and unsupervised machine learning** [2021]  
+Gregory Fonseca, Igor Poltavsky, Valentin Vassilev-Galindo, Alexandre Tkatchenko.   
+[J. Chem. Phys. (2021)](https://doi.org/10.1063/5.0035530)  
+
+
 
 
 ### MD Engines-Frameworks
