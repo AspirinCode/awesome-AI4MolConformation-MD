@@ -438,6 +438,10 @@ Unke, Oliver T., Martin Stöhr, Stefan Ganscha, Thomas Unterthiner, Hartmut Maen
 Zeng, Jinzhe, Duo Zhang, Denghui Lu, Pinghui Mo, Zeyu Li, Yixiao Chen, Marián Rynik et al.   
 [The Journal of Chemical Physics 159.5 (2023)](https://doi.org/10.1063/5.0155600) | [code](https://github.com/deepmodeling/deepmd-kit)  
 
+* **Enhancing Biomolecular Sampling with Reinforcement Learning: A Tree Search Molecular Dynamics Simulation Method** [2019]  
+Kento Shin, Duy Phuoc Tran, Kazuhiro Takemura, Akio Kitao, Kei Terayama, and Koji Tsuda.   
+[ACS Omega (2019)](https://doi.org/10.1021/acsomega.9b01480) | [code](https://github.com/tsudalab/TSMD)  
+
 * **DeePMD-kit: A deep learning package for many-body potential energy representation and molecular dynamics** [2018]  
 Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.   
 [Computer Physics Communications 228 (2018)](https://doi.org/10.1016/j.cpc.2018.03.016) | [code](https://github.com/deepmodeling/deepmd-kit)  
