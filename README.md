@@ -958,6 +958,16 @@ Pajkos, Mátyás, et al. "AFflecto: A web server to generate conformational ense
 
 ### AlphaFold-based
 
+
+
+
+
+
+
+* **Modeling Active-State Conformations of G-Protein-Coupled Receptors Using AlphaFold2 via Template Bias and Explicit Protein Constrains** [2025]  
+Luca Chiesa, Dina Khasanova, and Esther Kellenberger.  
+[J. Chem. Inf. Model. (2025)](https://doi.org/10.1021/acs.jcim.5c00489) | [code](https://github.com/LIT-CCM-lab/LIT-AlphaFold)  
+
 * **AlphaFold prediction of structural ensembles of disordered proteins** [2025]  
 Brotzakis, Z.F., Zhang, S., Murtada, M.H. et al.  
 [Nat Commun 16, 1632 (2025)](https://doi.org/10.1038/s41467-025-56572-9) | [code](https://github.com/vendruscolo-lab/AlphaFold-IDP)  
