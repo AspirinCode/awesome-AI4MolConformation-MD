@@ -819,7 +819,9 @@ Zhang, Yuzhi, Haidi Wang, Weijie Chen, Jinzhe Zeng, Linfeng Zhang, Han Wang, and
 
 
 
-
+* **Considerations in the use of machine learning force fields for free energy calculations** [2025]  
+Orlando A. Mendible-Barreto, Jonathan K. Whitmer, Yamil J. Colón.  
+  [J. Chem. Phys. (2025)](https://doi.org/10.1063/5.0252043) | [code](https://github.com/omendibleba/Considerations_for_MLPs_FES)  
 
 * **Narjes Ansari, Zhifeng Francis Jing, Antoine Gagelin, Florent Hédin, Félix Aviat, Jérôme Hénin, Jean-Philip Piquemal, and Louis Lagardère** [2025]  
 Narjes Ansari, Zhifeng Francis Jing, Antoine Gagelin, Florent Hédin, Félix Aviat, Jérôme Hénin, Jean-Philip Piquemal, and Louis Lagardère.  
