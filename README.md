@@ -127,6 +127,10 @@ Cristian Gabellini, Nikhil Shenoy, Stephan Thaler, Semih Canturk, Daniel McNeela
 Ziyang Yu, Wenbing Huang, Yang Liu.  
 [ICML 2025 (2025)](https://doi.org/10.48550/arXiv.2506.03157) | [code&data](https://zenodo.org/records/15394209)  
 
+* **The QCML dataset, Quantum chemistry reference data from 33.5M DFT and 14.7B semi-empirical calculations** [2025]  
+Ganscha, S., Unke, O.T., Ahlin, D. et al.  
+[Sci Data 12, 406 (2025)](https://doi.org/10.1038/s41597-025-04720-7) | [data](https://zenodo.org/records/14859804)  
+
 * **OpenQDC: Open Quantum Data Commons** [2024]  
 Cristian Gabellini, Nikhil Shenoy, Stephan Thaler, Semih Canturk, Daniel McNeela, Dominique Beaini, Michael Bronstein, Prudencio Tossou.   
 [arXiv:2411.19629 (2024)](https://arxiv.org/abs/2411.19629) | [data](https://github.com/valence-labs/openQDC)  
