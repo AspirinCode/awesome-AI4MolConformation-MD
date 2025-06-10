@@ -333,6 +333,11 @@ Barnett, Simon, and John D. Chodera.
 
 
 
+
+* **apoCHARMM: High-performance molecular dynamics simulations on GPUs for advanced simulation methods** [2025]  
+Samarjeet Prasad, Felix Aviat, James E. Gonzales, Bernard R. Brooks.  
+[J. Chem. Phys. (2025)](https://doi.org/10.1063/5.0264937) | [code](https://github.com/samarjeet/apocharmm)  
+
 * **Self-Supervised Evolution Operator Learning for High-Dimensional Dynamical Systems** [2025]  
 Giacomo Turri, Luigi Bonati, Kai Zhu, Massimiliano Pontil, Pietro Novelli.  
 [arXiv:2505.18671 (2025)](https://doi.org/10.48550/arXiv.2505.18671) | [code](https://github.com/pietronvll/encoderops)  
