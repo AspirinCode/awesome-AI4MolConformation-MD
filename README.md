@@ -174,6 +174,13 @@ https://github.com/LumosBio/MolData
 
 
 
+
+
+
+* **The PHAST 2.0 Force Field for General Small Molecule and Materials Simulations** [2025]  
+Adam Hogan, Logan Ritter, and Brian Space.  
+[J. Chem. Theory Comput. (2025)](https://doi.org/10.1021/acs.jctc.5c00134)  
+
 * **Martini3-IDP: improved Martini 3 force field for disordered proteins** [2025]  
 Wang, L., Brasnett, C., Borges-Araújo, L. et al.  
 [Nat Commun 16, 2874 (2025)](https://doi.org/10.1038/s41467-025-58199-2) | [code](https://github.com/Martini-Force-Field-Initiative/Martini3-IDP-parameters)  
