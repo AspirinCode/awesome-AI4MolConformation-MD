@@ -195,6 +195,12 @@ Wang, L., Brasnett, C., Borges-Araújo, L. et al.
 
 
 
+
+
+* **Accelerating CO2 direct air capture screening for metal-organic frameworks with a transferable machine learning force field** [2025]  
+Yunsung Lim and Hyunsoo Park and Aron Walsh and Jihan Kim.  
+[Matter (2025)](https://doi.org/10.1016/j.matt.2025.102203) | [code](https://github.com/hspark1212/DAC-SIM)  
+
 * **On the design space between molecular mechanics and machine learning force fields** [2025]  
 Wang, Yuanqing, Kenichiro Takaba, Michael S. Chen, Marcus Wieder, Yuzhi Xu, Tong Zhu, John ZH Zhang et al.  
 [Appl. Phys. Rev. (2025)](https://doi.org/10.1063/5.0237876)  
