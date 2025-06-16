@@ -2096,7 +2096,9 @@ Nisha Kumari, Sonam Dhull, Tarak Karmakar.
 
 
 
-
+* **Computational Mapping of Conformational Dynamics and Interaction Hotspots of Human VISTA with pH-Selective Antibodies** [2025]  
+Norman Ly, Shubham Devesh Ramgoolam, and Aravindhan Ganesan.  
+[Biochemistry (2025)](https://doi.org/10.1021/acs.biochem.4c00863)  
 
 * **Using Short Molecular Dynamics Simulations to Determine the Important Features of Interactions in Antibody–Protein Complexes** [2024]  
 A. Clay Richard, Robert J. Pantazes.   
