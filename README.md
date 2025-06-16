@@ -398,7 +398,7 @@ https://github.com/ipudu/awesome-molecular-dynamics
 
 * **UniSim: A Unified Simulator for Time-Coarsened Dynamics of Biomolecules** [2025]  
 Ziyang Yu, Wenbing Huang, Yang Liu.  
-[ICML 2025 (2025)](https://doi.org/10.48550/arXiv.2506.03157) | [code&data](https://zenodo.org/records/15394209)  
+[ICML 2025 (2025)](https://doi.org/10.48550/arXiv.2506.03157) | [code](https://github.com/yaledeus/UniSim) | [data](https://zenodo.org/records/15394209)  
 
 * **FlashMD: long-stride, universal prediction of molecular dynamics** [2025]  
 Bigi, Filippo, Sanggyu Chong, Agustinus Kristiadi, and Michele Ceriotti.  
