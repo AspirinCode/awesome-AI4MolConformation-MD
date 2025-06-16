@@ -897,7 +897,9 @@ Ross, G.A., Lu, C., Scarabelli, G. et al.
 ### Ab Initio
 
 
-
+* **Self-Refining Training for Amortized Density Functional Theory** [2025]  
+Majdi Hassan, Cristian Gabellini, Hatem Helal, Dominique Beaini, Kirill Neklyudov.  
+[arXiv:2506.01225 (2025)](https://arxiv.org/abs/2506.01225) | [code](https://github.com/majhas/self-refining-dft)  
 
 * **Unified deep learning framework for many-body quantum chemistry via Green’s functions** [2025]  
 SVenturella, C., Li, J., Hillenbrand, C. et al.  
