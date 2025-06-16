@@ -401,7 +401,9 @@ https://github.com/ipudu/awesome-molecular-dynamics
 
 
 
-
+* **Memory kernel minimization-based neural networks for discovering slow collective variables of biomolecular dynamics** [2025]  
+Liu, B., Cao, S., Boysen, J.G. et al.  
+[Nat Comput Sci (2025)](https://doi.org/10.1038/s43588-025-00815-8) | [code](https://github.com/markovmodel/mdshare)  
 
 * **UniSim: A Unified Simulator for Time-Coarsened Dynamics of Biomolecules** [2025]  
 Ziyang Yu, Wenbing Huang, Yang Liu.  
@@ -1618,6 +1620,10 @@ Bottaro, S., Bussi, G., Kennedy, S.D., Turner, D.H. and Lindorff-Larsen, K.
 
 
 
+* **Memory kernel minimization-based neural networks for discovering slow collective variables of biomolecular dynamics** [2025]  
+Liu, B., Cao, S., Boysen, J.G. et al.  
+[Nat Comput Sci (2025)](https://doi.org/10.1038/s43588-025-00815-8) | [code](https://github.com/markovmodel/mdshare)  
+
 * **Scoring Conformational Metastability of Macrocyclic Peptides with Binding Pose Metadynamics** [2025]  
 Ryan Dykstra and Dan Sindhikara.  
 [J. Chem. Inf. Model. (2025)](https://doi.org/10.1021/acs.jcim.4c01408)  
@@ -1646,7 +1652,9 @@ Grambow, Colin A., Hayley Weir, Nathaniel Diamant, Alex Tseng, Tommaso Biancalan
 
 
 
-
+* **Memory kernel minimization-based neural networks for discovering slow collective variables of biomolecular dynamics** [2025]  
+Liu, B., Cao, S., Boysen, J.G. et al.  
+[Nat Comput Sci (2025)](https://doi.org/10.1038/s43588-025-00815-8) | [code](https://github.com/markovmodel/mdshare)  
 
 * **Aligning Protein Conformation Ensemble Generation with Physical Feedback** [2025]  
 Du, Yilun, Joshua Meier, Jerry Ma, Rob Fergus, and Alexander Rives.   
@@ -2015,6 +2023,14 @@ Wu, Fang, Shuting Jin, Yinghui Jiang, Xurui Jin, Bowen Tang, Zhangming Niu, Xian
 ### PPI conformational ensembles
 
 
+
+
+
+
+
+* **Memory kernel minimization-based neural networks for discovering slow collective variables of biomolecular dynamics** [2025]  
+Liu, B., Cao, S., Boysen, J.G. et al.  
+[Nat Comput Sci (2025)](https://doi.org/10.1038/s43588-025-00815-8) | [code](https://github.com/markovmodel/mdshare)  
 
 * **Generalizable Protein Dynamics in Serine-Threonine Kinases: Physics is the key** [2025]  
 Soumendranath Bhakat, Shray Vats, Andreas Mardt, Alexei Degterev.  
