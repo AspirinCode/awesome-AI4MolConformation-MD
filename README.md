@@ -195,7 +195,9 @@ Wang, L., Brasnett, C., Borges-Araújo, L. et al.
 
 
 
-
+* **Understanding and Mitigating Distribution Shifts For Machine Learning Force Fields** [2025]  
+Kreiman, Tobias, and Aditi S. Krishnapriyan.  
+[arXiv:2503.08674 (2025)](https://arxiv.org/abs/2503.08674) | [code](https://github.com/ASK-Berkeley/MLFF-distribution-shifts)  
 
 * **Accelerating CO2 direct air capture screening for metal-organic frameworks with a transferable machine learning force field** [2025]  
 Yunsung Lim and Hyunsoo Park and Aron Walsh and Jihan Kim.  
