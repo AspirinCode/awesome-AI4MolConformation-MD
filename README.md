@@ -914,7 +914,9 @@ Ross, G.A., Lu, C., Scarabelli, G. et al.
 ### Ab Initio
 
 
-
+* **Revisiting a large and diverse data set for barrier heights and reaction energies: best practices in density functional theory calculations for chemical kinetics** [2025]  
+Liu, Xiao and Spiekermann, Kevin A. and Menon, Angiras and Green, William H. and Head-Gordon, Martin.  
+[Phys. Chem. Chem. Phys. (2025)](https://doi.org/10.1039/D5CP01181G)  
 
 * **Accurate and scalable exchange-correlation with deep learning** [2025]  
 Luise, Giulia et al.  
