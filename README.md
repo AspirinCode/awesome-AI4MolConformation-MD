@@ -914,6 +914,12 @@ Ross, G.A., Lu, C., Scarabelli, G. et al.
 ### Ab Initio
 
 
+
+
+* **Accurate and scalable exchange-correlation with deep learning** [2025]  
+Luise, Giulia et al.  
+[arXiv:2506.14665 (2025)](https://doi.org/10.48550/arXiv.2506.14665) | [data](https://zenodo.org/records/15387280)  
+
 * **Self-Refining Training for Amortized Density Functional Theory** [2025]  
 Majdi Hassan, Cristian Gabellini, Hatem Helal, Dominique Beaini, Kirill Neklyudov.  
 [arXiv:2506.01225 (2025)](https://arxiv.org/abs/2506.01225) | [code](https://github.com/majhas/self-refining-dft)  
