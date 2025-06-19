@@ -1512,7 +1512,7 @@ Jianhui Xiao, Zheng Zheng, and Hao Liu.
 
 * **WGFormer: An SE(3)-Transformer Driven by Wasserstein Gradient Flows for Molecular Ground-State Conformation Prediction** [2025]  
 Fanmeng Wang, Minjie Cheng, Hongteng Xu.  
-[arXiv:2410.09795 (2025)](https://doi.org/10.48550/arXiv.2410.09795) |  [code](https://github.com/FanmengWang/WGFormer)  
+[ICML (2025)](https://doi.org/10.48550/arXiv.2410.09795) |  [code](https://github.com/FanmengWang/WGFormer)  
 
 * **The pucke.rs toolkit to facilitate sampling the conformational space of biomolecular monomers** [2025]  
 Rihon, J., Reynders, S., Bernardes Pinheiro, V. et al.  
@@ -2145,8 +2145,9 @@ Christopher Fullenkamp, Shams Mehdi, Christopher Jones, Logan Tenney, Patricio P
 
 ### Material ensembles
 
-
-
+* **PolyConf: Unlocking Polymer Conformation Generation through Hierarchical Generative Models** [2025]  
+Fanmeng Wang, Wentao Guo, Qi Ou, Hongshuai Wang, Haitao Lin, Hongteng Xu, Zhifeng Gao.  
+[ICML (2025)](https://arxiv.org/abs/2504.08859) | [code](https://github.com/FanmengWang/PolyConf)  
 
 * **A predictive machine learning force-field framework for liquid electrolyte development** [2025]  
 Gong, S., Zhang, Y., Mu, Z. et al.  
