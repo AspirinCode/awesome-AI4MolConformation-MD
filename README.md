@@ -914,6 +914,11 @@ Ross, G.A., Lu, C., Scarabelli, G. et al.
 ### Ab Initio
 
 
+
+* **Discovery of chemically modified higher tungsten boride by means of hybrid GNN/DFT approach** [2025]  
+Matsokin, N.A., Eremin, R.A., Kuznetsova, A.A. et al.  
+[npj Comput Mater 11, 163 (2025)](https://doi.org/10.1038/s41524-025-01628-z)  
+
 * **Revisiting a large and diverse data set for barrier heights and reaction energies: best practices in density functional theory calculations for chemical kinetics** [2025]  
 Liu, Xiao and Spiekermann, Kevin A. and Menon, Angiras and Green, William H. and Head-Gordon, Martin.  
 [Phys. Chem. Chem. Phys. (2025)](https://doi.org/10.1039/D5CP01181G)  
