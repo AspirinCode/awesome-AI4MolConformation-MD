@@ -827,7 +827,9 @@ Zhang, Yuzhi, Haidi Wang, Weijie Chen, Jinzhe Zeng, Linfeng Zhang, Han Wang, and
  Xia, Junfan and Zhang, Yaolong and Jiang, Bin.  
   [Chem. Soc. Rev. (2025)](https://doi.org/10.1039/D5CS00104H)  
 
-
+* **Reaction dynamics of Diels–Alder reactions from machine learned potentials** [2022]  
+ Young, Tom A., Tristan Johnston-Wood, Hanwen Zhang, and Fernanda Duarte.  
+  [Physical Chemistry Chemical Physics 24.35 (2022)](https://doi.org/10.1039/D2CP02978B) | [code](https://github.com/duartegroup/mlp-train)  
 
 
 ### Reactive Force Fields
