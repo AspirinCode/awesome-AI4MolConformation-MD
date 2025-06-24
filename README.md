@@ -506,7 +506,9 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 ### Neural Network Potentials
 
 
-
+* **Machine Learning Potentials for Alloys: A Detailed Workflow to Predict Phase Diagrams and Benchmark Accuracy** [2025]  
+Siya Zhu and Doğuhan Sarıtürk and Raymundo Arroyave.  
+[arXiv:2506.16771(2025)](https://arxiv.org/abs/2506.16771) | [code](https://github.com/dogusariturk/PhaseForge)  
 
 * **DistMLIP: A Distributed Inference Platform for Machine Learning Interatomic Potentials** [2025]  
 Kevin Han, Bowen Deng, Amir Barati Farimani, Gerbrand Ceder.  
