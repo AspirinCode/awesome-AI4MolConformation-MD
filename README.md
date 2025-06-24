@@ -506,6 +506,12 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 ### Neural Network Potentials
 
 
+
+
+* **Global universal scaling and ultrasmall parameterization in machine-learning interatomic potentials with superlinearity** [2025]  
+Y. Hu,Y. Sheng,J. Huang,X. Xu,Y. Yang,M. Zhang,Y. Wu,C. Ye,J. Yang,& W. Zhang,  
+[Proc. Natl. Acad. Sci. (2025)](https://doi.org/10.1073/pnas.2503439122) | [code](https://github.com/hu-yanxiao/SUS2-MLIP)  
+
 * **Machine Learning Potentials for Alloys: A Detailed Workflow to Predict Phase Diagrams and Benchmark Accuracy** [2025]  
 Siya Zhu and Doğuhan Sarıtürk and Raymundo Arroyave.  
 [arXiv:2506.16771(2025)](https://arxiv.org/abs/2506.16771) | [code](https://github.com/dogusariturk/PhaseForge)  
