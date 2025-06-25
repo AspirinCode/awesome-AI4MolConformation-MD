@@ -945,7 +945,7 @@ Ross, G.A., Lu, C., Scarabelli, G. et al.
 
 * **g-xTB: A General-Purpose Extended Tight-Binding Electronic Structure Method For the Elements H to Lr (Z=1–103)** [2025]  
 Froitzheim T, Müller M, Hansen A, Grimme S.  
-[ChemRxiv. (2025)](https://doi.org/10.26434/chemrxiv-2025-bjxvt)  
+[ChemRxiv. (2025)](https://doi.org/10.26434/chemrxiv-2025-bjxvt) | [code](https://github.com/grimme-lab/g-xtb)  
 
 * **Discovery of chemically modified higher tungsten boride by means of hybrid GNN/DFT approach** [2025]  
 Matsokin, N.A., Eremin, R.A., Kuznetsova, A.A. et al.  
