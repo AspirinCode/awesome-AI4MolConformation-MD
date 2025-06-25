@@ -514,6 +514,11 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
+
+* **AIMNet2-rxn: A Machine Learned Potential for Generalized Reaction Modeling on a Millions-of-Pathways Scale** [2025]  
+Anstine DM, Zhao Q, Zubatiuk R, Zhang S, Singla V, Nikitin F, et al.  
+[ChemRxiv. (2025)](https://doi.org/10.26434/chemrxiv-2025-hpdmg) | [code](https://github.com/isayevlab/aimnetcentral)  
+
 * **Global universal scaling and ultrasmall parameterization in machine-learning interatomic potentials with superlinearity** [2025]  
 Y. Hu,Y. Sheng,J. Huang,X. Xu,Y. Yang,M. Zhang,Y. Wu,C. Ye,J. Yang,& W. Zhang,  
 [Proc. Natl. Acad. Sci. (2025)](https://doi.org/10.1073/pnas.2503439122) | [code](https://github.com/hu-yanxiao/SUS2-MLIP)  
@@ -824,6 +829,10 @@ Zhang, Yuzhi, Haidi Wang, Weijie Chen, Jinzhe Zeng, Linfeng Zhang, Han Wang, and
 
 
 
+
+* **AIMNet2-rxn: A Machine Learned Potential for Generalized Reaction Modeling on a Millions-of-Pathways Scale** [2025]  
+Anstine DM, Zhao Q, Zubatiuk R, Zhang S, Singla V, Nikitin F, et al.  
+[ChemRxiv. (2025)](https://doi.org/10.26434/chemrxiv-2025-hpdmg) | [code](https://github.com/isayevlab/aimnetcentral)  
 
 * **Harnessing Machine Learning to Enhance Transition State Search with Interatomic Potentials and Generative Models** [2025]   
  Zhao Q, Han Y, Zhang D, Wang J, Zhong P, Cui T, et al.  
