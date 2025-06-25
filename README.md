@@ -195,6 +195,12 @@ Wang, L., Brasnett, C., Borges-Araújo, L. et al.
 
 
 
+
+
+* **To Use or Not to Use a Universal Force Field** [2025]  
+Denan Li, Jiyuan Yang, Xiangkai Chen, Lintao Yu, Shi Liu.  
+[arXiv:2503.08207 (2025)](https://arxiv.org/abs/2503.08207)  
+
 * **Understanding and Mitigating Distribution Shifts For Machine Learning Force Fields** [2025]  
 Kreiman, Tobias, and Aditi S. Krishnapriyan.  
 [arXiv:2503.08674 (2025)](https://arxiv.org/abs/2503.08674) | [code](https://github.com/ASK-Berkeley/MLFF-distribution-shifts)  
