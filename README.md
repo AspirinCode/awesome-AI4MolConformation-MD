@@ -513,7 +513,9 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
-
+* **DeePEST-OS: A Generic Machine Learning Potential for Accelerating Transition State Search in Organic Synthesis** [2025]  
+Ren K, Tang K, Zhao Y, Zhang L, Du J, Meng Q, et al.  
+[ChemRxiv. (2025)](https://doi.org/10.26434/chemrxiv-2025-mzz6w)  
 
 * **AIMNet2-rxn: A Machine Learned Potential for Generalized Reaction Modeling on a Millions-of-Pathways Scale** [2025]  
 Anstine DM, Zhao Q, Zubatiuk R, Zhang S, Singla V, Nikitin F, et al.  
