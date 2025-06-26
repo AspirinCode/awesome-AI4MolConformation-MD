@@ -789,6 +789,10 @@ Iwasaki, R., Tanibata, N., Takeda, H. et al.
 Duignan, Timothy T.   
 [ACS Physical Chemistry Au 4.3 (2024)](https://doi.org/10.1021/acsphyschemau.4c00004)  
 
+* **GPIP: Geometry-enhanced Pre-training on Interatomic Potentials** [2024]  
+Su, M., S. Zhang, T. Cui, C. Tang, Y. Li, Y. Dong, X. Gong, W. Ouyang, and L. Bai.  
+[arXiv:2309.15718 (2024)](https://doi.org/10.1038/s42256-024-00818-6) | [code](https://github.com/cuitaoyong/GPIP)  
+
 * **AIMNet2: A Neural Network Potential to Meet your Neutral, Charged, Organic, and Elemental-Organic Needs** [2024]  
 Anstine, Dylan, Roman Zubatyuk, and Olexandr Isayev.   
 [chemrxiv-2023-296ch-v2 (2024)](https://doi.org/10.26434/chemrxiv-2023-296ch-v2) | [code](https://github.com/isayevlab/aimnet2)  
