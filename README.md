@@ -195,7 +195,9 @@ Wang, L., Brasnett, C., Borges-Araújo, L. et al.
 
 
 
-
+* **Evolutionary machine learning of physics-based force fields in high-dimensional parameter-space** [2025]  
+van der Spoel D, Marrades J, Kriz K, Hosseini AN, Nordman A, Ateide Martins JP, et al.  
+[	Digital Discovery (2025)](https://doi.org/10.1039/D5DD00178A) | [code](https://github.com/AlexandriaChemistry/ACT)  
 
 * **To Use or Not to Use a Universal Force Field** [2025]  
 Denan Li, Jiyuan Yang, Xiangkai Chen, Lintao Yu, Shi Liu.  
