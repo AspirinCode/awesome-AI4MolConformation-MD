@@ -513,6 +513,11 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
+
+* **Application-specific Machine-Learned Interatomic Potentials: Exploring the Trade-off Between Precision and Computational Cost** [2025]  
+Baghishov, Ilgar, Jan Janssen, Graeme Henkelman, and Danny Perez.  
+[arXiv:2506.05646 (2025)](https://arxiv.org/abs/2506.05646)  
+
 * **DeePEST-OS: A Generic Machine Learning Potential for Accelerating Transition State Search in Organic Synthesis** [2025]  
 Ren K, Tang K, Zhao Y, Zhang L, Du J, Meng Q, et al.  
 [ChemRxiv. (2025)](https://doi.org/10.26434/chemrxiv-2025-mzz6w)  
