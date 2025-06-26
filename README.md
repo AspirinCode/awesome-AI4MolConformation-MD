@@ -1547,6 +1547,12 @@ MD-Agent is a LLM-agent based toolset for Molecular Dynamics.
 
 
 
+
+
+* **Template-Guided 3D Molecular Pose Generation via Flow Matching and Differentiable Optimization** [2025]  
+Bergues, Noémie, Arthur Carré, Paul Join-Lambert, Brice Hoffmann, Arnaud Blondel, and Hamza Tajmouati..  
+[arXiv:2506.06305 (2025)](https://doi.org/10.48550/arXiv.2506.06305) |  [code](https://zenodo.org/records/15395813)  
+
 * **DihedralsDiff: A Diffusion Conformation Generation Model That Unifies Local and Global Molecular Structures** [2025]  
 Jianhui Xiao, Zheng Zheng, and Hao Liu.  
 [J. Chem. Inf. Model. (2025)](https://doi.org/10.1021/acs.jcim.5c00367) |  [code](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/JNGTDF)  
