@@ -43,7 +43,9 @@ List of **molecules ( small molecules, RNA, peptide, protein, enzymes, antibody,
 
 ## Reviews
 
-
+* **From sequence to protein structure and conformational dynamics with artificial intelligence/machine learning** [2025]  
+ Alexander M. Ille, Emily Anas, Michael B. Mathews, Stephen K. Burley.  
+  [Struct. Dyn. 12, 030902 (2025)](https://doi.org/10.1063/4.0000765)  
 
 * **Application of machine learning interatomic potentials in heterogeneous catalysis** [2025]  
  Olajide, Gbolagade, Khagendra Baral, Sophia Ezendu, Ademola Soyemi, and Tibor Szilvasi.  
