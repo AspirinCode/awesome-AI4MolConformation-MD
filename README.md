@@ -952,7 +952,9 @@ Ross, G.A., Lu, C., Scarabelli, G. et al.
 ### Ab Initio
 
 
-
+* **Predicting Oxidation Potentials with DFT-Driven Machine Learning** [2025]  
+Shweta Sharma, Natan Kaminsky, Kira Radinsky, and Lilac Amirav.  
+[J. Chem. Inf. Model. (2025)](https://doi.org/10.1021/acs.jcim.5c00159) | [code](https://github.com/nkami/oxpot)  
 
 * **g-xTB: A General-Purpose Extended Tight-Binding Electronic Structure Method For the Elements H to Lr (Z=1–103)** [2025]  
 Froitzheim T, Müller M, Hansen A, Grimme S.  
