@@ -1370,6 +1370,13 @@ Jing, Bowen, Bonnie Berger, and Tommi Jaakkola.
 ### Diffusion-based
 
 
+
+
+
+* **Generative Modeling of Full-Atom Protein Conformations using Latent Diffusion on Graph Embeddings** [2025]  
+Aditya Sengar, Ali Hariri, Daniel Probst, Patrick Barth, Pierre Vandergheynst.  
+[arXiv:2506.17064 (2025)](https://www.arxiv.org/abs/2506.17064) | [code](https://github.com/adityasengar/LD-FPG)  
+
 * **Simultaneous Modeling of Protein Conformation and Dynamics via Autoregression** [2025]   
 Yuning Shen, Lihao Wang, Huizhuo Yuan, Yan Wang, Bangji Yang, Quanquan Gu.  
 [arXiv:2505.17478 (2025)](https://doi.org/10.48550/arXiv.2505.17478)  
@@ -1725,6 +1732,11 @@ Grambow, Colin A., Hayley Weir, Nathaniel Diamant, Alex Tseng, Tommaso Biancalan
 ### Protein conformational ensembles
 
 
+
+
+* **Generative Modeling of Full-Atom Protein Conformations using Latent Diffusion on Graph Embeddings** [2025]  
+Aditya Sengar, Ali Hariri, Daniel Probst, Patrick Barth, Pierre Vandergheynst.  
+[arXiv:2506.17064 (2025)](https://www.arxiv.org/abs/2506.17064) | [code](https://github.com/adityasengar/LD-FPG)  
 
 * **Memory kernel minimization-based neural networks for discovering slow collective variables of biomolecular dynamics** [2025]  
 Liu, B., Cao, S., Boysen, J.G. et al.  
