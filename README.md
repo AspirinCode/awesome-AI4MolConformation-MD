@@ -954,6 +954,13 @@ Ross, G.A., Lu, C., Scarabelli, G. et al.
 ### Ab Initio
 
 
+
+
+
+* **An ab initio foundation model of wavefunctions that accurately describes chemical bond breaking** [2025]  
+Adam Foster, Zeno Schätzle, P. Bernát Szabó, Lixue Cheng, Jonas Köhler, Gino Cassella, Nicholas Gao, Jiawei Li, Frank Noé, Jan Hermann.  
+[arXiv:2506.19960 (2025)](https://doi.org/10.48550/arXiv.2506.19960) | [code](https://github.com/microsoft/oneqmc)  
+
 * **Predicting Oxidation Potentials with DFT-Driven Machine Learning** [2025]  
 Shweta Sharma, Natan Kaminsky, Kira Radinsky, and Lilac Amirav.  
 [J. Chem. Inf. Model. (2025)](https://doi.org/10.1021/acs.jcim.5c00159) | [code](https://github.com/nkami/oxpot)  
