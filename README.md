@@ -417,7 +417,9 @@ https://github.com/ipudu/awesome-molecular-dynamics
 
 
 
-
+* **Operator Forces For Coarse-Grained Molecular Dynamics** [2025]  
+Leon Klein, Atharva Kelkar, Aleksander Durumeric, Yaoyi Chen, Frank Noé.  
+[arXiv:2506.19628 (2025)](https://doi.org/10.48550/arXiv.2506.19628) | [data](https://github.com/noegroup/OperatorForces4CG)  
 
 * **Memory kernel minimization-based neural networks for discovering slow collective variables of biomolecular dynamics** [2025]  
 Liu, B., Cao, S., Boysen, J.G. et al.  
@@ -1347,7 +1349,9 @@ Schwing, Gregory, Luigi L. Palese, Ariel Fernández, Loren Schwiebert, and Domen
 
 
 
-
+* **Operator Forces For Coarse-Grained Molecular Dynamics** [2025]  
+Leon Klein, Atharva Kelkar, Aleksander Durumeric, Yaoyi Chen, Frank Noé.   
+[arXiv:2506.19628 (2025)](https://doi.org/10.48550/arXiv.2506.19628) | [data](https://github.com/noegroup/OperatorForces4CG)  
 
 * **Enhanced Sampling, Public Dataset and Generative Model for Drug-Protein Dissociation Dynamics** [2025]  
 Maodong Li, Jiying Zhang, Bin Feng, Wenqi Zeng, Dechin Chen, Zhijun Pan, Yu Li, Zijing Liu, Yi Isaac Yang.   
