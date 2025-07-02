@@ -520,6 +520,12 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 ### Neural Network Potentials
 
 
+
+
+* **Spin-informed universal graph neural networks for simulating magnetic ordering** [2025]  
+W. Xu,R.Y. Sanspeur,A. Kolluru,B. Deng,P. Harrington,S. Farrell,K. Reuter,& J.R. Kitchin.  
+[Proc. Natl. Acad. Sci. (2025)](https://doi.org/10.1073/pnas.2422973122) | [code](https://github.com/Wenbintum/ocp_mag)  
+
 * **UMA: A Family of Universal Models for Atoms** [2025]  
 Brandon M. Wood, Misko Dzamba, Xiang Fu, Meng Gao, Muhammed Shuaibi, Luis Barroso-Luque, Kareem Abdelmaqsoud, Vahe Gharakhanyan, John R. Kitchin, Daniel S. Levine, Kyle Michel, Anuroop Sriram, Taco Cohen, Abhishek Das, Ammar Rizvi, Sushree Jagriti Sahoo, Zachary W. Ulissi, C. Lawrence Zitnick.  
 [arXiv:2506.23971(2025)](https://doi.org/10.48550/arXiv.2506.23971) | [code](https://huggingface.co/facebook/UMA)  
