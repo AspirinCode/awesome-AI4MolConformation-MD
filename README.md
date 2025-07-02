@@ -518,7 +518,9 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 ### Neural Network Potentials
 
 
-
+* **UMA: A Family of Universal Models for Atoms** [2025]  
+Brandon M. Wood, Misko Dzamba, Xiang Fu, Meng Gao, Muhammed Shuaibi, Luis Barroso-Luque, Kareem Abdelmaqsoud, Vahe Gharakhanyan, John R. Kitchin, Daniel S. Levine, Kyle Michel, Anuroop Sriram, Taco Cohen, Abhishek Das, Ammar Rizvi, Sushree Jagriti Sahoo, Zachary W. Ulissi, C. Lawrence Zitnick.  
+[arXiv:2506.23971(2025)](https://doi.org/10.48550/arXiv.2506.23971) | [code](https://huggingface.co/facebook/UMA)  
 
 * **Application-specific Machine-Learned Interatomic Potentials: Exploring the Trade-off Between Precision and Computational Cost** [2025]  
 Baghishov, Ilgar, Jan Janssen, Graeme Henkelman, and Danny Perez.  
