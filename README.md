@@ -195,7 +195,9 @@ Wang, L., Brasnett, C., Borges-Araújo, L. et al.
 ### Neural Molecular Force Fields
 
 
-
+* **Operator Forces For Coarse-Grained Molecular Dynamics** [2025]  
+Klein, Leon, Atharva Kelkar, Aleksander Durumeric, Yaoyi Chen, and Frank Noé.  
+[arXiv:2506.19628 (2025)](https://doi.org/10.48550/arXiv.2506.19628) | [code](https://github.com/noegroup/OperatorForces4CG)  
 
 * **Evolutionary machine learning of physics-based force fields in high-dimensional parameter-space** [2025]  
 van der Spoel D, Marrades J, Kriz K, Hosseini AN, Nordman A, Ateide Martins JP, et al.  
