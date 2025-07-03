@@ -2240,6 +2240,13 @@ Christopher Fullenkamp, Shams Mehdi, Christopher Jones, Logan Tenney, Patricio P
 
 ### Material ensembles
 
+
+
+
+* **Scalable Bayesian Optimization for High-Dimensional Coarse-Grained Model Parameterization** [2025]  
+Carlos A. Martins Junior, Daniela A. Damasceno, Keat Yung Hue, Caetano R. Miranda, Erich A. Müller, Rodrigo A. Vargas-Hernández.  
+[arXiv:2506.22533 (2025)](https://doi.org/10.48550/arXiv.2506.22533)  
+
 * **PolyConf: Unlocking Polymer Conformation Generation through Hierarchical Generative Models** [2025]  
 Fanmeng Wang, Wentao Guo, Qi Ou, Hongshuai Wang, Haitao Lin, Hongteng Xu, Zhifeng Gao.  
 [ICML (2025)](https://arxiv.org/abs/2504.08859) | [code](https://github.com/FanmengWang/PolyConf)  
