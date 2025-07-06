@@ -177,7 +177,9 @@ https://github.com/LumosBio/MolData
 
 
 
-
+* **ABEEM Polarizable Force Field for PC Lipids: Parameterization and Molecular Dynamics Simulations** [2025]  
+Xiaoyu Wang, Linlin Liu, Peiran Meng, Jian Zhao, Lei Wang, Cui Liu, Lidong Gong, and Zhongzhi Yang.  
+[J. Chem. Theory Comput. (2025)](https://doi.org/10.1021/acs.jctc.4c01704)  
 
 * **The PHAST 2.0 Force Field for General Small Molecule and Materials Simulations** [2025]  
 Adam Hogan, Logan Ritter, and Brian Space.  
