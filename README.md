@@ -1075,7 +1075,9 @@ Pajkos, Mátyás, et al. "AFflecto: A web server to generate conformational ense
 
 
 
-
+* **Large-scale predictions of alternative protein conformations by AlphaFold2-based sequence association** [2025]  
+Lee, M., Schafer, J.W., Prabakaran, J. et al.  
+[Nat Commun 16, 5622 (2025)](https://doi.org/10.1021/acs.jcim.5c00489) | [code](https://github.com/ncbi/CF-random_software)  
 
 * **Modeling Active-State Conformations of G-Protein-Coupled Receptors Using AlphaFold2 via Template Bias and Explicit Protein Constrains** [2025]  
 Luca Chiesa, Dina Khasanova, and Esther Kellenberger.  
