@@ -534,7 +534,9 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 ### Neural Network Potentials
 
 
-
+* **Distillation of atomistic foundation models across architectures and chemical domains** [2025]  
+Gardner, John LA, Daniel F. Toit, Chiheb Ben Mahmoud, Zoé Faure Beaulieu, Veronika Juraskova, Laura-Bianca Paşca, Louise AM Rosset et al.  
+[arXiv:2506.10956 (2025)](https://arxiv.org/abs/2506.10956) | [code](https://github.com/jla-gardner/augment-atoms)  
 
 * **Spin-informed universal graph neural networks for simulating magnetic ordering** [2025]  
 W. Xu,R.Y. Sanspeur,A. Kolluru,B. Deng,P. Harrington,S. Farrell,K. Reuter,& J.R. Kitchin.  
