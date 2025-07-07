@@ -201,7 +201,7 @@ Wang, L., Brasnett, C., Borges-Araújo, L. et al.
 
 * **Force field optimization by end-to-end differentiable atomistic simulation** [2025]  
 Abhijeet Sadashiv Gangan, Ekin Dogus Cubuk, Samuel S. Schoenholz, Mathieu Bauchy, and N. M. Anoop Krishnan.  
-[J. Chem. Theory Comput. (2025)](https://doi.org/10.1021/acs.jctc.4c01784)  
+[J. Chem. Theory Comput. (2025)](https://doi.org/10.1021/acs.jctc.4c01784) | [code](https://github.com/M3RG-IITD/Force-field-optimization)  
 
 * **Operator Forces For Coarse-Grained Molecular Dynamics** [2025]  
 Klein, Leon, Atharva Kelkar, Aleksander Durumeric, Yaoyi Chen, and Frank Noé.  
