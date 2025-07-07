@@ -632,6 +632,10 @@ Medrano Sandonas LR, Puleva M, Parra Payano R, Stöhr M, Cuniberti G, Tkatchenko
 Sajid Mannan, Carmelo Gonzales, Vaibhav Bihani, Kin Long Kelvin Lee, Nitya Nand Gosvami, Santiago Miret, N M Anoop Krishnan.  
 [ ICLR 2025 Workshop AI4MAT (2025)](https://openreview.net/forum?id=me0flBb1hi)  
 
+* **Improving robustness and training efficiency of machine-learned potentials by incorporating short-range empirical potentials** [2025]  
+Yan, Zihan, Zheyong Fan, and Yizhou Zhu.  
+[arXiv:2504.15925 (2025)](https://doi.org/10.48550/arXiv.2504.15925) | [code](https://github.com/zhyan0603/GPUMDkit)  
+
 * **Automated Pynta-Based Curriculum for ML-Accelerated Calculation of Transition States** [2025]  
 revor Price, Saurabh Sivakumar, Matthew S. Johnson, Judit Zádor, and Ambarish Kulkarni.  
 [J. Phys. Chem. C (2025)](https://doi.org/10.1021/acs.jpcc.5c00305) | [code](https://github.com/tdprice-858/Pynta-ML)  
