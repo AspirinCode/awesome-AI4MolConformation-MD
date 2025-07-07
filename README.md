@@ -1488,7 +1488,7 @@ Lu, Jiarui, Bozitao Zhong, and Jian Tang.
 
 * **Aligning Protein Conformation Ensemble Generation with Physical Feedback** [2025]  
 Du, Yilun, Joshua Meier, Jerry Ma, Rob Fergus, and Alexander Rives.   
-[arXiv:2505.24203 (2025)](https://doi.org/10.48550/arXiv.2505.24203)  
+[ICML 2025 (2025)](https://openreview.net/forum?id=Asr955jcuZ) | [arXiv:2505.24203 (2025)](https://doi.org/10.48550/arXiv.2505.24203) | [code](https://github.com/lujiarui/eba)  
 
 * **Energy-based models for atomic-resolution protein conformations** [2020]  
 Du, Yilun, Joshua Meier, Jerry Ma, Rob Fergus, and Alexander Rives.   
@@ -1783,7 +1783,7 @@ Liu, B., Cao, S., Boysen, J.G. et al.
 
 * **Aligning Protein Conformation Ensemble Generation with Physical Feedback** [2025]  
 Du, Yilun, Joshua Meier, Jerry Ma, Rob Fergus, and Alexander Rives.   
-[arXiv:2505.24203 (2025)](https://doi.org/10.48550/arXiv.2505.24203)  
+[ICML 2025 (2025)](https://openreview.net/forum?id=Asr955jcuZ) | [arXiv:2505.24203 (2025)](https://doi.org/10.48550/arXiv.2505.24203) | [code](https://github.com/lujiarui/eba)  
 
 * **Simultaneous Modeling of Protein Conformation and Dynamics via Autoregression** [2025]   
 Yuning Shen, Lihao Wang, Huizhuo Yuan, Yan Wang, Bangji Yang, Quanquan Gu.  
