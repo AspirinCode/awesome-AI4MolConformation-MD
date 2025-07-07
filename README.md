@@ -427,6 +427,11 @@ https://github.com/ipudu/awesome-molecular-dynamics
 
 
 
+
+* **Action-Minimization Meets Generative Modeling: Efficient Transition Path Sampling with the Onsager-Machlup Functional** [2025]  
+Sanjeev Raja, Martin Šípka, Michael Psenka, Tobias Kreiman, Michal Pavelka, Aditi S. Krishnapriyan.  
+[ICML 2025 (2025)](https://arxiv.org/abs/2504.18506) | [data](https://github.com/ASK-Berkeley/OM-TPS)  
+
 * **Operator Forces For Coarse-Grained Molecular Dynamics** [2025]  
 Leon Klein, Atharva Kelkar, Aleksander Durumeric, Yaoyi Chen, Frank Noé.  
 [arXiv:2506.19628 (2025)](https://doi.org/10.48550/arXiv.2506.19628) | [data](https://github.com/noegroup/OperatorForces4CG)  
