@@ -879,7 +879,9 @@ Zhang, Yuzhi, Haidi Wang, Weijie Chen, Jinzhe Zeng, Linfeng Zhang, Han Wang, and
 
 
 
-
+* **Machine learning prediction of a chemical reaction over 8 decades of energy** [2025]  
+Daniel Julian, Jesús Pérez-Ríos.  
+[arXiv:2507.01793 (2025)](https://doi.org/10.48550/arXiv.2507.01793)  
 
 * **AIMNet2-rxn: A Machine Learned Potential for Generalized Reaction Modeling on a Millions-of-Pathways Scale** [2025]  
 Anstine DM, Zhao Q, Zubatiuk R, Zhang S, Singla V, Nikitin F, et al.  
