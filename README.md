@@ -534,6 +534,12 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 ### Neural Network Potentials
 
 
+
+
+* **Enhancing Machine Learning Potentials through Transfer Learning across Chemical Elements** [2025]  
+Sebastien Röcken and Julija Zavadlav.  
+[J. Chem. Inf. Model. (2025)](https://doi.org/10.1021/acs.jcim.5c00293) | [code](https://github.com/tummfm/TL_MLP)  
+
 * **Distillation of atomistic foundation models across architectures and chemical domains** [2025]  
 Gardner, John LA, Daniel F. Toit, Chiheb Ben Mahmoud, Zoé Faure Beaulieu, Veronika Juraskova, Laura-Bianca Paşca, Louise AM Rosset et al.  
 [arXiv:2506.10956 (2025)](https://arxiv.org/abs/2506.10956) | [code](https://github.com/jla-gardner/augment-atoms)  
