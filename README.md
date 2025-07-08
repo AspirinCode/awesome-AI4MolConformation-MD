@@ -113,6 +113,11 @@ List of **molecules ( small molecules, RNA, peptide, protein, enzymes, antibody,
 ### Datasets
 
 
+
+* **A Benchmark for Quantum Chemistry Relaxations via Machine Learning Interatomic Potentials** [2025]  
+Fu, Cong, Yuchao Lin, Zachary Krueger, Wendi Yu, Xiaoning Qian, Byung-Jun Yoon, Raymundo Arróyave et al.  
+[arXiv:2506.23008 (2025)](https://doi.org/10.48550/arXiv.2506.23008) | [data](https://huggingface.co/divelab)  
+
 * **The Open Molecules 2025 (OMol25) Dataset, Evaluations, and Models** [2025]  
 Levine, Daniel S., Muhammed Shuaibi, Evan Walter Clark Spotte-Smith, Michael G. Taylor, Muhammad R. Hasyim, Kyle Michel, Ilyes Batatia, G'abor Cs'anyi, Misko Dzamba, Peter K. Eastman, Nathan C. Frey, Xiang Fu, Vahe Gharakhanyan, Aditi S. Krishnapriyan, Joshua A. Rackers, Sanjeev Raja, Ammar Rizvi, Andrew S. Rosen, Zachary W. Ulissi, Santiago Vargas, C. Lawrence Zitnick, Samuel M. Blau and Brandon M. Wood.   
 [arXiv:2505.08762 (2025)](https://arxiv.org/abs/2505.08762) | [data](https://huggingface.co/facebook/OMol25)  
@@ -535,6 +540,10 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
+
+* **A Benchmark for Quantum Chemistry Relaxations via Machine Learning Interatomic Potentials** [2025]  
+Fu, Cong, Yuchao Lin, Zachary Krueger, Wendi Yu, Xiaoning Qian, Byung-Jun Yoon, Raymundo Arróyave et al.  
+[arXiv:2506.23008 (2025)](https://doi.org/10.48550/arXiv.2506.23008) | [data](https://huggingface.co/divelab)  
 
 * **Enhancing Machine Learning Potentials through Transfer Learning across Chemical Elements** [2025]  
 Sebastien Röcken and Julija Zavadlav.  
