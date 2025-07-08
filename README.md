@@ -432,7 +432,9 @@ https://github.com/ipudu/awesome-molecular-dynamics
 ## AI4MD
 
 
-
+* **chemtrain-deploy: A parallel and scalable framework for machine learning potentials in million-atom MD simulations** [2025]  
+Paul Fuchs, Weilong Chen, Stephan Thaler, Julija Zavadlav.  
+[arXiv:2506.04055 (2025)](https://doi.org/10.48550/arXiv.2506.04055) | [data](https://github.com/tummfm/chemtrain)  
 
 * **Action-Minimization Meets Generative Modeling: Efficient Transition Path Sampling with the Onsager-Machlup Functional** [2025]  
 Sanjeev Raja, Martin Šípka, Michael Psenka, Tobias Kreiman, Michal Pavelka, Aditi S. Krishnapriyan.  
@@ -540,6 +542,12 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
+
+
+
+* **chemtrain-deploy: A parallel and scalable framework for machine learning potentials in million-atom MD simulations** [2025]  
+Paul Fuchs, Weilong Chen, Stephan Thaler, Julija Zavadlav.  
+[arXiv:2506.04055 (2025)](https://doi.org/10.48550/arXiv.2506.04055) | [data](https://github.com/tummfm/chemtrain)  
 
 * **Augmenting Molecular Graphs with Geometries via Machine Learning Interatomic Potentials** [2025]  
 Fu, Cong, Yuchao Lin, Zachary Krueger, Haiyang Yu, Maho Nakata, Jianwen Xie, Emine Kucukbenli, Xiaofeng Qian, and Shuiwang Ji.  
@@ -2289,6 +2297,9 @@ Christopher Fullenkamp, Shams Mehdi, Christopher Jones, Logan Tenney, Patricio P
 
 
 
+* **chemtrain-deploy: A parallel and scalable framework for machine learning potentials in million-atom MD simulations** [2025]  
+Paul Fuchs, Weilong Chen, Stephan Thaler, Julija Zavadlav.  
+[arXiv:2506.04055 (2025)](https://doi.org/10.48550/arXiv.2506.04055) | [data](https://github.com/tummfm/chemtrain)  
 
 * **Scalable Bayesian Optimization for High-Dimensional Coarse-Grained Model Parameterization** [2025]  
 Carlos A. Martins Junior, Daniela A. Damasceno, Keat Yung Hue, Caetano R. Miranda, Erich A. Müller, Rodrigo A. Vargas-Hernández.  
