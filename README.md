@@ -541,6 +541,14 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
+* **Augmenting Molecular Graphs with Geometries via Machine Learning Interatomic Potentials** [2025]  
+Fu, Cong, Yuchao Lin, Zachary Krueger, Haiyang Yu, Maho Nakata, Jianwen Xie, Emine Kucukbenli, Xiaofeng Qian, and Shuiwang Ji.  
+[arXiv:2507.00407 (2025)](https://doi.org/10.48550/arXiv.2507.00407) | [data](https://huggingface.co/divelab)  
+
+* **Tensor Decomposition Networks for Fast Machine Learning Interatomic Potential Computations** [2025]  
+Lin, Yuchao, Cong Fu, Zachary Krueger, Haiyang Yu, Maho Nakata, Jianwen Xie, Emine Kucukbenli, Xiaofeng Qian, and Shuiwang Ji.  
+[arXiv:2507.01131 (2025)](https://doi.org/10.48550/arXiv.2507.01131) | [data](https://huggingface.co/divelab)  
+
 * **A Benchmark for Quantum Chemistry Relaxations via Machine Learning Interatomic Potentials** [2025]  
 Fu, Cong, Yuchao Lin, Zachary Krueger, Wendi Yu, Xiaoning Qian, Byung-Jun Yoon, Raymundo Arróyave et al.  
 [arXiv:2506.23008 (2025)](https://doi.org/10.48550/arXiv.2506.23008) | [data](https://huggingface.co/divelab)  
