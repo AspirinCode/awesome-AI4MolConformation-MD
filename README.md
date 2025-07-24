@@ -17,9 +17,9 @@ List of **molecules ( small molecules, RNA, peptide, protein, enzymes, antibody,
 | Menu | Menu | Menu | Menu |
 | ------ | :---------- | ------ | ------ |
 | [Reviews](#reviews) | [Datasets and Package](#datasets-and-package) | [Molecular dynamics](#molecular-dynamics) | [Molecular Force Fields](#molecular-force-fields) |
-| [MD Engines-Frameworks](#md-engines-frameworks) | [AI4MD Engines-Frameworks](#ai4md-engines-frameworks) | [MD Trajectory Processing-Analysis](#md-trajectory-processing-analysis) | [AI4MD](#ai4md) |
-| [Neural Network Potentials](#neural-network-potentials) | [Free Energy Perturbation](#free-energy-perturbation) | [Ab Initio](#ab-initio) | [Neural Molecular Force Fields](#neural-molecular-force-fields) |
-| [Neural Reactive Potential](#neural-reactive-potential) | [Reactive Force Fields](#reactive-force-fields) |  |  |
+| [MD Engines-Frameworks](#md-engines-frameworks) | [AI4MD Engines-Frameworks](#ai4md-engines-frameworks) | [MD Trajectory Processing-Analysis](#md-trajectory-processing-analysis) | [CGMD](#cgmd) |
+| [AI4MD](#ai4md) | [Neural Network Potentials](#neural-network-potentials) | [Free Energy Perturbation](#free-energy-perturbation) | [Ab Initio](#ab-initio) |
+| [Neural Molecular Force Fields](#neural-molecular-force-fields) | [Neural Reactive Potential](#neural-reactive-potential) | [Reactive Force Fields](#reactive-force-fields) |  |
 | [AlphaFold-based](#alphaFold-based) | [Autoregressive-Based](#autoregressive-Based)  | [LSTM-based](#lstm-based) | [Transformer-based](#transformer-based) |
 | [VAE-based](#vae-based) | [GAN-based](#gan-based) | [Flow-based](#flow-based) | [Diffusion-based](#diffusion-based) |
 | [Score-Based](#score-Based) | [Energy-based](#energy-based) | [Bayesian-based](#bayesian-based) | [Active Learning-based](#active-learning-based) |
@@ -423,6 +423,22 @@ https://github.com/ipudu/awesome-molecular-dynamics
 * [NGLview](https://github.com/arose/nglview) - IPython widget to interactively view molecular structures and trajectories.  
 * [PyMOL](https://pymol.org/2/) - A user-sponsored molecular visualization system on an open-source foundation, maintained and distributed by Schrödinger.  
 * [Avogadro](https://avogadro.cc/) - An advanced molecule editor and visualizer designed for cross-platform use in computational chemistry, molecular modeling, bioinformatics, materials science, and related areas.  
+
+
+
+
+
+
+## CGMD
+**Coarse-Grained Molecular Dynamics Simulations**
+
+
+
+
+
+* **Fast parameterization of Martini3 models for fragments and small molecules** [2025]  
+Magdalena Szczuka, Gilberto P. Pereira, Luis J. Walter, Marc Gueroult, Pierre Poulain, Tristan Bereau, Paulo C. T. Souza, Matthieu Chavent.  
+[bioRxiv (2025)](https://doi.org/10.1101/2025.07.13.664596) | [data](https://github.com/Martini-Force-Field-Initiative/Automartini_M3)  
 
 
 
