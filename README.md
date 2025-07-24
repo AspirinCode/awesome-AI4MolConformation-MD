@@ -939,6 +939,12 @@ Anstine DM, Zhao Q, Zubatiuk R, Zhang S, Singla V, Nikitin F, et al.
   [Physical Chemistry Chemical Physics 24.35 (2022)](https://doi.org/10.1039/D2CP02978B) | [code](https://github.com/duartegroup/mlp-train)  
 
 
+
+
+
+
+
+
 ### Reactive Force Fields
 
 
@@ -1024,7 +1030,9 @@ Ross, G.A., Lu, C., Scarabelli, G. et al.
 
 
 
-
+* **OrbitAll: A Unified Quantum Mechanical Representation Deep Learning Framework for All Molecular Systems** [2025]  
+Kang, Beom Seok, Vignesh C. Bhethanabotla, Amin Tavakoli, Maurice D. Hanisch, William A. Goddard III, and Anima Anandkumar.  
+[arXiv:2507.03853 (2025)](https://doi.org/10.48550/arXiv.2507.03853)  
 
 * **An ab initio foundation model of wavefunctions that accurately describes chemical bond breaking** [2025]  
 Adam Foster, Zeno Schätzle, P. Bernát Szabó, Lixue Cheng, Jonas Köhler, Gino Cassella, Nicholas Gao, Jiawei Li, Frank Noé, Jan Hermann.  
