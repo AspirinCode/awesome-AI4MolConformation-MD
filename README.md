@@ -435,7 +435,9 @@ https://github.com/ipudu/awesome-molecular-dynamics
 
 
 
-
+* **Navigating protein landscapes with a machine-learned transferable coarse-grained model** [2025]  
+Charron, N.E., Bonneau, K., Pasos-Trejo, A.S. et al.  
+[Nat. Chem. (2025)](https://doi.org/10.1038/s41557-025-01874-0) | [data](https://github.com/ClementiGroup/mlcg)  
 
 * **Graph-Coarsening for Machine Learning Coarse-grained Molecular Dynamics** [2025]  
 Soumya Mondal, Subhanu Halder, Debarchan Basu, Sandeep Kumar, Tarak Karmakar.  
