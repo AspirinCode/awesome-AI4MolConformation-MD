@@ -436,6 +436,11 @@ https://github.com/ipudu/awesome-molecular-dynamics
 
 
 
+
+* **Graph-Coarsening for Machine Learning Coarse-grained Molecular Dynamics** [2025]  
+Soumya Mondal, Subhanu Halder, Debarchan Basu, Sandeep Kumar, Tarak Karmakar.  
+[	arXiv:2507.16531 (2025)](https://doi.org/10.48550/arXiv.2507.16531)  
+
 * **Fast parameterization of Martini3 models for fragments and small molecules** [2025]  
 Magdalena Szczuka, Gilberto P. Pereira, Luis J. Walter, Marc Gueroult, Pierre Poulain, Tristan Bereau, Paulo C. T. Souza, Matthieu Chavent.  
 [bioRxiv (2025)](https://doi.org/10.1101/2025.07.13.664596) | [data](https://github.com/Martini-Force-Field-Initiative/Automartini_M3)  
