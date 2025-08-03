@@ -43,6 +43,15 @@ List of **molecules ( small molecules, RNA, peptide, protein, enzymes, antibody,
 
 ## Reviews
 
+
+* **Generation of protein dynamics by machine learning** [2025]  
+Janson, Giacomo, and Michael Feig.  
+  [Current Opinion in Structural Biology 93 (2025)](https://doi.org/10.1016/j.sbi.2025.103115)  
+
+* **Beyond static structures: protein dynamic conformations modeling in the post-AlphaFold era** [2025]  
+ Xinyue Cui, Lingyu Ge, Xia Chen, Zexin Lv, Suhui Wang, Xiaogen Zhou, Guijun Zhang.  
+  [Briefings in Bioinformatics (2025)](https://doi.org/10.1093/bib/bbaf340)  
+
 * **From sequence to protein structure and conformational dynamics with artificial intelligence/machine learning** [2025]  
  Alexander M. Ille, Emily Anas, Michael B. Mathews, Stephen K. Burley.  
   [Struct. Dyn. 12, 030902 (2025)](https://doi.org/10.1063/4.0000765)  
