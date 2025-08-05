@@ -1066,6 +1066,14 @@ Ross, G.A., Lu, C., Scarabelli, G. et al.
 
 
 
+
+
+
+
+* **Efficient modeling of ionic and electronic interactions by a resistive memory-based reservoir graph neural network** [2025]  
+Xu, M., Wang, S., He, Y. et al.  
+[Nat Comput Sci (2025)](https://doi.org/10.1038/s43588-025-00844-3) | [code](https://github.com/hustmeng/RGNN)  
+
 * **OrbitAll: A Unified Quantum Mechanical Representation Deep Learning Framework for All Molecular Systems** [2025]  
 Kang, Beom Seok, Vignesh C. Bhethanabotla, Amin Tavakoli, Maurice D. Hanisch, William A. Goddard III, and Anima Anandkumar.  
 [arXiv:2507.03853 (2025)](https://doi.org/10.48550/arXiv.2507.03853)  
