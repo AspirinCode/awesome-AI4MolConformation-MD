@@ -2324,7 +2324,14 @@ Sneha Bheemireddy, Roy González-Alemán, Emmanuelle Bignon, Yasaman Karami.
 
 
 
+
+
+
+
 ### Nucleic acid-Ligand conformational ensembles
+
+
+
 
 
 * **Machine learning-augmented molecular dynamics simulations (MD) reveal insights into the disconnect between affinity and activation of ZTP riboswitch ligands** [2025]  
@@ -2333,9 +2340,17 @@ Christopher Fullenkamp, Shams Mehdi, Christopher Jones, Logan Tenney, Patricio P
 
 
 
+
+
+
 ### Material ensembles
 
 
+
+
+* **Screening of Material Defects using Universal Machine-Learning Interatomic Potentials** [2025]  
+PBerger, Ethan, Mohammad Bagheri, and Hannu-Pekka Komsa.  
+[Small (2025)](https://doi.org/10.1002/smll.202503956) | [data](https://zenodo.org/records/15025795)  
 
 * **chemtrain-deploy: A parallel and scalable framework for machine learning potentials in million-atom MD simulations** [2025]  
 Paul Fuchs, Weilong Chen, Stephan Thaler, Julija Zavadlav.  
