@@ -123,6 +123,10 @@ Janson, Giacomo, and Michael Feig.
 
 
 
+* **MS25: Materials Science-Focused Benchmark Data Set for Machine Learning Interatomic Potentials** [2025]  
+Tristan Maxson, Ademola Soyemi, Xinglong Zhang, Benjamin W. J. Chen, and Tibor Szilvási.   
+[J. Chem. Inf. Model. (2025)](https://doi.org/10.1021/acs.jcim.5c01262) | [data](https://doi.org/10.5281/zenodo/10901820)  
+
 * **A Benchmark for Quantum Chemistry Relaxations via Machine Learning Interatomic Potentials** [2025]  
 Fu, Cong, Yuchao Lin, Zachary Krueger, Wendi Yu, Xiaoning Qian, Byung-Jun Yoon, Raymundo Arróyave et al.  
 [arXiv:2506.23008 (2025)](https://doi.org/10.48550/arXiv.2506.23008) | [data](https://huggingface.co/divelab)  
