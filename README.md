@@ -1068,7 +1068,9 @@ Ross, G.A., Lu, C., Scarabelli, G. et al.
 
 
 
-
+* **Transferring Knowledge from MM to QM: A Graph Neural Network-Based Implicit Solvent Model for Small Organic Molecules** [2025]  
+Xu, M., Wang, S., He, Y. et al.  
+[J. Chem. Theory Comput. (2025)](https://doi.org/10.1021/acs.jctc.5c00728) | [code](https://github.com/rinikerlab/QM-GNNIS)  
 
 * **Efficient modeling of ionic and electronic interactions by a resistive memory-based reservoir graph neural network** [2025]  
 Xu, M., Wang, S., He, Y. et al.  
