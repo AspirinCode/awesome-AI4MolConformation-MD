@@ -1321,6 +1321,11 @@ Del Alamo, Diego, Davide Sala, Hassane S. Mchaourab, and Jens Meiler.
 ### Autoregressive-Based
 
 
+
+
+
+
+
 * **Simultaneous Modeling of Protein Conformation and Dynamics via Autoregression** [2025]   
 Yuning Shen, Lihao Wang, Huizhuo Yuan, Yan Wang, Bangji Yang, Quanquan Gu.  
 [arXiv:2505.17478 (2025)](https://doi.org/10.48550/arXiv.2505.17478)  
@@ -1668,11 +1673,13 @@ Huang, Ying, Huiling Zhang, Zhenli Lin, Yanjie Wei, and Wenhui Xi.
 ### LLM-MD
 
 
-
+* **MD-LLM-1: A Large Language Model for Molecular Dynamics** [2025]  
+Mhd Hussein Murtada, Z. Faidon Brotzakis, Michele Vendruscolo.   
+[arXiv:2508.03709 (2025)](https://doi.org/10.48550/arXiv.2508.03709)  
 
 * **Structure Language Models for Protein Conformation Generation** [2024]  
 Jiarui Lu, Xiaoyin Chen, Stephen Zhewen Lu, Chence Shi, Hongyu Guo, Yoshua Bengio, Jian Tang.   
-[	arXiv:2410.18403 (2024)](https://arxiv.org/abs/2410.18403) | [code](https://github.com/lujiarui/esmdiff)  
+[arXiv:2410.18403 (2024)](https://arxiv.org/abs/2410.18403) | [code](https://github.com/lujiarui/esmdiff)  
 
 * **SeaMoon: Prediction of molecular motions based on language models** [2024]  
 Valentin Lombard, Dan Timsit, Sergei Grudinin, Elodie Laine.   
