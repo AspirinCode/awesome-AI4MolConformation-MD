@@ -1180,7 +1180,9 @@ Pajkos, Mátyás, et al. "AFflecto: A web server to generate conformational ense
 
 
 
-
+* **Modeling protein conformational ensembles by guiding AlphaFold2 with Double Electron Electron Resonance (DEER) distance distributions** [2025]  
+Wu, T., Stein, R.A., Kao, TY. et al.  
+[Nat Commun 16, 7107 (2025)](https://doi.org/10.1038/s41467-025-62582-4) | [code](https://github.com/CAAIPD/DEERFold)  
 
 * **Large-scale predictions of alternative protein conformations by AlphaFold2-based sequence association** [2025]  
 Lee, M., Schafer, J.W., Prabakaran, J. et al.  
