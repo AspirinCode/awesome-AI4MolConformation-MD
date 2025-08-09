@@ -1181,6 +1181,9 @@ Pajkos, Mátyás, et al. "AFflecto: A web server to generate conformational ense
 ### AlphaFold-based
 
 
+* **af2rave: Protein Ensemble Generation with Physics-Based Sampling** [2025]  
+Teng D, Meraz VJ, Aranganathan A, Gu X, Tiwary P.  
+[Digital Discovery (2025)](https://doi.org/10.1039/D5DD00201J) | [ChemRxiv. (2025)](https://doi.org/10.26434/chemrxiv-2025-q3mwr) | [code](https://github.com/tiwarylab/af2rave)  
 
 * **Modeling protein conformational ensembles by guiding AlphaFold2 with Double Electron Electron Resonance (DEER) distance distributions** [2025]  
 Wu, T., Stein, R.A., Kao, TY. et al.  
@@ -1209,10 +1212,6 @@ Pajkos, Mátyás, Ilinka Clerc, Christophe Zanon, Pau Bernadó, and Juan Cortés
 * **Characterizing the Conformational States of G Protein Coupled Receptors Generated with AlphaFold** [2025]  
 Garima Chib, Parisa Mollaei, Amir Barati Farimani.  
 [arXiv:2502.17628(2025)](hhttps://arxiv.org/abs/2502.17628) | [code](https://github.com/garimachib01/GPCR_AlphaFold)  
-
-* **AlphaFold2-RAVE: Protein Ensemble Generation with Physics-Based Sampling** [2025]  
-Teng D, Meraz VJ, Aranganathan A, Gu X, Tiwary P.  
-[ChemRxiv. (2025)](https://doi.org/10.26434/chemrxiv-2025-q3mwr) | [code](https://github.com/tiwarylab/af2rave)  
 
 * **Gradations in protein dynamics captured by experimental NMR are not well represented by AlphaFold2 models and other computational metrics** [2025]  
 Gavalda-Garcia, Jose, Bhawna Dixit, Adrián Díaz, An Ghysels, and Wim Vranken.   
@@ -1877,7 +1876,9 @@ Grambow, Colin A., Hayley Weir, Nathaniel Diamant, Alex Tseng, Tommaso Biancalan
 ### Protein conformational ensembles
 
 
-
+* **af2rave: Protein Ensemble Generation with Physics-Based Sampling** [2025]  
+Teng D, Meraz VJ, Aranganathan A, Gu X, Tiwary P.  
+[Digital Discovery (2025)](https://doi.org/10.1039/D5DD00201J) | [ChemRxiv. (2025)](https://doi.org/10.26434/chemrxiv-2025-q3mwr) | [code](https://github.com/tiwarylab/af2rave)  
 
 * **Generative Modeling of Full-Atom Protein Conformations using Latent Diffusion on Graph Embeddings** [2025]  
 Aditya Sengar, Ali Hariri, Daniel Probst, Patrick Barth, Pierre Vandergheynst.  
@@ -1942,10 +1943,6 @@ Yuanpeng J. Huang, Theresa A. Ramelot, Laura E. Spaman, Naohiro Kobayashi, Gaeta
 * **Insights into phosphorylation-induced influences on conformations and inhibitor binding of CDK6 through GaMD trajectory-based deep learning** [2025]  
 Zhao, Lu and Wang, Jian and Yang, Wanchun and Zhang, Canqing and Zhang, Weiwei and Chen, Jianzhong.   
 [Phys. Chem. Chem. Phys. (2025)](http://dx.doi.org/10.1039/D4CP04579C) | [code](https://github.com/Peach92/CDK6-pho-GaMD-trajectory-based-deep-learning)  
-
-* **AlphaFold2-RAVE: Protein Ensemble Generation with Physics-Based Sampling** [2025]  
-Teng D, Meraz VJ, Aranganathan A, Gu X, Tiwary P.   
-[ChemRxiv. (2025)](https://doi.org/10.26434/chemrxiv-2025-q3mwr) | [code](https://github.com/tiwarylab/af2rave)  
 
 * **Gradations in protein dynamics captured by experimental NMR are not well represented by AlphaFold2 models and other computational metrics** [2025]  
 Gavalda-Garcia, Jose, Bhawna Dixit, Adrián Díaz, An Ghysels, and Wim Vranken.   
