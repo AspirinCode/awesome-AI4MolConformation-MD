@@ -579,7 +579,9 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
-
+* **TorchANI 2.0: An extensible, high performance library for the design, training, and use of NN-IPs** [2025]  
+Pickering I, Xue J, Huddleston K, Terrel N, Roitberg A.  
+[ChemRxiv. (2025)](https://doi.org/10.26434/chemrxiv-2025-w0w7d) | [code](https://github.com/aiqm/torchani)  
 
 * **chemtrain-deploy: A parallel and scalable framework for machine learning potentials in million-atom MD simulations** [2025]  
 Paul Fuchs, Weilong Chen, Stephan Thaler, Julija Zavadlav.  
