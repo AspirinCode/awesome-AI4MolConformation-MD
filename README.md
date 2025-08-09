@@ -950,6 +950,11 @@ Zhang, Yuzhi, Haidi Wang, Weijie Chen, Jinzhe Zeng, Linfeng Zhang, Han Wang, and
 
 
 
+
+* **AIMNet2-NSE: A Transferable Reactive Neural Network Potential for Open-Shell Chemistry** [2025]  
+Kalita B, Zubatyuk R, Anstine DM, Bergeler M, Settels V, Stork C, et al.  
+[ChemRxiv. (2025)](https://doi.org/10.26434/chemrxiv-2025-kdg6n) | [data](https://figshare.com/s/988db758cceb66f220c1?file=56714804)  
+
 * **Machine learning prediction of a chemical reaction over 8 decades of energy** [2025]  
 Daniel Julian, Jesús Pérez-Ríos.  
 [arXiv:2507.01793 (2025)](https://doi.org/10.48550/arXiv.2507.01793)  
