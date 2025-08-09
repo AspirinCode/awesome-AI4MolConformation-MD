@@ -215,7 +215,9 @@ Wang, L., Brasnett, C., Borges-Araújo, L. et al.
 ### Neural Molecular Force Fields
 
 
-
+* **A density based machine learning force field for molecule-molecule nonbonded interactions** [2025]  
+Wang L-W.  
+[ChemRxiv. (2025)](https://doi.org/10.26434/chemrxiv-2025-83grg)  
 
 * **Force field optimization by end-to-end differentiable atomistic simulation** [2025]  
 Abhijeet Sadashiv Gangan, Ekin Dogus Cubuk, Samuel S. Schoenholz, Mathieu Bauchy, and N. M. Anoop Krishnan.  
