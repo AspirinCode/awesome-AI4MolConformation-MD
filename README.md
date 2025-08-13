@@ -450,6 +450,12 @@ https://github.com/ipudu/awesome-molecular-dynamics
 
 
 
+
+
+* **Understanding Viscoelasticity of an Entangled Silicone Copolymer via Coarse-Grained Molecular Dynamics Simulations** [2025]  
+Weikang Xian, Amitesh Maiti, Andrew P. Saab, and Ying Li.  
+[Macromolecules (2025)](https://doi.org/10.1021/acs.macromol.5c01192)  
+
 * **Navigating protein landscapes with a machine-learned transferable coarse-grained model** [2025]  
 Charron, N.E., Bonneau, K., Pasos-Trejo, A.S. et al.  
 [Nat. Chem. (2025)](https://doi.org/10.1038/s41557-025-01874-0) | [data](https://github.com/ClementiGroup/mlcg)  
