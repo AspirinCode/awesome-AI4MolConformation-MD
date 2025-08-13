@@ -1082,6 +1082,9 @@ Ross, G.A., Lu, C., Scarabelli, G. et al.
 
 
 
+* **DREAMS: Density Functional Theory Based Research Engine for Agentic Materials Simulation** [2025]  
+Ziqi Wang, Hongshuo Huang, Hancheng Zhao, Changwen Xu, Shang Zhu, Jan Janssen, Venkatasubramanian Viswanathan.  
+[arXiv:2507.14267 (2025)](https://doi.org/10.48550/arXiv.2507.14267) | [code](https://github.com/BattModels/material_agent)  
 
 * **Transferring Knowledge from MM to QM: A Graph Neural Network-Based Implicit Solvent Model for Small Organic Molecules** [2025]  
 Xu, M., Wang, S., He, Y. et al.  
@@ -2382,6 +2385,11 @@ Christopher Fullenkamp, Shams Mehdi, Christopher Jones, Logan Tenney, Patricio P
 
 
 
+
+
+* **DREAMS: Density Functional Theory Based Research Engine for Agentic Materials Simulation** [2025]  
+Ziqi Wang, Hongshuo Huang, Hancheng Zhao, Changwen Xu, Shang Zhu, Jan Janssen, Venkatasubramanian Viswanathan.  
+[arXiv:2507.14267 (2025)](https://doi.org/10.48550/arXiv.2507.14267) | [code](https://github.com/BattModels/material_agent)  
 
 * **Screening of Material Defects using Universal Machine-Learning Interatomic Potentials** [2025]  
 PBerger, Ethan, Mohammad Bagheri, and Hannu-Pekka Komsa.  
