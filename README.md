@@ -476,6 +476,10 @@ Magdalena Szczuka, Gilberto P. Pereira, Luis J. Walter, Marc Gueroult, Pierre Po
 ## AI4MD
 
 
+* **TorchSim: An efficient atomistic simulation engine in PyTorch** [2025]  
+Orion Cohen, Janosh Riebesell, Rhys Goodall, Adeesh Kolluru, Stefano Falletta, Joseph Krause, Jorge Colindres, Gerbrand Ceder, Abhijeet S. Gangan.  
+[arXiv:2508.06628 (2025)](https://doi.org/10.48550/arXiv.2508.06628) | [code](https://github.com/Radical-AI/torch-sim)  
+
 * **chemtrain-deploy: A parallel and scalable framework for machine learning potentials in million-atom MD simulations** [2025]  
 Paul Fuchs, Weilong Chen, Stephan Thaler, Julija Zavadlav.  
 [J. Chem. Theory Comput. (2025)](https://doi.org/10.1021/acs.jctc.5c00996) | [arXiv:2506.04055 (2025)](https://doi.org/10.48550/arXiv.2506.04055) | [data](https://github.com/tummfm/chemtrain)  
