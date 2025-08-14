@@ -1001,15 +1001,27 @@ Anstine DM, Zhao Q, Zubatiuk R, Zhang S, Singla V, Nikitin F, et al.
 
 
 
+
 * **Boosting ReaxFF Reactive Force Field Optimization with Adaptive Sampling** [2025]   
  Shuang Li, Siyuan Yang, Sibing Chen, Wei Zheng, Zejian Dong, Langli Luo, Weiwei Zhang, and Xing Chen.  
   [J. Chem. Theory Comput. (2025)](https://doi.org/10.1021/acs.jctc.4c01748) | [code](https://github.com/tju-chen-group/Adaptive-Sampling-Optimization-code)  
 
 
 
+
+
+
+
+
 ### Free Energy Perturbation
 
 
+
+
+
+* **Machine Learning Guided AQFEP: A Fast and Efficient Absolute Free Energy Perturbation Solution for Virtual Screening** [2025]  
+Jordan E. Crivelli-Decker, Zane Beckwith, Gary Tom, Ly Le, Sheenam Khuttan, Romelia Salomon-Ferrer, Jackson Beall, Rafael Gómez-Bombarelli, and Andrea Bortolato.  
+  [J. Chem. Theory Comput. (2025)](https://doi.org/10.1021/acs.jctc.4c00399) | [data](https://zenodo.org/records/12827945)  
 
 * **Considerations in the use of machine learning force fields for free energy calculations** [2025]  
 Orlando A. Mendible-Barreto, Jonathan K. Whitmer, Yamil J. Colón.  
