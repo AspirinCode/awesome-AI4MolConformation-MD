@@ -591,6 +591,10 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
+* **Performance of universal machine-learned potentials with explicit long-range interactions in biomolecular simulations** [2025]  
+Viktor Zaverkin, Matheus Ferraz, Francesco Alesiani, Mathias Niepert.  
+[arXiv:2508.10841 (2025)](https://doi.org/10.48550/arXiv.2508.10841) | [code](https://github.com/nec-research/ictp)  
+
 * **TorchANI 2.0: An extensible, high performance library for the design, training, and use of NN-IPs** [2025]  
 Pickering I, Xue J, Huddleston K, Terrel N, Roitberg A.  
 [ChemRxiv. (2025)](https://doi.org/10.26434/chemrxiv-2025-w0w7d) | [code](https://github.com/aiqm/torchani)  
