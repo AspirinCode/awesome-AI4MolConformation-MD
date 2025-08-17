@@ -590,6 +590,9 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
+* **PIL-Net: a physics-informed graph convolutional network for predicting atomic multipoles** [2025]  
+Whitter, Caitlin, Alex Pothen, and Aurora Clark.  
+[Digital Discovery (2025)](https://doi.org/10.1039/D5DD00228A) | [code](https://github.com/rinikerlab/EquivariantMultipoleGNN)  
 
 * **Performance of universal machine-learned potentials with explicit long-range interactions in biomolecular simulations** [2025]  
 Viktor Zaverkin, Matheus Ferraz, Francesco Alesiani, Mathias Niepert.  
