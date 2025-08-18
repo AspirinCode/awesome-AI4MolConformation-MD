@@ -2408,7 +2408,9 @@ Christopher Fullenkamp, Shams Mehdi, Christopher Jones, Logan Tenney, Patricio P
 
 
 
-
+* **Accuracy of calculated elastic properties of inorganic materials: Density functional theory and machine-learned potentials** [2025]  
+Milman, Victor, Alexander Perlov, Neil Spenley, and Björn Winkler.  
+[Materialia (2025)](https://doi.org/10.1016/j.mtla.2025.102503)  
 
 * **DREAMS: Density Functional Theory Based Research Engine for Agentic Materials Simulation** [2025]  
 Ziqi Wang, Hongshuo Huang, Hancheng Zhao, Changwen Xu, Shang Zhu, Jan Janssen, Venkatasubramanian Viswanathan.  
