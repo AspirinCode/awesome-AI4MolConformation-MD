@@ -123,6 +123,11 @@ Janson, Giacomo, and Michael Feig.
 
 
 
+
+* **DynaRepo: The repository of macromolecular conformational dynamics** [2025]  
+Omid Mokhtari, Emmanuelle Bignon, Hamed Khakzad, Yasaman Karami.   
+[bioRxiv (2025)](https://doi.org/10.1101/2025.08.14.670260) | [data](https://dynarepo.inria.fr/)  
+
 * **MS25: Materials Science-Focused Benchmark Data Set for Machine Learning Interatomic Potentials** [2025]  
 Tristan Maxson, Ademola Soyemi, Xinglong Zhang, Benjamin W. J. Chen, and Tibor Szilvási.   
 [J. Chem. Inf. Model. (2025)](https://doi.org/10.1021/acs.jcim.5c01262) | [data](https://doi.org/10.5281/zenodo/10901820)  
