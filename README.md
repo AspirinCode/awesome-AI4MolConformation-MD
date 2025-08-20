@@ -605,7 +605,9 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
-
+* **PIL-Net: a physics-informed graph convolutional network for predicting atomic multipoles** [2025]  
+Dario Coscia, Pim de Haan, Max Welling.  
+[arXiv:2508.14022 (2025)](https://arxiv.org/abs/2508.14022) | [code](https://github.com/dario-coscia/blip)  
 
 * **FastTrack: a fast method to evaluate mass transport in solid leveraging universal machine learning interatomic potential** [2025]  
 Hanwen Kang, Tenglong Lu, Zhanbin Qi, Jiandong Guo, Sheng Meng, Miao Liu.  
