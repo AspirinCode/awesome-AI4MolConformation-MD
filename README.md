@@ -595,6 +595,12 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
+
+
+* **FastTrack: a fast method to evaluate mass transport in solid leveraging universal machine learning interatomic potential** [2025]  
+Hanwen Kang, Tenglong Lu, Zhanbin Qi, Jiandong Guo, Sheng Meng, Miao Liu.  
+[arXiv:2508.10505 (2025)](https://doi.org/10.48550/arXiv.2508.10505)  
+
 * **PIL-Net: a physics-informed graph convolutional network for predicting atomic multipoles** [2025]  
 Whitter, Caitlin, Alex Pothen, and Aurora Clark.  
 [Digital Discovery (2025)](https://doi.org/10.1039/D5DD00228A) | [code](https://github.com/rinikerlab/EquivariantMultipoleGNN)  
