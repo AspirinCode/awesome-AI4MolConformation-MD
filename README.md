@@ -220,6 +220,16 @@ Wang, L., Brasnett, C., Borges-Araújo, L. et al.
 ### Neural Molecular Force Fields
 
 
+
+
+
+
+
+
+* **aims-PAX: Parallel Active eXploration for the automated construction of Machine Learning Force Fields** [2025]  
+Tobias Henkes, Shubham Sharma, Alexandre Tkatchenko, Mariana Rossi, Igor Poltavskyi.  
+[arXiv:2508.12888 (2025)](https://doi.org/10.48550/arXiv.2508.12888) | [code](https://github.com/tohenkes/aims-PAX)  
+
 * **A density based machine learning force field for molecule-molecule nonbonded interactions** [2025]  
 Wang L-W.  
 [ChemRxiv. (2025)](https://doi.org/10.26434/chemrxiv-2025-83grg)  
