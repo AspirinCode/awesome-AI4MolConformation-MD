@@ -1128,6 +1128,16 @@ Ross, G.A., Lu, C., Scarabelli, G. et al.
 
 
 
+
+
+
+
+
+
+* **LAMBench: A Benchmark for Large Atomistic Models** [2025]  
+Anyang Peng, Chun Cai, Mingyu Guo, Duo Zhang, Chengqian Zhang, Wanrun Jiang, Yinan Wang, Antoine Loew, Chengkun Wu, Weinan E, Linfeng Zhang, Han Wang.  
+[arXiv:2504.19578 (2025)](https://doi.org/10.48550/arXiv.2504.19578) | [code](https://github.com/deepmodeling/lambench)  
+
 * **DREAMS: Density Functional Theory Based Research Engine for Agentic Materials Simulation** [2025]  
 Ziqi Wang, Hongshuo Huang, Hancheng Zhao, Changwen Xu, Shang Zhu, Jan Janssen, Venkatasubramanian Viswanathan.  
 [arXiv:2507.14267 (2025)](https://doi.org/10.48550/arXiv.2507.14267) | [code](https://github.com/BattModels/material_agent)  
