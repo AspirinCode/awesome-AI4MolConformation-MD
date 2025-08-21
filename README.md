@@ -1235,13 +1235,21 @@ Do, Hung N., Jinan Wang, Apurba Bhattarai, and Yinglong Miao.
 
 
 
-Pajkos, Mátyás, et al. "AFflecto: A web server to generate conformational ensembles of flexible proteins from AlphaFold models." Journal of Molecular Biology (2025): 169003.
+
+
+
 
 
 
 
 ### AlphaFold-based
 
+
+
+
+* **Applied causality to infer protein dynamics and kinetics** [2025]  
+Akashnathan Aranganathan, Eric R. Beyerle.  
+[arXiv:2508.12060 (2025)](https://doi.org/10.48550/arXiv.2508.12060)  
 
 * **af2rave: Protein Ensemble Generation with Physics-Based Sampling** [2025]  
 Teng D, Meraz VJ, Aranganathan A, Gu X, Tiwary P.  
@@ -1937,6 +1945,16 @@ Grambow, Colin A., Hayley Weir, Nathaniel Diamant, Alex Tseng, Tommaso Biancalan
 
 ### Protein conformational ensembles
 
+
+
+
+
+
+
+
+* **Applied causality to infer protein dynamics and kinetics** [2025]  
+Akashnathan Aranganathan, Eric R. Beyerle.  
+[arXiv:2508.12060 (2025)](https://doi.org/10.48550/arXiv.2508.12060)  
 
 * **af2rave: Protein Ensemble Generation with Physics-Based Sampling** [2025]  
 Teng D, Meraz VJ, Aranganathan A, Gu X, Tiwary P.  
