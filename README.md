@@ -44,6 +44,11 @@ List of **molecules ( small molecules, RNA, peptide, protein, enzymes, antibody,
 ## Reviews
 
 
+
+* **A critical review of machine learning interatomic potentials and Hamiltonian** [2025]  
+Li, Y.; Zhang, X.; Liu, M.; Shen, L.  
+  [J. Mater. Inf. (2025)](http://dx.doi.org/10.20517/jmi.2025.17)  
+
 * **Generation of protein dynamics by machine learning** [2025]  
 Janson, Giacomo, and Michael Feig.  
   [Current Opinion in Structural Biology 93 (2025)](https://doi.org/10.1016/j.sbi.2025.103115)  
@@ -604,6 +609,14 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 ### Neural Network Potentials
 
 
+
+
+
+
+
+* **A critical review of machine learning interatomic potentials and Hamiltonian** [2025]  
+Li, Y.; Zhang, X.; Liu, M.; Shen, L.  
+  [J. Mater. Inf. (2025)](http://dx.doi.org/10.20517/jmi.2025.17)  
 
 * **PIL-Net: a physics-informed graph convolutional network for predicting atomic multipoles** [2025]  
 Dario Coscia, Pim de Haan, Max Welling.  
