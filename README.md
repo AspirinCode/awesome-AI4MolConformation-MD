@@ -229,7 +229,9 @@ Wang, L., Brasnett, C., Borges-Araújo, L. et al.
 
 
 
-
+* **Deep Residual Learning for Molecular Force Fields** [2025]  
+Jiang X, Chen M, Cao D, Yu J, Zhang R, Fu Z, et al.  
+[ChemRxiv. (2025)](https://doi.org/10.26434/chemrxiv-2025-003lg-v2) | [code](https://github.com/Ameki0/ResFF)  
 
 * **aims-PAX: Parallel Active eXploration for the automated construction of Machine Learning Force Fields** [2025]  
 Tobias Henkes, Shubham Sharma, Alexandre Tkatchenko, Mariana Rossi, Igor Poltavskyi.  
