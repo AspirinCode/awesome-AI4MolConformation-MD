@@ -614,7 +614,9 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
-
+* **Graph atomic cluster expansion for foundational machine learning interatomic potentials** [2025]  
+Yury Lysogorskiy, Anton Bochkarev, Ralf Drautz.  
+  [arXiv:2508.17936 (2025)](https://doi.org/10.48550/arXiv.2508.17936)  
 
 * **A critical review of machine learning interatomic potentials and Hamiltonian** [2025]  
 Li, Y.; Zhang, X.; Liu, M.; Shen, L.  
