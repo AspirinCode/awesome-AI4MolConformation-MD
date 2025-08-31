@@ -45,6 +45,12 @@ List of **molecules ( small molecules, RNA, peptide, protein, enzymes, antibody,
 
 
 
+
+
+* **Generation of protein dynamics by machine learning** [2025]  
+Janson G, Feig M..  
+[Curr Opin Struct Biol. (2025)](https://doi.org/10.1016/j.sbi.2025.103115)  
+
 * **A critical review of machine learning interatomic potentials and Hamiltonian** [2025]  
 Li, Y.; Zhang, X.; Liu, M.; Shen, L.  
   [J. Mater. Inf. (2025)](http://dx.doi.org/10.20517/jmi.2025.17)  
@@ -1977,7 +1983,9 @@ Grambow, Colin A., Hayley Weir, Nathaniel Diamant, Alex Tseng, Tommaso Biancalan
 
 
 
-
+* **Generation of protein dynamics by machine learning** [2025]  
+Janson G, Feig M..  
+[Curr Opin Struct Biol. (2025)](https://doi.org/10.1016/j.sbi.2025.103115)  
 
 * **Applied causality to infer protein dynamics and kinetics** [2025]  
 Akashnathan Aranganathan, Eric R. Beyerle.  
