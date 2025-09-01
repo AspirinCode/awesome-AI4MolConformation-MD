@@ -2486,6 +2486,10 @@ Christopher Fullenkamp, Shams Mehdi, Christopher Jones, Logan Tenney, Patricio P
 
 
 
+
+
+
+
 * **Accuracy of calculated elastic properties of inorganic materials: Density functional theory and machine-learned potentials** [2025]  
 Milman, Victor, Alexander Perlov, Neil Spenley, and Björn Winkler.  
 [Materialia (2025)](https://doi.org/10.1016/j.mtla.2025.102503)  
@@ -2546,7 +2550,9 @@ Gomez, A., Thompson, W.H. & Laage, D.
 Iwasaki, R., Tanibata, N., Takeda, H. et al.   
 [Commun Mater 5, 148 (2024)](https://doi.org/10.1038/s43246-024-00595-0)  
 
-
+* **Prediction of potential energy profiles of molecular dynamic simulation by graph convolutional networks** [2023]  
+Noda, Kota, and Yasushi Shibuta.   
+[Computational Materials Science 229 (2023)](https://doi.org/10.1016/j.commatsci.2023.112448) | [code](https://github.com/nodematerial/MD-GNN)  
 
 
 
