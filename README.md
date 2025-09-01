@@ -618,7 +618,9 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
-
+* **Learning Long-Range Interactions in Equivariant Machine Learning Interatomic Potentials via Electronic Degrees of Freedom** [2025]  
+Maruf, Moin Uddin, Sungmin Kim, and Zeeshan Ahmad.  
+[J. Phys. Chem. Lett. (2025)](https://doi.org/10.1021/acs.jpclett.5c02352) | [code](https://github.com/ahmad-research-group/nequip-charge/tree/charge-encoding)  
 
 * **Graph atomic cluster expansion for foundational machine learning interatomic potentials** [2025]  
 Yury Lysogorskiy, Anton Bochkarev, Ralf Drautz.  
