@@ -1983,7 +1983,9 @@ Grambow, Colin A., Hayley Weir, Nathaniel Diamant, Alex Tseng, Tommaso Biancalan
 
 
 
-
+* **Scalable emulation of protein equilibrium ensembles with generative deep learning** [2024]  
+Sarah Lewis, Tim Hempel, José Jiménez Luna, Michael Gastegger, Yu Xie, Andrew Y. K. Foong, Victor García Satorras, Osama Abdin, Bastiaan S. Veeling, Iryna Zaporozhets, Yaoyi Chen, Soojung Yang, Arne Schneuing, Jigyasa Nigam, Federico Barbero, Vincent Stimper, Andrew Campbell, Jason Yim, Marten Lienen, Yu Shi, Shuxin Zheng, Hannes Schulz, Usman Munir, Cecilia Clementi, Frank Noé.   
+[Science (2025)](https://doi.org/10.1126/science.adv9817) | [bioRxiv. (2024)](https://doi.org/10.1101/2024.12.05.626885) | [code](https://github.com/microsoft/bioemu)  
 
 * **Generation of protein dynamics by machine learning** [2025]  
 Janson G, Feig M..  
@@ -2068,10 +2070,6 @@ Gavalda-Garcia, Jose, Bhawna Dixit, Adrián Díaz, An Ghysels, and Wim Vranken.
 * **Generative modeling of protein ensembles guided by crystallographic electron densities** [2024]  
 Sai Advaith Maddipatla, Nadav Bojan Sellam, Sanketh Vedula, Ailie Marx, Alex Bronstein.   
 [arXiv:2412.13223(2024)](https://arxiv.org/abs/2412.13223)  
-
-* **Scalable emulation of protein equilibrium ensembles with generative deep learning** [2024]  
-Sarah Lewis, Tim Hempel, José Jiménez Luna, Michael Gastegger, Yu Xie, Andrew Y. K. Foong, Victor García Satorras, Osama Abdin, Bastiaan S. Veeling, Iryna Zaporozhets, Yaoyi Chen, Soojung Yang, Arne Schneuing, Jigyasa Nigam, Federico Barbero, Vincent Stimper, Andrew Campbell, Jason Yim, Marten Lienen, Yu Shi, Shuxin Zheng, Hannes Schulz, Usman Munir, Cecilia Clementi, Frank Noé.   
-[bioRxiv. (2024)](https://doi.org/10.1101/2024.12.05.626885)  
 
 * **P2DFlow: A Protein Ensemble Generative Model with SE(3) Flow Matching** [2024]  
 Yaowei Jin, Qi Huang, Ziyang Song, Mingyue Zheng, Dan Teng, Qian Shi.   
@@ -2383,7 +2381,7 @@ Soumendranath Bhakat, Shray Vats, Andreas Mardt, Alexei Degterev.
 
 * **Scalable emulation of protein equilibrium ensembles with generative deep learning** [2024]  
 Sarah Lewis, Tim Hempel, José Jiménez Luna, Michael Gastegger, Yu Xie, Andrew Y. K. Foong, Victor García Satorras, Osama Abdin, Bastiaan S. Veeling, Iryna Zaporozhets, Yaoyi Chen, Soojung Yang, Arne Schneuing, Jigyasa Nigam, Federico Barbero, Vincent Stimper, Andrew Campbell, Jason Yim, Marten Lienen, Yu Shi, Shuxin Zheng, Hannes Schulz, Usman Munir, Cecilia Clementi, Frank Noé.   
-[bioRxiv. (2024)](https://doi.org/10.1101/2024.12.05.626885)  
+[Science (2025)](https://doi.org/10.1126/science.adv9817) | [bioRxiv. (2024)](https://doi.org/10.1101/2024.12.05.626885) | [code](https://github.com/microsoft/bioemu)   
 
 * **Computational screening of the effects of mutations on protein-protein off-rates and dissociation mechanisms by τRAMD** [2024]  
 D’Arrigo, G., Kokh, D.B., Nunes-Alves, A. et al.   
