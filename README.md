@@ -1983,8 +1983,13 @@ Grambow, Colin A., Hayley Weir, Nathaniel Diamant, Alex Tseng, Tommaso Biancalan
 
 
 
+
+* **Impact of Protein Conformational Diversity on Structure-Based Prediction of Druggability** [2025]  
+Bekar-Cesaretli, Ayse A., Shray Vats, Adrian Whitty, Dima Kozakov, Diane Joseph-McCarthy, and Sandor Vajda.  
+[J. Chem. Inf. Model. (2025)](https://doi.org/10.1021/acs.jcim.5c01576) | [code](https://github.com/svats73/FTMove-Druggability)  
+
 * **Scalable emulation of protein equilibrium ensembles with generative deep learning** [2024]  
-Sarah Lewis, Tim Hempel, José Jiménez Luna, Michael Gastegger, Yu Xie, Andrew Y. K. Foong, Victor García Satorras, Osama Abdin, Bastiaan S. Veeling, Iryna Zaporozhets, Yaoyi Chen, Soojung Yang, Arne Schneuing, Jigyasa Nigam, Federico Barbero, Vincent Stimper, Andrew Campbell, Jason Yim, Marten Lienen, Yu Shi, Shuxin Zheng, Hannes Schulz, Usman Munir, Cecilia Clementi, Frank Noé.   
+Lewis, Sarah, Tim Hempel, José Jiménez-Luna, Michael Gastegger, Yu Xie, Andrew YK Foong, Victor García Satorras et al.   
 [Science (2025)](https://doi.org/10.1126/science.adv9817) | [bioRxiv. (2024)](https://doi.org/10.1101/2024.12.05.626885) | [code](https://github.com/microsoft/bioemu)  
 
 * **Generation of protein dynamics by machine learning** [2025]  
