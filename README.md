@@ -211,6 +211,12 @@ https://github.com/LumosBio/MolData
 
 
 
+
+
+* **Charge Scaling Force Field for Biologically Relevant Ions Utilizing a Global Optimization Method** [2025]  
+Shujie Fan, Philip E. Mason, Victor Cruces Chamorro, Brennon L. Shanks, Hector Martinez-Seara, and Pavel Jungwirth.  
+[J. Chem. Theory Comput. (2025)](https://doi.org/10.1021/acs.jctc.5c00873)  
+
 * **ABEEM Polarizable Force Field for PC Lipids: Parameterization and Molecular Dynamics Simulations** [2025]  
 Xiaoyu Wang, Linlin Liu, Peiran Meng, Jian Zhao, Lei Wang, Cui Liu, Lidong Gong, and Zhongzhi Yang.  
 [J. Chem. Theory Comput. (2025)](https://doi.org/10.1021/acs.jctc.4c01704)  
