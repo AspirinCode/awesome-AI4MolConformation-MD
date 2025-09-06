@@ -504,6 +504,15 @@ Magdalena Szczuka, Gilberto P. Pereira, Luis J. Walter, Marc Gueroult, Pierre Po
 ## AI4MD
 
 
+
+* **NVNMD-v2: Scalable and Accurate Deep Learning Molecular Dynamics Model Based on Non-Von Neumann Architectures** [2025]  
+Xiaoyun Yu, Guang Yang, Zhuoying Zhao, Junhua Li, Xinyu Xiao, Xin Zhang, Jie Liu, and Pinghui Mo.  
+[J. Chem. Theory Comput. (2025)](https://doi.org/10.1021/acs.jctc.5c01050) | [code](https://github.com/LiuGroupHNU/deepmd-kit)  
+
+* **TorchSim: An efficient atomistic simulation engine in PyTorch** [2025]  
+Orion Cohen, Janosh Riebesell, Rhys Goodall, Adeesh Kolluru, Stefano Falletta, Joseph Krause, Jorge Colindres, Gerbrand Ceder, Abhijeet S. Gangan.  
+[arXiv:2508.06628 (2025)](https://doi.org/10.48550/arXiv.2508.06628) | [code](https://github.com/Radical-AI/torch-sim)  
+
 * **TorchSim: An efficient atomistic simulation engine in PyTorch** [2025]  
 Orion Cohen, Janosh Riebesell, Rhys Goodall, Adeesh Kolluru, Stefano Falletta, Joseph Krause, Jorge Colindres, Gerbrand Ceder, Abhijeet S. Gangan.  
 [arXiv:2508.06628 (2025)](https://doi.org/10.48550/arXiv.2508.06628) | [code](https://github.com/Radical-AI/torch-sim)  
