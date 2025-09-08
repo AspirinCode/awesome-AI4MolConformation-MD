@@ -1031,6 +1031,11 @@ Zhang, Yuzhi, Haidi Wang, Weijie Chen, Jinzhe Zeng, Linfeng Zhang, Han Wang, and
 
 
 
+
+* **Reactive Active Learning: An Efficient Approach for Training Machine Learning Interatomic Potentials for Reacting Systems** [2025]  
+Achar, S. K., Shukla, P. B., Mhatre, C. V., Bernasconi, L., Vinger, C. Y., & Johnson, J. K.  
+[J. Chem. Theory Comput. (2025)](https://doi.org/10.1021/acs.jctc.5c00920) | [code](https://github.com/siddarthachar/reactive_active_learning)  
+
 * **AIMNet2-NSE: A Transferable Reactive Neural Network Potential for Open-Shell Chemistry** [2025]  
 Kalita B, Zubatyuk R, Anstine DM, Bergeler M, Settels V, Stork C, et al.  
 [ChemRxiv. (2025)](https://doi.org/10.26434/chemrxiv-2025-kdg6n) | [data](https://figshare.com/s/988db758cceb66f220c1?file=56714804)  
