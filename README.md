@@ -45,7 +45,9 @@ List of **molecules ( small molecules, RNA, peptide, protein, enzymes, antibody,
 
 
 
-
+* **Generative AI techniques for conformational diversity and evolutionary adaptation of proteins** [2025]  
+Brownless, Alfie-Louise R., Dariia Yehorova, Colin L. Welsh, and Shina Caroline Lynn Kamerlin.  
+[Curr Opin Struct Biol. (2025)](https://doi.org/10.1016/j.sbi.2025.103135)  
 
 * **Generation of protein dynamics by machine learning** [2025]  
 Janson G, Feig M..  
@@ -2003,6 +2005,10 @@ Grambow, Colin A., Hayley Weir, Nathaniel Diamant, Alex Tseng, Tommaso Biancalan
 
 
 
+
+* **Generative AI techniques for conformational diversity and evolutionary adaptation of proteins** [2025]  
+Brownless, Alfie-Louise R., Dariia Yehorova, Colin L. Welsh, and Shina Caroline Lynn Kamerlin.  
+[Curr Opin Struct Biol. (2025)](https://doi.org/10.1016/j.sbi.2025.103135)  
 
 * **Impact of Protein Conformational Diversity on Structure-Based Prediction of Druggability** [2025]  
 Bekar-Cesaretli, Ayse A., Shray Vats, Adrian Whitty, Dima Kozakov, Diane Joseph-McCarthy, and Sandor Vajda.  
