@@ -241,7 +241,9 @@ Wang, L., Brasnett, C., Borges-Araújo, L. et al.
 
 
 
-
+* **DEQuify your force field: More efficient simulations using deep equilibrium models** [2025]  
+Andreas Burger, Luca Thiede, Alán Aspuru-Guzik, Nandita Vijaykumar.  
+[arXiv:2509.08734 (2025)](https://doi.org/10.48550/arXiv.2509.08734)  
 
 * **Deep Residual Learning for Molecular Force Fields** [2025]  
 Jiang X, Chen M, Cao D, Yu J, Zhang R, Fu Z, et al.  
@@ -512,6 +514,12 @@ Magdalena Szczuka, Gilberto P. Pereira, Luis J. Walter, Marc Gueroult, Pierre Po
 ## AI4MD
 
 
+
+
+
+* **MOLECULE: Molecular-dynamics and Optimized deep Learning for Entropy-regularized Classification and Uncertainty-aware Ligand Evaluation** [2025]  
+Ivan Cucchi, Elena Frasnetti, Francesco Frigerio, Fabrizio Cinquini, Silvia Pavoni, Luca F. Pavarino, and Giorgio Colombo.  
+[J. Chem. Theory Comput. (2025)](https://doi.org/10.1021/acs.jctc.5c01140)  
 
 * **NVNMD-v2: Scalable and Accurate Deep Learning Molecular Dynamics Model Based on Non-Von Neumann Architectures** [2025]  
 Xiaoyun Yu, Guang Yang, Zhuoying Zhao, Junhua Li, Xinyu Xiao, Xin Zhang, Jie Liu, and Pinghui Mo.  
@@ -2344,6 +2352,11 @@ Spoendlin, Fabian C., Wing Ki Wong, Guy Georges, Alexander Bujotzek, and Charlot
 ### Ligand-Protein conformational ensembles
 
 
+
+
+* **MOLECULE: Molecular-dynamics and Optimized deep Learning for Entropy-regularized Classification and Uncertainty-aware Ligand Evaluation** [2025]  
+Ivan Cucchi, Elena Frasnetti, Francesco Frigerio, Fabrizio Cinquini, Silvia Pavoni, Luca F. Pavarino, and Giorgio Colombo.  
+[J. Chem. Theory Comput. (2025)](https://doi.org/10.1021/acs.jctc.5c01140)  
 
 * **Caver Web 2.0: analysis of tunnels and ligand transport in dynamic ensembles of proteins** [2025]  
 Sérgio M Marques, Simeon Borko, Ondrej Vavra, Jan Dvorsky, Petr Kohout, Petr Kabourek, Lukas Hejtmanek, Jiri Damborsky, David Bednar.   
