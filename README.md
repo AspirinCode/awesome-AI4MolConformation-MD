@@ -1042,7 +1042,9 @@ Zhang, Yuzhi, Haidi Wang, Weijie Chen, Jinzhe Zeng, Linfeng Zhang, Han Wang, and
 
 
 
-
+* **Accelerating Transition State Search and Ligand Screening for Organometallic Catalysis with Reactive Machine Learning Potential** [2025]  
+Kun Tang, Yujing Zhao, Lei Zhang, Jian Du, Qingwei Meng, and Qilei Liu.  
+[J. Chem. Theory Comput. (2025)](https://doi.org/10.1021/acs.jctc.5c01047) | [code](https://github.com/Senppoa/RMLP-for-OMCat/tree/main)  
 
 * **Reactive Active Learning: An Efficient Approach for Training Machine Learning Interatomic Potentials for Reacting Systems** [2025]  
 Achar, S. K., Shukla, P. B., Mhatre, C. V., Bernasconi, L., Vinger, C. Y., & Johnson, J. K.  
