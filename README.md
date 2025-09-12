@@ -490,7 +490,7 @@ https://github.com/ipudu/awesome-molecular-dynamics
 
 * **Data-driven particle dynamics: Structure-preserving coarse-graining for emergent behavior in non-equilibrium systems** [2025]  
 Quercus Hernandez, Max Win, Thomas C. O'Connor, Paulo E. Arratia, Nathaniel Trask.  
-[arXiv:2508.12569 (2025)](https://doi.org/10.48550/arXiv.2508.12569)  
+[arXiv:2508.12569 (2025)](https://doi.org/10.48550/arXiv.2508.12569) | [code](https://github.com/PIMILab/DataDrivenParticleDynamics)  
 
 * **Understanding Viscoelasticity of an Entangled Silicone Copolymer via Coarse-Grained Molecular Dynamics Simulations** [2025]  
 Weikang Xian, Amitesh Maiti, Andrew P. Saab, and Ying Li.  
