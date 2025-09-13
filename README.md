@@ -2509,7 +2509,7 @@ A. Clay Richard, Robert J. Pantazes.
 
 * **Communication pathway analysis within protein-nucleic acid complexes** [2025]  
 Sneha Bheemireddy, Roy González-Alemán, Emmanuelle Bignon, Yasaman Karami.  
-[bioRxiv. (2025)](https://doi.org/10.1101/2025.02.14.638259) | [code](https://github.com/yasamankarami/compass)  
+[J. Chem. Theory Comput. (2025)](https://doi.org/10.1021/acs.jctc.5c00445) | [bioRxiv. (2025)](https://doi.org/10.1101/2025.02.14.638259) | [code](https://github.com/yasamankarami/compass)  
 
 
 
