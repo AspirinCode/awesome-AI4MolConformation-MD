@@ -645,6 +645,12 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
+
+
+* **One to Rule Them All: A Universal Interatomic Potential Learning across Quantum Chemical Levels** [2025]  
+Yuxinxin Chen and Pavlo O. Dral.  
+[J. Chem. Theory Comput. (2025)](https://doi.org/10.1021/acs.jctc.5c00858) | [code](https://github.com/dralgroup/aio-ani)  
+
 * **Learning Long-Range Interactions in Equivariant Machine Learning Interatomic Potentials via Electronic Degrees of Freedom** [2025]  
 Maruf, Moin Uddin, Sungmin Kim, and Zeeshan Ahmad.  
 [J. Phys. Chem. Lett. (2025)](https://doi.org/10.1021/acs.jpclett.5c02352) | [code](https://github.com/ahmad-research-group/nequip-charge/tree/charge-encoding)  
