@@ -45,6 +45,11 @@ List of **molecules ( small molecules, RNA, peptide, protein, enzymes, antibody,
 
 
 
+
+* **Enhanced Sampling in the Age of Machine Learning: Algorithms and Applications** [2025]  
+Kai Zhu, Enrico Trizio, Jintu Zhang, Renling Hu, Linlong Jiang, Tingjun Hou, Luigi Bonati.  
+[arXiv:2509.04291 (2025)](https://doi.org/10.48550/arXiv.2509.04291)  
+
 * **Generative AI techniques for conformational diversity and evolutionary adaptation of proteins** [2025]  
 Brownless, Alfie-Louise R., Dariia Yehorova, Colin L. Welsh, and Shina Caroline Lynn Kamerlin.  
 [Curr Opin Struct Biol. (2025)](https://doi.org/10.1016/j.sbi.2025.103135)  
@@ -650,7 +655,9 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
-
+* **Weighted active space protocol for multireference machine-learned potentials** [2025]  
+A. Seal,S. Perego,M.R. Hennefarth,U. Raucci,L. Bonati,A.L. Ferguson,M. Parrinello, & L. Gagliardi.  
+[Proc. Natl. Acad. Sci. (2025)](https://doi.org/10.1073/pnas.2513693122) | [code](https://github.com/GagliardiGroup/wasp)  
 
 * **One to Rule Them All: A Universal Interatomic Potential Learning across Quantum Chemical Levels** [2025]  
 Yuxinxin Chen and Pavlo O. Dral.  
