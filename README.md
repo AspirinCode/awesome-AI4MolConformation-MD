@@ -241,6 +241,11 @@ Wang, L., Brasnett, C., Borges-Araújo, L. et al.
 
 
 
+
+* **Physical embedding machine learning force fields for organic systems** [2025]  
+Junbao Hu, Dingyu Hou, Jian Jiang.  
+[arXiv:2509.10270 (2025)](https://doi.org/10.48550/arXiv.2509.10270)  
+
 * **DEQuify your force field: More efficient simulations using deep equilibrium models** [2025]  
 Andreas Burger, Luca Thiede, Alán Aspuru-Guzik, Nandita Vijaykumar.  
 [arXiv:2509.08734 (2025)](https://doi.org/10.48550/arXiv.2509.08734)  
