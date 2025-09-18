@@ -2034,7 +2034,9 @@ Grambow, Colin A., Hayley Weir, Nathaniel Diamant, Alex Tseng, Tommaso Biancalan
 
 
 
-
+* **Evaluation of machine learning-assisted directed evolution across diverse combinatorial landscapes** [2025]  
+Li, Francesca-Zhoufan, Jason Yang, Kadina E. Johnston, Emre Gürsoy, Yisong Yue, and Frances H. Arnold.  
+[Cell Systems (2025)](https://doi.org/10.1016/j.cels.2025.101387) | [code](https://github.com/fhalab/SSMuLA)  
 
 * **Generative AI techniques for conformational diversity and evolutionary adaptation of proteins** [2025]  
 Brownless, Alfie-Louise R., Dariia Yehorova, Colin L. Welsh, and Shina Caroline Lynn Kamerlin.  
