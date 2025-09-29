@@ -655,6 +655,10 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
+* **Learning non-local molecular interactions via equivariant local representations and charge equilibration** [2025]  
+Fuchs, P., Sanocki, M. & Zavadlav, J.  
+[npj Comput Mater 11, 287 (2025)](https://doi.org/10.1038/s41524-025-01790-4) | [code](https://github.com/tummfm/chemtrain)  
+
 * **Scalable Foundation Interatomic Potentials via Message-Passing Pruning and Graph Partitioning** [2025]  
 Lingyu Kong, Jaeheon Shim, Guoxiang Hu, Victor Fung.  
 [arXiv:2509.21694 (2025)](https://doi.org/10.48550/arXiv.2509.21694) | [code](https://github.com/Fung-Lab/MatterTune)  
@@ -1211,9 +1215,13 @@ Ross, G.A., Lu, C., Scarabelli, G. et al.
 
 
 
+* **ELECTRA: A Cartesian Network for 3D Charge Density Prediction with Floating Orbitals** [2025]  
+Jonas Elsborg, Luca Thiede, Alán Aspuru-Guzik, Tejs Vegge, Arghya Bhowmik.  
+[arXiv:2503.08305 (2025)](https://doi.org/10.48550/arXiv.2503.08305)  
 
-
-
+* **DREAMS: Density Functional Theory Based Research Engine for Agentic Materials Simulation** [2025]  
+Ziqi Wang, Hongshuo Huang, Hancheng Zhao, Changwen Xu, Shang Zhu, Jan Janssen, Venkatasubramanian Viswanathan.  
+[arXiv:2507.14267 (2025)](https://doi.org/10.48550/arXiv.2507.14267) | [code](https://github.com/BattModels/material_agent)  
 
 * **LAMBench: A Benchmark for Large Atomistic Models** [2025]  
 Anyang Peng, Chun Cai, Mingyu Guo, Duo Zhang, Chengqian Zhang, Wanrun Jiang, Yinan Wang, Antoine Loew, Chengkun Wu, Weinan E, Linfeng Zhang, Han Wang.  
