@@ -655,6 +655,10 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
+* **Scalable Foundation Interatomic Potentials via Message-Passing Pruning and Graph Partitioning** [2025]  
+Lingyu Kong, Jaeheon Shim, Guoxiang Hu, Victor Fung.  
+[arXiv:2509.21694 (2025)](https://doi.org/10.48550/arXiv.2509.21694) | [code](https://github.com/Fung-Lab/MatterTune)  
+
 * **Weighted active space protocol for multireference machine-learned potentials** [2025]  
 A. Seal,S. Perego,M.R. Hennefarth,U. Raucci,L. Bonati,A.L. Ferguson,M. Parrinello, & L. Gagliardi.  
 [Proc. Natl. Acad. Sci. (2025)](https://doi.org/10.1073/pnas.2513693122) | [code](https://github.com/GagliardiGroup/wasp)  
