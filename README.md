@@ -2046,6 +2046,11 @@ Grambow, Colin A., Hayley Weir, Nathaniel Diamant, Alex Tseng, Tommaso Biancalan
 
 
 
+
+* **AI-based Methods for Simulating, Sampling, and Predicting Protein Ensembles** [2025]  
+Bowen Jing, Bonnie Berger, Tommi Jaakkola.  
+[arXiv:2509.17224 (2025)](https://doi.org/10.48550/arXiv.2509.17224)  
+
 * **Evaluation of machine learning-assisted directed evolution across diverse combinatorial landscapes** [2025]  
 Li, Francesca-Zhoufan, Jason Yang, Kadina E. Johnston, Emre Gürsoy, Yisong Yue, and Frances H. Arnold.  
 [Cell Systems (2025)](https://doi.org/10.1016/j.cels.2025.101387) | [code](https://github.com/fhalab/SSMuLA)  
