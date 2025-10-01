@@ -498,6 +498,11 @@ https://github.com/ipudu/awesome-molecular-dynamics
 
 
 
+
+* **CGBack: Diffusion Model for Backmapping Large-Scale and Complex Coarse-Grained Molecular Systems** [2025]  
+Diego Ugarte La Torre and Yuji Sugita.  
+[J. Chem. Inf. Model. (2025)](https://doi.org/10.1021/acs.jcim.5c01281) | [data](https://github.com/genesis-release-r-ccs/cgback)  
+
 * **Data-driven particle dynamics: Structure-preserving coarse-graining for emergent behavior in non-equilibrium systems** [2025]  
 Quercus Hernandez, Max Win, Thomas C. O'Connor, Paulo E. Arratia, Nathaniel Trask.  
 [arXiv:2508.12569 (2025)](https://doi.org/10.48550/arXiv.2508.12569) | [code](https://github.com/PIMILab/DataDrivenParticleDynamics)  
@@ -512,7 +517,7 @@ Charron, N.E., Bonneau, K., Pasos-Trejo, A.S. et al.
 
 * **Graph-Coarsening for Machine Learning Coarse-grained Molecular Dynamics** [2025]  
 Soumya Mondal, Subhanu Halder, Debarchan Basu, Sandeep Kumar, Tarak Karmakar.  
-[	arXiv:2507.16531 (2025)](https://doi.org/10.48550/arXiv.2507.16531)  
+[arXiv:2507.16531 (2025)](https://doi.org/10.48550/arXiv.2507.16531)  
 
 * **Fast parameterization of Martini3 models for fragments and small molecules** [2025]  
 Magdalena Szczuka, Gilberto P. Pereira, Luis J. Walter, Marc Gueroult, Pierre Poulain, Tristan Bereau, Paulo C. T. Souza, Matthieu Chavent.  
