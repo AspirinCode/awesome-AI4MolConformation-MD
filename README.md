@@ -660,6 +660,10 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
+* **Machine learning of charges and long-range interactions from energies and forces** [2025]  
+King, D.S., Kim, D., Zhong, P. et al.  
+[Nat Commun 16, 8763 (2025)](https://doi.org/10.1038/s41467-025-63852-x) | [code](https://github.com/BingqingCheng/cace-lr-fit)  
+
 * **Learning non-local molecular interactions via equivariant local representations and charge equilibration** [2025]  
 Fuchs, P., Sanocki, M. & Zavadlav, J.  
 [npj Comput Mater 11, 287 (2025)](https://doi.org/10.1038/s41524-025-01790-4) | [code](https://github.com/tummfm/chemtrain)  
