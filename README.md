@@ -660,6 +660,12 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
+
+
+* **Weighted active space protocol for multireference machine-learned potentials** [2025]  
+A. Seal,S. Perego,M.R. Hennefarth,U. Raucci,L. Bonati,A.L. Ferguson,M. Parrinello, & L. Gagliardi.  
+[Proc. Natl. Acad. Sci. (2025)](https://doi.org/10.1073/pnas.2513693122) | [code](https://github.com/GagliardiGroup/wasp)  
+
 * **Machine learning of charges and long-range interactions from energies and forces** [2025]  
 King, D.S., Kim, D., Zhong, P. et al.  
 [Nat Commun 16, 8763 (2025)](https://doi.org/10.1038/s41467-025-63852-x) | [code](https://github.com/BingqingCheng/cace-lr-fit)  
