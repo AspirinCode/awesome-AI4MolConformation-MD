@@ -1228,7 +1228,9 @@ Ross, G.A., Lu, C., Scarabelli, G. et al.
 
 
 
-
+* **Ab initio machine-learning simulation of calcium carbonate from aqueous solutions to the solid state** [2025]  
+P.M. Piaggi,J.D. Gale, & P. Raiteri.  
+[roc. Natl. Acad. Sci. (2025)](https://doi.org/10.1073/pnas.2415663122) | [code](https://github.com/PabloPiaggi/CaCO3-SCAN-ML)  
 
 * **ELECTRA: A Cartesian Network for 3D Charge Density Prediction with Floating Orbitals** [2025]  
 Jonas Elsborg, Luca Thiede, Alán Aspuru-Guzik, Tejs Vegge, Arghya Bhowmik.  
