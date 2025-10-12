@@ -660,7 +660,9 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
-
+* **Anticipating the Selectivity of Cyclization Reaction Pathways with Neural Network Potentials** [2025]  
+Nicholas Casetti, Dylan Anstine, Olexandr Isayev, and Connor W. Coley.  
+[J. Chem. Theory Comput. (2025)](https://doi.org/10.1021/acs.jctc.5c01161) | [code](https://github.com/ncasetti7/REVAMP)  
 
 * **Weighted active space protocol for multireference machine-learned potentials** [2025]  
 A. Seal,S. Perego,M.R. Hennefarth,U. Raucci,L. Bonati,A.L. Ferguson,M. Parrinello, & L. Gagliardi.  
