@@ -1153,7 +1153,9 @@ Anstine DM, Zhao Q, Zubatiuk R, Zhang S, Singla V, Nikitin F, et al.
 
 
 
-
+* **Benchmarking Alchemical Relative Binding Free Energy Calculations for Nucleotide Binding to Multimeric ATPases** [2025]  
+Apoorva Purohit, Xiaolin Cheng*.  
+  [J. Chem. Theory Comput. (2025)](https://doi.org/10.1021/acs.jctc.5c01069)  
 
 * **Machine Learning Guided AQFEP: A Fast and Efficient Absolute Free Energy Perturbation Solution for Virtual Screening** [2025]  
 Jordan E. Crivelli-Decker, Zane Beckwith, Gary Tom, Ly Le, Sheenam Khuttan, Romelia Salomon-Ferrer, Jackson Beall, Rafael Gómez-Bombarelli, and Andrea Bortolato.  
