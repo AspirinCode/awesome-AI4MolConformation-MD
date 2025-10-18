@@ -660,6 +660,12 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
+
+
+* **Python Library for Monte Carlo Simulations with Ab Initio and Machine-Learned Interatomic Potentials** [2025]  
+Woodrow N. WilsonVivek S. BharadwajNeeraj Rai*.  
+[J. Chem. Theory Comput. (2025)](https://doi.org/10.1021/acs.jctc.5c01148) | [code](https://github.com/MSELRai/ASE-MC_ESI)  
+
 * **Anticipating the Selectivity of Cyclization Reaction Pathways with Neural Network Potentials** [2025]  
 Nicholas Casetti, Dylan Anstine, Olexandr Isayev, and Connor W. Coley.  
 [J. Chem. Theory Comput. (2025)](https://doi.org/10.1021/acs.jctc.5c01161) | [code](https://github.com/ncasetti7/REVAMP)  
