@@ -662,6 +662,10 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
+* **TorchANI 2.0: An extensible, high performance library for the design, training, and use of NN-IPs** [2025]  
+Pickering I, Xue J, Huddleston K, Terrel N, Roitberg A.  
+[J. Chem. Inf. Model. (2025)](https://doi.org/10.1021/acs.jcim.5c01853) | [ChemRxiv. (2025)](https://doi.org/10.26434/chemrxiv-2025-w0w7d) | [code](https://github.com/aiqm/torchani)  
+
 * **Python Library for Monte Carlo Simulations with Ab Initio and Machine-Learned Interatomic Potentials** [2025]  
 Woodrow N. WilsonVivek S. BharadwajNeeraj Rai*.  
 [J. Chem. Theory Comput. (2025)](https://doi.org/10.1021/acs.jctc.5c01148) | [code](https://github.com/MSELRai/ASE-MC_ESI)  
@@ -721,10 +725,6 @@ Whitter, Caitlin, Alex Pothen, and Aurora Clark.
 * **Performance of universal machine-learned potentials with explicit long-range interactions in biomolecular simulations** [2025]  
 Viktor Zaverkin, Matheus Ferraz, Francesco Alesiani, Mathias Niepert.  
 [arXiv:2508.10841 (2025)](https://doi.org/10.48550/arXiv.2508.10841) | [code](https://github.com/nec-research/ictp)  
-
-* **TorchANI 2.0: An extensible, high performance library for the design, training, and use of NN-IPs** [2025]  
-Pickering I, Xue J, Huddleston K, Terrel N, Roitberg A.  
-[ChemRxiv. (2025)](https://doi.org/10.26434/chemrxiv-2025-w0w7d) | [code](https://github.com/aiqm/torchani)  
 
 * **chemtrain-deploy: A parallel and scalable framework for machine learning potentials in million-atom MD simulations** [2025]  
 Paul Fuchs, Weilong Chen, Stephan Thaler, Julija Zavadlav.  
