@@ -1711,7 +1711,9 @@ Jing, Bowen, Bonnie Berger, and Tommi Jaakkola.
 
 
 
-
+* **Efficient Generation of Protein and Protein–Protein Complex Dynamics via SE(3)-Parameterized Diffusion Models** [2025]  
+Kai Xu, Jianmin Wang, Mingquan Liu, Kewei Zhou, Shaolong Lin, Weihong Li, Lin Shi, Peng Zhou, Huanxiang Liu, and Xiaojun Yao.  
+[J. Chem. Inf. Model. (2025)](https://doi.org/10.1021/acs.jcim.5c01971) | [code](https://github.com/lfs119/PTraj-Diff)  
 
 * **Generative Modeling of Full-Atom Protein Conformations using Latent Diffusion on Graph Embeddings** [2025]  
 Aditya Sengar, Ali Hariri, Daniel Probst, Patrick Barth, Pierre Vandergheynst.  
@@ -2074,7 +2076,13 @@ Grambow, Colin A., Hayley Weir, Nathaniel Diamant, Alex Tseng, Tommaso Biancalan
 ### Protein conformational ensembles
 
 
+* **Efficient Generation of Protein and Protein–Protein Complex Dynamics via SE(3)-Parameterized Diffusion Models** [2025]  
+Kai Xu, Jianmin Wang, Mingquan Liu, Kewei Zhou, Shaolong Lin, Weihong Li, Lin Shi, Peng Zhou, Huanxiang Liu, and Xiaojun Yao.  
+[J. Chem. Inf. Model. (2025)](https://doi.org/10.1021/acs.jcim.5c01971) | [code](https://github.com/lfs119/PTraj-Diff)  
 
+* **MDZip: Neural Compression of Molecular Dynamics Trajectories for Scalable Storage and Ensemble Reconstruction** [2025]  
+Namindu De Silva and Alberto Perez.  
+[J. Phys. Chem. B (2025)](https://doi.org/10.1021/acs.jpcb.5c05348)  
 
 * **AI-based Methods for Simulating, Sampling, and Predicting Protein Ensembles** [2025]  
 Bowen Jing, Bonnie Berger, Tommi Jaakkola.  
