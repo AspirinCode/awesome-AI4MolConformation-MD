@@ -660,7 +660,9 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
-
+* **Peering inside the black box by learning the relevance of many-body functions in neural network potentials** [2025]  
+Bonneau, K., Lederer, J., Templeton, C. et al.  
+[Nat Commun 16, 9898 (2025)](https://doi.org/10.1038/s41467-025-65863-0) | [code](https://github.com/jnsLs/gnn-lrp-cg.git)  
 
 * **TorchANI 2.0: An extensible, high performance library for the design, training, and use of NN-IPs** [2025]  
 Pickering I, Xue J, Huddleston K, Terrel N, Roitberg A.  
