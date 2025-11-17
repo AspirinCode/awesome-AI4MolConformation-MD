@@ -1238,6 +1238,15 @@ Ross, G.A., Lu, C., Scarabelli, G. et al.
 ### Ab Initio
 
 
+
+
+
+
+
+* **Accelerating Hartree-Fock and Density Functional Theory Calculations using Tensor Hypercontraction** [2025]  
+Andreas Erbs Hillers-Bendtsen, Todd J. Martínez.  
+[arXiv:2508.19212 (2025)](https://doi.org/10.48550/arXiv.2508.19212)  
+
 * **ChemRefine: An open-source automated and interoperable platform for machine learning and quantum chemistry simulations** [2025]  
 Migliaro I, Weiss MGS, Sterling AJ.  
 [ChemRxiv. (2025)](https://doi.org/10.26434/chemrxiv-2025-cvg1x) | [code](https://github.com/sterling-group/ChemRefine)  
