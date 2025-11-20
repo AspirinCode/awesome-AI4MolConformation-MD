@@ -245,7 +245,9 @@ Wang, L., Brasnett, C., Borges-Araújo, L. et al.
 
 
 
-
+* **Bayesian learning for accurate and robust biomolecular force fields** [2025]  
+Vojtech Kostal, Brennon L. Shanks, Pavel Jungwirth, Hector Martinez-Seara.  
+[arXiv:2511.05398 (2025)](https://doi.org/10.48550/arXiv.2511.05398)  
 
 * **Physical embedding machine learning force fields for organic systems** [2025]  
 Junbao Hu, Dingyu Hou, Jian Jiang.  
