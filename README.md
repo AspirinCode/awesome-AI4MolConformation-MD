@@ -21,9 +21,9 @@ List of **molecules ( small molecules, RNA, peptide, protein, enzymes, antibody,
 | [AI4MD](#ai4md) | [Neural Network Potentials](#neural-network-potentials) | [Free Energy Perturbation](#free-energy-perturbation) | [Ab Initio](#ab-initio) |
 | [Neural Molecular Force Fields](#neural-molecular-force-fields) | [Neural Reactive Potential](#neural-reactive-potential) | [Reactive Force Fields](#reactive-force-fields) |  |
 | [AlphaFold-based](#alphaFold-based) | [Autoregressive-Based](#autoregressive-Based)  | [LSTM-based](#lstm-based) | [Transformer-based](#transformer-based) |
-| [VAE-based](#vae-based) | [GAN-based](#gan-based) | [Flow-based](#flow-based) | [Diffusion-based](#diffusion-based) |
-| [Score-Based](#score-Based) | [Energy-based](#energy-based) | [Bayesian-based](#bayesian-based) | [Active Learning-based](#active-learning-based) |
-| [GNN-based](#gnn-based) | [LLM-MD](#llm-md) |  |  |
+| [VAE-based](#vae-based) | [GAN-based](#gan-based) | [Flow-based](#flow-based) | [Flow Matching-based](#flow-matching-based) |
+| [Diffusion-based](#diffusion-based) | [Score-Based](#score-Based) | [Energy-based](#energy-based) | [Bayesian-based](#bayesian-based) |
+| [Active Learning-based](#active-learning-based) | [GNN-based](#gnn-based) | [LLM-MD](#llm-md) |  |
 
 
 
@@ -1715,6 +1715,14 @@ Jing, Bowen, Bonnie Berger, and Tommi Jaakkola.
 
 
 
+### Flow Matching-based
+
+
+* **EPO: Diverse and Realistic Protein Ensemble Generation via Energy Preference Optimization** [2025]  
+Yuancheng Sun, Yuxuan Ren, Zhaoming Chen, Xu Han, Kang Liu, Qiwei Ye.  
+[arXiv:2511.10165 (2025)](https://doi.org/10.48550/arXiv.2511.10165)  
+
+
 
 
 
@@ -2086,6 +2094,12 @@ Grambow, Colin A., Hayley Weir, Nathaniel Diamant, Alex Tseng, Tommaso Biancalan
 
 ### Protein conformational ensembles
 
+
+
+
+* **EPO: Diverse and Realistic Protein Ensemble Generation via Energy Preference Optimization** [2025]  
+Yuancheng Sun, Yuxuan Ren, Zhaoming Chen, Xu Han, Kang Liu, Qiwei Ye.  
+[arXiv:2511.10165 (2025)](https://doi.org/10.48550/arXiv.2511.10165)  
 
 * **Efficient Generation of Protein and Protein–Protein Complex Dynamics via SE(3)-Parameterized Diffusion Models** [2025]  
 Kai Xu, Jianmin Wang, Mingquan Liu, Kewei Zhou, Shaolong Lin, Weihong Li, Lin Shi, Peng Zhou, Huanxiang Liu, and Xiaojun Yao.  
