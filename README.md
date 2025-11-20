@@ -510,6 +510,14 @@ https://github.com/ipudu/awesome-molecular-dynamics
 
 
 
+
+
+
+
+* **An optimized contact map for GōMartini 3 enabling conformational changes in protein assemblies** [2025]  
+Gustavo E. Olivos-Ramirez, Luis F. Cofas-Vargas, Siewert J. Marrink, Adolfo B. Poma.  
+[bioRxiv. (2025)](https://doi.org/10.1101/2025.11.14.688437) | [data](https://github.com/GoMartini3-tools/ContactFreq)  
+
 * **CGBack: Diffusion Model for Backmapping Large-Scale and Complex Coarse-Grained Molecular Systems** [2025]  
 Diego Ugarte La Torre and Yuji Sugita.  
 [J. Chem. Inf. Model. (2025)](https://doi.org/10.1021/acs.jcim.5c01281) | [data](https://github.com/genesis-release-r-ccs/cgback)  
@@ -2111,6 +2119,13 @@ Grambow, Colin A., Hayley Weir, Nathaniel Diamant, Alex Tseng, Tommaso Biancalan
 
 ### Protein conformational ensembles
 
+
+
+
+
+* **An optimized contact map for GōMartini 3 enabling conformational changes in protein assemblies** [2025]  
+Gustavo E. Olivos-Ramirez, Luis F. Cofas-Vargas, Siewert J. Marrink, Adolfo B. Poma.  
+[bioRxiv. (2025)](https://doi.org/10.1101/2025.11.14.688437) | [data](https://github.com/GoMartini3-tools/ContactFreq)  
 
 * **PathGennie: Rapid Generation of Rare Event Pathways via Direction-Guided Adaptive Sampling Using Ultrashort Monitored Trajectories** [2025]  
 Dibyendu Maity, Shaheerah Shahid, and Suman Chakrabarty.  
