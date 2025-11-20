@@ -671,6 +671,12 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
+
+
+* **A foundation model for atomistic materials chemistry** [2025]  
+Batatia, Ilyes, Philipp Benner, Yuan Chiang, Alin M. Elena, Dávid P. Kovács, Janosh Riebesell, Xavier R. Advincula et al..  
+[J. Chem. Phys. 163, 184110 (2025)](https://doi.org/10.1063/5.0297006) | [code](http://github.com/acesuit/mace-mp)  
+
 * **Peering inside the black box by learning the relevance of many-body functions in neural network potentials** [2025]  
 Bonneau, K., Lederer, J., Templeton, C. et al.  
 [Nat Commun 16, 9898 (2025)](https://doi.org/10.1038/s41467-025-65863-0) | [code](https://github.com/jnsLs/gnn-lrp-cg.git)  
@@ -2646,7 +2652,9 @@ Christopher Fullenkamp, Shams Mehdi, Christopher Jones, Logan Tenney, Patricio P
 
 
 
-
+* **A foundation model for atomistic materials chemistry** [2025]  
+Batatia, Ilyes, Philipp Benner, Yuan Chiang, Alin M. Elena, Dávid P. Kovács, Janosh Riebesell, Xavier R. Advincula et al..  
+[J. Chem. Phys. 163, 184110 (2025)](https://doi.org/10.1063/5.0297006) | [code](http://github.com/acesuit/mace-mp)  
 
 * **Accuracy of calculated elastic properties of inorganic materials: Density functional theory and machine-learned potentials** [2025]  
 Milman, Victor, Alexander Perlov, Neil Spenley, and Björn Winkler.  
