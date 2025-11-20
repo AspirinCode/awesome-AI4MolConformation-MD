@@ -395,9 +395,15 @@ Gregory Fonseca, Igor Poltavsky, Valentin Vassilev-Galindo, Alexandre Tkatchenko
 * [BEMM-GEN](https://github.com/y4suda/BEMM-GEN) - A Toolkit for Generating a Biomolecular Environment-Mimicking Model for Molecular Dynamics Simulation.
 * [BioSimSpace](https://github.com/OpenBioSim/biosimspace) - An interoperable Python framework for biomolecular simulation.
 * [STORMM](https://github.com/Psivant/stormm) - Structure and TOpology Replica Molecular Mechanics.
+* [multiSMD](https://github.com/kszewc/multiSMD) - A Python Toolset for Multidirectional Steered Molecular Dynamics.
 
 
 
+
+
+* **multiSMD – A Python Toolset for Multidirectional Steered Molecular Dynamics** [2025]  
+Katarzyna Walczewska-Szewc, Beata Niklas, Kamil Szewc, and Wiesław Nowak.  
+[J. Chem. Inf. Model. (2025)](https://doi.org/10.1021/acs.jcim.5c01742) | [code](https://github.com/kszewc/multiSMD)  
 
 * **OpenCafeMol: A GPU-accelerated coarse-grained biomolecular dynamics simulator with OpenMM library** [2025]  
 Barnett, Simon, and John D. Chodera.  
