@@ -2103,7 +2103,9 @@ Grambow, Colin A., Hayley Weir, Nathaniel Diamant, Alex Tseng, Tommaso Biancalan
 ### Protein conformational ensembles
 
 
-
+* **PathGennie: Rapid Generation of Rare Event Pathways via Direction-Guided Adaptive Sampling Using Ultrashort Monitored Trajectories** [2025]  
+Dibyendu Maity, Shaheerah Shahid, and Suman Chakrabarty.  
+[J. Chem. Theory Comput. (2025)](https://doi.org/10.1021/acs.jctc.5c01244) | [code](https://github.com/TeamSuman/PathGennie)  
 
 * **EPO: Diverse and Realistic Protein Ensemble Generation via Energy Preference Optimization** [2025]  
 Yuancheng Sun, Yuxuan Ren, Zhaoming Chen, Xu Han, Kang Liu, Qiwei Ye.  
