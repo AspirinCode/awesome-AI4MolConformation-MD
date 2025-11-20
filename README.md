@@ -439,12 +439,15 @@ Barnett, Simon, and John D. Chodera.
 * [WEDAP](https://github.com/chonglab-pitt/wedap) - A Python Package for Streamlined Plotting of Molecular Simulation Data. 
 * [Melodia](https://github.com/rwmontalvao/Melodia_py) - A Python library for protein structure analysis. 
 * [MDANCE](https://github.com/mqcomplab/MDANCE) - A flexible n-ary clustering package that provides a set of tools for clustering Molecular Dynamics trajectories.  
-* [PENSA](https://github.com/drorlab/pensa) - A collection of python methods for exploratory analysis and comparison of biomolecular conformational ensembles.  
+* [PENSA](https://github.com/drorlab/pensa) - A collection of python methods for exploratory analysis and comparison of biomolecular conformational ensembles.
+* [eRMSF](https://github.com/pablo-arantes/ermsfkit) - A Python Package for Ensemble-Based RMSF Analysis of Biomolecular Systems.
 
 
 
 
-
+* **eRMSF: A Python Package for Ensemble-Based RMSF Analysis of Biomolecular Systems** [2025]  
+Pablo Ricardo Arantes, Rodrigo Ligabue-Braun, and Conrado Pedebos.  
+[J. Chem. Inf. Model. (2025)](https://doi.org/10.1021/acs.jcim.5c02413) | [code](https://github.com/pablo-arantes/ermsfkit)  
 
 * **apoCHARMM: High-performance molecular dynamics simulations on GPUs for advanced simulation methods** [2025]  
 Samarjeet Prasad, Felix Aviat, James E. Gonzales, Bernard R. Brooks.  
