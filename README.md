@@ -20,6 +20,7 @@ List of **molecules ( small molecules, RNA, peptide, protein, enzymes, antibody,
 | [Neural Molecular Force Fields](#neural-molecular-force-fields) | [MD Engines-Frameworks](#md-engines-frameworks) | [AI4MD Engines-Frameworks](#ai4md-engines-frameworks) | [MD Trajectory Processing-Analysis](#md-trajectory-processing-analysis) |
 | [Visualization](#visualization) | [CGMD](#cgmd) | [AI4MD](#ai4md) | [Neural Network Potentials](#neural-network-potentials) |
 | [Neural Reactive Potential](#neural-reactive-potential) | [Reactive Force Fields](#reactive-force-fields) | [Free Energy Perturbation](#free-energy-perturbation) | [Ab Initio](#ab-initio) |
+| [AI-QuantumChem](#ai-quantumchem) |  |  |  |
 | [AlphaFold-based](#alphaFold-based) | [Autoregressive-Based](#autoregressive-Based)  | [LSTM-based](#lstm-based) | [Transformer-based](#transformer-based) |
 | [VAE-based](#vae-based) | [GAN-based](#gan-based) | [Flow-based](#flow-based) | [Flow Matching-based](#flow-matching-based) |
 | [Diffusion-based](#diffusion-based) | [Score-Based](#score-Based) | [Energy-based](#energy-based) | [Bayesian-based](#bayesian-based) |
@@ -1371,6 +1372,21 @@ Michael Scherbela, Nicholas Gao, Philipp Grohs, Stephan Günnemann.
 * **Analytical ab initio hessian from a deep learning potential for transition state optimization** [2024]  
 KYuan, E.CY., Kumar, A., Guan, X. et al.  
 [Nat Commun 15, 8865 (2024)](https://doi.org/10.1038/s41467-024-52481-5) | [code](https://github.com/zadorlab/sella)  
+
+
+
+
+
+### AI-QuantumChem
+
+
+
+
+
+
+* **Multilevel Adaptive and Recursive Grid Refinement for Accelerating Post-Analysis of Machine-Learned Electron Densities** [2025]  
+Gong J, Tang BZ.  
+[ChemRxiv. (2025)](https://doi.org/10.26434/chemrxiv-2025-v5p9h) | [code](https://github.com/JGong-CatenaryGong/GED-CRN)  
 
 
 
