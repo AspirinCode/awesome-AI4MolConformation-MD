@@ -551,7 +551,9 @@ Magdalena Szczuka, Gilberto P. Pereira, Luis J. Walter, Marc Gueroult, Pierre Po
 
 
 
-
+* **Accelerating Molecular Dynamics Simulations with Foundation Neural Network Models using Multiple Time-Step and Distillation** [2025]  
+Côme Cattin, Thomas Plé, Olivier Adjoua, Nicolaï Gouraud, Louis Lagardère, Jean-Philip Piquemal.  
+[arXiv:2510.06562 (2025)](https://doi.org/10.48550/arXiv.2510.06562)  
 
 * **MOLECULE: Molecular-dynamics and Optimized deep Learning for Entropy-regularized Classification and Uncertainty-aware Ligand Evaluation** [2025]  
 Ivan Cucchi, Elena Frasnetti, Francesco Frigerio, Fabrizio Cinquini, Silvia Pavoni, Luca F. Pavarino, and Giorgio Colombo.  
