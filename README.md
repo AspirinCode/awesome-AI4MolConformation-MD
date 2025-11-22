@@ -398,10 +398,15 @@ Gregory Fonseca, Igor Poltavsky, Valentin Vassilev-Galindo, Alexandre Tkatchenko
 * [BioSimSpace](https://github.com/OpenBioSim/biosimspace) - An interoperable Python framework for biomolecular simulation.
 * [STORMM](https://github.com/Psivant/stormm) - Structure and TOpology Replica Molecular Mechanics.
 * [multiSMD](https://github.com/kszewc/multiSMD) - A Python Toolset for Multidirectional Steered Molecular Dynamics.
+* [CCD2MD](https://github.com/keb721/CCD2MD) - A Suite of Packages for Preparing Co-Folded Outputs for Molecular Dynamics Simulations.
 
 
 
 
+
+* **CCD2MD: A Suite of Packages for Preparing Co-Folded Outputs for Molecular Dynamics Simulations** [2025]  
+Katarina E. Blow, Matyas Parrag, and Phillip J. Stansfeld.  
+[J. Chem. Inf. Model. (2025)](https://doi.org/10.1021/acs.jcim.5c02066) | [code](https://github.com/keb721/CCD2MD)  
 
 * **multiSMD – A Python Toolset for Multidirectional Steered Molecular Dynamics** [2025]  
 Katarzyna Walczewska-Szewc, Beata Niklas, Kamil Szewc, and Wiesław Nowak.  
