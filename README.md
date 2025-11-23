@@ -692,10 +692,12 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
-
+* **Modeling Equilibrium Solid–Liquid Interfaces under Effective Constant Chemical Potential Using Machine Learning Interatomic Potentials** [2025]  
+Ademola Soyemi, Khagendra Baral, and Tibor Szilvási.  
+[J. Phys. Chem. A (2025)](https://doi.org/10.1021/acs.jpca.5c06453) | [code](https://zenodo.org/records/17088343)  
 
 * **A foundation model for atomistic materials chemistry** [2025]  
-Batatia, Ilyes, Philipp Benner, Yuan Chiang, Alin M. Elena, Dávid P. Kovács, Janosh Riebesell, Xavier R. Advincula et al..  
+Batatia, Ilyes, Philipp Benner, Yuan Chiang, Alin M. Elena, Dávid P. Kovács, Janosh Riebesell, Xavier R. Advincula et al.  
 [J. Chem. Phys. 163, 184110 (2025)](https://doi.org/10.1063/5.0297006) | [code](http://github.com/acesuit/mace-mp)  
 
 * **Peering inside the black box by learning the relevance of many-body functions in neural network potentials** [2025]  
