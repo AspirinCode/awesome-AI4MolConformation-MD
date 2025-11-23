@@ -245,6 +245,12 @@ Wang, L., Brasnett, C., Borges-Araújo, L. et al.
 
 
 
+
+
+* **Machine Learning Accelerated Finite-Field Simulations for Electrochemical Interfaces** [2025]  
+Chaoqiang Feng and Bin Jiang.  
+[JACS Au (2025)](https://doi.org/10.1021/jacsau.5c00792) | [code](https://github.com/bjiangch/FIREANN)  
+
 * **Bayesian learning for accurate and robust biomolecular force fields** [2025]  
 Vojtech Kostal, Brennon L. Shanks, Pavel Jungwirth, Hector Martinez-Seara.  
 [arXiv:2511.05398 (2025)](https://doi.org/10.48550/arXiv.2511.05398)  
