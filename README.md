@@ -1395,7 +1395,9 @@ KYuan, E.CY., Kumar, A., Guan, X. et al.
 Gong J, Tang BZ.  
 [ChemRxiv. (2025)](https://doi.org/10.26434/chemrxiv-2025-v5p9h) | [code](https://github.com/JGong-CatenaryGong/GED-CRN)  
 
-
+* **ChemRefine: An open-source automated and interoperable platform for machine learning and quantum chemistry simulations** [2025]  
+Migliaro I, Weiss MGS, Sterling AJ.  
+[ChemRxiv. (2025)](https://doi.org/10.26434/chemrxiv-2025-cvg1x) | [code](https://github.com/sterling-group/ChemRefine)  
 
 
 
