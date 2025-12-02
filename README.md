@@ -1448,6 +1448,11 @@ Do, Hung N., Jinan Wang, Apurba Bhattarai, and Yinglong Miao.
 
 
 
+
+* **Rapid estimation of protein folding pathways from sequence alone using AlphaFold2** [2025]  
+Chang, L., Perez, A.  
+[Nat Commun (2025)(2025)](https://doi.org/10.1038/s41467-025-66870-x) | [code](https://github.com/PDNALab/AlphaFolding)  
+
 * **Applied causality to infer protein dynamics and kinetics** [2025]  
 Akashnathan Aranganathan, Eric R. Beyerle.  
 [arXiv:2508.12060 (2025)](https://doi.org/10.48550/arXiv.2508.12060)  
