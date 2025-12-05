@@ -1447,11 +1447,13 @@ Do, Hung N., Jinan Wang, Apurba Bhattarai, and Yinglong Miao.
 
 
 
-
+* **Challenging AlphaFold in predicting proteins with large-scale allosteric transitions** [2025]  
+Perkins-Jechow, B.H., Iglesias Ahualli, J.P., Nhu, H.T. et al.  
+[Commun Chem 8, 378 (2025)](https://doi.org/10.1038/s42004-025-01763-0) | [code](https://github.com/bperkinsj/autoinhibitory_protein_prediction) | [Zenodo](https://doi.org/10.5281/zenodo.17307832)  
 
 * **Rapid estimation of protein folding pathways from sequence alone using AlphaFold2** [2025]  
 Chang, L., Perez, A.  
-[Nat Commun (2025)(2025)](https://doi.org/10.1038/s41467-025-66870-x) | [code](https://github.com/PDNALab/AlphaFolding)  
+[Nat Commun (2025)](https://doi.org/10.1038/s41467-025-66870-x) | [code](https://github.com/PDNALab/AlphaFolding)  
 
 * **Applied causality to infer protein dynamics and kinetics** [2025]  
 Akashnathan Aranganathan, Eric R. Beyerle.  
