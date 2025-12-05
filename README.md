@@ -1397,7 +1397,9 @@ KYuan, E.CY., Kumar, A., Guan, X. et al.
 
 
 
-
+* **A Graph Neural Network Charge Model Targeting Accurate Electrostatic Properties of Organic Molecules** [2025]  
+Charlie Adams, Joshua T. Horton, Lily Wang, Simon Boothroyd, David L. Mobley, David W. Wright, and Daniel J. Cole.  
+[J. Chem. Theory Comput. (2025)](https://doi.org/10.1021/acs.jctc.5c01520) | [code](https://github.com/cole-group/nagl-mbis/)  
 
 * **Multilevel Adaptive and Recursive Grid Refinement for Accelerating Post-Analysis of Machine-Learned Electron Densities** [2025]  
 Gong J, Tang BZ.  
