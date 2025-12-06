@@ -1133,6 +1133,11 @@ Zhang, Yuzhi, Haidi Wang, Weijie Chen, Jinzhe Zeng, Linfeng Zhang, Han Wang, and
 
 
 
+
+* **A Large Scale Molecular Hessian Database for Optimizing Reactive Machine Learning Interatomic Potentials** [2025]  
+Cui, T., Han, Y., Jia, H. et al.  
+[Sci Data (2025)](https://doi.org/10.1021/acs.jctc.5c00920) | [code](https://github.com/deepprinciple/HORM/releases/tag/v1.0) | [Zenodo](https://doi.org/10.5281/zenodo.17217897)  
+
 * **Accelerating Transition State Search and Ligand Screening for Organometallic Catalysis with Reactive Machine Learning Potential** [2025]  
 Kun Tang, Yujing Zhao, Lei Zhang, Jian Du, Qingwei Meng, and Qilei Liu.  
 [J. Chem. Theory Comput. (2025)](https://doi.org/10.1021/acs.jctc.5c01047) | [code](https://github.com/Senppoa/RMLP-for-OMCat/tree/main)  
