@@ -2180,6 +2180,12 @@ Grambow, Colin A., Hayley Weir, Nathaniel Diamant, Alex Tseng, Tommaso Biancalan
 
 
 
+
+
+* **AFM-Fold: Rapid Reconstruction of Protein Conformations from AFM Images** [2025]  
+Tsuyoshi Kawai, Yasuhiro Matsunaga.  
+[bioRxiv. (2025)](https://doi.org/10.1101/2025.11.17.688836) | [code](http://github.com/matsunagalab/afmfold) | [Zenodo](https://zenodo.org/records/17714204)  
+
 * **An optimized contact map for GōMartini 3 enabling conformational changes in protein assemblies** [2025]  
 Gustavo E. Olivos-Ramirez, Luis F. Cofas-Vargas, Siewert J. Marrink, Adolfo B. Poma.  
 [bioRxiv. (2025)](https://doi.org/10.1101/2025.11.14.688437) | [data](https://github.com/GoMartini3-tools/ContactFreq)  
