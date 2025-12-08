@@ -692,6 +692,14 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
+
+
+
+
+* **Accurate machine learning interatomic potentials for polyacene molecular crystals: application to single molecule host-guest systems** [2025]  
+Gurlek, B., Sharma, S., Lazzaroni, P. et al.  
+[npj Comput Mater 11, 318 (2025)](https://doi.org/10.1038/s41524-025-01825-w) | [Zenodo](https://doi.org/10.5281/zenodo.17100564)  
+
 * **Modeling Equilibrium Solid–Liquid Interfaces under Effective Constant Chemical Potential Using Machine Learning Interatomic Potentials** [2025]  
 Ademola Soyemi, Khagendra Baral, and Tibor Szilvási.  
 [J. Phys. Chem. A (2025)](https://doi.org/10.1021/acs.jpca.5c06453) | [code](https://zenodo.org/records/17088343)  
