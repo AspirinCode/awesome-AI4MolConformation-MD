@@ -694,7 +694,9 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
-
+* **Platonic representation of foundation machine learning interatomic potentials** [2025]  
+Zhenzhu Li, Aron Walsh.  
+[arXiv:2512.05349 (2025)](https://doi.org/10.48550/arXiv.2512.05349) | [code](https://github.com/WMD-group/PlatonicRep)  
 
 * **Accurate machine learning interatomic potentials for polyacene molecular crystals: application to single molecule host-guest systems** [2025]  
 Gurlek, B., Sharma, S., Lazzaroni, P. et al.  
