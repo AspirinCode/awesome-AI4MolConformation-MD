@@ -456,6 +456,13 @@ Barnett, Simon, and John D. Chodera.
 
 
 
+
+
+
+* **Hierarchical geometric deep learning enables scalable analysis of molecular dynamics** [2025]  
+Zihan Pengmei, Spencer C. Guo, Chatipat Lorpaiboon, Aaron R. Dinner.  
+[arXiv:2512.06520(2025)](https://doi.org/10.48550/arXiv.2512.06520) | [code](https://github.com/dinner-group/geom2vec)  
+
 * **eRMSF: A Python Package for Ensemble-Based RMSF Analysis of Biomolecular Systems** [2025]  
 Pablo Ricardo Arantes, Rodrigo Ligabue-Braun, and Conrado Pedebos.  
 [J. Chem. Inf. Model. (2025)](https://doi.org/10.1021/acs.jcim.5c02413) | [code](https://github.com/pablo-arantes/ermsfkit)  
@@ -561,6 +568,13 @@ Magdalena Szczuka, Gilberto P. Pereira, Luis J. Walter, Marc Gueroult, Pierre Po
 ## AI4MD
 
 
+
+
+
+
+* **Hierarchical geometric deep learning enables scalable analysis of molecular dynamics** [2025]  
+Zihan Pengmei, Spencer C. Guo, Chatipat Lorpaiboon, Aaron R. Dinner.  
+[arXiv:2512.06520(2025)](https://doi.org/10.48550/arXiv.2512.06520) | [code](https://github.com/dinner-group/geom2vec)  
 
 * **Accelerating Molecular Dynamics Simulations with Foundation Neural Network Models using Multiple Time-Step and Distillation** [2025]  
 Côme Cattin, Thomas Plé, Olivier Adjoua, Nicolaï Gouraud, Louis Lagardère, Jean-Philip Piquemal.  
