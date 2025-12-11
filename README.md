@@ -2204,7 +2204,9 @@ Grambow, Colin A., Hayley Weir, Nathaniel Diamant, Alex Tseng, Tommaso Biancalan
 
 
 
-
+* **Protein Diffusion Models as Statistical Potentials** [2025]  
+James Roney, Chenxi Ou, Sergey Ovchinnikov.  
+[bioRxiv. (2025)](https://doi.org/10.64898/2025.12.09.693073) | [data](https://github.com/jproney/ProteinEBM)  
 
 * **AFM-Fold: Rapid Reconstruction of Protein Conformations from AFM Images** [2025]  
 Tsuyoshi Kawai, Yasuhiro Matsunaga.  
