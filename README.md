@@ -2578,7 +2578,9 @@ Spoendlin, Fabian C., Wing Ki Wong, Guy Georges, Alexander Bujotzek, and Charlot
 ### Ligand-Protein conformational ensembles
 
 
-
+* **Toward Automated Physics-Based Absolute Drug Residence Time Predictions** [2025]  
+Zachary Smith, Davide Branduardi, Dmitry Lupyan, Giulia D’Arrigo, Pratyush Tiwary, Lingle Wang, and Goran Krilov.   
+[J. Chem. Inf. Model. (2025)](https://doi.org/10.1021/acs.jcim.5c01832) | [code](https://github.com/schrodinger/unbinding-kinetics-data)  
 
 * **MOLECULE: Molecular-dynamics and Optimized deep Learning for Entropy-regularized Classification and Uncertainty-aware Ligand Evaluation** [2025]  
 Ivan Cucchi, Elena Frasnetti, Francesco Frigerio, Fabrizio Cinquini, Silvia Pavoni, Luca F. Pavarino, and Giorgio Colombo.  
