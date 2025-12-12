@@ -530,7 +530,9 @@ https://github.com/ipudu/awesome-molecular-dynamics
 
 
 
-
+* **RNA phase separation with Martini 3** [2025]  
+Zhang Q, Valério M, Grünewald L, Borges-Araújo L, Grünewald F, Wang S, et al.  
+[ChemRxiv. (2025)](https://doi.org/10.26434/chemrxiv-2025-ggcq2)  
 
 * **An optimized contact map for GōMartini 3 enabling conformational changes in protein assemblies** [2025]  
 Gustavo E. Olivos-Ramirez, Luis F. Cofas-Vargas, Siewert J. Marrink, Adolfo B. Poma.  
