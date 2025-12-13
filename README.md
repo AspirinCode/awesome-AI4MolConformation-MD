@@ -1672,6 +1672,10 @@ Tsai, ST., Kuo, EJ. & Tiwary, P.
 
 
 
+
+
+
+
 * **Accurate Prediction of the Kinetic Sequence of Physicochemical States Using Generative Artificial Intelligence** [2025]  
 Bera, Palash and Mondal, Jagannath.   
 [Chem. Sci. (2025)](https://doi.org/10.1039/D5SC00108K) | [code](https://github.com/palash892/gpt_state_generation)  
@@ -1696,6 +1700,14 @@ Schwing, Gregory, Luigi L. Palese, Ariel Fernández, Loren Schwiebert, and Domen
 
 
 ### VAE-based
+
+
+
+
+
+
+
+
 
 * **Reinforced molecular dynamics: Physics-infused generative machine learning model explores CRBN activation process** [2025]  
 Talant Ruzmetov, Ta I Hung, Saisri Padmaja Jonnalagedda, Si-han Chen, Parisa Fasihianifard, Zhefeng Guo, Bir Bhanu, Chia-en A. Chang.  
@@ -1817,7 +1829,18 @@ Jing, Bowen, Bonnie Berger, and Tommi Jaakkola.
 
 
 
+
+
+
+
+
+
 ### Flow Matching-based
+
+
+
+
+
 
 
 * **EPO: Diverse and Realistic Protein Ensemble Generation via Energy Preference Optimization** [2025]  
@@ -1829,6 +1852,10 @@ Yuancheng Sun, Yuxuan Ren, Zhaoming Chen, Xu Han, Kang Liu, Qiwei Ye.
 
 
 ### Diffusion-based
+
+
+
+
 
 
 
@@ -1885,7 +1912,12 @@ Grambow, Colin A., Hayley Weir, Nathaniel Diamant, Alex Tseng, Tommaso Biancalan
 
 
 
+
+
+
 ### Score-based
+
+
 
 
 
@@ -1905,7 +1937,11 @@ Lu, Jiarui, Bozitao Zhong, and Jian Tang.
 
 
 
+
+
 ### Energy-based
+
+
 
 
 
@@ -2579,6 +2615,11 @@ Spoendlin, Fabian C., Wing Ki Wong, Guy Georges, Alexander Bujotzek, and Charlot
 
 ### Ligand-Protein conformational ensembles
 
+
+
+* **DynaMate: An Autonomous Agent for Protein-Ligand Molecular Dynamics Simulations** [2025]  
+Salomé Guilbert, Cassandra Masschelein, Jeremy Goumaz, Bohdan Naida, Philippe Schwaller.   
+[arXiv:2512.10034 (2025)](https://doi.org/10.48550/arXiv.2512.10034) | [code](https://github.com/schwallergroup/DynaMate)  
 
 * **Toward Automated Physics-Based Absolute Drug Residence Time Predictions** [2025]  
 Zachary Smith, Davide Branduardi, Dmitry Lupyan, Giulia D’Arrigo, Pratyush Tiwary, Lingle Wang, and Goran Krilov.   
