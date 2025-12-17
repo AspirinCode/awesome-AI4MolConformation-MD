@@ -2242,6 +2242,15 @@ Grambow, Colin A., Hayley Weir, Nathaniel Diamant, Alex Tseng, Tommaso Biancalan
 
 
 
+
+
+
+
+
+* **Deep generative modeling of temperature-dependent structural ensembles of proteins** [2025]  
+Janson, G., Jussupow, A. & Feig, M.  
+[Commun Chem 8, 354 (2025)](https://doi.org/10.1038/s42004-025-01737-2) | [code](https://github.com/giacomo-janson/sam2)  
+
 * **Protein Diffusion Models as Statistical Potentials** [2025]  
 James Roney, Chenxi Ou, Sergey Ovchinnikov.  
 [bioRxiv. (2025)](https://doi.org/10.64898/2025.12.09.693073) | [data](https://github.com/jproney/ProteinEBM)  
