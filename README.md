@@ -1160,6 +1160,13 @@ Zhang, Yuzhi, Haidi Wang, Weijie Chen, Jinzhe Zeng, Linfeng Zhang, Han Wang, and
 
 
 
+
+
+
+* **AIMNet2-NSE: A Transferable Reactive Neural Network Potential for Open-Shell Chemistry** [2025]  
+B. Kalita, R. Zubatyuk, D. M. Anstine, M. Bergeler, V. Settels, C. Stork, S. Spicher, O. Isayev.  
+[Angew. Chem. Int. Ed. (2025)](https://doi.org/10.1002/anie.202516763) | [code](https://github.com/isayevlab/aimnetcentral/)  
+
 * **A Large Scale Molecular Hessian Database for Optimizing Reactive Machine Learning Interatomic Potentials** [2025]  
 Cui, T., Han, Y., Jia, H. et al.  
 [Sci Data (2025)](https://doi.org/10.1021/acs.jctc.5c00920) | [code](https://github.com/deepprinciple/HORM/releases/tag/v1.0) | [Zenodo](https://doi.org/10.5281/zenodo.17217897)  
