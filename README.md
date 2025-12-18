@@ -708,7 +708,9 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
-
+* **Generalization of Long-Range Machine Learning Potentials in Complex Chemical Spaces** [2025]  
+Michal Sanocki, Julija Zavadlav.  
+[arXiv:2512.10989 (2025)](https://doi.org/10.48550/arXiv.2512.10989) | [code](https://github.com/tummfm/chemtrain)  
 
 * **Platonic representation of foundation machine learning interatomic potentials** [2025]  
 Zhenzhu Li, Aron Walsh.  
