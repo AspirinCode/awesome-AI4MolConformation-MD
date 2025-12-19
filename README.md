@@ -708,6 +708,11 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
+
+* **Thermal dynamics and coalescence of Au144(SR)60 clusters from a machine-learned potential** [2025]  
+Sabooni Asre Hazer, M., Malola, S. & Häkkinen, H.  
+[Nat Commun (2025)](https://doi.org/10.1038/s41467-025-67700-w) | [data](https://doi.org/10.23729/fd-a31ffb92-7fd0-33c0-bcd9-100d48367687)  
+
 * **Generalization of Long-Range Machine Learning Potentials in Complex Chemical Spaces** [2025]  
 Michal Sanocki, Julija Zavadlav.  
 [arXiv:2512.10989 (2025)](https://doi.org/10.48550/arXiv.2512.10989) | [code](https://github.com/tummfm/chemtrain)  
