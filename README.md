@@ -1247,6 +1247,11 @@ Anstine DM, Zhao Q, Zubatiuk R, Zhang S, Singla V, Nikitin F, et al.
 
 
 
+
+* **Large-scale collaborative assessment of binding free energy calculations for drug discovery using OpenFE** [2025]  
+Baumann HM, Horton JT, Henry MM, Travitz A, Ries B, Gowers RJ, et al.  
+  [ChemRxiv. (2025)](https://doi.org/10.26434/chemrxiv-2025-7sthd)  
+
 * **Massively Parallel Free Energy Calculations for In Silico Affinity Maturation of Designed Miniproteins** [2025]  
 Dylan Novack, Si Zhang, and Vincent A. Voelz.  
   [J. Chem. Theory Comput. (2025)](https://doi.org/10.1021/acs.jctc.5c00703) | [data](https://github.com/DJNovack/Massively_Parallel_Free_Energy_Calculations_of_HA_Binders_2024)  
