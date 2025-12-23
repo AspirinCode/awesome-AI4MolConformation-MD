@@ -709,6 +709,14 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
+
+
+
+
+* **Long-range electrostatics for machine learning interatomic potentials is easier than we thought** [2025]  
+Dongjin Kim, Bingqing Cheng.  
+[arXiv:2512.18029 (2025)](https://doi.org/10.48550/arXiv.2512.18029) | [code](https://github.com/ChengUCB/les)  
+
 * **Thermal dynamics and coalescence of Au144(SR)60 clusters from a machine-learned potential** [2025]  
 Sabooni Asre Hazer, M., Malola, S. & Häkkinen, H.  
 [Nat Commun (2025)](https://doi.org/10.1038/s41467-025-67700-w) | [data](https://doi.org/10.23729/fd-a31ffb92-7fd0-33c0-bcd9-100d48367687)  
