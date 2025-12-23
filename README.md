@@ -1499,6 +1499,11 @@ Do, Hung N., Jinan Wang, Apurba Bhattarai, and Yinglong Miao.
 
 
 
+
+* **Enhanced sampling of protein conformations in AlphaFold3 with repulsive bias in the diffusion generative model** [2025]  
+Jun Ohnuki, Kei-ichi Okazaki.  
+[bioRxiv. (2025)](https://doi.org/10.64898/2025.12.17.693105) | [code](https://github.com/OkazakiLab/af3_mmm) | [Zenodo](https://doi.org/10.5281/zenodo.17811671)  
+
 * **Challenging AlphaFold in predicting proteins with large-scale allosteric transitions** [2025]  
 Perkins-Jechow, B.H., Iglesias Ahualli, J.P., Nhu, H.T. et al.  
 [Commun Chem 8, 378 (2025)](https://doi.org/10.1038/s42004-025-01763-0) | [code](https://github.com/bperkinsj/autoinhibitory_protein_prediction) | [Zenodo](https://doi.org/10.5281/zenodo.17307832)  
@@ -1822,6 +1827,10 @@ Schwing, Gregory, Luigi L. Palese, Ariel Fernández, Loren Schwiebert, and Domen
 
 
 
+
+
+
+
 * **Operator Forces For Coarse-Grained Molecular Dynamics** [2025]  
 Leon Klein, Atharva Kelkar, Aleksander Durumeric, Yaoyi Chen, Frank Noé.   
 [arXiv:2506.19628 (2025)](https://doi.org/10.48550/arXiv.2506.19628) | [data](https://github.com/noegroup/OperatorForces4CG)  
@@ -1876,7 +1885,9 @@ Yuancheng Sun, Yuxuan Ren, Zhaoming Chen, Xu Han, Kang Liu, Qiwei Ye.
 
 
 
-
+* **Enhanced sampling of protein conformations in AlphaFold3 with repulsive bias in the diffusion generative model** [2025]  
+Jun Ohnuki, Kei-ichi Okazaki.  
+[bioRxiv. (2025)](https://doi.org/10.64898/2025.12.17.693105) | [code](https://github.com/OkazakiLab/af3_mmm) | [Zenodo](https://doi.org/10.5281/zenodo.17811671)  
 
 * **Efficient Generation of Protein and Protein–Protein Complex Dynamics via SE(3)-Parameterized Diffusion Models** [2025]  
 Kai Xu, Jianmin Wang, Mingquan Liu, Kewei Zhou, Shaolong Lin, Weihong Li, Lin Shi, Peng Zhou, Huanxiang Liu, and Xiaojun Yao.  
@@ -2264,7 +2275,9 @@ Grambow, Colin A., Hayley Weir, Nathaniel Diamant, Alex Tseng, Tommaso Biancalan
 
 
 
-
+* **Enhanced sampling of protein conformations in AlphaFold3 with repulsive bias in the diffusion generative model** [2025]  
+Jun Ohnuki, Kei-ichi Okazaki.  
+[bioRxiv. (2025)](https://doi.org/10.64898/2025.12.17.693105) | [code](https://github.com/OkazakiLab/af3_mmm) | [Zenodo](https://doi.org/10.5281/zenodo.17811671)  
 
 * **Deep generative modeling of temperature-dependent structural ensembles of proteins** [2025]  
 Janson, G., Jussupow, A. & Feig, M.  
