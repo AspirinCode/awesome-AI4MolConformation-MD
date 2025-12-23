@@ -711,7 +711,9 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
-
+* **Challenges and Opportunities of Machine Learning Interatomic Potentials in Heterogeneous Catalysis** [2025]  
+Loveday O, Kazmierczak K, López N.  
+[ChemRxiv. (2025)](https://doi.org/10.26434/chemrxiv-2025-vk805)  
 
 * **Long-range electrostatics for machine learning interatomic potentials is easier than we thought** [2025]  
 Dongjin Kim, Bingqing Cheng.  
