@@ -572,7 +572,9 @@ Magdalena Szczuka, Gilberto P. Pereira, Luis J. Walter, Marc Gueroult, Pierre Po
 
 
 
-
+* **Machine learning driven advances in molecular dynamics of bulk and interfacial aqueous systems** [2025]  
+Wang R, Meraz VJ, Tiwary P.  
+[ChemRxiv. (2025)](https://doi.org/10.26434/chemrxiv-2025-6vdl2-v2)  
 
 * **Hierarchical geometric deep learning enables scalable analysis of molecular dynamics** [2025]  
 Zihan Pengmei, Spencer C. Guo, Chatipat Lorpaiboon, Aaron R. Dinner.  
@@ -1348,7 +1350,9 @@ Ross, G.A., Lu, C., Scarabelli, G. et al.
 
 
 
-
+* **Deep-learning electronic structure calculations** [2025]  
+Tang, Z., Chen, H., Li, Y. et al.  
+[Nat Comput Sci 5, 1133–1146 (2025)](https://doi.org/10.1038/s43588-025-00932-4)  
 
 * **Accelerating Hartree-Fock and Density Functional Theory Calculations using Tensor Hypercontraction** [2025]  
 Andreas Erbs Hillers-Bendtsen, Todd J. Martínez.  
