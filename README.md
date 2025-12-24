@@ -709,7 +709,9 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
-
+* **Evidential deep learning for interatomic potentials** [2025]  
+Dongjin Kim, Bingqing Cheng.  
+[Nat Commun (2025)](https://doi.org/10.1038/s41467-025-67663-y) | [code](https://github.com/xuhan323/eIP) | [Zenodo](https://doi.org/10.5281/zenodo.17730621)  
 
 * **Challenges and Opportunities of Machine Learning Interatomic Potentials in Heterogeneous Catalysis** [2025]  
 Loveday O, Kazmierczak K, López N.  
