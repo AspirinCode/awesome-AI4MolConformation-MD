@@ -24,7 +24,7 @@ List of **molecules ( small molecules, RNA, peptide, protein, enzymes, antibody,
 | [AlphaFold-based](#alphaFold-based) | [Autoregressive-Based](#autoregressive-Based)  | [LSTM-based](#lstm-based) | [Transformer-based](#transformer-based) |
 | [VAE-based](#vae-based) | [GAN-based](#gan-based) | [Flow-based](#flow-based) | [Flow Matching-based](#flow-matching-based) |
 | [Diffusion-based](#diffusion-based) | [Score-Based](#score-Based) | [Energy-based](#energy-based) | [Bayesian-based](#bayesian-based) |
-| [Active Learning-based](#active-learning-based) | [GNN-based](#gnn-based) | [LLM-MD](#llm-md) |  |
+| [Active Learning-based](#active-learning-based) | [GNN-based](#gnn-based) | [LLM-MD](#llm-md) | [Agent-based-MD](#agent-based-md) |
 
                                        
   - [Molecular conformational ensembles by methods](#molecular-conformational-ensembles-by-methods)
@@ -2100,10 +2100,22 @@ MD-Agent is a LLM-agent based toolset for Molecular Dynamics.
 
 
 
+### Agent-based-MD
+
+
+
+
+* **DynaMate: An Autonomous Agent for Protein-Ligand Molecular Dynamics Simulations** [2025]  
+Salomé Guilbert, Cassandra Masschelein, Jeremy Goumaz, Bohdan Naida, Philippe Schwaller.  
+[arXiv:2512.10034 (2025)](https://doi.org/10.48550/arXiv.2512.10034) |  [code](https://github.com/schwallergroup/DynaMate)  
+
+
+
 
 
 
 ## Molecular conformational ensembles by methods
+
 
 
 
