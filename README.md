@@ -712,6 +712,12 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
+
+
+* **Benchmarking Universal Interatomic Potentials on Elemental Systems** [2025]  
+Hossein Tahmasbi, Andreas Knüpfer, Thomas D. Kühne, Hossein Mirhosseini.  
+[arXiv:2512.20230 (2025)](https://doi.org/10.48550/arXiv.2512.20230) | [code](https://codebase.helmholtz.cloud/casus-datalad/atomistic_foundation_model.datalad/project)  
+
 * **Machine learning interatomic potentials at the centennial crossroads of quantum mechanics** [2025]  
 Kalita, B., Gokcan, H. & Isayev, O.  
 [Nat Comput Sci 5, 1120–1132 (2025)](https://doi.org/10.1038/s43588-025-00930-6)  
