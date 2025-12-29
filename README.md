@@ -710,7 +710,9 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
-
+* **Node-Equivariant Message Passing for Efficient and Accurate Machine Learning Interatomic Potentials** [2025]  
+Yaolong Zhang* and Hua Guo.  
+[Chem. Sci.(2025)](https://doi.org/10.1039/D5SC07248D) | [code](https://github.com/zhangylch/NEMP)  
 
 * **Enhanced Sampling for Efficient Learning of Coarse-Grained Machine Learning Potentials** [2025]  
 Weilong Chen, Franz Görlich, Paul Fuchs, and Julija Zavadlav.  
