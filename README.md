@@ -213,6 +213,15 @@ https://github.com/LumosBio/MolData
 
 
 
+
+* **High-Performance Semiempirical Excited-State Molecular Dynamics: A Step Toward Data-Driven Photodynamics** [2025]  
+Athavale V, Kulichenko M, Fernandez-Alberti S, Niklasson A, Tretiak S.  
+[ChemRxiv. (2025)](https://doi.org/10.26434/chemrxiv-2025-6h565)  
+
+
+
+
+
 ### Molecular Force Fields
 
 
@@ -1477,6 +1486,10 @@ KYuan, E.CY., Kumar, A., Guan, X. et al.
 
 
 
+
+* **Machine learning the quantum topology of chemical bonds** [2025]  
+Michalski M, Berski S.  
+[ChemRxiv. (2025)](https://doi.org/10.26434/chemrxiv-2025-zljl9)  
 
 * **A Graph Neural Network Charge Model Targeting Accurate Electrostatic Properties of Organic Molecules** [2025]  
 Charlie Adams, Joshua T. Horton, Lily Wang, Simon Boothroyd, David L. Mobley, David W. Wright, and Daniel J. Cole.  
