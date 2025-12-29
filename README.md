@@ -719,6 +719,15 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
+
+
+
+
+
+* **Automated Machine Learning Pipeline: Large Language Models-Assisted Automated Data set Generation for Training Machine-Learned Interatomic Potentials** [2025]  
+Adam Lahouari, Jutta Rogal, and Mark E. Tuckerman.  
+[J. Chem. Theory Comput. (2025)](https://doi.org/10.1021/acs.jctc.5c01610) | [code](https://github.com/adamlaho/AMLP)  
+
 * **Node-Equivariant Message Passing for Efficient and Accurate Machine Learning Interatomic Potentials** [2025]  
 Yaolong Zhang* and Hua Guo.  
 [Chem. Sci.(2025)](https://doi.org/10.1039/D5SC07248D) | [code](https://github.com/zhangylch/NEMP)  
