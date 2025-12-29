@@ -712,7 +712,9 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
-
+* **Enhanced Sampling for Efficient Learning of Coarse-Grained Machine Learning Potentials** [2025]  
+Weilong Chen, Franz Görlich, Paul Fuchs, and Julija Zavadlav.  
+[J. Chem. Theory Comput. (2025)](https://doi.org/10.1021/acs.jctc.5c01712) | [code](https://github.com/tummfm/biased-force-matching)  
 
 * **Benchmarking Universal Interatomic Potentials on Elemental Systems** [2025]  
 Hossein Tahmasbi, Andreas Knüpfer, Thomas D. Kühne, Hossein Mirhosseini.  
