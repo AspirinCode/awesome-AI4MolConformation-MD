@@ -581,6 +581,13 @@ Magdalena Szczuka, Gilberto P. Pereira, Luis J. Walter, Marc Gueroult, Pierre Po
 
 
 
+
+
+
+* **Data-driven enhanced sampling of mechanistic pathways** [2025]  
+R. Elangovan,S. Chatterjee, & D. Ray.  
+[Proc. Natl. Acad. Sci. (2025)](https://doi.org/10.1073/pnas.2517169122) | [code](https://github.com/Revanth27-08/Multitask_MFEP)  
+
 * **Machine learning driven advances in molecular dynamics of bulk and interfacial aqueous systems** [2025]  
 Wang R, Meraz VJ, Tiwary P.  
 [ChemRxiv. (2025)](https://doi.org/10.26434/chemrxiv-2025-6vdl2-v2)  
