@@ -2723,6 +2723,13 @@ Spoendlin, Fabian C., Wing Ki Wong, Guy Georges, Alexander Bujotzek, and Charlot
 
 
 
+
+
+
+* **Optimizing Stability in Dynamic Small-Molecule Binding Proteins** [2025]  
+Marc Scherer, Mark Kriegel, Birte Höcker, and Sarel J. Fleishman.  
+[J. Am. Chem. Soc. (2025)](https://doi.org/10.1021/jacs.5c19571)  
+
 * **DynaMate: An Autonomous Agent for Protein-Ligand Molecular Dynamics Simulations** [2025]  
 Salomé Guilbert, Cassandra Masschelein, Jeremy Goumaz, Bohdan Naida, Philippe Schwaller.   
 [arXiv:2512.10034 (2025)](https://doi.org/10.48550/arXiv.2512.10034) | [code](https://github.com/schwallergroup/DynaMate)  
