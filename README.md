@@ -1560,6 +1560,13 @@ Do, Hung N., Jinan Wang, Apurba Bhattarai, and Yinglong Miao.
 
 
 
+
+
+
+* **AlphaFold-RandomWalk and AlphaFold-Ensemble: Sampling Alternative Protein Conformations with Perturbed Versions of AlphaFold** [2025]  
+Ishan Taneja, Manuel A. Llanos, Monica L. Fernández-Quintero, Johannes R. Loeffler, Matthew Holcomb, Andrew B. Ward, and Stefano Forli.  
+[J. Chem. Inf. Model. (2025)](https://doi.org/10.1021/acs.jcim.5c02004) | [code](https://github.com/forlilab/pafmd)  
+
 * **Enhanced sampling of protein conformations in AlphaFold3 with repulsive bias in the diffusion generative model** [2025]  
 Jun Ohnuki, Kei-ichi Okazaki.  
 [bioRxiv. (2025)](https://doi.org/10.64898/2025.12.17.693105) | [code](https://github.com/OkazakiLab/af3_mmm) | [Zenodo](https://doi.org/10.5281/zenodo.17811671)  
@@ -2345,7 +2352,9 @@ Grambow, Colin A., Hayley Weir, Nathaniel Diamant, Alex Tseng, Tommaso Biancalan
 
 
 
-
+* **AlphaFold-RandomWalk and AlphaFold-Ensemble: Sampling Alternative Protein Conformations with Perturbed Versions of AlphaFold** [2025]  
+Ishan Taneja, Manuel A. Llanos, Monica L. Fernández-Quintero, Johannes R. Loeffler, Matthew Holcomb, Andrew B. Ward, and Stefano Forli.  
+[J. Chem. Inf. Model. (2025)](https://doi.org/10.1021/acs.jcim.5c02004) | [code](https://github.com/forlilab/pafmd)  
 
 * **Enhanced sampling of protein conformations in AlphaFold3 with repulsive bias in the diffusion generative model** [2025]  
 Jun Ohnuki, Kei-ichi Okazaki.  
