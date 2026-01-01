@@ -537,7 +537,9 @@ https://github.com/ipudu/awesome-molecular-dynamics
 
 
 
-
+* **Probabilistic Forecasting for Coarse-Grained Molecular Dynamics** [2025]  
+Christians L, Wojnar A, Pak A.  
+[ChemRxiv. (2025)](https://doi.org/10.26434/chemrxiv-2025-vn440)  
 
 * **RNA phase separation with Martini 3** [2025]  
 Zhang Q, Valério M, Grünewald L, Borges-Araújo L, Grünewald F, Wang S, et al.  
@@ -582,7 +584,9 @@ Magdalena Szczuka, Gilberto P. Pereira, Luis J. Walter, Marc Gueroult, Pierre Po
 
 
 
-
+* **LAMMPS-ANI: Large Scale Molecular Dynamics Simulations with ANI Neural Network Potential** [2025]  
+Xue J, Terrel N, Pickering I, Roitberg A.  
+[ChemRxiv. (2025)](https://doi.org/10.26434/chemrxiv-2025-8v03m) | [code](https://github.com/roitberg-group/lammps-ani)  
 
 * **Data-driven enhanced sampling of mechanistic pathways** [2025]  
 R. Elangovan,S. Chatterjee, & D. Ray.  
@@ -727,9 +731,13 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
+* **LAMMPS-ANI: Large Scale Molecular Dynamics Simulations with ANI Neural Network Potential** [2025]  
+Xue J, Terrel N, Pickering I, Roitberg A.  
+[ChemRxiv. (2025)](https://doi.org/10.26434/chemrxiv-2025-8v03m) | [code](https://github.com/roitberg-group/lammps-ani)  
 
-
-
+* **Domain oriented universal machine learning potential enables fast exploration of chemical space of battery electrolytes** [2025]  
+Wang, F., Tang, YH., Ma, ZB. et al.  
+[Nat Commun (2025)](https://doi.org/10.1038/s41467-025-67982-0) | [code](https://doi.org/10.12463/AI4EC/QZCYP1)  
 
 * **Automated Machine Learning Pipeline: Large Language Models-Assisted Automated Data set Generation for Training Machine-Learned Interatomic Potentials** [2025]  
 Adam Lahouari, Jutta Rogal, and Mark E. Tuckerman.  
