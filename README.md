@@ -1230,7 +1230,9 @@ Zhang, Yuzhi, Haidi Wang, Weijie Chen, Jinzhe Zeng, Linfeng Zhang, Han Wang, and
 
 
 
-
+* **A Fast, Accurate, and Reactive Equivariant Foundation Potential** [2025]  
+	Tsz Wai Ko, Runze Liu, Adesh Rohan Mishra, Zihan Yu, Ji Qi, Shyue Ping Ong.  
+[arXiv:2511.07249 (2025)](https://doi.org/10.1002/anie.202516763) | [code](https://github.com/materialsvirtuallab/maml)  
 
 * **AIMNet2-NSE: A Transferable Reactive Neural Network Potential for Open-Shell Chemistry** [2025]  
 B. Kalita, R. Zubatyuk, D. M. Anstine, M. Bergeler, V. Settels, C. Stork, S. Spicher, O. Isayev.  
