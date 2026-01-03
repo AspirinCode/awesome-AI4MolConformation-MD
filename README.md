@@ -731,6 +731,12 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
+
+
+* **Advanced Machine Learning Interatomic Potential for Accelerated Atomistic Simulations of Lithiation Dynamics in Large-Scale Si@C Core–Shell Anodes** [2025]  
+Yujie Liao, Pengfei Suo, Changhao Wang, Jincang Zhang, and Yunsong Li.  
+[ACS Appl. Mater. Interfaces (2025)](https://doi.org/10.1021/acsami.5c18142)  
+
 * **LAMMPS-ANI: Large Scale Molecular Dynamics Simulations with ANI Neural Network Potential** [2025]  
 Xue J, Terrel N, Pickering I, Roitberg A.  
 [ChemRxiv. (2025)](https://doi.org/10.26434/chemrxiv-2025-8v03m) | [code](https://github.com/roitberg-group/lammps-ani)  
