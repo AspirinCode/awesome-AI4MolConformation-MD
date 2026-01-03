@@ -1406,6 +1406,12 @@ Ross, G.A., Lu, C., Scarabelli, G. et al.
 
 
 
+
+
+* **Accelerating Discovery Through Integration: A DFT validated Machine Learning Framework for Screening MOF Photocatalysts** [2026]  
+Marco Anselmi, Greg Slabaugh, Rachel Crespo-Otero and Devis Di Tommaso.  
+[J. Mater. Chem. A, (2026)](https://doi.org/10.1039/D5TA08107F)  
+
 * **Deep-learning electronic structure calculations** [2025]  
 Tang, Z., Chen, H., Li, Y. et al.  
 [Nat Comput Sci 5, 1133–1146 (2025)](https://doi.org/10.1038/s43588-025-00932-4)  
