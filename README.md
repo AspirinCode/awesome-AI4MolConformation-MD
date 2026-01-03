@@ -731,7 +731,9 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
-
+* **Ab Initio Melting Properties of Water and Ice from Machine Learning Potentials** [2025]  
+Yifan Li, Bingjia Yang, Chunyi Zhang, Axel Gomez, Pinchen Xie, Yixiao Chen, Pablo M. Piaggi, Roberto Car.  
+[arXiv:2512.23939 (2025)](https://doi.org/10.48550/arXiv.2512.23939)  
 
 * **Advanced Machine Learning Interatomic Potential for Accelerated Atomistic Simulations of Lithiation Dynamics in Large-Scale Si@C Core–Shell Anodes** [2025]  
 Yujie Liao, Pengfei Suo, Changhao Wang, Jincang Zhang, and Yunsong Li.  
@@ -1411,6 +1413,10 @@ Ross, G.A., Lu, C., Scarabelli, G. et al.
 * **Accelerating Discovery Through Integration: A DFT validated Machine Learning Framework for Screening MOF Photocatalysts** [2026]  
 Marco Anselmi, Greg Slabaugh, Rachel Crespo-Otero and Devis Di Tommaso.  
 [J. Mater. Chem. A, (2026)](https://doi.org/10.1039/D5TA08107F)  
+
+* **Ab Initio Melting Properties of Water and Ice from Machine Learning Potentials** [2025]  
+Yifan Li, Bingjia Yang, Chunyi Zhang, Axel Gomez, Pinchen Xie, Yixiao Chen, Pablo M. Piaggi, Roberto Car.  
+[arXiv:2512.23939 (2025)](https://doi.org/10.48550/arXiv.2512.23939)  
 
 * **Deep-learning electronic structure calculations** [2025]  
 Tang, Z., Chen, H., Li, Y. et al.  
