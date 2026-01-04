@@ -1543,6 +1543,11 @@ KYuan, E.CY., Kumar, A., Guan, X. et al.
 
 
 
+
+* **ThermoPred: AI-Enhanced Quantum Chemistry Data Set and ML Toolkit for Thermochemical Properties of API-Like Compounds and Their Degradants** [2025]  
+Diullio P. Santos, Jefferson R. Dias-Silva, Luiz H. K. Q. Júnior, and Heibbe C. B. de Oliveira.  
+[J. Chem. Inf. Model. (2025)](https://doi.org/10.1021/acs.jcim.5c01320) | [code](https://github.com/jeffrichardchemistry/thermopred)  
+
 * **Machine learning the quantum topology of chemical bonds** [2025]  
 Michalski M, Berski S.  
 [ChemRxiv. (2025)](https://doi.org/10.26434/chemrxiv-2025-zljl9)  
