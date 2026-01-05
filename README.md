@@ -227,7 +227,9 @@ Athavale V, Kulichenko M, Fernandez-Alberti S, Niklasson A, Tretiak S.
 
 
 
-
+* **LignAmb25: A Comprehensive AMBER Force Field Addressing Lignin's Structural and Chemical Diversity** [2026]  
+Marco Lapsien, Michele Bonus, Julian Greb, Holger Gohlke.  
+[bioRxiv (2026)](https://doi.org/10.64898/2026.01.03.697499)  
 
 * **Charge Scaling Force Field for Biologically Relevant Ions Utilizing a Global Optimization Method** [2025]  
 Shujie Fan, Philip E. Mason, Victor Cruces Chamorro, Brennon L. Shanks, Hector Martinez-Seara, and Pavel Jungwirth.  
