@@ -2398,7 +2398,9 @@ Grambow, Colin A., Hayley Weir, Nathaniel Diamant, Alex Tseng, Tommaso Biancalan
 
 
 
-
+* **Repetitive proteins that undergo large conformational changes evade structural prediction algorithms** [2025]  
+Marina P. Chang, Tianyi Jin, Alana P. Gudinas, Daniel Fernandez, Alfredo Alexander-Katz, Tsutomu Matsui, Danielle J. Mai.  
+[J. Chem. Phys. 163, 224906 (2025)](https://doi.org/10.1063/5.0304777)  
 
 * **AlphaFold-RandomWalk and AlphaFold-Ensemble: Sampling Alternative Protein Conformations with Perturbed Versions of AlphaFold** [2025]  
 Ishan Taneja, Manuel A. Llanos, Monica L. Fernández-Quintero, Johannes R. Loeffler, Matthew Holcomb, Andrew B. Ward, and Stefano Forli.  
