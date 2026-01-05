@@ -1543,7 +1543,9 @@ KYuan, E.CY., Kumar, A., Guan, X. et al.
 
 
 
-
+* **Accurate Prediction of Excited-State Energies from Molecular Orbital Energies Based on Graph Neural Network with Transfer Learning** [2026]  
+Dongyi Xiao, Sheng-Rui Wang, Xiang-Yang Liu, Wei-Hai Fang, and Ganglong Cui.  
+[J. Phys. Chem. Lett. (2026)](https://doi.org/10.1021/acs.jpclett.5c03616)  
 
 * **ThermoPred: AI-Enhanced Quantum Chemistry Data Set and ML Toolkit for Thermochemical Properties of API-Like Compounds and Their Degradants** [2025]  
 Diullio P. Santos, Jefferson R. Dias-Silva, Luiz H. K. Q. Júnior, and Heibbe C. B. de Oliveira.  
