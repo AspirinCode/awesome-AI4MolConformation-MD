@@ -733,6 +733,16 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
+
+
+
+
+
+
+* **MAPLE: A General Framework for Automated Molecular Modeling across Machine-Learning Potentials** [2026]  
+Wang X, Zhang Y, Sun Z, Zhu R, Asam C, Li W-L, et al.  
+[ChemRxiv. (2026)](https://doi.org/10.26434/chemrxiv-2026-k7znx) | [code](https://github.com/ClickFF/MAPLE)  
+
 * **Ab Initio Melting Properties of Water and Ice from Machine Learning Potentials** [2025]  
 Yifan Li, Bingjia Yang, Chunyi Zhang, Axel Gomez, Pinchen Xie, Yixiao Chen, Pablo M. Piaggi, Roberto Car.  
 [arXiv:2512.23939 (2025)](https://doi.org/10.48550/arXiv.2512.23939)  
