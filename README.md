@@ -586,6 +586,10 @@ Magdalena Szczuka, Gilberto P. Pereira, Luis J. Walter, Marc Gueroult, Pierre Po
 
 
 
+* **MDAgent2: Large Language Model for Code Generation and Knowledge Q&A in Molecular Dynamics** [2026]  
+Zhuofan Shi, Hubao A, Yufei Shao, Mengyan Dai, Yadong Yu, Pan Xiang, Dongliang Huang, Hongxu An, Chunxiao Xin, Haiyang Shen, Zhenyu Wang, Yunshan Na, Gang Huang, Xiang Jing.  
+[arXiv:2601.02075 (2026)](https://doi.org/10.48550/arXiv.2601.02075) | [code](https://github.com/FredericVAN/PKU_MDAgent2)  
+
 * **LAMMPS-ANI: Large Scale Molecular Dynamics Simulations with ANI Neural Network Potential** [2025]  
 Xue J, Terrel N, Pickering I, Roitberg A.  
 [ChemRxiv. (2025)](https://doi.org/10.26434/chemrxiv-2025-8v03m) | [code](https://github.com/roitberg-group/lammps-ani)  
@@ -2195,6 +2199,11 @@ Huang, Ying, Huiling Zhang, Zhenli Lin, Yanjie Wei, and Wenhui Xi.
 ### LLM-MD
 
 
+
+* **MDAgent2: Large Language Model for Code Generation and Knowledge Q&A in Molecular Dynamics** [2026]  
+Zhuofan Shi, Hubao A, Yufei Shao, Mengyan Dai, Yadong Yu, Pan Xiang, Dongliang Huang, Hongxu An, Chunxiao Xin, Haiyang Shen, Zhenyu Wang, Yunshan Na, Gang Huang, Xiang Jing.  
+[arXiv:2601.02075 (2026)](https://doi.org/10.48550/arXiv.2601.02075) | [code](https://github.com/FredericVAN/PKU_MDAgent2)  
+
 * **MD-LLM-1: A Large Language Model for Molecular Dynamics** [2025]  
 Mhd Hussein Murtada, Z. Faidon Brotzakis, Michele Vendruscolo.   
 [arXiv:2508.03709 (2025)](https://doi.org/10.48550/arXiv.2508.03709)  
@@ -2220,6 +2229,10 @@ MD-Agent is a LLM-agent based toolset for Molecular Dynamics.
 
 
 
+
+* **MDAgent2: Large Language Model for Code Generation and Knowledge Q&A in Molecular Dynamics** [2026]  
+Zhuofan Shi, Hubao A, Yufei Shao, Mengyan Dai, Yadong Yu, Pan Xiang, Dongliang Huang, Hongxu An, Chunxiao Xin, Haiyang Shen, Zhenyu Wang, Yunshan Na, Gang Huang, Xiang Jing.  
+[arXiv:2601.02075 (2026)](https://doi.org/10.48550/arXiv.2601.02075) | [code](https://github.com/FredericVAN/PKU_MDAgent2)  
 
 * **DynaMate: An Autonomous Agent for Protein-Ligand Molecular Dynamics Simulations** [2025]  
 Salomé Guilbert, Cassandra Masschelein, Jeremy Goumaz, Bohdan Naida, Philippe Schwaller.  
