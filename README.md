@@ -1553,6 +1553,13 @@ KYuan, E.CY., Kumar, A., Guan, X. et al.
 
 
 
+
+
+
+* **Developing and benchmarking Sage 2.3.0 with the AshGC neural network charge model** [2026]  
+Wang L, Alibay I, Boothroyd S, Cavender C, Horton J, McIsaac A, et al.  
+[ChemRxiv. (2026)](https://doi.org/10.26434/chemrxiv-2025-597h9)  
+
 * **Accurate Prediction of Excited-State Energies from Molecular Orbital Energies Based on Graph Neural Network with Transfer Learning** [2026]  
 Dongyi Xiao, Sheng-Rui Wang, Xiang-Yang Liu, Wei-Hai Fang, and Ganglong Cui.  
 [J. Phys. Chem. Lett. (2026)](https://doi.org/10.1021/acs.jpclett.5c03616)  
