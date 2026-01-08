@@ -2439,6 +2439,12 @@ Grambow, Colin A., Hayley Weir, Nathaniel Diamant, Alex Tseng, Tommaso Biancalan
 
 
 
+
+
+* **ProteinConformers: Benchmark Dataset for Simulating Protein Conformational Landscape Diversity and Plausibility** [2025]  
+Zhou, Yihang, Chen Wei, Minghao Sun, Jin Song, Yang Li, Lin Wang, and Yang Zhang.  
+[NeurIPS 2025 Datasets and Benchmarks Track (2025)](https://openreview.net/forum?id=GClrNUTqly) | [code](https://github.com/auroua/ProteinConformers)  
+
 * **Repetitive proteins that undergo large conformational changes evade structural prediction algorithms** [2025]  
 Marina P. Chang, Tianyi Jin, Alana P. Gudinas, Daniel Fernandez, Alfredo Alexander-Katz, Tsutomu Matsui, Danielle J. Mai.  
 [J. Chem. Phys. 163, 224906 (2025)](https://doi.org/10.1063/5.0304777)  
