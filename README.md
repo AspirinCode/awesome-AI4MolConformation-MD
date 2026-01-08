@@ -1639,7 +1639,9 @@ Do, Hung N., Jinan Wang, Apurba Bhattarai, and Yinglong Miao.
 
 
 
-
+* **Explaining how mutations affect AlphaFold predictions** [2026]  
+Madeleine F. Clore, Joseph F. Thole, Suchetan Dontha, Pramesh Sharma, Davin Jensen, Brian F. Volkman, Matthew Coudron, Lauren L. Porter.  
+[bioRxiv (2026)](https://doi.org/10.64898/2025.12.30.697132) | [code](https://github.com/prameshsharma25/CAAT)  
 
 * **AlphaFold-RandomWalk and AlphaFold-Ensemble: Sampling Alternative Protein Conformations with Perturbed Versions of AlphaFold** [2025]  
 Ishan Taneja, Manuel A. Llanos, Monica L. Fernández-Quintero, Johannes R. Loeffler, Matthew Holcomb, Andrew B. Ward, and Stefano Forli.  
