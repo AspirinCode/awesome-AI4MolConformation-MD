@@ -741,7 +741,9 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
-
+* **AceFF: A State-of-the-Art Machine Learning Potential for Small Molecules** [2026]  
+Stephen E. Farr, Stefan Doerr, Antonio Mirarchi, Francesc Sabanes Zariquiey, Gianni De Fabritiis.  
+[arXiv:2601.00581 (2026)](https://doi.org/10.48550/arXiv.2601.00581) | [code](https://huggingface.co/Acellera/AceFF-2.0)  
 
 * **MAPLE: A General Framework for Automated Molecular Modeling across Machine-Learning Potentials** [2026]  
 Wang X, Zhang Y, Sun Z, Zhu R, Asam C, Li W-L, et al.  
