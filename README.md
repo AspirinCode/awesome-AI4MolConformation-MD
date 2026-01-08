@@ -20,7 +20,7 @@ List of **molecules ( small molecules, RNA, peptide, protein, enzymes, antibody,
 | [Neural Molecular Force Fields](#neural-molecular-force-fields) | [MD Engines-Frameworks](#md-engines-frameworks) | [AI4MD Engines-Frameworks](#ai4md-engines-frameworks) | [MD Trajectory Processing-Analysis](#md-trajectory-processing-analysis) |
 | [Visualization](#visualization) | [CGMD](#cgmd) | [AI4MD](#ai4md) | [Neural Network Potentials](#neural-network-potentials) |
 | [Neural Reactive Potential](#neural-reactive-potential) | [Reactive Force Fields](#reactive-force-fields) | [Free Energy Perturbation](#free-energy-perturbation) |  |
-| [QuantumChem](#quantumchem) | [Ab Initio](#ab-initio) | [AI-QuantumChem](#ai-quantumchem) |  |
+| [Theoretical Chemistry](#theoretical-chemistry) | [QuantumChem](#quantumchem) | [Ab Initio](#ab-initio) | [AI-QuantumChem](#ai-quantumchem) |
 | [AlphaFold-based](#alphaFold-based) | [Autoregressive-Based](#autoregressive-Based)  | [LSTM-based](#lstm-based) | [Transformer-based](#transformer-based) |
 | [VAE-based](#vae-based) | [GAN-based](#gan-based) | [Flow-based](#flow-based) | [Flow Matching-based](#flow-matching-based) |
 | [Diffusion-based](#diffusion-based) | [Score-Based](#score-Based) | [Energy-based](#energy-based) | [Bayesian-based](#bayesian-based) |
@@ -1408,12 +1408,21 @@ Clark, Finlay, Graeme Robb, Daniel Cole, and Julien Michel.
 Crivelli-Decker, J.E., Beckwith, Z., Tom, G., Le, L., Khuttan, S., Salomon-Ferrer, R., Beall, J., Gómez-Bombarelli, R. and Bortolato, A.   
 [J. Chem. Theory Comput. (2024)](https://doi.org/10.1021/acs.jctc.4c00399) | [code](https://zenodo.org/records/12827945)  
 
-* **The maximal and current accuracy of rigorous protein-ligand binding free energy calculations** [2023]   
-Ross, G.A., Lu, C., Scarabelli, G. et al.    
-  [Commun Chem 6, 222 (2023)](https://doi.org/10.1038/s42004-023-01019-9) | [code](https://github.com/schrodinger/public_binding_free_energy_benchmark)    
+* **The maximal and current accuracy of rigorous protein-ligand binding free energy calculations** [2023]  
+Ross, G.A., Lu, C., Scarabelli, G. et al.  
+  [Commun Chem 6, 222 (2023)](https://doi.org/10.1038/s42004-023-01019-9) | [code](https://github.com/schrodinger/public_binding_free_energy_benchmark)  
 
 
 
+
+
+### Theoretical Chemistry
+
+
+
+* **ChemGraph as an agentic framework for computational chemistry workflows** [2026]  
+Pham, T.D., Tanikanti, A. & Keçeli, M.  
+  [Commun Chem (2026)](https://doi.org/10.1038/s42004-025-01776-9) | [code](https://github.com/argonne-lcf/ChemGraph)  
 
 
 
