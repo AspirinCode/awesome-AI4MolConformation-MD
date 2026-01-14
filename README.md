@@ -1880,7 +1880,9 @@ Schwing, Gregory, Luigi L. Palese, Ariel Fernández, Loren Schwiebert, and Domen
 
 
 
-
+* **Reinforced molecular dynamics: Physics-infused generative machine learning model simulates protein motion** [2026]  
+István Kolossváry.   
+[PNAS Nexus (2026)](https://doi.org/10.1093/pnasnexus/pgaf408) | [Zenodo](https://doi.org/10.5281/zenodo.16459122)  
 
 * **Reinforced molecular dynamics: Physics-infused generative machine learning model explores CRBN activation process** [2025]  
 Talant Ruzmetov, Ta I Hung, Saisri Padmaja Jonnalagedda, Si-han Chen, Parisa Fasihianifard, Zhefeng Guo, Bir Bhanu, Chia-en A. Chang.  
@@ -2441,7 +2443,9 @@ Grambow, Colin A., Hayley Weir, Nathaniel Diamant, Alex Tseng, Tommaso Biancalan
 
 
 
-
+* **Reinforced molecular dynamics: Physics-infused generative machine learning model simulates protein motion** [2026]  
+István Kolossváry.  
+[PNAS Nexus (2026)](https://doi.org/10.1093/pnasnexus/pgaf408) | [Zenodo](https://doi.org/10.5281/zenodo.16459122)  
 
 * **ProteinConformers: Benchmark Dataset for Simulating Protein Conformational Landscape Diversity and Plausibility** [2025]  
 Zhou, Yihang, Chen Wei, Minghao Sun, Jin Song, Yang Li, Lin Wang, and Yang Zhang.  
