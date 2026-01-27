@@ -3031,10 +3031,12 @@ Christopher Fullenkamp, Shams Mehdi, Christopher Jones, Logan Tenney, Patricio P
 
 
 
-
+* **Machine Learning Molecular Dynamics Simulations of Coordination and Diffusion Behaviors in Lithiated Gallium Electrode** [2026]  
+Fu, Qiuyi and Yuan, Hao and Wang, Haitang and Liu, Wenbin and Zhou, Guobing and Yang, Zhen.  
+[Phys. Chem. Chem. Phys. (2026)](https://doi.org/10.1039/D5CP04250J)  
 
 * **A foundation model for atomistic materials chemistry** [2025]  
-Batatia, Ilyes, Philipp Benner, Yuan Chiang, Alin M. Elena, Dávid P. Kovács, Janosh Riebesell, Xavier R. Advincula et al..  
+Batatia, Ilyes, Philipp Benner, Yuan Chiang, Alin M. Elena, Dávid P. Kovács, Janosh Riebesell, Xavier R. Advincula et al.  
 [J. Chem. Phys. 163, 184110 (2025)](https://doi.org/10.1063/5.0297006) | [code](http://github.com/acesuit/mace-mp)  
 
 * **Accuracy of calculated elastic properties of inorganic materials: Density functional theory and machine-learned potentials** [2025]  
