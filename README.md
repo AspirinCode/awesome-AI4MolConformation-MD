@@ -739,7 +739,9 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
-
+* **Resolving the body-order paradox of machine learning interatomic potentials** [2026]  
+Sanggyu Chong, Tong Jiang, Michelangelo Domina, Filippo Bigi, Federico Grasselli, Joonho Lee, Michele Ceriotti.  
+[J. Chem. Phys.(2026)](https://doi.org/10.1063/5.0303302)  
 
 * **AceFF: A State-of-the-Art Machine Learning Potential for Small Molecules** [2026]  
 Stephen E. Farr, Stefan Doerr, Antonio Mirarchi, Francesc Sabanes Zariquiey, Gianni De Fabritiis.  
