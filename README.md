@@ -737,7 +737,9 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
-
+* **Constructing Diabatic Potential Energy Matrices with Quantum Dynamic Accuracy: A Neural Network Based Δ-Machine Learning Approach** [2026]  
+Siting Hou, Zejie Zhang, and Changjian Xie.  
+[J. Chem. Theory Comput. (2026)](https://doi.org/10.1021/acs.jctc.5c01758)  
 
 * **Resolving the body-order paradox of machine learning interatomic potentials** [2026]  
 Sanggyu Chong, Tong Jiang, Michelangelo Domina, Filippo Bigi, Federico Grasselli, Joonho Lee, Michele Ceriotti.  
