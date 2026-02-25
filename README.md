@@ -2040,6 +2040,11 @@ Yuancheng Sun, Yuxuan Ren, Zhaoming Chen, Xu Han, Kang Liu, Qiwei Ye.
 
 
 
+
+* **Conditional diffusion with locality-aware modal alignment for generating diverse protein conformational ensembles** [2026]  
+Wang, B., Wang, C., Chen, J. et al.  
+[Nat Mach Intell (2026)](https://doi.org/10.1038/s42256-026-01198-9) | [code](https://github.com/Paulie-ai/Mac-Diff) | [Zenodo](https://doi.org/10.5281/zenodo.17936479)  
+
 * **Enhanced sampling of protein conformations in AlphaFold3 with repulsive bias in the diffusion generative model** [2025]  
 Jun Ohnuki, Kei-ichi Okazaki.  
 [bioRxiv. (2025)](https://doi.org/10.64898/2025.12.17.693105) | [code](https://github.com/OkazakiLab/af3_mmm) | [Zenodo](https://doi.org/10.5281/zenodo.17811671)  
@@ -2446,6 +2451,16 @@ Grambow, Colin A., Hayley Weir, Nathaniel Diamant, Alex Tseng, Tommaso Biancalan
 
 
 
+
+
+
+* **Accurate predictions of disordered protein ensembles with STARLING** [2026]  
+Novak, B., Lotthammer, J.M., Emenecker, R.J. et al.  
+[Nature (2026)](https://doi.org/10.1038/s41586-026-10141-2) | [code](https://github.com/idptools/starling/) | [Zenodo](https://doi.org/10.5281/zenodo.17342150)  
+
+* **Conditional diffusion with locality-aware modal alignment for generating diverse protein conformational ensembles** [2026]  
+Wang, B., Wang, C., Chen, J. et al.  
+[Nat Mach Intell (2026)](https://doi.org/10.1038/s42256-026-01198-9) | [code](https://github.com/Paulie-ai/Mac-Diff) | [Zenodo](https://doi.org/10.5281/zenodo.17936479)  
 
 * **Reinforced molecular dynamics: Physics-infused generative machine learning model simulates protein motion** [2026]  
 István Kolossváry.  
