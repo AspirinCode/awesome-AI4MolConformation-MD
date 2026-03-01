@@ -44,7 +44,9 @@ List of **molecules ( small molecules, RNA, peptide, protein, enzymes, antibody,
 ## Reviews
 
 
-
+* **Graph neural networks for molecular dynamics simulations** [2026]  
+Ahsan, Mohd, Chinmai Pindi, Souvik Sinha, Amun C. Patel, and Giulia Palermo.  
+[Current Opinion in Structural Biology (2026)](https://doi.org/10.1016/j.sbi.2026.103238)  
 
 * **Enhanced Sampling in the Age of Machine Learning: Algorithms and Applications** [2025]  
 Kai Zhu, Enrico Trizio, Jintu Zhang, Renling Hu, Linlong Jiang, Tingjun Hou, Luigi Bonati.  
@@ -2196,6 +2198,11 @@ Kleiman, Diego E., and Diwakar Shukla.
 
 
 
+
+
+* **Graph neural networks for molecular dynamics simulations** [2026]  
+Ahsan, Mohd, Chinmai Pindi, Souvik Sinha, Amun C. Patel, and Giulia Palermo.  
+[Current Opinion in Structural Biology (2026)](https://doi.org/10.1016/j.sbi.2026.103238)  
 
 * **A graph neural network-state predictive information bottleneck (GNN-SPIB) approach for learning molecular thermodynamics and kinetics** [2024]   
  Zou, Ziyue, Dedi Wang, and Pratyush Tiwary.  
