@@ -260,6 +260,11 @@ Wang, L., Brasnett, C., Borges-Araújo, L. et al.
 
 
 
+
+* **A scalable and quantum-accurate foundation model for biomolecular force fields via linearly tensorized quadrangle attention** [2026]  
+Su, Q., Zhu, K., Gou, Q. et al.  
+[Nat Commun (2026)](https://doi.org/10.1038/s41467-026-70377-4) | [code](https://github.com/lingcon01/LiTEN/tree/master)  
+
 * **Machine Learning Accelerated Finite-Field Simulations for Electrochemical Interfaces** [2025]  
 Chaoqiang Feng and Bin Jiang.  
 [JACS Au (2025)](https://doi.org/10.1021/jacsau.5c00792) | [code](https://github.com/bjiangch/FIREANN)  
