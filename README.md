@@ -744,6 +744,11 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
+
+* **Simulating enzyme catalysis with electrostatically embedded machine learning potentials** [2026]  
+Gradisteanu, Valentin, Elliot W. Chan, Lester Hedges, Meritxell Malagarriga, Rolf David, Miguel de la Puente, Damien Laage, Iñaki Tuñón, Marc W. van der Kamp, and Kirill Zinovjev.  
+[Chem. Sci. (2026)](https://doi.org/10.1039/D6SC01156J) | [code](https://github.com/chemle/emle-enzymes-paper)  
+
 * **Bias in Universal Machine-Learned Interatomic Potentials and its Effects on Fine-Tuning** [2026]  
 Nicolas Wong, Julia H. Yang.  
 [arXiv:2603.10159 (2026)](https://doi.org/10.48550/arXiv.2603.10159) | [code](https://github.com/YangLab-GT/uMLIP_Finetuning)  
