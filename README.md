@@ -744,6 +744,10 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
+* **Bias in Universal Machine-Learned Interatomic Potentials and its Effects on Fine-Tuning** [2026]  
+Nicolas Wong, Julia H. Yang.  
+[arXiv:2603.10159 (2026)](https://doi.org/10.48550/arXiv.2603.10159) | [code](https://github.com/YangLab-GT/uMLIP_Finetuning)  
+
 * **Constructing Diabatic Potential Energy Matrices with Quantum Dynamic Accuracy: A Neural Network Based Δ-Machine Learning Approach** [2026]  
 Siting Hou, Zejie Zhang, and Changjian Xie.  
 [J. Chem. Theory Comput. (2026)](https://doi.org/10.1021/acs.jctc.5c01758)  
