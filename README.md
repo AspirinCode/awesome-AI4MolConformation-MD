@@ -544,7 +544,9 @@ https://github.com/ipudu/awesome-molecular-dynamics
 
 
 
-
+* **Learning data-efficient coarse-grained molecular dynamics from forces and noise** [2026]  
+Durumeric, A.E.P., Chen, Y., Pasos-Trejo, A.S. et al.  
+[Nat Commun (2026)](https://doi.org/10.1038/s41467-026-70818-0) | [data](https://zenodo.org/records/18784685)  
 
 * **Probabilistic Forecasting for Coarse-Grained Molecular Dynamics** [2025]  
 Christians L, Wojnar A, Pak A.  
