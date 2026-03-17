@@ -44,6 +44,10 @@ List of **molecules ( small molecules, RNA, peptide, protein, enzymes, antibody,
 ## Reviews
 
 
+* **Toward a unified framework for determining conformational ensembles of disordered proteins** [2026]  
+Ghafouri, H., Kadeřávek, P., Melo, A.M. et al.  
+[Nat Methods (2026)](https://doi.org/10.1038/s41592-026-03003-2)  
+
 * **Graph neural networks for molecular dynamics simulations** [2026]  
 Ahsan, Mohd, Chinmai Pindi, Souvik Sinha, Amun C. Patel, and Giulia Palermo.  
 [Current Opinion in Structural Biology (2026)](https://doi.org/10.1016/j.sbi.2026.103238)  
@@ -2475,7 +2479,9 @@ Grambow, Colin A., Hayley Weir, Nathaniel Diamant, Alex Tseng, Tommaso Biancalan
 
 
 
-
+* **Toward a unified framework for determining conformational ensembles of disordered proteins** [2026]  
+Ghafouri, H., Kadeřávek, P., Melo, A.M. et al.  
+[Nat Methods (2026)](https://doi.org/10.1038/s41592-026-03003-2)  
 
 * **Accurate predictions of disordered protein ensembles with STARLING** [2026]  
 Novak, B., Lotthammer, J.M., Emenecker, R.J. et al.  
