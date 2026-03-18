@@ -263,7 +263,9 @@ Wang, L., Brasnett, C., Borges-Araújo, L. et al.
 
 
 
-
+* **Training a force field for proteins and small molecules from scratch** [2026]  
+Alexandre Blanco-González, Thea K Schulze, Evianne Rovers, Joe G Greener.  
+[arXiv:2603.16770 (2026)](https://doi.org/10.48550/arXiv.2603.16770) | [code](https://github.com/greener-group/garnet)  
 
 * **A scalable and quantum-accurate foundation model for biomolecular force fields via linearly tensorized quadrangle attention** [2026]  
 Su, Q., Zhu, K., Gou, Q. et al.  
