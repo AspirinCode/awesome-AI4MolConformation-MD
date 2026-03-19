@@ -753,6 +753,12 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
+
+
+* **Design Space of Self--Consistent Electrostatic Machine Learning Interatomic Potentials** [2026]  
+William J. Baldwin, Ilyes Batatia, Martin Vondrák, Johannes T. Margraf, Gábor Csányi.  
+[arXiv:2603.14700 (2026)](https://doi.org/10.48550/arXiv.2603.14700)  
+
 * **Simulating enzyme catalysis with electrostatically embedded machine learning potentials** [2026]  
 Gradisteanu, Valentin, Elliot W. Chan, Lester Hedges, Meritxell Malagarriga, Rolf David, Miguel de la Puente, Damien Laage, Iñaki Tuñón, Marc W. van der Kamp, and Kirill Zinovjev.  
 [Chem. Sci. (2026)](https://doi.org/10.1039/D6SC01156J) | [code](https://github.com/chemle/emle-enzymes-paper)  
