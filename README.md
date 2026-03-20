@@ -1606,7 +1606,9 @@ KYuan, E.CY., Kumar, A., Guan, X. et al.
 
 
 
-
+* **MACE-POLAR-1: A Polarisable Electrostatic Foundation Model for Molecular Chemistry** [2026]  
+Ilyes Batatia, William J. Baldwin, Domantas Kuryla, Joseph Hart, Elliott Kasoar, Alin M. Elena, Harry Moore, Mikołaj J. Gawkowski, Benjamin X. Shi, Venkat Kapil, Panagiotis Kourtis, Ioan-Bogdan Magdău, Gábor Csányi.  
+[arXiv:2602.19411 (2026)](https://doi.org/10.48550/arXiv.2602.19411)  
 
 * **Physics-informed Hamiltonian learning for large-scale optoelectronic property prediction** [2026]  
 Schwade, M., Zhang, S., Vonhoff, F. et al.  
