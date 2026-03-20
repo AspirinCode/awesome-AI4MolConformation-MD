@@ -1480,7 +1480,9 @@ Pham, T.D., Tanikanti, A. & Keçeli, M.
 
 
 
-
+* **Fundamental Study of Density Functional Theory Applied to Triplet State Reactivity: Introduction of the TRIP50 Data Set** [2026]  
+William B. Hughes, Mihai V. Popescu, and Robert S. Paton.  
+[J. Chem. Theory Comput. (2026)](https://doi.org/10.1021/acs.jctc.6c00144)  
 
 * **Accelerating Discovery Through Integration: A DFT validated Machine Learning Framework for Screening MOF Photocatalysts** [2026]  
 Marco Anselmi, Greg Slabaugh, Rachel Crespo-Otero and Devis Di Tommaso.  
@@ -1604,6 +1606,11 @@ KYuan, E.CY., Kumar, A., Guan, X. et al.
 
 
 
+
+
+* **Physics-informed Hamiltonian learning for large-scale optoelectronic property prediction** [2026]  
+Schwade, M., Zhang, S., Vonhoff, F. et al.  
+[Nat Commun 17, 2652 (2026)](https://doi.org/10.1038/s41467-026-70865-7) | [code](https://github.com/TheoFEM-TUM/Hamster.jl)  
 
 * **Developing and benchmarking Sage 2.3.0 with the AshGC neural network charge model** [2026]  
 Wang L, Alibay I, Boothroyd S, Cavender C, Horton J, McIsaac A, et al.  
