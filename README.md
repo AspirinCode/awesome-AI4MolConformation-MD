@@ -1693,6 +1693,10 @@ Do, Hung N., Jinan Wang, Apurba Bhattarai, and Yinglong Miao.
 
 
 
+* **Atomic resolution ensembles of intrinsically disordered proteins with Alphafold** [2026]  
+Schnapka, V., Morozova, T.I., Sen, S. et al.  
+[Nat Commun 17, 2399 (2026)](https://doi.org/10.1038/s41467-026-69172-y) | [code](https://github.com/plumed/plumed2)  
+
 * **Explaining how mutations affect AlphaFold predictions** [2026]  
 Madeleine F. Clore, Joseph F. Thole, Suchetan Dontha, Pramesh Sharma, Davin Jensen, Brian F. Volkman, Matthew Coudron, Lauren L. Porter.  
 [bioRxiv (2026)](https://doi.org/10.64898/2025.12.30.697132) | [code](https://github.com/prameshsharma25/CAAT)  
