@@ -263,6 +263,11 @@ Wang, L., Brasnett, C., Borges-Araújo, L. et al.
 
 
 
+
+* **Accurate Hydration Free Energy Calculations for Diverse Organic Molecules With a Machine Learning Force Field** [2026]  
+Xiaowei Xie, John L. Weber, Mats Svensson, Ryne C. Johnston, Edward D. Harder, and Leif D. Jacobson.  
+[J. Chem. Theory Comput. (2026)](https://doi.org/10.1021/acs.jctc.5c02019) | [code](https://github.com/leifjacobson/MLFF_HFE/)  
+
 * **Training a force field for proteins and small molecules from scratch** [2026]  
 Alexandre Blanco-González, Thea K Schulze, Evianne Rovers, Joe G Greener.  
 [arXiv:2603.16770 (2026)](https://doi.org/10.48550/arXiv.2603.16770) | [code](https://github.com/greener-group/garnet)  
@@ -1371,6 +1376,10 @@ Anstine DM, Zhao Q, Zubatiuk R, Zhang S, Singla V, Nikitin F, et al.
 
 
 
+
+* **Accurate Hydration Free Energy Calculations for Diverse Organic Molecules With a Machine Learning Force Field** [2026]  
+Xiaowei Xie, John L. Weber, Mats Svensson, Ryne C. Johnston, Edward D. Harder, and Leif D. Jacobson.  
+[J. Chem. Theory Comput. (2026)](https://doi.org/10.1021/acs.jctc.5c02019) | [code](https://github.com/leifjacobson/MLFF_HFE/)  
 
 * **Large-scale collaborative assessment of binding free energy calculations for drug discovery using OpenFE** [2025]  
 Baumann HM, Horton JT, Henry MM, Travitz A, Ries B, Gowers RJ, et al.  
