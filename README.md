@@ -767,7 +767,9 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
-
+* **PFP/MM: A Hybrid Approach Combining a Universal Neural Network Potential with Classical Force Fields for Large-Scale Reactive Simulations** [2026]  
+Yu Miyazaki, Atsuhiro Tomita, Akihide Hayashi, So Takemoto, Mizuki Takemoto, Hodaka Mori.  
+[arXiv:2603.16061 (2026)](https://doi.org/10.48550/arXiv.2603.16061)  
 
 * **Design Space of Self--Consistent Electrostatic Machine Learning Interatomic Potentials** [2026]  
 William J. Baldwin, Ilyes Batatia, Martin Vondrák, Johannes T. Margraf, Gábor Csányi.  
