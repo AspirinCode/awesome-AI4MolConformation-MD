@@ -555,6 +555,13 @@ https://github.com/ipudu/awesome-molecular-dynamics
 
 
 
+
+
+
+
+
+
+
 * **Learning data-efficient coarse-grained molecular dynamics from forces and noise** [2026]  
 Durumeric, A.E.P., Chen, Y., Pasos-Trejo, A.S. et al.  
 [Nat Commun (2026)](https://doi.org/10.1038/s41467-026-70818-0) | [data](https://zenodo.org/records/18784685)  
@@ -569,7 +576,7 @@ Zhang Q, Valério M, Grünewald L, Borges-Araújo L, Grünewald F, Wang S, et al
 
 * **An optimized contact map for GōMartini 3 enabling conformational changes in protein assemblies** [2025]  
 Gustavo E. Olivos-Ramirez, Luis F. Cofas-Vargas, Siewert J. Marrink, Adolfo B. Poma.  
-[bioRxiv. (2025)](https://doi.org/10.1101/2025.11.14.688437) | [data](https://github.com/GoMartini3-tools/ContactFreq)  
+[bioRxiv. (2025)](https://doi.org/10.1101/2025.11.14.688437) | [code](https://github.com/GoMartini3-tools/ContactFreq)  
 
 * **CGBack: Diffusion Model for Backmapping Large-Scale and Complex Coarse-Grained Molecular Systems** [2025]  
 Diego Ugarte La Torre and Yuji Sugita.  
@@ -595,7 +602,9 @@ Soumya Mondal, Subhanu Halder, Debarchan Basu, Sandeep Kumar, Tarak Karmakar.
 Magdalena Szczuka, Gilberto P. Pereira, Luis J. Walter, Marc Gueroult, Pierre Poulain, Tristan Bereau, Paulo C. T. Souza, Matthieu Chavent.  
 [bioRxiv (2025)](https://doi.org/10.1101/2025.07.13.664596) | [data](https://github.com/Martini-Force-Field-Initiative/Automartini_M3)  
 
-
+* **Martini Mapper: An Automated Fragment-Based Framework for Developing Coarse-Grained Models within the Martini 3 Framework** [2025]  
+Kevin V. Bigting, Shubhadeep Nag, Yaxin An.  
+[arXiv:2511.11859 (2025)](https://doi.org/10.48550/arXiv.2511.11859) | [code](https://github.com/eliobaby/Martini_mapping)  
 
 
 
