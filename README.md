@@ -1498,7 +1498,9 @@ Pham, T.D., Tanikanti, A. & Keçeli, M.
 
 
 
-
+* **Enhancing non-local interaction modeling for ab initio biomolecular calculations and simulations with ViSNet-PIMA** [2026]  
+Taoyong Cui, Zihan Wang, Tong Wang.  
+[bioRxiv (2026)](https://doi.org/10.64898/2026.03.18.712561)  
 
 * **Fundamental Study of Density Functional Theory Applied to Triplet State Reactivity: Introduction of the TRIP50 Data Set** [2026]  
 William B. Hughes, Mihai V. Popescu, and Robert S. Paton.  
