@@ -1388,6 +1388,11 @@ Anstine DM, Zhao Q, Zubatiuk R, Zhang S, Singla V, Nikitin F, et al.
 
 
 
+
+* **Development and large-scale benchmarks of a protein-ligand absolute binding free energy toolkit** [2026]  
+Yu Liu, Ailun Wang, Yu Xia, Zhi Wang, Wen Yan.  
+[arXiv:2603.22274 (2026)](https://doi.org/10.48550/arXiv.2603.22274)  
+
 * **Accurate Hydration Free Energy Calculations for Diverse Organic Molecules With a Machine Learning Force Field** [2026]  
 Xiaowei Xie, John L. Weber, Mats Svensson, Ryne C. Johnston, Edward D. Harder, and Leif D. Jacobson.  
 [J. Chem. Theory Comput. (2026)](https://doi.org/10.1021/acs.jctc.5c02019) | [code](https://github.com/leifjacobson/MLFF_HFE/)  
@@ -1497,6 +1502,12 @@ Pham, T.D., Tanikanti, A. & Keçeli, M.
 ### Ab Initio
 
 
+
+
+
+* **A unified machine learning framework for ab initio multiscale modeling of liquids** [2026]  
+Anna T. Bui, Stephen J. Cox.  
+[arXiv:2603.20493 (2026)](https://doi.org/10.48550/arXiv.2603.20493)  
 
 * **Enhancing non-local interaction modeling for ab initio biomolecular calculations and simulations with ViSNet-PIMA** [2026]  
 Taoyong Cui, Zihan Wang, Tong Wang.  
@@ -2935,6 +2946,11 @@ Spoendlin, Fabian C., Wing Ki Wong, Guy Georges, Alexander Bujotzek, and Charlot
 
 
 
+
+
+* **Development and large-scale benchmarks of a protein-ligand absolute binding free energy toolkit** [2026]  
+Yu Liu, Ailun Wang, Yu Xia, Zhi Wang, Wen Yan.  
+[arXiv:2603.22274 (2026)](https://doi.org/10.48550/arXiv.2603.22274)  
 
 * **Optimizing Stability in Dynamic Small-Molecule Binding Proteins** [2025]  
 Marc Scherer, Mark Kriegel, Birte Höcker, and Sarel J. Fleishman.  
