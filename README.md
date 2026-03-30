@@ -488,6 +488,11 @@ Barnett, Simon, and John D. Chodera.
 
 
 
+
+* **FastMDAnalysis: Software for Automated Analysis of Molecular Dynamics Trajectories** [2026]  
+A.Aina and D.Kwan.  
+[Journal of Computational Chemistry (2026)](https://doi.org/10.1002/jcc.70350) | [code](https://github.com/aai-research-lab/FastMDAnalysis)  
+
 * **Hierarchical geometric deep learning enables scalable analysis of molecular dynamics** [2025]  
 Zihan Pengmei, Spencer C. Guo, Chatipat Lorpaiboon, Aaron R. Dinner.  
 [arXiv:2512.06520(2025)](https://doi.org/10.48550/arXiv.2512.06520) | [code](https://github.com/dinner-group/geom2vec)  
