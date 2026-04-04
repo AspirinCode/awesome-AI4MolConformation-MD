@@ -772,6 +772,15 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
+
+* **Performance-Based Selection of Machine Learning Interatomic Potentials for Studying Solid-State Electrolytes** [2026]  
+Donghee Chang, Amir Taqieddin, and Forrest Laskowski.  
+[Chem. Mater. (2026)](https://doi.org/10.1021/acs.chemmater.5c02352)  
+
+* **Importance of Electronic Entropy for Machine Learning Interatomic Potentials** [2026]  
+Martin Hoffmann Petersen, Steen Lysgaard, Arghya Bhowmik, Kedar Hippalgaonkar, Juan Maria Garcia Lastra.  
+[arXiv:2603.26471 (2026)](https://doi.org/10.48550/arXiv.2603.26471)  
+
 * **PFP/MM: A Hybrid Approach Combining a Universal Neural Network Potential with Classical Force Fields for Large-Scale Reactive Simulations** [2026]  
 Yu Miyazaki, Atsuhiro Tomita, Akihide Hayashi, So Takemoto, Mizuki Takemoto, Hodaka Mori.  
 [arXiv:2603.16061 (2026)](https://doi.org/10.48550/arXiv.2603.16061)  
@@ -1485,6 +1494,12 @@ Ross, G.A., Lu, C., Scarabelli, G. et al.
 ### Theoretical Chemistry
 
 
+
+
+
+* **A New Paradigm for Computational Chemistry** [2026]  
+Raphael T. Husistein, Markus Reiher.  
+  [arXiv:2604.01360 (2026)](https://doi.org/10.48550/arXiv.2604.01360)  
 
 * **ChemGraph as an agentic framework for computational chemistry workflows** [2026]  
 Pham, T.D., Tanikanti, A. & Keçeli, M.  
