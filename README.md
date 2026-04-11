@@ -773,6 +773,10 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
+* **Quantum-Accurate Enhanced Sampling and Mini-Protein Folding through Replica Exchange for Multiscale Neural Network Potentials** [2026]  
+Riccardo Solazzo, Igor Gordiy, Sereina Riniker.  
+[ChemRxiv (2026)](https://doi.org/10.26434/chemrxiv.15001723/v1) | [code](https://github.com/rinikerlab/rest2_ampmm)  
+
 * **Performance-Based Selection of Machine Learning Interatomic Potentials for Studying Solid-State Electrolytes** [2026]  
 Donghee Chang, Amir Taqieddin, and Forrest Laskowski.  
 [Chem. Mater. (2026)](https://doi.org/10.1021/acs.chemmater.5c02352)  
