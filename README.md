@@ -614,11 +614,24 @@ Kevin V. Bigting, Shubhadeep Nag, Yaxin An.
 
 
 
+
+
+
+
+
+
+
 ## AI4MD
 
 
 
 
+
+
+
+* **Transferable generative models bridge femtosecond to nanosecond time-step molecular dynamics** [2026]  
+Juan Viguera Diez et al.  
+[Sci. Adv.12,eaed2333(2026)](https://doi.org/10.1126/sciadv.aed2333) | [code](https://github.com/olsson-group/tito)  
 
 * **MDAgent2: Large Language Model for Code Generation and Knowledge Q&A in Molecular Dynamics** [2026]  
 Zhuofan Shi, Hubao A, Yufei Shao, Mengyan Dai, Yadong Yu, Pan Xiang, Dongliang Huang, Hongxu An, Chunxiao Xin, Haiyang Shen, Zhenyu Wang, Yunshan Na, Gang Huang, Xiang Jing.  
