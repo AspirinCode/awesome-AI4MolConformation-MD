@@ -1418,7 +1418,9 @@ Anstine DM, Zhao Q, Zubatiuk R, Zhang S, Singla V, Nikitin F, et al.
 
 
 
-
+* **Thermodynamically consistent machine learning model for excess Gibbs energy** [2026]  
+Hoffmann, M., Specht, T., Göttl, Q. et al.  
+[Nat Commun 17, 3485 (2026)](https://doi.org/10.1038/s41467-026-71430-y) | [code](https://doi.org/10.5281/zenodo.18952614)  
 
 * **Development and large-scale benchmarks of a protein-ligand absolute binding free energy toolkit** [2026]  
 Yu Liu, Ailun Wang, Yu Xia, Zhi Wang, Wen Yan.  
