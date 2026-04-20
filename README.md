@@ -791,6 +791,10 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
+* **MolCryst-MLIPs: A Machine-Learned Interatomic Potentials Database for Molecular Crystals** [2026]  
+Lahouari, Adam, Shen Ai, Jihye Han, Jillian Hoffstadt, Philipp Hoellmer, Charlotte Infante, Pulkita Jain et al.  
+[arXiv:2604.13897 (2026)](https://doi.org/10.48550/arXiv.2604.13897) | [code](https://github.com/adamlaho/MolCryst)  
+
 * **Quantum-Accurate Enhanced Sampling and Mini-Protein Folding through Replica Exchange for Multiscale Neural Network Potentials** [2026]  
 Riccardo Solazzo, Igor Gordiy, Sereina Riniker.  
 [ChemRxiv (2026)](https://doi.org/10.26434/chemrxiv.15001723/v1) | [code](https://github.com/rinikerlab/rest2_ampmm)  
@@ -3193,6 +3197,11 @@ Christopher Fullenkamp, Shams Mehdi, Christopher Jones, Logan Tenney, Patricio P
 ### Material ensembles
 
 
+
+
+* **MolCryst-MLIPs: A Machine-Learned Interatomic Potentials Database for Molecular Crystals** [2026]  
+Lahouari, Adam, Shen Ai, Jihye Han, Jillian Hoffstadt, Philipp Hoellmer, Charlotte Infante, Pulkita Jain et al.  
+[arXiv:2604.13897 (2026)](https://doi.org/10.48550/arXiv.2604.13897) | [code](https://github.com/adamlaho/MolCryst)  
 
 * **Machine Learning Molecular Dynamics Simulations of Coordination and Diffusion Behaviors in Lithiated Gallium Electrode** [2026]  
 Fu, Qiuyi and Yuan, Hao and Wang, Haitang and Liu, Wenbin and Zhou, Guobing and Yang, Zhen.  
