@@ -269,6 +269,10 @@ Wang, L., Brasnett, C., Borges-Araújo, L. et al.
 
 
 
+* **DeFecT-FF: a machine learning force field framework for high throughput defect modeling in CdTe-based solar cells** [2026]  
+Rahman, Md Habibur, Maitreyo Biswas, and Arun Mannodi-Kanakkithodi.  
+[Phys. Chem. Chem. Phys. (2026)](https://doi.org/10.1039/D6CP00170J) | [data](https://nanohub.org/resources/defectdatabase)  
+
 * **Accurate Hydration Free Energy Calculations for Diverse Organic Molecules With a Machine Learning Force Field** [2026]  
 Xiaowei Xie, John L. Weber, Mats Svensson, Ryne C. Johnston, Edward D. Harder, and Leif D. Jacobson.  
 [J. Chem. Theory Comput. (2026)](https://doi.org/10.1021/acs.jctc.5c02019) | [code](https://github.com/leifjacobson/MLFF_HFE/)  
