@@ -220,6 +220,11 @@ https://github.com/LumosBio/MolData
 
 
 
+
+* **Ab Initio Molecular Dynamics Simulations for Organic Chemists─It is About Time!** [2026]  
+Nielsen, M.M., Wagen, C.C., Gomes, L.A., Tantillo, D.J., Lopez, S.A. and Jacobsen, E.N.  
+[J. Am. Chem. Soc. (2026)](https://doi.org/10.1021/jacs.5c20878)  
+
 * **High-Performance Semiempirical Excited-State Molecular Dynamics: A Step Toward Data-Driven Photodynamics** [2025]  
 Athavale V, Kulichenko M, Fernandez-Alberti S, Niklasson A, Tretiak S.  
 [ChemRxiv. (2025)](https://doi.org/10.26434/chemrxiv-2025-6h565)  
@@ -1543,6 +1548,13 @@ Pham, T.D., Tanikanti, A. & Keçeli, M.
 
 
 
+* **Predicting Molecular Laser Properties from First-Principles Using Machine Learning-Based Nuclear Ensemble Approach Spectra** [2026]  
+Luis Cerdán, Antonio Francés-Monerris, Michael G. S. Londesborough, and Daniel Roca-Sanjuán.  
+[J. Chem. Theory Comput. (2026)](https://doi.org/10.1021/acs.jctc.5c01866)  
+
+* **Ab Initio Molecular Dynamics Simulations for Organic Chemists─It is About Time!** [2026]  
+Nielsen, M.M., Wagen, C.C., Gomes, L.A., Tantillo, D.J., Lopez, S.A. and Jacobsen, E.N.  
+[J. Am. Chem. Soc. (2026)](https://doi.org/10.1021/jacs.5c20878)  
 
 * **A unified machine learning framework for ab initio multiscale modeling of liquids** [2026]  
 Anna T. Bui, Stephen J. Cox.  
@@ -2571,6 +2583,11 @@ Grambow, Colin A., Hayley Weir, Nathaniel Diamant, Alex Tseng, Tommaso Biancalan
 
 
 
+
+
+* **Explainable Machine Learning Guided Enhanced Sampling of Protein Conformational Transition in HSP90** [2026]  
+Chatterjee, S. and Ray, D.  
+[J. Chem. Theory Comput. (2026)](https://doi.org/10.1021/acs.jctc.6c00132)  
 
 * **Toward a unified framework for determining conformational ensembles of disordered proteins** [2026]  
 Ghafouri, H., Kadeřávek, P., Melo, A.M. et al.  
