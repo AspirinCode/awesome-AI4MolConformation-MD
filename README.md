@@ -1698,6 +1698,11 @@ KYuan, E.CY., Kumar, A., Guan, X. et al.
 
 
 
+
+* **QUICK and Robust ESP and RESP Charges for Computational Biochemistry: Open-Source GPU Implementation** [2026]  
+Vikrant Tripathy, Etienne Palos, Kenneth M. Merz Jr., Francesco Paesani, and Andreas W. Götz.  
+[J. Chem. Inf. Model. (2026)](https://doi.org/10.1021/acs.jcim.5c03200) | [code](https://github.com/merzlab/QUICK)  
+
 * **MACE-POLAR-1: A Polarisable Electrostatic Foundation Model for Molecular Chemistry** [2026]  
 Ilyes Batatia, William J. Baldwin, Domantas Kuryla, Joseph Hart, Elliott Kasoar, Alin M. Elena, Harry Moore, Mikołaj J. Gawkowski, Benjamin X. Shi, Venkat Kapil, Panagiotis Kourtis, Ioan-Bogdan Magdău, Gábor Csányi.  
 [arXiv:2602.19411 (2026)](https://doi.org/10.48550/arXiv.2602.19411)  
@@ -1959,6 +1964,9 @@ Yuning Shen, Lihao Wang, Huizhuo Yuan, Yan Wang, Bangji Yang, Quanquan Gu.
 * **Force-Free Molecular Dynamics Through Autoregressive Equivariant Networks** [2025]   
 Fabian L. Thiemann, Thiago Reschützegger, Massimiliano Esposito, Tseden Taddese, Juan D. Olarte-Plata, Fausto Martelli.  
 [arXiv:2503.23794 (2025)](https://www.arxiv.org/abs/2503.23794) |  [code](https://github.com/IBM/trajcast)  
+
+
+
 
 
 
@@ -2592,6 +2600,11 @@ Grambow, Colin A., Hayley Weir, Nathaniel Diamant, Alex Tseng, Tommaso Biancalan
 
 
 
+
+
+* **ConforNets: Latents-Based Conformational Control in OpenFold3** [2026]  
+Minji Lee, Colin Kalicki, Minkyu Jeon, Aymen Qabel, Alisia Fadini, Mohammed AlQuraishi.  
+[arXiv:2604.18559 (2026)](https://doi.org/10.48550/arXiv.2604.18559)  
 
 * **Explainable Machine Learning Guided Enhanced Sampling of Protein Conformational Transition in HSP90** [2026]  
 Chatterjee, S. and Ray, D.  
