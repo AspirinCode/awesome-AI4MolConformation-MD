@@ -496,7 +496,9 @@ Barnett, Simon, and John D. Chodera.
 
 
 
-
+* **Ensemble Analyzer: An Open-Source Python Framework for Automated Conformer Ensemble Refinement** [2026]  
+Andrea Pellegrini, Paolo Righi, Andrea Mazzanti, and Michele Mancinelli.  
+[J. Chem. Inf. Model. (2026)](https://doi.org/10.1021/acs.jcim.6c00273) | [code](https://github.com/andre-cloud/ensemble_analyzer)  
 
 * **FastMDAnalysis: Software for Automated Analysis of Molecular Dynamics Trajectories** [2026]  
 A.Aina and D.Kwan.  
