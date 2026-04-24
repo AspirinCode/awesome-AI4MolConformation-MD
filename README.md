@@ -793,7 +793,9 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
-
+* **Extending AIMNet2 to Macrocyclic Peptides Through Data-Efficient Continual Training** [2026]  
+Runtian Gao, Roman Zubatyuk, Olexandr Isayev.  
+[ChemRxiv. (2026)](https://doi.org/10.26434/chemrxiv.15002334/v1)  
 
 * **MolCryst-MLIPs: A Machine-Learned Interatomic Potentials Database for Molecular Crystals** [2026]  
 Lahouari, Adam, Shen Ai, Jihye Han, Jillian Hoffstadt, Philipp Hoellmer, Charlotte Infante, Pulkita Jain et al.  
@@ -2566,6 +2568,11 @@ Bottaro, S., Bussi, G., Kennedy, S.D., Turner, D.H. and Lindorff-Larsen, K.
 
 
 
+
+
+* **Extending AIMNet2 to Macrocyclic Peptides Through Data-Efficient Continual Training** [2026]  
+Runtian Gao, Roman Zubatyuk, Olexandr Isayev.  
+[ChemRxiv. (2026)](https://doi.org/10.26434/chemrxiv.15002334/v1)  
 
 * **Memory kernel minimization-based neural networks for discovering slow collective variables of biomolecular dynamics** [2025]  
 Liu, B., Cao, S., Boysen, J.G. et al.  
