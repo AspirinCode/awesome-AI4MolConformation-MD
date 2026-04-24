@@ -574,7 +574,9 @@ https://github.com/ipudu/awesome-molecular-dynamics
 
 
 
-
+* **Probabilistic Forecasting for Coarse-Grained Molecular Dynamics** [2026]  
+Luc F. Christians, Anna Wojnar, and Alexander J. Pak.  
+[J. Chem. Theory Comput. (2026)](https://doi.org/10.1021/acs.jctc.5c02131) | [code](https://gitlab.com/pak-group/pfcg_m01)  
 
 * **Learning data-efficient coarse-grained molecular dynamics from forces and noise** [2026]  
 Durumeric, A.E.P., Chen, Y., Pasos-Trejo, A.S. et al.  
@@ -792,6 +794,12 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
+
+
+
+* **Machine-Learned Electrostatic Potentials for Accurate Hydration Free Energy Calculations** [2026]  
+Mathias Hilfiker, Leonardo Medrano Sandonas, Alexandre Tkatchenko, Ola Engkvist, and Marco Klähn.  
+[J. Chem. Theory Comput. (2026)](https://doi.org/10.1021/acs.jctc.5c02086) | [code](https://github.com/mathilfiker/ml_for_charges)  
 
 * **Extending AIMNet2 to Macrocyclic Peptides Through Data-Efficient Continual Training** [2026]  
 Runtian Gao, Roman Zubatyuk, Olexandr Isayev.  
@@ -1433,6 +1441,12 @@ Anstine DM, Zhao Q, Zubatiuk R, Zhang S, Singla V, Nikitin F, et al.
 
 
 
+
+
+* **Machine-Learned Electrostatic Potentials for Accurate Hydration Free Energy Calculations** [2026]  
+Mathias Hilfiker, Leonardo Medrano Sandonas, Alexandre Tkatchenko, Ola Engkvist, and Marco Klähn.  
+[J. Chem. Theory Comput. (2026)](https://doi.org/10.1021/acs.jctc.5c02086) | [code](https://github.com/mathilfiker/ml_for_charges)  
+
 * **Thermodynamically consistent machine learning model for excess Gibbs energy** [2026]  
 Hoffmann, M., Specht, T., Göttl, Q. et al.  
 [Nat Commun 17, 3485 (2026)](https://doi.org/10.1038/s41467-026-71430-y) | [code](https://doi.org/10.5281/zenodo.18952614)  
@@ -1699,7 +1713,9 @@ KYuan, E.CY., Kumar, A., Guan, X. et al.
 
 
 
-
+* **QCBench: Evaluating Large Language Models on Domain-Specific Quantitative Chemistry** [2026]  
+Jiaqing Xie, Weida Wang, Ben Gao, Zhuo Yang, Haiyuan Wan, Shufei Zhang, Tianfan Fu, and Yuqiang Li.  
+[J. Chem. Inf. Model. (2026)](https://doi.org/10.1021/acs.jcim.5c02033) | [code](https://github.com/jiaqingxie/QCBench)  
 
 * **QUICK and Robust ESP and RESP Charges for Computational Biochemistry: Open-Source GPU Implementation** [2026]  
 Vikrant Tripathy, Etienne Palos, Kenneth M. Merz Jr., Francesco Paesani, and Andreas W. Götz.  
