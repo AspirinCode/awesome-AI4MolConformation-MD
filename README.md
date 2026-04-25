@@ -238,6 +238,11 @@ Athavale V, Kulichenko M, Fernandez-Alberti S, Niklasson A, Tretiak S.
 
 
 
+
+* **Automated Force Field Developer and Optimizer Platform: Torsion Reparameterization** [2026]  
+Alejandro Blanco-Gonzalez, William Betancourt, Ryan Michael Snyder, Shi Zhang, Timothy J. Giese, Zeke A. Piskulich, Andreas W. Götz, Kenneth M. Merz Jr., Darrin M. York, Hasan Metin Aktulga, and Madushanka Manathunga.  
+[J. Chem. Inf. Model. (2026)](https://doi.org/10.1021/acs.jcim.6c00528) | [web](https://www.attmosdiscovery.com/tools)  
+
 * **LignAmb25: A Comprehensive AMBER Force Field Addressing Lignin's Structural and Chemical Diversity** [2026]  
 Marco Lapsien, Michele Bonus, Julian Greb, Holger Gohlke.  
 [bioRxiv (2026)](https://doi.org/10.64898/2026.01.03.697499)  
@@ -797,7 +802,9 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
-
+* **Generalization of long-range machine learning potentials in complex chemical spaces** [2026]  
+Sanocki, M. and Zavadlav, J..  
+[Digital Discovery (2026)](https://doi.org/10.1039/D5DD00570A) | [code](https://github.com/msan9908/MLIP_generalizability)  
 
 * **Machine-Learned Electrostatic Potentials for Accurate Hydration Free Energy Calculations** [2026]  
 Mathias Hilfiker, Leonardo Medrano Sandonas, Alexandre Tkatchenko, Ola Engkvist, and Marco Klähn.  
@@ -1557,6 +1564,8 @@ Pham, T.D., Tanikanti, A. & Keçeli, M.
 
 
 
+
+
 ### QuantumChem
 
 
@@ -1565,6 +1574,9 @@ Pham, T.D., Tanikanti, A. & Keçeli, M.
 * [PySCF](https://github.com/pyscf/) - Python module for quantum chemistry.
 * [gpu4pyscf](https://github.com/pyscf/gpu4pyscf) - A plugin to use Nvidia GPU in PySCF package.
 * [PyFock](https://github.com/manassharma07/PyFock) - An efficient and fully parallelized pure python DFT code with GPU acceleration.
+
+
+
 
 
 
@@ -1715,6 +1727,12 @@ KYuan, E.CY., Kumar, A., Guan, X. et al.
 
 
 
+
+
+* **Accurate and scalable exchange-correlation with deep learning** [2026]  
+Luise, G., Huang, C.W., Vogels, T., Kooi, D.P., Ehlert, S., Lanius, S., Giesbertz, K.J., Karton, A., Gunceler, D., Stanley, M. and Bruinsma, W.P.  
+[arXiv:2506.14665v6 (2026)](https://doi.org/10.48550/arXiv.2506.14665) | [code](https://github.com/microsoft/skala)  
+
 * **QCBench: Evaluating Large Language Models on Domain-Specific Quantitative Chemistry** [2026]  
 Jiaqing Xie, Weida Wang, Ben Gao, Zhuo Yang, Haiyuan Wan, Shufei Zhang, Tianfan Fu, and Yuqiang Li.  
 [J. Chem. Inf. Model. (2026)](https://doi.org/10.1021/acs.jcim.5c02033) | [code](https://github.com/jiaqingxie/QCBench)  
@@ -1800,6 +1818,13 @@ Do, Hung N., Jinan Wang, Apurba Bhattarai, and Yinglong Miao.
 
 
 
+
+
+
+
+* **ConforNets: Latents-Based Conformational Control in OpenFold3** [2026]  
+Minji Lee, Colin Kalicki, Minkyu Jeon, Aymen Qabel, Alisia Fadini, Mohammed AlQuraishi.  
+[arXiv:2604.18559 (2026)](https://doi.org/10.48550/arXiv.2604.18559)  
 
 * **Atomic resolution ensembles of intrinsically disordered proteins with Alphafold** [2026]  
 Schnapka, V., Morozova, T.I., Sen, S. et al.  
@@ -2447,7 +2472,9 @@ Salomé Guilbert, Cassandra Masschelein, Jeremy Goumaz, Bohdan Naida, Philippe S
 
 
 
-
+* **SphereDiff-TS: Sphere Space Diffusion Modeling for Accurate 3D Transition State Geometry Prediction** [2026]  
+Chong Zhao, Pan Li, Shu Zhang, Chuanhao Li, Zhaopeng Li, Yixin Tang, Keyan Linghu, Lei Tang, and Yuanyong Yang.  
+[ACS Omega (2026)](https://doi.org/10.1021/acsomega.6c03301)  
 
 * **Sampling High-Dimensional Conformational Free Energy Landscapes of Active Pharmaceutical Ingredients** [2025]  
 Alexandre Ferreira, Rui Guo, Ivan Marziano, and Matteo Salvalaglio.  
