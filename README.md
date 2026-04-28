@@ -1827,7 +1827,9 @@ Do, Hung N., Jinan Wang, Apurba Bhattarai, and Yinglong Miao.
 
 
 
-
+* **AlphaUnfold: Probing Potential Unfolding and Structural Fragility in AlphaFold3 Models via Short-Time High-Pressure MD** [2026]  
+Fabio Jordao de Oliveira Pegado Jr., Jose Miguel Ortega Sr., Juliana Rodrigues Pereira Silva Jr.  
+[bioRxiv (2026)](https://doi.org/10.64898/2026.04.22.720259) | [code](https://github.com/pegados/pipeline_AlphaUnfold)  
 
 * **ConforNets: Latents-Based Conformational Control in OpenFold3** [2026]  
 Minji Lee, Colin Kalicki, Minkyu Jeon, Aymen Qabel, Alisia Fadini, Mohammed AlQuraishi.  
