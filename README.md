@@ -2673,7 +2673,7 @@ Grambow, Colin A., Hayley Weir, Nathaniel Diamant, Alex Tseng, Tommaso Biancalan
 
 * **Hidden structural states of proteins revealed by conformer selection** [2026]  
 Huang, Y.J., Ramelot, T.A., Spaman, L.E. et al.  
-[Nat Commun (2026)](https://doi.org/10.1038/s41467-026-71997-6)  
+[Nat Commun (2026)](https://doi.org/10.1038/s41467-026-71997-6) | [code](https://github.com/MontelioneLab/AISAR)  
 
 * **ConforNets: Latents-Based Conformational Control in OpenFold3** [2026]  
 Minji Lee, Colin Kalicki, Minkyu Jeon, Aymen Qabel, Alisia Fadini, Mohammed AlQuraishi.  
