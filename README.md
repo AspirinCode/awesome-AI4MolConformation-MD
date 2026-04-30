@@ -647,6 +647,12 @@ Kevin V. Bigting, Shubhadeep Nag, Yaxin An.
 
 
 
+
+
+* **Learning Structure, Energy, and Dynamics: A Survey of Artificial Intelligence for Protein Dynamics** [2026]  
+Haocheng Tang, Liang Shi, Ya-Shi Zhang, Xixian Liu, Jian Tang, Jiarui Lu.  
+[arXiv:2604.25244 (2026)](https://doi.org/10.48550/arXiv.2604.25244)  
+
 * **Faster Molecular Dynamics with Neural Network Potentials via Distilled Multiple Time-Stepping and Non-Conservative Forces** [2026]  
 Nicolaï Gouraud, Côme Cattin, Thomas Plé, Olivier Adjoua, Louis Lagardère, Jean-Philip Piquemal.  
 [arXiv:2602.14975 (2026)](https://doi.org/10.48550/arXiv.2602.14975) | [code](https://github.com/FeNNol-tools/FeNNol)  
@@ -1838,12 +1844,21 @@ Do, Hung N., Jinan Wang, Apurba Bhattarai, and Yinglong Miao.
 
 
 
+
+
+
 ### AlphaFold-based
 
 
 
 
 
+
+
+
+* **PreStoi allows accurate prediction of protein complex stoichiometry by integrating AlphaFold3 and template information** [2026]  
+Liu, J., Neupane, P. & Cheng, J.  
+[Commun Biol (2026)](https://doi.org/10.1038/s42003-026-10126-x) | [code](https://github.com/jianlin-cheng/prestoi)  
 
 * **AlphaUnfold: Probing Potential Unfolding and Structural Fragility in AlphaFold3 Models via Short-Time High-Pressure MD** [2026]  
 Fabio Jordao de Oliveira Pegado Jr., Jose Miguel Ortega Sr., Juliana Rodrigues Pereira Silva Jr.  
@@ -2678,6 +2693,11 @@ Grambow, Colin A., Hayley Weir, Nathaniel Diamant, Alex Tseng, Tommaso Biancalan
 
 
 
+
+
+* **Learning Structure, Energy, and Dynamics: A Survey of Artificial Intelligence for Protein Dynamics** [2026]  
+Haocheng Tang, Liang Shi, Ya-Shi Zhang, Xixian Liu, Jian Tang, Jiarui Lu.  
+[arXiv:2604.25244 (2026)](https://doi.org/10.48550/arXiv.2604.25244)  
 
 * **Hidden structural states of proteins revealed by conformer selection** [2026]  
 Huang, Y.J., Ramelot, T.A., Spaman, L.E. et al.  
