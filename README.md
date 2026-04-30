@@ -807,6 +807,14 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
+
+
+
+
+* **Benchmarking Universal Machine-Learned Interatomic Potentials for High-Temperature Metal-Organic Framework Chemistry** [2026]  
+Connor W. Edwards, Jack D. Evans.  
+[arXiv:2604.25262 (2026)](https://doi.org/10.48550/arXiv.2604.25262) | [code](https://doi.org/10.25909/32061111)  
+
 * **Faster Molecular Dynamics with Neural Network Potentials via Distilled Multiple Time-Stepping and Non-Conservative Forces** [2026]  
 Nicolaï Gouraud, Côme Cattin, Thomas Plé, Olivier Adjoua, Louis Lagardère, Jean-Philip Piquemal.  
 [arXiv:2602.14975 (2026)](https://doi.org/10.48550/arXiv.2602.14975) | [code](https://github.com/FeNNol-tools/FeNNol)  
@@ -3288,6 +3296,11 @@ Christopher Fullenkamp, Shams Mehdi, Christopher Jones, Logan Tenney, Patricio P
 
 
 
+
+
+* **Benchmarking Universal Machine-Learned Interatomic Potentials for High-Temperature Metal-Organic Framework Chemistry** [2026]  
+Connor W. Edwards, Jack D. Evans.  
+[arXiv:2604.25262 (2026)](https://doi.org/10.48550/arXiv.2604.25262) | [code](https://doi.org/10.25909/32061111)  
 
 * **MolCryst-MLIPs: A Machine-Learned Interatomic Potentials Database for Molecular Crystals** [2026]  
 Lahouari, Adam, Shen Ai, Jihye Han, Jillian Hoffstadt, Philipp Hoellmer, Charlotte Infante, Pulkita Jain et al.  
