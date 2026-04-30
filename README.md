@@ -1589,6 +1589,14 @@ Pham, T.D., Tanikanti, A. & Keçeli, M.
 
 
 
+* **A quantum-mechanical framework for million-atom scale biological systems** [2026]  
+Wieners, L., Garcia, M.E.  
+[Commun Chem 9, 170 (2026)](https://doi.org/10.1038/s42004-026-02038-y) | [Zenodo](https://doi.org/10.5281/zenodo.16889519)  
+
+
+
+
+
 
 ### Ab Initio
 
@@ -2663,7 +2671,9 @@ Grambow, Colin A., Hayley Weir, Nathaniel Diamant, Alex Tseng, Tommaso Biancalan
 
 
 
-
+* **Hidden structural states of proteins revealed by conformer selection** [2026]  
+Huang, Y.J., Ramelot, T.A., Spaman, L.E. et al.  
+[Nat Commun (2026)](https://doi.org/10.1038/s41467-026-71997-6)  
 
 * **ConforNets: Latents-Based Conformational Control in OpenFold3** [2026]  
 Minji Lee, Colin Kalicki, Minkyu Jeon, Aymen Qabel, Alisia Fadini, Mohammed AlQuraishi.  
