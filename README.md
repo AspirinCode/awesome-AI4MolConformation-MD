@@ -579,7 +579,9 @@ https://github.com/ipudu/awesome-molecular-dynamics
 
 
 
-
+* **Martini Mapper: An Automated Fragment-Based Mapping Algorithm for Developing Coarse-Grained Models within the Martini 3 Framework** [2026]  
+Kevin V. Bigting, Shubhadeep Nag, and Yaxin An.  
+[J. Chem. Inf. Model. (2026)](https://doi.org/10.1021/acs.jcim.5c02903) | [code](https://github.com/eliobaby/Martini_mapper)  
 
 * **Probabilistic Forecasting for Coarse-Grained Molecular Dynamics** [2026]  
 Luc F. Christians, Anna Wojnar, and Alexander J. Pak.  
