@@ -815,7 +815,9 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
-
+* **Anchor-Based Relative Free Energy Simulations using Machine-Learned Interatomic Potentials** [2026]  
+Anna Katharina Picha, Stefan Boresch.  
+[ChemRxiv (2026)](https://doi.org/10.26434/chemrxiv.15001438/v1) | [code](https://github.com/cbc-univie/anchor-4D)  
 
 * **Benchmarking Universal Machine-Learned Interatomic Potentials for High-Temperature Metal-Organic Framework Chemistry** [2026]  
 Connor W. Edwards, Jack D. Evans.  
@@ -1474,6 +1476,11 @@ Anstine DM, Zhao Q, Zubatiuk R, Zhang S, Singla V, Nikitin F, et al.
 
 
 
+
+
+* **Anchor-Based Relative Free Energy Simulations using Machine-Learned Interatomic Potentials** [2026]  
+Anna Katharina Picha, Stefan Boresch.  
+[ChemRxiv (2026)](https://doi.org/10.26434/chemrxiv.15001438/v1) | [code](https://github.com/cbc-univie/anchor-4D)  
 
 * **Machine-Learned Electrostatic Potentials for Accurate Hydration Free Energy Calculations** [2026]  
 Mathias Hilfiker, Leonardo Medrano Sandonas, Alexandre Tkatchenko, Ola Engkvist, and Marco Klähn.  
