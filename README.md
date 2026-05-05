@@ -1863,7 +1863,9 @@ Do, Hung N., Jinan Wang, Apurba Bhattarai, and Yinglong Miao.
 
 
 
-
+* **BilboMD: a web-accessible SAXS and AlphaFold-guided modeling pipeline** [2026]  
+Scott Classen, Joshua Del Mundo, Dhruva Kulkarni, Shreyas Prabhakar, Alan Hicks, Michal Hammel.  
+[Nucleic Acids Research (2026)](https://doi.org/10.1093/nar/gkag377) | [code](https://github.com/bl1231/bilbomd)  
 
 * **PreStoi allows accurate prediction of protein complex stoichiometry by integrating AlphaFold3 and template information** [2026]  
 Liu, J., Neupane, P. & Cheng, J.  
