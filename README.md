@@ -813,7 +813,9 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
-
+* **Knowing when to trust machine-learned interatomic potentials** [2026]  
+Shams Mehdi, Ilkwon Cho, Olexandr Isayev.  
+[arXiv:2605.00640 (2026)](https://doi.org/10.48550/arXiv.2605.00640) | [code](https://github.com/isayevlab/PROBE)  
 
 * **Anchor-Based Relative Free Energy Simulations using Machine-Learned Interatomic Potentials** [2026]  
 Anna Katharina Picha, Stefan Boresch.  
