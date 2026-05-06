@@ -641,6 +641,9 @@ Kevin V. Bigting, Shubhadeep Nag, Yaxin An.
 
 
 
+
+
+
 ## AI4MD
 
 
@@ -648,6 +651,16 @@ Kevin V. Bigting, Shubhadeep Nag, Yaxin An.
 
 
 
+
+
+
+* **Force-free molecular dynamics through autoregressive equivariant networks** [2026]  
+Thiemann, F.L., Reschützegger, T., Esposito, M. et al.  
+[Nat Mach Intell (2026)](https://doi.org/10.1038/s42256-026-01227-7) | [code](http://github.com/IBM/trajcast)  
+
+* **Machine learning enabled molecular dynamics-Monte Carlo framework for nanoconfined fluid adsorption** [2026]  
+Liu, J., Chen, G., He, S. et al.  
+[Commun Chem (2026)](https://doi.org/10.1038/s42004-026-02053-z) | [Zenodo](https://zenodo.org/records/19488275)  
 
 * **Learning Structure, Energy, and Dynamics: A Survey of Artificial Intelligence for Protein Dynamics** [2026]  
 Haocheng Tang, Liang Shi, Ya-Shi Zhang, Xixian Liu, Jian Tang, Jiarui Lu.  
@@ -807,11 +820,24 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
+
+
+
 ### Neural Network Potentials
 
 
 
 
+
+
+
+
+
+
+
+* **Evaluating mechanical property prediction across material classes using molecular dynamics simulations with universal machine-learned interatomic potentials** [2026]  
+Stracke, K., Edwards, C.W. & Evans, J.D.  
+[Commun Chem (2026)](https://doi.org/10.1038/s42004-026-02057-9) | [Zenodo](https://zenodo.org/records/17730689)  
 
 * **Knowing when to trust machine-learned interatomic potentials** [2026]  
 Shams Mehdi, Ilkwon Cho, Olexandr Isayev.  
@@ -1762,12 +1788,17 @@ KYuan, E.CY., Kumar, A., Guan, X. et al.
 
 
 
+
+
+
 ### AI-QuantumChem
 
 
 
 
-
+* **Interpretable ML-DFT Framework for Performance Prediction and Structure–Activity Relationship Analysis of Acidic Copper Plating Levelers** [2026]  
+Bo Yang, Wenmin Liao, Yue Kong, Decheng Li, Yilei Yue, Linan Xu, Tong Liu, Jun Zhong, and Song Lin.  
+[J. Chem. Inf. Model. (2026)](https://doi.org/10.1021/acs.jcim.6c00036)  
 
 * **Accurate and scalable exchange-correlation with deep learning** [2026]  
 Luise, G., Huang, C.W., Vogels, T., Kooi, D.P., Ehlert, S., Lanius, S., Giesbertz, K.J., Karton, A., Gunceler, D., Stanley, M. and Bruinsma, W.P.  
@@ -2053,7 +2084,9 @@ Del Alamo, Diego, Davide Sala, Hassane S. Mchaourab, and Jens Meiler.
 
 
 
-
+* **Force-free molecular dynamics through autoregressive equivariant networks** [2026]  
+Thiemann, F.L., Reschützegger, T., Esposito, M. et al.  
+[Nat Mach Intell (2026)](https://doi.org/10.1038/s42256-026-01227-7) | [code](http://github.com/IBM/trajcast)  
 
 * **Simultaneous Modeling of Protein Conformation and Dynamics via Autoregression** [2025]   
 Yuning Shen, Lihao Wang, Huizhuo Yuan, Yan Wang, Bangji Yang, Quanquan Gu.  
@@ -3323,11 +3356,26 @@ Christopher Fullenkamp, Shams Mehdi, Christopher Jones, Logan Tenney, Patricio P
 
 
 
+
+
+
 ### Material ensembles
 
 
 
 
+
+
+
+
+
+* **Machine learning enabled molecular dynamics-Monte Carlo framework for nanoconfined fluid adsorption** [2026]  
+Liu, J., Chen, G., He, S. et al.  
+[Commun Chem (2026)](https://doi.org/10.1038/s42004-026-02053-z) | [Zenodo](https://zenodo.org/records/19488275)  
+
+* **Evaluating mechanical property prediction across material classes using molecular dynamics simulations with universal machine-learned interatomic potentials** [2026]  
+Stracke, K., Edwards, C.W. & Evans, J.D.  
+[Commun Chem (2026)](https://doi.org/10.1038/s42004-026-02057-9) | [Zenodo](https://zenodo.org/records/17730689)  
 
 * **Benchmarking Universal Machine-Learned Interatomic Potentials for High-Temperature Metal-Organic Framework Chemistry** [2026]  
 Connor W. Edwards, Jack D. Evans.  
