@@ -2735,11 +2735,21 @@ Grambow, Colin A., Hayley Weir, Nathaniel Diamant, Alex Tseng, Tommaso Biancalan
 
 
 
+
+
 ### Protein conformational ensembles
 
 
 
 
+
+
+
+
+
+* **DPLM: Dynamics-aware Protein Language Model via contrastive learning between sequence and molecular dynamics simulation trajectory** [2026]  
+Yuexu Jiang, Duolin Wang, Ibrahim A. Imam, Dong Xu, Qing Shao.  
+[bioRxiv (2026)](https://doi.org/10.64898/2026.04.29.721692) | [code](https://github.com/yuexujiang/DPLM_release)  
 
 * **Learning Structure, Energy, and Dynamics: A Survey of Artificial Intelligence for Protein Dynamics** [2026]  
 Haocheng Tang, Liang Shi, Ya-Shi Zhang, Xixian Liu, Jian Tang, Jiarui Lu.  
