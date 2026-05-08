@@ -833,7 +833,9 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
-
+* **Platonic representation of foundation machine learning interatomic potentials** [2026]  
+Li, Z., Walsh, A.  
+[Nat Mach Intell (2026)](https://doi.org/10.1038/s42256-026-01235-7) | [code](https://github.com/WMD-group/PlatonicRep)  
 
 * **Evaluating mechanical property prediction across material classes using molecular dynamics simulations with universal machine-learned interatomic potentials** [2026]  
 Stracke, K., Edwards, C.W. & Evans, J.D.  
