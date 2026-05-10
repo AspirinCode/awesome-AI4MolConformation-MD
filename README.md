@@ -831,7 +831,9 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
-
+* **AiiDA-TrainsPot: towards automated training of neural-network interatomic potentials** [2026]  
+Bidoggia, Davide and Manko, Nataliia and Peressi, Maria and Marrazzo, Antimo.  
+[Digital Discovery (2026)](https://doi.org/10.1039/D6DD00005C) | [code](https://github.com/aiida-trieste-developers/aiida-trains-pot)  
 
 * **Platonic representation of foundation machine learning interatomic potentials** [2026]  
 Li, Z., Walsh, A.  
