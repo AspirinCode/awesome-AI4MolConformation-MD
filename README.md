@@ -1656,6 +1656,16 @@ Wieners, L., Garcia, M.E.
 
 
 
+
+
+
+
+
+
+* **Accurate density functional theory for noncovalent interactions in charged systems** [2026]  
+Zhao, H., Lőrincz, B.D., Henkes, T., Berta, D., Nagy, P.R., Tkatchenko, A. and Vuckovic, S.  
+[Sci. Adv. (2026)](https://doi.org/10.1126/sciadv.adz8521) | [code](https://github.com/bertadenes/qm_selector)  
+
 * **Predicting Molecular Laser Properties from First-Principles Using Machine Learning-Based Nuclear Ensemble Approach Spectra** [2026]  
 Luis Cerdán, Antonio Francés-Monerris, Michael G. S. Londesborough, and Daniel Roca-Sanjuán.  
 [J. Chem. Theory Comput. (2026)](https://doi.org/10.1021/acs.jctc.5c01866)  
