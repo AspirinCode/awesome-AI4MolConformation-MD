@@ -831,6 +831,12 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
+
+
+* **Integrating Machine Learning Interatomic Potentials with MMPBSA for Accurate Protein–Ligand Binding Free Energy Calculations** [2026]  
+Wei, Xue-Xin, Yuxinxin Chen, Yuedong Yang, Mingyuan Xu, Pavlo O. Dral, and Hongming Chen.  
+[J. Phys. Chem. B (2026)](https://doi.org/10.1021/acs.jpcb.6c00306) | [code](https://github.com/XueXinWei-AI4S/AIQM-PBSA)  
+
 * **AiiDA-TrainsPot: towards automated training of neural-network interatomic potentials** [2026]  
 Bidoggia, Davide and Manko, Nataliia and Peressi, Maria and Marrazzo, Antimo.  
 [Digital Discovery (2026)](https://doi.org/10.1039/D6DD00005C) | [code](https://github.com/aiida-trieste-developers/aiida-trains-pot)  
@@ -1512,7 +1518,9 @@ Anstine DM, Zhao Q, Zubatiuk R, Zhang S, Singla V, Nikitin F, et al.
 
 
 
-
+* **Integrating Machine Learning Interatomic Potentials with MMPBSA for Accurate Protein–Ligand Binding Free Energy Calculations** [2026]  
+Wei, Xue-Xin, Yuxinxin Chen, Yuedong Yang, Mingyuan Xu, Pavlo O. Dral, and Hongming Chen.  
+[J. Phys. Chem. B (2026)](https://doi.org/10.1021/acs.jpcb.6c00306) | [code](https://github.com/XueXinWei-AI4S/AIQM-PBSA)  
 
 * **Dual-LAO for calculating fast and robust relative binding free energies of simple and complex transformations** [2026]  
 Ansari, N., Aviat, F., Hénin, J. et al.  
@@ -3201,6 +3209,11 @@ Spoendlin, Fabian C., Wing Ki Wong, Guy Georges, Alexander Bujotzek, and Charlot
 
 
 
+
+
+* **Integrating Machine Learning Interatomic Potentials with MMPBSA for Accurate Protein–Ligand Binding Free Energy Calculations** [2026]  
+Wei, Xue-Xin, Yuxinxin Chen, Yuedong Yang, Mingyuan Xu, Pavlo O. Dral, and Hongming Chen.  
+[J. Phys. Chem. B (2026)](https://doi.org/10.1021/acs.jpcb.6c00306) | [code](https://github.com/XueXinWei-AI4S/AIQM-PBSA)  
 
 * **Development and large-scale benchmarks of a protein-ligand absolute binding free energy toolkit** [2026]  
 Yu Liu, Ailun Wang, Yu Xia, Zhi Wang, Wen Yan.  
