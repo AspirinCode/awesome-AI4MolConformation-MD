@@ -833,6 +833,10 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
+* **Systematic Fine-Tuning of MACE Interatomic Potentials for Catalysis** [2026]  
+Nima Karimitari, Jacob Clary, Derek Vigil-Fowler, Ravishankar Sundararaman, Gábor Csányi, Christopher Sutton.  
+[arXiv:2605.09394 (2026)](https://doi.org/10.48550/arXiv.2605.09394) | [Zenodo](https://doi.org/10.5281/zenodo.20043317)  
+
 * **Integrating Machine Learning Interatomic Potentials with MMPBSA for Accurate Protein–Ligand Binding Free Energy Calculations** [2026]  
 Wei, Xue-Xin, Yuxinxin Chen, Yuedong Yang, Mingyuan Xu, Pavlo O. Dral, and Hongming Chen.  
 [J. Phys. Chem. B (2026)](https://doi.org/10.1021/acs.jpcb.6c00306) | [code](https://github.com/XueXinWei-AI4S/AIQM-PBSA)  
@@ -1821,10 +1825,22 @@ KYuan, E.CY., Kumar, A., Guan, X. et al.
 
 
 
+
+
+
 ### AI-QuantumChem
 
 
 
+
+
+
+
+
+
+* **A. Learning density functionals with differentiable DFT** [2026]  
+von Strachwitz, A.  
+[Nat Rev Phys (2026)](https://doi.org/10.1038/s42254-026-00948-3)  
 
 * **Interpretable ML-DFT Framework for Performance Prediction and Structure–Activity Relationship Analysis of Acidic Copper Plating Levelers** [2026]  
 Bo Yang, Wenmin Liao, Yue Kong, Decheng Li, Yilei Yue, Linan Xu, Tong Liu, Jun Zhong, and Song Lin.  
