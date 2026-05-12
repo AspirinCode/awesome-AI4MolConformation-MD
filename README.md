@@ -1510,6 +1510,14 @@ Anstine DM, Zhao Q, Zubatiuk R, Zhang S, Singla V, Nikitin F, et al.
 
 
 
+
+
+
+
+* **Dual-LAO for calculating fast and robust relative binding free energies of simple and complex transformations** [2026]  
+Ansari, N., Aviat, F., Hénin, J. et al.  
+[Commun Chem (2026)](https://doi.org/10.1038/s42004-026-02022-6) | [code](https://github.com/ansarinarjes/RBFE-L-ABF-OPES)  
+
 * **Anchor-Based Relative Free Energy Simulations using Machine-Learned Interatomic Potentials** [2026]  
 Anna Katharina Picha, Stefan Boresch.  
 [ChemRxiv (2026)](https://doi.org/10.26434/chemrxiv.15001438/v1) | [code](https://github.com/cbc-univie/anchor-4D)  
