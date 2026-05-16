@@ -831,7 +831,9 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
-
+* **All-atomistic Transferable Neural Potentials for Protein Solvation** [2026]  
+Rishabh Dey, Salvina Sharipova, Konstantin Popov.  
+[arXiv:2605.14584 (2026)](https://doi.org/10.48550/arXiv.2605.14584)  
 
 * **Systematic Fine-Tuning of MACE Interatomic Potentials for Catalysis** [2026]  
 Nima Karimitari, Jacob Clary, Derek Vigil-Fowler, Ravishankar Sundararaman, Gábor Csányi, Christopher Sutton.  
