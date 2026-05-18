@@ -836,6 +836,12 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
+
+
+* **MLIP-Enhanced Thermochemistry Predictions across Organic Chemical Space** [2026]  
+Rishabh Dey, Salvina Sharipova, Konstantin Popov.  
+[ChemRxiv. (2026)](https://doi.org/10.26434/chemrxiv.15003003/v2) | [code](https://github.com/chimie-paristech-CTM/ThermoMLIP)  
+
 * **All-atomistic Transferable Neural Potentials for Protein Solvation** [2026]  
 Rishabh Dey, Salvina Sharipova, Konstantin Popov.  
 [arXiv:2605.14584 (2026)](https://doi.org/10.48550/arXiv.2605.14584)  
