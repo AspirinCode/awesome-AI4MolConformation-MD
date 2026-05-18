@@ -239,6 +239,11 @@ Athavale V, Kulichenko M, Fernandez-Alberti S, Niklasson A, Tretiak S.
 
 
 
+
+* **Force Field and Membrane Patch Size Effects on Atomistic Models of Aquaporin-7** [2026]  
+Marta S. P. Batista, Miguel Machuqueiro, and Bruno L. Victor.  
+[J. Chem. Inf. Model. (2026)](https://doi.org/10.1021/acs.jcim.6c00007)  
+
 * **Automated Force Field Developer and Optimizer Platform: Torsion Reparameterization** [2026]  
 Alejandro Blanco-Gonzalez, William Betancourt, Ryan Michael Snyder, Shi Zhang, Timothy J. Giese, Zeke A. Piskulich, Andreas W. Götz, Kenneth M. Merz Jr., Darrin M. York, Hasan Metin Aktulga, and Madushanka Manathunga.  
 [J. Chem. Inf. Model. (2026)](https://doi.org/10.1021/acs.jcim.6c00528) | [web](https://www.attmosdiscovery.com/tools)  
