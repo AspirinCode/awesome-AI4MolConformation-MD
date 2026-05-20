@@ -836,7 +836,9 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
-
+* **Reweighting free energy profiles between universal machine learning interatomic potentials for fast consensus building** [2026]  
+Sauradeep Majumdar, Miguel Steiner, Johannes C. B. Dietschreit, Swagata Roy, Daniel Willimetz, Lukaš Grajciar, Rafael Gómez-Bombarelli.  
+[arXiv:2605.15630 (2026)](https://doi.org/10.48550/arXiv.2605.15630) | [code](https://github.com/sauradeep93/Reweighting-free-energies) | [Zenodo](https://zenodo.org/records/20142456)  
 
 * **MLIP-Enhanced Thermochemistry Predictions across Organic Chemical Space** [2026]  
 Rishabh Dey, Salvina Sharipova, Konstantin Popov.  
@@ -1525,6 +1527,10 @@ Anstine DM, Zhao Q, Zubatiuk R, Zhang S, Singla V, Nikitin F, et al.
 
 
 
+
+
+
+
 ### Free Energy Perturbation
 
 
@@ -1534,6 +1540,14 @@ Anstine DM, Zhao Q, Zubatiuk R, Zhang S, Singla V, Nikitin F, et al.
 
 
 
+
+
+
+
+
+* **Reweighting free energy profiles between universal machine learning interatomic potentials for fast consensus building** [2026]  
+Sauradeep Majumdar, Miguel Steiner, Johannes C. B. Dietschreit, Swagata Roy, Daniel Willimetz, Lukaš Grajciar, Rafael Gómez-Bombarelli.  
+[arXiv:2605.15630 (2026)](https://doi.org/10.48550/arXiv.2605.15630) | [code](https://github.com/sauradeep93/Reweighting-free-energies) | [Zenodo](https://zenodo.org/records/20142456)  
 
 * **Integrating Machine Learning Interatomic Potentials with MMPBSA for Accurate Protein–Ligand Binding Free Energy Calculations** [2026]  
 Wei, Xue-Xin, Yuxinxin Chen, Yuedong Yang, Mingyuan Xu, Pavlo O. Dral, and Hongming Chen.  
