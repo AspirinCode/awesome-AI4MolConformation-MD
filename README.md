@@ -1657,7 +1657,17 @@ Ross, G.A., Lu, C., Scarabelli, G. et al.
 
 
 
+
+
+
+
+
 ### Theoretical Chemistry
+
+
+
+
+
 
 
 
@@ -1675,7 +1685,14 @@ Pham, T.D., Tanikanti, A. & Keçeli, M.
 
 
 
+
+
+
+
 ### QuantumChem
+
+
+
 
 
 
@@ -1683,6 +1700,8 @@ Pham, T.D., Tanikanti, A. & Keçeli, M.
 * [PySCF](https://github.com/pyscf/) - Python module for quantum chemistry.
 * [gpu4pyscf](https://github.com/pyscf/gpu4pyscf) - A plugin to use Nvidia GPU in PySCF package.
 * [PyFock](https://github.com/manassharma07/PyFock) - An efficient and fully parallelized pure python DFT code with GPU acceleration.
+
+
 
 
 
@@ -1865,7 +1884,9 @@ KYuan, E.CY., Kumar, A., Guan, X. et al.
 
 
 
-
+* **Efficient and Equivariant Prediction of Distributed Charges for Accurate Molecular Electrostatics** [2026]  
+Eric D. Boittier and Markus Meuwly.  
+[J. Chem. Theory Comput. (2026)](https://doi.org/10.1021/acs.jctc.6c00248)  
 
 * **A. Learning density functionals with differentiable DFT** [2026]  
 von Strachwitz, A.  
