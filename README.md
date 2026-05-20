@@ -2307,9 +2307,9 @@ Tatro, Norman Joseph, Payel Das, Pin-Yu Chen, Vijil Chenthamarakshan, and Rongji
 
 
 
-* **DeepPath: Overcoming data scarcity for protein transition pathway prediction using physics-based deep learning** [2025]  
+* **DeepPath: Overcoming data scarcity for protein transition pathway prediction using physics-based deep learning** [2026]  
 Yui Tik Pang, Katie M. Kuo, Lixinhao Yang, James C. Gumbart.   
-[bioRxiv. (2025)](https://doi.org/10.1101/2025.02.27.640693)   
+[Chem. Sci. (2026)](https://doi.org/10.1039/D5SC08253F) | [bioRxiv. (2025)](https://doi.org/10.1101/2025.02.27.640693) | [code](https://huggingface.co/andrewytp/deeppath)  
 
 * **Direct generation of protein conformational ensembles via machine learning** [2023]  
 Janson, G., Valdes-Garcia, G., Heo, L. et al.   
@@ -2818,7 +2818,9 @@ Grambow, Colin A., Hayley Weir, Nathaniel Diamant, Alex Tseng, Tommaso Biancalan
 
 
 
-
+* **DeepPath: Overcoming data scarcity for protein transition pathway prediction using physics-based deep learning** [2026]  
+Yui Tik Pang, Katie M. Kuo, Lixinhao Yang, James C. Gumbart.   
+[Chem. Sci. (2026)](https://doi.org/10.1039/D5SC08253F) | [bioRxiv. (2025)](https://doi.org/10.1101/2025.02.27.640693) | [code](https://huggingface.co/andrewytp/deeppath)  
 
 * **DPLM: Dynamics-aware Protein Language Model via contrastive learning between sequence and molecular dynamics simulation trajectory** [2026]  
 Yuexu Jiang, Duolin Wang, Ibrahim A. Imam, Dong Xu, Qing Shao.  
