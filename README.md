@@ -1707,7 +1707,9 @@ Wieners, L., Garcia, M.E.
 
 
 
-
+* **GMFCC-UMA: A Fragment-Based Machine Learning Framework for Scalable Ab Initio-Quality Protein Energies** [2026]  
+Wan-sheng Ren, Jin Xiao, Yingfeng Zhang, Tong Zhu, and John Z. H. Zhang.  
+[J. Chem. Theory Comput.(2026)](https://doi.org/10.1021/acs.jctc.6c00459)  
 
 * **Accurate density functional theory for noncovalent interactions in charged systems** [2026]  
 Zhao, H., Lőrincz, B.D., Henkes, T., Berta, D., Nagy, P.R., Tkatchenko, A. and Vuckovic, S.  
