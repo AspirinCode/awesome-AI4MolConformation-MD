@@ -279,6 +279,13 @@ Wang, L., Brasnett, C., Borges-Araújo, L. et al.
 
 
 
+
+
+
+* **aims-PAX: Parallel Active Exploration Enables Expedited Construction of Machine Learning Force Fields for Molecules and Materials** [2026]  
+Henkes, Tobias, Shubham Sharma, Alexandre Tkatchenko, Mariana Rossi, and Igor Poltavsky..  
+[J. Chem. Inf. Model. (2026)](https://doi.org/10.1021/acs.jcim.5c02682) | [code](https://github.com/tohenkes/aims-PAX)  
+
 * **DeFecT-FF: a machine learning force field framework for high throughput defect modeling in CdTe-based solar cells** [2026]  
 Rahman, Md Habibur, Maitreyo Biswas, and Arun Mannodi-Kanakkithodi.  
 [Phys. Chem. Chem. Phys. (2026)](https://doi.org/10.1039/D6CP00170J) | [data](https://nanohub.org/resources/defectdatabase)  
@@ -845,7 +852,9 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
-
+* **Benchmarking machine-learned interatomic potentials for molecular infrared spectroscopy** [2026]  
+Nitik Bhatia, Ondrej Krejci, Patrick Rinke.  
+[arXiv:2605.22367 (2026)](https://doi.org/10.48550/arXiv.2605.22367) | [code](https://gitlab.com/cest-group/ml4ir-bench)  
 
 * **Machine Learning Interatomic Potentials: Advancing Open-Source Software for Efficient and Scalable Molecular Simulation** [2026]  
 Christoph Brunken, Titouan Cormier, Lucien Walewski, Marco Carobene, Yessine Khanfir, Zachary Weller-Davies, Miguel Bragança, Armand Picard, Adrien Pichard, Leon Wehrhan, Heloise Chomet, Eszter Varga-Umbrich, Marie Bluntzer, Massimo Bortone, Valentin Heyraud, Silvia Acosta-Gutiérrez, Jules Tilly, Olivier Peltre.  
@@ -1898,6 +1907,13 @@ KYuan, E.CY., Kumar, A., Guan, X. et al.
 
 
 
+
+
+
+
+* **Incorporating Scientific Knowledge into Neural Network Density Functionals** [2026]  
+Mark Yu. Schneider, Danis U. Zaripov, Roman Yu. Dokin, Alexander A. Ryabov, Timofey V. Losev, and Michael G. Medvedev.  
+[J. Chem. Theory Comput. (2026)](https://doi.org/10.1021/acs.jctc.6c00270)  
 
 * **Efficient and Equivariant Prediction of Distributed Charges for Accurate Molecular Electrostatics** [2026]  
 Eric D. Boittier and Markus Meuwly.  
