@@ -506,6 +506,14 @@ Barnett, Simon, and John D. Chodera.
 
 
 
+
+
+
+
+* **CRISP: Enhancing ASE Workflows With Advanced Molecular Simulation Post-Processing** [2026]  
+I.Saha, D.Willimetz, and L.Grajciar.  
+[Journal of Computational Chemistry (2026)](https://doi.org/10.1002/jcc.70384)  
+
 * **Ensemble Analyzer: An Open-Source Python Framework for Automated Conformer Ensemble Refinement** [2026]  
 Andrea Pellegrini, Paolo Righi, Andrea Mazzanti, and Michele Mancinelli.  
 [J. Chem. Inf. Model. (2026)](https://doi.org/10.1021/acs.jcim.6c00273) | [code](https://github.com/andre-cloud/ensemble_analyzer)  
@@ -835,6 +843,13 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
+
+
+
+
+* **Machine Learning Interatomic Potentials: Advancing Open-Source Software for Efficient and Scalable Molecular Simulation** [2026]  
+Christoph Brunken, Titouan Cormier, Lucien Walewski, Marco Carobene, Yessine Khanfir, Zachary Weller-Davies, Miguel Bragança, Armand Picard, Adrien Pichard, Leon Wehrhan, Heloise Chomet, Eszter Varga-Umbrich, Marie Bluntzer, Massimo Bortone, Valentin Heyraud, Silvia Acosta-Gutiérrez, Jules Tilly, Olivier Peltre.  
+[arXiv:2605.22698 (2026)](https://doi.org/10.48550/arXiv.2605.22698) | [code](https://huggingface.co/collections/InstaDeepAI/ml-interatomic-potentials)  
 
 * **Reweighting free energy profiles between universal machine learning interatomic potentials for fast consensus building** [2026]  
 Sauradeep Majumdar, Miguel Steiner, Johannes C. B. Dietschreit, Swagata Roy, Daniel Willimetz, Lukaš Grajciar, Rafael Gómez-Bombarelli.  
