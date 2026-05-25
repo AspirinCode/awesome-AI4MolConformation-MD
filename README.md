@@ -515,7 +515,9 @@ Barnett, Simon, and John D. Chodera.
 
 
 
-
+* **MonicaMD: Molecules and Internal Cluster Analysis of Molecular Dynamics Simulations** [2026]  
+Ferdinand L. Pointner, Sebastian Reiter, Benjamin P. Fingerhut, and Regina de Vivie-Riedle.  
+[J. Chem. Inf. Model. (2026)](https://doi.org/10.1021/acs.jcim.6c00502)  
 
 * **CRISP: Enhancing ASE Workflows With Advanced Molecular Simulation Post-Processing** [2026]  
 I.Saha, D.Willimetz, and L.Grajciar.  
@@ -2442,6 +2444,13 @@ Yuancheng Sun, Yuxuan Ren, Zhaoming Chen, Xu Han, Kang Liu, Qiwei Ye.
 
 
 
+
+
+
+* **Distance-Restraint-Guided Diffusion Models for Sampling Protein Conformational Changes and Ligand Dissociation Pathways** [2026]  
+Tatsuki Hori, Yoshitaka Moriwaki, and Ryuichiro Ishitani.  
+[J. Chem. Theory Comput. (2026)](https://doi.org/10.1021/acs.jctc.6c00199) | [code](https://github.com/cddlab/boltz_restr)  
+
 * **Conditional diffusion with locality-aware modal alignment for generating diverse protein conformational ensembles** [2026]  
 Wang, B., Wang, C., Chen, J. et al.  
 [Nat Mach Intell (2026)](https://doi.org/10.1038/s42256-026-01198-9) | [code](https://github.com/Paulie-ai/Mac-Diff) | [Zenodo](https://doi.org/10.5281/zenodo.17936479)  
@@ -2869,6 +2878,14 @@ Grambow, Colin A., Hayley Weir, Nathaniel Diamant, Alex Tseng, Tommaso Biancalan
 
 
 
+
+* **Generative Machine Learning of Conformational Ensembles of Intrinsically Disordered Proteins: Progress and Opportunities** [2026]  
+Irawati Roy and Jagannath Mondal.  
+[J. Chem. Theory Comput. (2026)](https://doi.org/10.1021/acs.jctc.6c00354)  
+
+* **Distance-Restraint-Guided Diffusion Models for Sampling Protein Conformational Changes and Ligand Dissociation Pathways** [2026]  
+Tatsuki Hori, Yoshitaka Moriwaki, and Ryuichiro Ishitani.  
+[J. Chem. Theory Comput. (2026)](https://doi.org/10.1021/acs.jctc.6c00199) | [code](https://github.com/cddlab/boltz_restr)  
 
 * **DeepPath: Overcoming data scarcity for protein transition pathway prediction using physics-based deep learning** [2026]  
 Yui Tik Pang, Katie M. Kuo, Lixinhao Yang, James C. Gumbart.   
