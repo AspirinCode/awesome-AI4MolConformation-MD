@@ -282,6 +282,10 @@ Wang, L., Brasnett, C., Borges-Araújo, L. et al.
 
 
 
+* **MAPLE: a machine-learning force-field-native platform for automated reaction modeling and enzyme design** [2026]  
+  Wang, Xujian, Zeyu Sun, Yilu Zhang, Carlo Asam, Ruzhan Zhu, Wan-Lu Li, and Junmei Wang.  
+  [Chemical Science (2026)](https://doi.org/10.1039/D6SC01279E) | [code](https://github.com/ClickFF/MAPLE)  
+
 * **aims-PAX: Parallel Active Exploration Enables Expedited Construction of Machine Learning Force Fields for Molecules and Materials** [2026]  
 Henkes, Tobias, Shubham Sharma, Alexandre Tkatchenko, Mariana Rossi, and Igor Poltavsky..  
 [J. Chem. Inf. Model. (2026)](https://doi.org/10.1021/acs.jcim.5c02682) | [code](https://github.com/tohenkes/aims-PAX)  
@@ -1913,6 +1917,11 @@ KYuan, E.CY., Kumar, A., Guan, X. et al.
 
 
 
+
+* **Machine learning the quantum topology of chemical bonds** [2026]  
+Michalski, M., & Berski, S.  
+[Phys. Chem. Chem. Phys. (2026)](https://doi.org/10.1039/D6CP00029K)  
+
 * **Incorporating Scientific Knowledge into Neural Network Density Functionals** [2026]  
 Mark Yu. Schneider, Danis U. Zaripov, Roman Yu. Dokin, Alexander A. Ryabov, Timofey V. Losev, and Michael G. Medvedev.  
 [J. Chem. Theory Comput. (2026)](https://doi.org/10.1021/acs.jctc.6c00270)  
@@ -3284,8 +3293,21 @@ Du, Yilun, Joshua Meier, Jerry Ma, Rob Fergus, and Alexander Rives.
 
 
 
+
+
+
+
 ### Enzymes conformational ensembles
 
+
+
+
+
+
+
+* **MAPLE: a machine-learning force-field-native platform for automated reaction modeling and enzyme design** [2026]  
+  Wang, Xujian, Zeyu Sun, Yilu Zhang, Carlo Asam, Ruzhan Zhu, Wan-Lu Li, and Junmei Wang.  
+  [Chemical Science (2026)](https://doi.org/10.1039/D6SC01279E) | [code](https://github.com/ClickFF/MAPLE)  
 
 * **Generating Multi-state Conformations of P-type ATPases with a Diffusion Model** [2024]  
 Jingtian Xu, Yong Wang.   
@@ -3293,7 +3315,7 @@ Jingtian Xu, Yong Wang.
 
 * **Deciphering the Coevolutionary Dynamics of L2 β-Lactamases via Deep Learning** [2024]  
   Zhu, Yu, Jing Gu, Zhuoran Zhao, AW Edith Chan, Maria F. Mojica, Andrea M. Hujer, Robert A. Bonomo, and Shozeb Haider.  
-  [J. Chem. Inf. Model. (2024)](https://doi.org/10.1021/acs.jcim.4c00189) | [data](https://zenodo.org/records/10500539)
+  [J. Chem. Inf. Model. (2024)](https://doi.org/10.1021/acs.jcim.4c00189) | [data](https://zenodo.org/records/10500539)  
 
 
 
