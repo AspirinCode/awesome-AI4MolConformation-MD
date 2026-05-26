@@ -680,6 +680,14 @@ Kevin V. Bigting, Shubhadeep Nag, Yaxin An.
 
 
 
+* **QUASAR: A Universal Autonomous System for Atomistic Simulation and a Benchmark of Its Capabilities** [2026]  
+Fengxu Yang and Jack D. Evans.  
+[J. Chem. Inf. Model. (2026)](https://doi.org/10.1021/acs.jcim.6c00295)  
+
+* **Understanding Adsorption and Reactions at Aqueous Oxide Interfaces with Neural Network Potential Molecular Dynamics** [2026]  
+Sanghyun J. Park, Abhinav S. Raman, and Annabella Selloni.  
+[Acc. Mater. Res. (2026)](https://doi.org/10.1021/accountsmr.6c00001) | [code](https://github.com/sanghyunjonathan/Methanol-Adsorbed-TiO2-Interface)  
+
 * **Force-free molecular dynamics through autoregressive equivariant networks** [2026]  
 Thiemann, F.L., Reschützegger, T., Esposito, M. et al.  
 [Nat Mach Intell (2026)](https://doi.org/10.1038/s42256-026-01227-7) | [code](http://github.com/IBM/trajcast)  
@@ -857,6 +865,12 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
+
+
+
+* **Understanding Adsorption and Reactions at Aqueous Oxide Interfaces with Neural Network Potential Molecular Dynamics** [2026]  
+Sanghyun J. Park, Abhinav S. Raman, and Annabella Selloni.  
+[Acc. Mater. Res. (2026)](https://doi.org/10.1021/accountsmr.6c00001) | [code](https://github.com/sanghyunjonathan/Methanol-Adsorbed-TiO2-Interface)  
 
 * **Benchmarking machine-learned interatomic potentials for molecular infrared spectroscopy** [2026]  
 Nitik Bhatia, Ondrej Krejci, Patrick Rinke.  
