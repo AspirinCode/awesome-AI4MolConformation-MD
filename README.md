@@ -1930,7 +1930,9 @@ KYuan, E.CY., Kumar, A., Guan, X. et al.
 
 
 
-
+* **NN-xTB: density functional accuracy at semi empirical speed with neural network extended tight binding** [2026]  
+Xia, Y., Thie, A., Soon, J. et al.  
+[Nat Commun (2026)](https://doi.org/10.1038/s41467-026-73184-z) | [code](https://github.com/Yufan121/NN-xTB)  
 
 * **Machine learning the quantum topology of chemical bonds** [2026]  
 Michalski, M., & Berski, S.  
