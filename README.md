@@ -2902,6 +2902,12 @@ Grambow, Colin A., Hayley Weir, Nathaniel Diamant, Alex Tseng, Tommaso Biancalan
 
 
 
+
+
+* **Learning protein representations with conformational dynamics** [2026]  
+Dan Kalifa, Eric Horvitz, Kira Radinsky.  
+[Bioinformatics (2026)](https://doi.org/10.1093/bioinformatics/btag254) | [code](https://github.com/kalifadan/DynamicsPLM) | [Zenodo](https://doi.org/10.5281/zenodo.17668302)  
+
 * **Generative Machine Learning of Conformational Ensembles of Intrinsically Disordered Proteins: Progress and Opportunities** [2026]  
 Irawati Roy and Jagannath Mondal.  
 [J. Chem. Theory Comput. (2026)](https://doi.org/10.1021/acs.jctc.6c00354)  
