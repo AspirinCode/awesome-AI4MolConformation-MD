@@ -2633,6 +2633,11 @@ Kleiman, Diego E., and Diwakar Shukla.
 
 
 
+
+* **Spatiotemporal graph neural networks reveal conformational binding signature in protein dynamics** [2026]   
+ Stefano Motta, Gianluca Santini, Samman Mansoor, Ferdoos Hossein Nezhad, Massimiliano Meli, Alessandro Pandini.  
+  [bioRxiv (2026)](https://doi.org/10.64898/2026.05.19.726195) | [code](https://github.com/MottaStefano/GISTnet-MD)  
+
 * **Graph neural networks for molecular dynamics simulations** [2026]  
 Ahsan, Mohd, Chinmai Pindi, Souvik Sinha, Amun C. Patel, and Giulia Palermo.  
 [Current Opinion in Structural Biology (2026)](https://doi.org/10.1016/j.sbi.2026.103238)  
@@ -2905,6 +2910,10 @@ Grambow, Colin A., Hayley Weir, Nathaniel Diamant, Alex Tseng, Tommaso Biancalan
 
 
 
+
+* **Spatiotemporal graph neural networks reveal conformational binding signature in protein dynamics** [2026]   
+ Stefano Motta, Gianluca Santini, Samman Mansoor, Ferdoos Hossein Nezhad, Massimiliano Meli, Alessandro Pandini.  
+  [bioRxiv (2026)](https://doi.org/10.64898/2026.05.19.726195) | [code](https://github.com/MottaStefano/GISTnet-MD)  
 
 * **Learning protein representations with conformational dynamics** [2026]  
 Dan Kalifa, Eric Horvitz, Kira Radinsky.  
