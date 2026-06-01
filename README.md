@@ -3561,6 +3561,11 @@ Sneha Bheemireddy, Roy González-Alemán, Emmanuelle Bignon, Yasaman Karami.
 
 
 
+
+* **Assessing Molecular Dynamics in Predicting Aptamer–Ligand Binding Thermodynamics: Insights from the OTA Binding Aptamers** [2026]  
+Alessio Olivieri, Federica Borzelli, Mauro Giustini, and Marco D’Abramo.  
+[J. Chem. Inf. Model.(2026)](https://doi.org/10.1021/acs.jcim.5c02643) | [Zenodo](https://zenodo.org/records/18199595)  
+
 * **Machine learning-augmented molecular dynamics simulations (MD) reveal insights into the disconnect between affinity and activation of ZTP riboswitch ligands** [2025]  
 Christopher Fullenkamp, Shams Mehdi, Christopher Jones, Logan Tenney, Patricio Pichling, Peri R. Prestwood, Adrian R. Ferré-D'Amaré, Pratyush Tiwary, John Schneekloth.  
 [ Angew. Chem. Int. Ed. (2025)](https://doi.org/10.1002/anie.202505971)  
