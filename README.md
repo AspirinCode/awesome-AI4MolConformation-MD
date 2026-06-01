@@ -280,7 +280,9 @@ Wang, L., Brasnett, C., Borges-Araújo, L. et al.
 
 
 
-
+* **Bridging quantum mechanics to liquid properties via a universal organic force field** [2026]  
+  Zheng, T., Xu, X., Wang, Z. et al.  
+  [Nat Commun (2026)](https://doi.org/10.1038/s41467-026-73566-3) | [code](https://github.com/ByteDance-Seed/byteff2)  
 
 * **MAPLE: a machine-learning force-field-native platform for automated reaction modeling and enzyme design** [2026]  
   Wang, Xujian, Zeyu Sun, Yilu Zhang, Carlo Asam, Ruzhan Zhu, Wan-Lu Li, and Junmei Wang.  
@@ -1933,7 +1935,9 @@ KYuan, E.CY., Kumar, A., Guan, X. et al.
 
 
 
-
+* **Bridging quantum mechanics to liquid properties via a universal organic force field** [2026]  
+  Zheng, T., Xu, X., Wang, Z. et al.  
+  [Nat Commun (2026)](https://doi.org/10.1038/s41467-026-73566-3) | [code](https://github.com/ByteDance-Seed/byteff2)  
 
 * **NN-xTB: density functional accuracy at semi empirical speed with neural network extended tight binding** [2026]  
 Xia, Y., Thie, A., Soon, J. et al.  
