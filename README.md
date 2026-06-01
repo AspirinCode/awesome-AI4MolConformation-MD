@@ -605,6 +605,11 @@ https://github.com/ipudu/awesome-molecular-dynamics
 
 
 
+
+* **StruCloze: A Unified Framework for Backmapping and Inpainting Biomolecule Structures** [2026]  
+Junjie Zhu, Zirui Fan, Zhengxin Li, Zhuoqi Zheng, Kresten Lindorff-Larsen, and Hai-Feng Chen.  
+[J. Chem. Theory Comput. (2026)](https://doi.org/10.1021/acs.jctc.6c00214) | [code](https://github.com/Junjie-Zhu/StruCloze)  
+
 * **Martini Mapper: An Automated Fragment-Based Mapping Algorithm for Developing Coarse-Grained Models within the Martini 3 Framework** [2026]  
 Kevin V. Bigting, Shubhadeep Nag, and Yaxin An.  
 [J. Chem. Inf. Model. (2026)](https://doi.org/10.1021/acs.jcim.5c02903) | [code](https://github.com/eliobaby/Martini_mapper)  
@@ -2909,7 +2914,9 @@ Grambow, Colin A., Hayley Weir, Nathaniel Diamant, Alex Tseng, Tommaso Biancalan
 
 
 
-
+* **Wavelet-Enhanced Data-Driven Collective Variables for Efficient Sampling of Protein Folding Landscapes** [2026]   
+ Zhiteng Zhang, Xueguang Shao, and Wensheng Cai.  
+  [J. Chem. Inf. Model. (2026)](https://doi.org/10.1021/acs.jcim.6c00310) | [code](https://github.com/deeptime-ml/deeptime)  
 
 * **Spatiotemporal graph neural networks reveal conformational binding signature in protein dynamics** [2026]   
  Stefano Motta, Gianluca Santini, Samman Mansoor, Ferdoos Hossein Nezhad, Massimiliano Meli, Alessandro Pandini.  
