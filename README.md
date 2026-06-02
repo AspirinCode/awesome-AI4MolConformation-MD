@@ -873,7 +873,9 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
-
+* **DPA4: Pushing the Accuracy-Cost Frontier of Interatomic Potentials with EMFA SO(2) Convolution** [2026]  
+Tiancheng Li, Wentao Li, Anyang Peng, Jianming Xue, Linfeng Zhang, Duo Zhang, Han Wang.  
+[arXiv:2606.02419 (2026)](https://doi.org/10.48550/arXiv.2606.02419) | [code](https://github.com/deepmodeling/deepmd-kit)  
 
 * **Understanding Adsorption and Reactions at Aqueous Oxide Interfaces with Neural Network Potential Molecular Dynamics** [2026]  
 Sanghyun J. Park, Abhinav S. Raman, and Annabella Selloni.  
