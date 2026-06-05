@@ -897,6 +897,11 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
+
+* **Transferable Neural Network Potential for Elastic and Vibrational Properties of Carbon, Hydrogen, Oxygen, and Nitrogen-Based Two Dimensional Covalent Organic Frameworks** [2026]  
+Yunrui Yan, Somayeh Faraji, and Mingjie Liu.  
+[Chem. Mater. (2026)](https://doi.org/10.1021/acs.chemmater.6c00169)  
+
 * **Fast training of bespoke SMIRNOFF-format molecular mechanics force fields using machine learning potentials** [2026]  
 Finlay Clark, Thomas Pope, Sarah Maier, et al.  
 [ChemRxiv. (2026)](https://doi.org/10.26434/chemrxiv.15004169/v1) | [code](https://github.com/cole-group/presto)  
@@ -3645,7 +3650,9 @@ Christopher Fullenkamp, Shams Mehdi, Christopher Jones, Logan Tenney, Patricio P
 
 
 
-
+* **Transferable Neural Network Potential for Elastic and Vibrational Properties of Carbon, Hydrogen, Oxygen, and Nitrogen-Based Two Dimensional Covalent Organic Frameworks** [2026]  
+Yunrui Yan, Somayeh Faraji, and Mingjie Liu.  
+[Chem. Mater. (2026)](https://doi.org/10.1021/acs.chemmater.6c00169)  
 
 * **Machine learning enabled molecular dynamics-Monte Carlo framework for nanoconfined fluid adsorption** [2026]  
 Liu, J., Chen, G., He, S. et al.  
