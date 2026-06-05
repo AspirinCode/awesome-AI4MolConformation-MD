@@ -2558,11 +2558,13 @@ Grambow, Colin A., Hayley Weir, Nathaniel Diamant, Alex Tseng, Tommaso Biancalan
 
 
 
-
+* **Learning Implicit Bias in Generative Spaces for Accelerating Protein Dynamics Emulation** [2026]  
+Kaihui Cheng, Zhiqiang Cai, Wenkai Xiang, Zhihang Hu, Siyu Zhu, Tzuhsiung Yang, Yuan Qi.   
+[arXiv:2606.01833 (2026)](https://doi.org/10.48550/arXiv.2606.01833)  
 
 * **Str2str: A score-based framework for zero-shot protein conformation sampling** [2024]  
 Lu, Jiarui, Bozitao Zhong, Zuobai Zhang, and Jian Tang.   
-[ICLR (2024)](https://openreview.net/forum?id=C4BikKsgmK) | [code](https://github.com/lujiarui/Str2Str)
+[ICLR (2024)](https://openreview.net/forum?id=C4BikKsgmK) | [code](https://github.com/lujiarui/Str2Str)  
 
 * **Score-based enhanced sampling for protein molecular dynamics** [2023]  
 Lu, Jiarui, Bozitao Zhong, and Jian Tang.   
@@ -2878,6 +2880,11 @@ Bottaro, S., Bussi, G., Kennedy, S.D., Turner, D.H. and Lindorff-Larsen, K.
 
 
 
+
+
+
+
+
 * **Extending AIMNet2 to Macrocyclic Peptides Through Data-Efficient Continual Training** [2026]  
 Runtian Gao, Roman Zubatyuk, Olexandr Isayev.  
 [ChemRxiv. (2026)](https://doi.org/10.26434/chemrxiv.15002334/v1)  
@@ -2912,6 +2919,9 @@ Grambow, Colin A., Hayley Weir, Nathaniel Diamant, Alex Tseng, Tommaso Biancalan
 
 
 
+
+
+
 ### Protein conformational ensembles
 
 
@@ -2919,6 +2929,14 @@ Grambow, Colin A., Hayley Weir, Nathaniel Diamant, Alex Tseng, Tommaso Biancalan
 
 
 
+
+
+
+
+
+* **Learning Implicit Bias in Generative Spaces for Accelerating Protein Dynamics Emulation** [2026]  
+Kaihui Cheng, Zhiqiang Cai, Wenkai Xiang, Zhihang Hu, Siyu Zhu, Tzuhsiung Yang, Yuan Qi.   
+[arXiv:2606.01833 (2026)](https://doi.org/10.48550/arXiv.2606.01833)  
 
 * **Wavelet-Enhanced Data-Driven Collective Variables for Efficient Sampling of Protein Folding Landscapes** [2026]   
  Zhiteng Zhang, Xueguang Shao, and Wensheng Cai.  
