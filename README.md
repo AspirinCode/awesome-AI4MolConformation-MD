@@ -273,12 +273,33 @@ Wang, L., Brasnett, C., Borges-Araújo, L. et al.
 
 
 
+
+
+
+
+
+
+
+
+
 ### Neural Molecular Force Fields
 
 
 
 
 
+
+
+
+
+
+
+
+
+
+* **Fast training of bespoke SMIRNOFF-format molecular mechanics force fields using machine learning potentials** [2026]  
+Finlay Clark, Thomas Pope, Sarah Maier, et al.  
+[ChemRxiv. (2026)](https://doi.org/10.26434/chemrxiv.15004169/v1) | [code](https://github.com/cole-group/presto)  
 
 * **Bridging quantum mechanics to liquid properties via a universal organic force field** [2026]  
   Zheng, T., Xu, X., Wang, Z. et al.  
@@ -874,6 +895,11 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
+
+
+* **Fast training of bespoke SMIRNOFF-format molecular mechanics force fields using machine learning potentials** [2026]  
+Finlay Clark, Thomas Pope, Sarah Maier, et al.  
+[ChemRxiv. (2026)](https://doi.org/10.26434/chemrxiv.15004169/v1) | [code](https://github.com/cole-group/presto)  
 
 * **DPA4: Pushing the Accuracy-Cost Frontier of Interatomic Potentials with EMFA SO(2) Convolution** [2026]  
 Tiancheng Li, Wentao Li, Anyang Peng, Jianming Xue, Linfeng Zhang, Duo Zhang, Han Wang.  
