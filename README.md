@@ -685,7 +685,9 @@ Kevin V. Bigting, Shubhadeep Nag, Yaxin An.
 
 
 
-
+* **Scaling k-Means for Multi-Million Frames: A Stratified NANI Approach for Large-Scale MD Simulations** [2026]  
+herome Brylle Woody Santos, Lexin Chen, and Ramón Alain Miranda-Quintana.  
+[J. Chem. Inf. Model. (2026)](https://doi.org/10.1021/acs.jcim.5c02741) | [code](https://github.com/mqcomplab/MDANCE)  
 
 * **QUASAR: A Universal Autonomous System for Atomistic Simulation and a Benchmark of Its Capabilities** [2026]  
 Fengxu Yang and Jack D. Evans.  
