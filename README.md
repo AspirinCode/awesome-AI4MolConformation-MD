@@ -732,7 +732,7 @@ Haocheng Tang, Liang Shi, Ya-Shi Zhang, Xixian Liu, Jian Tang, Jiarui Lu.
 
 * **Faster Molecular Dynamics with Neural Network Potentials via Distilled Multiple Time-Stepping and Non-Conservative Forces** [2026]  
 Nicolaï Gouraud, Côme Cattin, Thomas Plé, Olivier Adjoua, Louis Lagardère, Jean-Philip Piquemal.  
-[arXiv:2602.14975 (2026)](https://doi.org/10.48550/arXiv.2602.14975) | [code](https://github.com/FeNNol-tools/FeNNol)  
+[J. Chem. Theory Comput.(2026)](https://doi.org/10.1021/acs.jctc.6c00653) | [arXiv:2602.14975 (2026)](https://doi.org/10.48550/arXiv.2602.14975) | [code](https://github.com/FeNNol-tools/FeNNol)  
 
 * **Transferable generative models bridge femtosecond to nanosecond time-step molecular dynamics** [2026]  
 Juan Viguera Diez et al.  
@@ -968,7 +968,7 @@ Connor W. Edwards, Jack D. Evans.
 
 * **Faster Molecular Dynamics with Neural Network Potentials via Distilled Multiple Time-Stepping and Non-Conservative Forces** [2026]  
 Nicolaï Gouraud, Côme Cattin, Thomas Plé, Olivier Adjoua, Louis Lagardère, Jean-Philip Piquemal.  
-[arXiv:2602.14975 (2026)](https://doi.org/10.48550/arXiv.2602.14975) | [code](https://github.com/FeNNol-tools/FeNNol)  
+[J. Chem. Theory Comput.(2026)](https://doi.org/10.1021/acs.jctc.6c00653) | [arXiv:2602.14975 (2026)](https://doi.org/10.48550/arXiv.2602.14975) | [code](https://github.com/FeNNol-tools/FeNNol)  
 
 * **Generalization of long-range machine learning potentials in complex chemical spaces** [2026]  
 Sanocki, M. and Zavadlav, J..  
