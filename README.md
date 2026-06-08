@@ -1970,6 +1970,11 @@ KYuan, E.CY., Kumar, A., Guan, X. et al.
 
 
 
+
+* **A dataset of 1.2 million molecules with DFT-level quantum chemical annotations for molecular representation learning** [2026]  
+  Wang, H., Zhang, Z. & Gong, H.  
+  [Commun Chem (2026)](https://doi.org/10.1038/s42004-026-02076-6) | [code](https://github.com/GHUSER-haoyu/qcMol) | [Zenodo](https://zenodo.org/records/19183364)  
+
 * **Bridging quantum mechanics to liquid properties via a universal organic force field** [2026]  
   Zheng, T., Xu, X., Wang, Z. et al.  
   [Nat Commun (2026)](https://doi.org/10.1038/s41467-026-73566-3) | [code](https://github.com/ByteDance-Seed/byteff2)  
