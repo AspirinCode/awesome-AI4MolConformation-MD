@@ -896,7 +896,9 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
-
+* **Accuracy and Efficiency Benchmarks of Pretrained Machine Learning Potentials for Molecular Simulations** [2026]  
+Peter Eastman, Evan Pretti, and Thomas E. Markland.  
+[J. Chem. Theory Comput.(2026)](https://doi.org/10.1021/acs.jctc.6c00130) | [code](https://github.com/peastman/mlipbenchmarks)  
 
 * **Transferable Neural Network Potential for Elastic and Vibrational Properties of Carbon, Hydrogen, Oxygen, and Nitrogen-Based Two Dimensional Covalent Organic Frameworks** [2026]  
 Yunrui Yan, Somayeh Faraji, and Mingjie Liu.  
