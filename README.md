@@ -2777,6 +2777,11 @@ Salomé Guilbert, Cassandra Masschelein, Jeremy Goumaz, Bohdan Naida, Philippe S
 
 
 
+
+* **Artificial Intelligence for Predicting Small-Molecule Bioactive Conformations** [2026]  
+Yuanchen Liu, Suya Chen, Kejiang Lin, Shang Gao, and Xuanyi Li.  
+[J. Chem. Inf. Model. (2026)](https://doi.org/10.1021/acs.jcim.5c03198)  
+
 * **SphereDiff-TS: Sphere Space Diffusion Modeling for Accurate 3D Transition State Geometry Prediction** [2026]  
 Chong Zhao, Pan Li, Shu Zhang, Chuanhao Li, Zhaopeng Li, Yixin Tang, Keyan Linghu, Lei Tang, and Yuanyong Yang.  
 [ACS Omega (2026)](https://doi.org/10.1021/acsomega.6c03301)  
