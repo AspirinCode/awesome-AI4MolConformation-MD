@@ -2977,7 +2977,9 @@ Grambow, Colin A., Hayley Weir, Nathaniel Diamant, Alex Tseng, Tommaso Biancalan
 
 
 
-
+* **Targeting the intrinsically disordered AR-NTD through a machine learning-based enhanced sampling workflow** [2026]   
+ Zhu, K., Wang, H., Zhang, J. et al.  
+  [Nat Commun (2026)](https://doi.org/10.1038/s41467-026-73863-x) | [code](https://github.com/Kai-Zhu-2001/AR-NTD_MD) | [Zenodo](https://doi.org/10.5281/zenodo.19613110)  
 
 * **Learning Implicit Bias in Generative Spaces for Accelerating Protein Dynamics Emulation** [2026]  
 Kaihui Cheng, Zhiqiang Cai, Wenkai Xiang, Zhihang Hu, Siyu Zhu, Tzuhsiung Yang, Yuan Qi.   
