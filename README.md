@@ -1796,6 +1796,12 @@ Pham, T.D., Tanikanti, A. & Keçeli, M.
 
 
 
+
+
+* **PpF: a density functional fine-tuned for noncovalent interactions of protein and peptide residues** [2026]  
+Zhou, Yini, Tao Li, Yaqi Li, Jianda Yue, Qifeng Tian, Zhonghua Liu, Donald G. Truhlar, and Ying Wang.  
+[Chem. Sci. (2026)](https://doi.org/10.1039/D6SC01551D) | [Zenodo](https://doi.org/10.5281/zenodo.16889519)  
+
 * **A quantum-mechanical framework for million-atom scale biological systems** [2026]  
 Wieners, L., Garcia, M.E.  
 [Commun Chem 9, 170 (2026)](https://doi.org/10.1038/s42004-026-02038-y) | [Zenodo](https://doi.org/10.5281/zenodo.16889519)  
