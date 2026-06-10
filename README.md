@@ -3680,6 +3680,11 @@ Christopher Fullenkamp, Shams Mehdi, Christopher Jones, Logan Tenney, Patricio P
 
 
 
+
+* **Navigating polymorph generation and distilled-potential development via entropy-symmetry landscapes for metal plasticity mechanisms** [2026]  
+Li, Z., Liu, T., Wan, X. et al.  
+[Nat Commun 17, 5070 (2026)](https://doi.org/10.1038/s41467-026-73188-9) | [code](https://github.com/LZYUCL/PolymorphGen)  
+
 * **Transferable Neural Network Potential for Elastic and Vibrational Properties of Carbon, Hydrogen, Oxygen, and Nitrogen-Based Two Dimensional Covalent Organic Frameworks** [2026]  
 Yunrui Yan, Somayeh Faraji, and Mingjie Liu.  
 [Chem. Mater. (2026)](https://doi.org/10.1021/acs.chemmater.6c00169)  
