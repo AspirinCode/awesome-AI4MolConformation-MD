@@ -629,6 +629,14 @@ https://github.com/ipudu/awesome-molecular-dynamics
 
 
 
+
+
+
+
+* **Learning chemically transferable protein-protein binding energetics from peptide potential of mean force building blocks** [2026]  
+Tariq Shereef, Emiel Kram, Alexander J. Pak.  
+[ChemRxiv. (2026)](https://doi.org/10.26434/chemrxiv.15004324/v1) | [code](https://gitlab.com/pak-group/pebble_m01)  
+
 * **StruCloze: A Unified Framework for Backmapping and Inpainting Biomolecule Structures** [2026]  
 Junjie Zhu, Zirui Fan, Zhengxin Li, Zhuoqi Zheng, Kresten Lindorff-Larsen, and Hai-Feng Chen.  
 [J. Chem. Theory Comput. (2026)](https://doi.org/10.1021/acs.jctc.6c00214) | [code](https://github.com/Junjie-Zhu/StruCloze)  
@@ -3554,6 +3562,10 @@ Wu, Fang, Shuting Jin, Yinghui Jiang, Xurui Jin, Bowen Tang, Zhangming Niu, Xian
 
 
 
+
+* **Learning chemically transferable protein-protein binding energetics from peptide potential of mean force building blocks** [2026]  
+Tariq Shereef, Emiel Kram, Alexander J. Pak.  
+[ChemRxiv. (2026)](https://doi.org/10.26434/chemrxiv.15004324/v1) | [code](https://gitlab.com/pak-group/pebble_m01)  
 
 * **Memory kernel minimization-based neural networks for discovering slow collective variables of biomolecular dynamics** [2025]  
 Liu, B., Cao, S., Boysen, J.G. et al.  
