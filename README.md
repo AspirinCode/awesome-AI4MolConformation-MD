@@ -1539,8 +1539,13 @@ Zhang, Yuzhi, Haidi Wang, Weijie Chen, Jinzhe Zeng, Linfeng Zhang, Han Wang, and
 
 
 
+
+* **Concerted Electron-Ion Transport by Polyacrylonitrile Elucidated with Reactive Deep Learning Potentials** [2026]  
+Rajni Chahal-Crockett, Michael D. Toomey, Logan T. Kearney, Yawei Gao, Joshua T. Damron, Amit K. Naskar, and Santanu Roy.  
+[J. Am. Chem. Soc.(2025)](https://doi.org/10.1021/jacs.6c05078) | [code](https://github.com/rajnichahal/AIMMS-Research-Group/tree/main/Reactive%20PAN%20NNIP)  
+
 * **A Fast, Accurate, and Reactive Equivariant Foundation Potential** [2025]  
-	Tsz Wai Ko, Runze Liu, Adesh Rohan Mishra, Zihan Yu, Ji Qi, Shyue Ping Ong.  
+Tsz Wai Ko, Runze Liu, Adesh Rohan Mishra, Zihan Yu, Ji Qi, Shyue Ping Ong.  
 [arXiv:2511.07249 (2025)](https://doi.org/10.1002/anie.202516763) | [code](https://github.com/materialsvirtuallab/maml)  
 
 * **AIMNet2-NSE: A Transferable Reactive Neural Network Potential for Open-Shell Chemistry** [2025]  
