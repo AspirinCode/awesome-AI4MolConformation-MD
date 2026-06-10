@@ -896,6 +896,11 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
+
+* **Six Open Questions in Machine-Learned Interatomic Potential Foundation Models** [2026]  
+Isabel Creed, Tim Rein, Ingvars Vitenburgs, Wojciech G. Stark, Viktor Ellingsson, Ahmed Y. Ismail, Guangyu Liu, Yuchen Lou, Bradley A. A. Martin, Cyprien Bone, Matthew A. H. Walker, Mueen Taj, Shirui Wang, Kelvin Wong, Ruiqi Wu, Prakriti Kayastha, Bingqing Cheng, Aditi Krishnapriyan, Michele Ceriotti, Marcel F. Langer, Jarvist Moore Frost, Alex M. Ganose, Venkat Kapil, Keith T. Butler.  
+[arXiv:2606.07327 (2026)](https://doi.org/10.48550/arXiv.2606.07327)  
+
 * **Accuracy and Efficiency Benchmarks of Pretrained Machine Learning Potentials for Molecular Simulations** [2026]  
 Peter Eastman, Evan Pretti, and Thomas E. Markland.  
 [J. Chem. Theory Comput.(2026)](https://doi.org/10.1021/acs.jctc.6c00130) | [code](https://github.com/peastman/mlipbenchmarks)  
