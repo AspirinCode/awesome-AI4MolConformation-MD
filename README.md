@@ -903,7 +903,9 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
-
+* **Transferable Machine Learning of Electronic Hamiltonians with Superposition-of-Atomic-Potentials Features** [2026]  
+Chaoqun Zhang, Christian Venturella, Enzhi Chen, Tianyu Zhu.  
+[arXiv:2606.12326 (2026)](https://doi.org/10.48550/arXiv.2606.12326)  
 
 * **Six Open Questions in Machine-Learned Interatomic Potential Foundation Models** [2026]  
 Isabel Creed, Tim Rein, Ingvars Vitenburgs, Wojciech G. Stark, Viktor Ellingsson, Ahmed Y. Ismail, Guangyu Liu, Yuchen Lou, Bradley A. A. Martin, Cyprien Bone, Matthew A. H. Walker, Mueen Taj, Shirui Wang, Kelvin Wong, Ruiqi Wu, Prakriti Kayastha, Bingqing Cheng, Aditi Krishnapriyan, Michele Ceriotti, Marcel F. Langer, Jarvist Moore Frost, Alex M. Ganose, Venkat Kapil, Keith T. Butler.  
