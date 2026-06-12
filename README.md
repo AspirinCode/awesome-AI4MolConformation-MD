@@ -27,15 +27,15 @@ List of **molecules ( small molecules, RNA, peptide, protein, enzymes, antibody,
 | [Active Learning-based](#active-learning-based) | [GNN-based](#gnn-based) | [LLM-MD](#llm-md) | [Agent-based-MD](#agent-based-md) |
 
                                        
-  - [Molecular conformational ensembles by methods](#molecular-conformational-ensembles-by-methods)
+  - [Molecular conformational dynamics by methods](#molecular-conformational-dynamics-by-methods)
 
 | Menu | Menu | Menu |
 | ------ | :---------- | ------ |
-| [Small molecule conformational ensembles](#small-molecule-conformational-ensembles) | [RNA conformational ensembles](#rna-conformational-ensembles) | [Peptide conformational ensembles](#peptide-conformational-ensembles) |
-| [Protein conformational ensembles](#protein-conformational-ensembles) | [Enzymes conformational ensembles](#enzymes-conformational-ensembles)  | [Antibody conformational ensembles](#antibody-conformational-ensembles) |
-| [Ligand-Protein conformational ensembles](#ligand-protein-conformational-ensembles) | [RNA-Peptide conformational ensembles](#rna-peptide-conformational-ensembles) | [PPI conformational ensembles](#ppi-conformational-ensembles) |
-| [Antibody-Protein conformational ensembles](#antibody-protein-conformational-ensembles) | [Nucleic acid-Protein conformational ensembles](#nucleic-acid-protein-conformational-ensembles) | [Material ensembles](#material-ensembles) |
-| [Nucleic acid-Ligand conformational ensembles](#nucleic-acid-ligand-conformational-ensembles) |  |  |
+| [Small molecule conformational dynamics](#small-molecule-conformational-dynamics) | [RNA conformational dynamics](#rna-conformational-dynamics) | [Peptide conformational dynamics](#peptide-conformational-dynamics) |
+| [Protein conformational dynamics](#protein-conformational-dynamics) | [Enzymes conformational dynamics](#enzymes-conformational-dynamics)  | [Antibody conformational dynamics](#antibody-conformational-dynamics) |
+| [Ligand-Protein conformational dynamics](#ligand-protein-conformational-dynamics) | [RNA-Peptide conformational dynamics](#rna-peptide-conformational-dynamics) | [PPI conformational dynamics](#ppi-conformational-dynamics) |
+| [Antibody-Protein conformational dynamics](#antibody-protein-conformational-dynamics) | [Nucleic acid-Protein conformational dynamics](#nucleic-acid-protein-conformational-dynamics) | [Material ensembles](#material-dynamics) |
+| [Nucleic acid-Ligand conformational dynamics](#nucleic-acid-ligand-conformational-dynamics) |  |  |
 
 
 
@@ -1779,7 +1779,9 @@ Ross, G.A., Lu, C., Scarabelli, G. et al.
 
 
 
-
+* **How Atoms Interact Within Molecules** [2026]  
+Adil Kabylda, Malte Esders, Matteo Gori, Stefan Chmiela, Klaus-Robert Müller, Alexandre Tkatchenko.  
+  [arXiv:2605.28960 (2026)](https://doi.org/10.48550/arXiv.2605.28960)  
 
 * **A New Paradigm for Computational Chemistry** [2026]  
 Raphael T. Husistein, Markus Reiher.  
@@ -2791,13 +2793,13 @@ Salomé Guilbert, Cassandra Masschelein, Jeremy Goumaz, Bohdan Naida, Philippe S
 
 
 
-## Molecular conformational ensembles by methods
+## Molecular conformational dynamics by methods
 
 
 
 
 
-### Small molecule conformational ensembles
+### Small molecule conformational dynamics
 
 
 
@@ -2915,7 +2917,7 @@ Xu, Minkai, Wujie Wang, Shitong Luo, Chence Shi, Yoshua Bengio, Rafael Gomez-Bom
 
 
 
-### RNA conformational ensembles
+### RNA conformational dynamics
 
 
 * **DynaRNA: Dynamic RNA Conformation Ensemble Generation with Diffusion Model** [2025]  
@@ -2944,7 +2946,7 @@ Bottaro, S., Bussi, G., Kennedy, S.D., Turner, D.H. and Lindorff-Larsen, K.
 
 
 
-### Peptide conformational ensembles
+### Peptide conformational dynamics
 
 
 
@@ -2993,7 +2995,7 @@ Grambow, Colin A., Hayley Weir, Nathaniel Diamant, Alex Tseng, Tommaso Biancalan
 
 
 
-### Protein conformational ensembles
+### Protein conformational dynamics
 
 
 
@@ -3432,7 +3434,7 @@ Du, Yilun, Joshua Meier, Jerry Ma, Rob Fergus, and Alexander Rives.
 
 
 
-### Enzymes conformational ensembles
+### Enzymes conformational dynamics
 
 
 
@@ -3459,7 +3461,7 @@ Jingtian Xu, Yong Wang.
 
 
 
-### Antibody conformational ensembles
+### Antibody conformational dynamics
 
 
 
@@ -3475,7 +3477,7 @@ Spoendlin, Fabian C., Wing Ki Wong, Guy Georges, Alexander Bujotzek, and Charlot
 
 
 
-### Ligand-Protein conformational ensembles
+### Ligand-Protein conformational dynamics
 
 
 
@@ -3557,7 +3559,7 @@ Wu, Fang, Shuting Jin, Yinghui Jiang, Xurui Jin, Bowen Tang, Zhangming Niu, Xian
 
 
 
-### PPI conformational ensembles
+### PPI conformational dynamics
 
 
 
@@ -3610,7 +3612,7 @@ Jeffrey K Weber, Joseph A Morrone, Seung-gu Kang, Leili Zhang, Lijun Lang, Diego
 
 
 
-### RNA-Peptide conformational ensembles
+### RNA-Peptide conformational dynamics
 
 
 
@@ -3627,7 +3629,7 @@ Nisha Kumari, Sonam Dhull, Tarak Karmakar.
 
 
 
-### Antibody-Protein conformational ensembles
+### Antibody-Protein conformational dynamics
 
 
 
@@ -3646,7 +3648,7 @@ A. Clay Richard, Robert J. Pantazes.
 
 
 
-### Nucleic acid-Protein conformational ensembles
+### Nucleic acid-Protein conformational dynamics
 
 
 
@@ -3663,7 +3665,7 @@ Sneha Bheemireddy, Roy González-Alemán, Emmanuelle Bignon, Yasaman Karami.
 
 
 
-### Nucleic acid-Ligand conformational ensembles
+### Nucleic acid-Ligand conformational dynamics
 
 
 
@@ -3686,7 +3688,7 @@ Christopher Fullenkamp, Shams Mehdi, Christopher Jones, Logan Tenney, Patricio P
 
 
 
-### Material ensembles
+### Material dynamics
 
 
 
