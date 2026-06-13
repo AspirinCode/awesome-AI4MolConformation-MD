@@ -714,6 +714,11 @@ Kevin V. Bigting, Shubhadeep Nag, Yaxin An.
 
 
 
+
+* **MDForge: Agentic Molecular Dynamics Pipeline Design under Sparse Simulator Feedback** [2026]  
+Zehong Wang, Yijun Ma, Connor R. Schmidt, Tianyi Ma, Weixiang Sun, Ziming Li, Xiaoguang Guo, Chuxu Zhang, Matthew J. Webber, Yanfang Ye.  
+[arXiv:2606.12916 (2026)](https://doi.org/10.48550/arXiv.2606.12916) | [code](https://github.com/Zehong-Wang/MDForge)  
+
 * **Scaling k-Means for Multi-Million Frames: A Stratified NANI Approach for Large-Scale MD Simulations** [2026]  
 herome Brylle Woody Santos, Lexin Chen, and Ramón Alain Miranda-Quintana.  
 [J. Chem. Inf. Model. (2026)](https://doi.org/10.1021/acs.jcim.5c02741) | [code](https://github.com/mqcomplab/MDANCE)  
@@ -1651,7 +1656,9 @@ Anstine DM, Zhao Q, Zubatiuk R, Zhang S, Singla V, Nikitin F, et al.
 
 
 
-
+* **Accurate Determination of Host–Guest Standard Binding Free Energies and Kinetic Parameters from Replica Exchange Molecular Dynamics Simulation** [2026]  
+Leyun Wu, Zijian Han, Zhaoyin Zhou, Jinan Wang, Weiliang Zhu, and Zhijian Xu.  
+[J. Chem. Inf. Model. (2026)](https://doi.org/10.1021/acs.jcim.5c02914)  
 
 * **Reweighting free energy profiles between universal machine learning interatomic potentials for fast consensus building** [2026]  
 Sauradeep Majumdar, Miguel Steiner, Johannes C. B. Dietschreit, Swagata Roy, Daniel Willimetz, Lukaš Grajciar, Rafael Gómez-Bombarelli.  
@@ -2779,6 +2786,11 @@ MD-Agent is a LLM-agent based toolset for Molecular Dynamics.
 
 
 
+
+
+* **MDForge: Agentic Molecular Dynamics Pipeline Design under Sparse Simulator Feedback** [2026]  
+Zehong Wang, Yijun Ma, Connor R. Schmidt, Tianyi Ma, Weixiang Sun, Ziming Li, Xiaoguang Guo, Chuxu Zhang, Matthew J. Webber, Yanfang Ye.  
+[arXiv:2606.12916 (2026)](https://doi.org/10.48550/arXiv.2606.12916) | [code](https://github.com/Zehong-Wang/MDForge)  
 
 * **MDAgent2: Large Language Model for Code Generation and Knowledge Q&A in Molecular Dynamics** [2026]  
 Zhuofan Shi, Hubao A, Yufei Shao, Mengyan Dai, Yadong Yu, Pan Xiang, Dongliang Huang, Hongxu An, Chunxiao Xin, Haiyang Shen, Zhenyu Wang, Yunshan Na, Gang Huang, Xiang Jing.  
