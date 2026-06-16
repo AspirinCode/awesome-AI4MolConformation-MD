@@ -1654,7 +1654,9 @@ Anstine DM, Zhao Q, Zubatiuk R, Zhang S, Singla V, Nikitin F, et al.
 
 
 
-
+* **Free Energy Calculations Meet Generative Machine Learning** [2026]  
+Xinqiang Ding, Haoming Su, Jiaqi Zhu.  
+[ChemRxiv. (2026)](https://doi.org/10.26434/chemrxiv.15004549/v1)  
 
 * **Accurate Determination of Host–Guest Standard Binding Free Energies and Kinetic Parameters from Replica Exchange Molecular Dynamics Simulation** [2026]  
 Leyun Wu, Zijian Han, Zhaoyin Zhou, Jinan Wang, Weiliang Zhu, and Zhijian Xu.  
