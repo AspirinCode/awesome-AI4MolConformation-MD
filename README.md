@@ -3015,7 +3015,9 @@ Grambow, Colin A., Hayley Weir, Nathaniel Diamant, Alex Tseng, Tommaso Biancalan
 
 
 
-
+* **Accelerated Sampling of Protein Dynamics Using BioEmu-Augmented Molecular Simulation** [2026]   
+ Soumendranath Bhakat and Eva-Maria Strauch.  
+  [J. Chem. Inf. Model. (2026)](https://doi.org/10.1021/acs.jcim.6c01000)  
 
 * **Targeting the intrinsically disordered AR-NTD through a machine learning-based enhanced sampling workflow** [2026]   
  Zhu, K., Wang, H., Zhang, J. et al.  
