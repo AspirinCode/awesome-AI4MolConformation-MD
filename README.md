@@ -295,7 +295,9 @@ Wang, L., Brasnett, C., Borges-Araújo, L. et al.
 
 
 
-
+* **seekrflow: Towards end-to-end automated simulation pipeline with machine-learned force fields for accelerated drug-target kinetic and thermodynamic predictions** [2026]  
+Anupam A. Ojha, Lane W. Votapka, Shiksha Dutta, Anson F. Noland, Sonya M. Hanson, Rommie E. Amaro.  
+[bioRxiv. (2026)](https://doi.org/10.1101/2025.08.13.669965) | [code](https://github.com/seekrcentral/seekrflow)  
 
 * **Fast training of bespoke SMIRNOFF-format molecular mechanics force fields using machine learning potentials** [2026]  
 Finlay Clark, Thomas Pope, Sarah Maier, et al.  
@@ -3021,6 +3023,13 @@ Grambow, Colin A., Hayley Weir, Nathaniel Diamant, Alex Tseng, Tommaso Biancalan
 
 
 
+
+
+
+* **ProMiSE: Protein Multi-State Evaluation Benchmark in Biological Contexts** [2026]   
+ Bonjae Ku, Seeun Kim, Yubeen Kim, Hahnbeom Park, Chaok Seok.  
+  [bioRxiv. (2026)](https://doi.org/10.64898/2026.06.11.731790) | [code](https://github.com/seoklab/promise-bench)  
+
 * **Accelerated Sampling of Protein Dynamics Using BioEmu-Augmented Molecular Simulation** [2026]   
  Soumendranath Bhakat and Eva-Maria Strauch.  
   [J. Chem. Inf. Model. (2026)](https://doi.org/10.1021/acs.jcim.6c01000)  
@@ -3504,7 +3513,9 @@ Spoendlin, Fabian C., Wing Ki Wong, Guy Georges, Alexander Bujotzek, and Charlot
 
 
 
-
+* **seekrflow: Towards end-to-end automated simulation pipeline with machine-learned force fields for accelerated drug-target kinetic and thermodynamic predictions** [2026]  
+Anupam A. Ojha, Lane W. Votapka, Shiksha Dutta, Anson F. Noland, Sonya M. Hanson, Rommie E. Amaro.  
+[bioRxiv. (2026)](https://doi.org/10.1101/2025.08.13.669965) | [code](https://github.com/seekrcentral/seekrflow)  
 
 * **Integrating Machine Learning Interatomic Potentials with MMPBSA for Accurate Protein–Ligand Binding Free Energy Calculations** [2026]  
 Wei, Xue-Xin, Yuxinxin Chen, Yuedong Yang, Mingyuan Xu, Pavlo O. Dral, and Hongming Chen.  
