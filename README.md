@@ -910,6 +910,10 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
+* **Fine-tuning MLIP foundation models: strategies for accuracy and transferability** [2026]  
+Tamás Lajos Tompa, Eszter Varga-Umbrich, Ilyes Batatia, Alin M. Elena, Noam Bernstein, Gábor Csányi.  
+[arXiv:2606.12704 (2026)](https://doi.org/10.48550/arXiv.2606.12704)  
+
 * **Angular relational knowledge distillation of machine learning interatomic potentials for scalable catalyst exploration** [2026]  
 Lim, H., Choung, S., Moon, J. et al.  
 [npj Comput Mater 12, 193 (2026)](https://doi.org/10.1038/s41524-026-02062-5) | [code](https://github.com/hyukjunlim/ARK)  
