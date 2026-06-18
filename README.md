@@ -715,7 +715,9 @@ Kevin V. Bigting, Shubhadeep Nag, Yaxin An.
 
 
 
-
+* **Speculative Sampling For Faster Molecular Dynamics** [2026]  
+Arthur Kosmala, Stephan Günnemann, Meng Gao, Brandon Wood.  
+[arXiv:2606.02455 (2026)](https://doi.org/10.48550/arXiv.2606.02455) | [code](https://github.com/facebookresearch/LSD)  
 
 * **MDForge: Agentic Molecular Dynamics Pipeline Design under Sparse Simulator Feedback** [2026]  
 Zehong Wang, Yijun Ma, Connor R. Schmidt, Tianyi Ma, Weixiang Sun, Ziming Li, Xiaoguang Guo, Chuxu Zhang, Matthew J. Webber, Yanfang Ye.  
