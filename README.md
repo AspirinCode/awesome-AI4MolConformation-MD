@@ -908,6 +908,10 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
+* **Angular relational knowledge distillation of machine learning interatomic potentials for scalable catalyst exploration** [2026]  
+Lim, H., Choung, S., Moon, J. et al.  
+[npj Comput Mater 12, 193 (2026)](https://doi.org/10.1038/s41524-026-02062-5) | [code](https://github.com/hyukjunlim/ARK)  
+
 * **Transferable Machine Learning of Electronic Hamiltonians with Superposition-of-Atomic-Potentials Features** [2026]  
 Chaoqun Zhang, Christian Venturella, Enzhi Chen, Tianyu Zhu.  
 [arXiv:2606.12326 (2026)](https://doi.org/10.48550/arXiv.2606.12326)  
@@ -3704,6 +3708,9 @@ Christopher Fullenkamp, Shams Mehdi, Christopher Jones, Logan Tenney, Patricio P
 
 
 
+
+
+
 ### Material dynamics
 
 
@@ -3712,6 +3719,11 @@ Christopher Fullenkamp, Shams Mehdi, Christopher Jones, Logan Tenney, Patricio P
 
 
 
+
+
+* **Angular relational knowledge distillation of machine learning interatomic potentials for scalable catalyst exploration** [2026]  
+Lim, H., Choung, S., Moon, J. et al.  
+[npj Comput Mater 12, 193 (2026)](https://doi.org/10.1038/s41524-026-02062-5) | [code](https://github.com/hyukjunlim/ARK)  
 
 * **Navigating polymorph generation and distilled-potential development via entropy-symmetry landscapes for metal plasticity mechanisms** [2026]  
 Li, Z., Liu, T., Wan, X. et al.  
