@@ -912,6 +912,11 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
+
+* **Angular relational knowledge distillation of machine learning interatomic potentials for scalable catalyst exploration** [2026]  
+Natalie E. Hooven, Arthur Y. Lin, Charles H. Carroll, and Rose K. Cersonsky.  
+[J. Chem. Theory Comput. (2026)](https://doi.org/10.1021/acs.jctc.6c00365) | [code](https://doi.org/10.5281/zenodo.17227874)  
+
 * **Fine-tuning MLIP foundation models: strategies for accuracy and transferability** [2026]  
 Tamás Lajos Tompa, Eszter Varga-Umbrich, Ilyes Batatia, Alin M. Elena, Noam Bernstein, Gábor Csányi.  
 [arXiv:2606.12704 (2026)](https://doi.org/10.48550/arXiv.2606.12704)  
