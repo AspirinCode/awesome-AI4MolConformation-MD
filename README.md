@@ -147,6 +147,10 @@ Janson, Giacomo, and Michael Feig.
 
 
 
+* **Bento: A Comprehensive Benchmark for Protein-Ligand Docking Methods** [2024]  
+LigandPro Team.  
+[software](https://github.com/LigandPro/Bento)  
+
 
 * **DynaRepo: The repository of macromolecular conformational dynamics** [2025]  
 Omid Mokhtari, Emmanuelle Bignon, Hamed Khakzad, Yasaman Karami.   
@@ -3842,7 +3846,6 @@ Iwasaki, R., Tanibata, N., Takeda, H. et al.
 * **Prediction of potential energy profiles of molecular dynamic simulation by graph convolutional networks** [2023]  
 Noda, Kota, and Yasushi Shibuta.   
 [Computational Materials Science 229 (2023)](https://doi.org/10.1016/j.commatsci.2023.112448) | [code](https://github.com/nodematerial/MD-GNN)  
-
 
 
 
