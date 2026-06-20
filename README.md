@@ -613,6 +613,7 @@ https://github.com/ipudu/awesome-molecular-dynamics
 ### Visualization
 
 * [VMD](http://www.ks.uiuc.edu/Research/vmd/) - A molecular visualization program for displaying, animating, and analyzing large biomolecular systems using 3-D graphics and built-in scripting.  
+* [Burrete](https://github.com/SergeiNikolenko/Burrete) - A macOS menu bar app and Quick Look extension for molecular previews, including Mol* 3D views, fast XYZ rendering, and RDKit grids.  
 * [NGLview](https://github.com/arose/nglview) - IPython widget to interactively view molecular structures and trajectories.  
 * [PyMOL](https://pymol.org/2/) - A user-sponsored molecular visualization system on an open-source foundation, maintained and distributed by Schrödinger.  
 * [Avogadro](https://avogadro.cc/) - An advanced molecule editor and visualizer designed for cross-platform use in computational chemistry, molecular modeling, bioinformatics, materials science, and related areas.  
@@ -3842,7 +3843,6 @@ Iwasaki, R., Tanibata, N., Takeda, H. et al.
 * **Prediction of potential energy profiles of molecular dynamic simulation by graph convolutional networks** [2023]  
 Noda, Kota, and Yasushi Shibuta.   
 [Computational Materials Science 229 (2023)](https://doi.org/10.1016/j.commatsci.2023.112448) | [code](https://github.com/nodematerial/MD-GNN)  
-
 
 
 
