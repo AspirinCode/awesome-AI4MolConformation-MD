@@ -2559,6 +2559,10 @@ Jing, Bowen, Bonnie Berger, and Tommi Jaakkola.
 
 
 
+* **Matcha: Multi-Stage Riemannian Flow Matching for Accurate and Physically Valid Molecular Docking** [2025]  
+Daria Frolova, Talgat Daulbaev, Egor Sevriugov, Sergei A. Nikolenko, Dmitry N. Ivankov, Ivan Oseledets, Marina A. Pak.  
+[arXiv:2510.14586 (2025)](https://arxiv.org/abs/2510.14586) | [code](https://github.com/LigandPro/Matcha)  
+
 * **EPO: Diverse and Realistic Protein Ensemble Generation via Energy Preference Optimization** [2025]  
 Yuancheng Sun, Yuxuan Ren, Zhaoming Chen, Xu Han, Kang Liu, Qiwei Ye.  
 [arXiv:2511.10165 (2025)](https://doi.org/10.48550/arXiv.2511.10165)  
@@ -3842,7 +3846,6 @@ Iwasaki, R., Tanibata, N., Takeda, H. et al.
 * **Prediction of potential energy profiles of molecular dynamic simulation by graph convolutional networks** [2023]  
 Noda, Kota, and Yasushi Shibuta.   
 [Computational Materials Science 229 (2023)](https://doi.org/10.1016/j.commatsci.2023.112448) | [code](https://github.com/nodematerial/MD-GNN)  
-
 
 
 
