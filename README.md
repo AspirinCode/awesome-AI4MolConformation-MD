@@ -911,6 +911,10 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
+* **Leveraging neural network interatomic potentials for a foundation model of chemistry** [2026]  
+Kim, S.Y., Park, Y.J. & Li, J.  
+[npj Comput Mater (2026)](https://doi.org/10.1038/s41524-026-02167-x) | [code](https://github.com/parkyjmit/HackNIP)  
+
 * **How Long Is Long Enough? Extrapolation of Machine-Learning Interatomic Potentials for Oligomeric and Polymeric Systems** [2026]  
 Natalie E. Hooven, Arthur Y. Lin, Charles H. Carroll, and Rose K. Cersonsky.  
 [J. Chem. Theory Comput. (2026)](https://doi.org/10.1021/acs.jctc.6c00365) | [code](https://doi.org/10.5281/zenodo.17227874)  
@@ -2027,7 +2031,9 @@ KYuan, E.CY., Kumar, A., Guan, X. et al.
 
 
 
-
+* **Leveraging neural network interatomic potentials for a foundation model of chemistry** [2026]  
+Kim, S.Y., Park, Y.J. & Li, J.  
+[npj Comput Mater (2026)](https://doi.org/10.1038/s41524-026-02167-x) | [code](https://github.com/parkyjmit/HackNIP)  
 
 * **A dataset of 1.2 million molecules with DFT-level quantum chemical annotations for molecular representation learning** [2026]  
   Wang, H., Zhang, Z. & Gong, H.  
