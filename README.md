@@ -911,7 +911,9 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
-
+* **How Long Is Long Enough? Extrapolation of Machine-Learning Interatomic Potentials for Oligomeric and Polymeric Systems** [2026]  
+Natalie E. Hooven, Arthur Y. Lin, Charles H. Carroll, and Rose K. Cersonsky.  
+[J. Chem. Theory Comput. (2026)](https://doi.org/10.1021/acs.jctc.6c00365) | [code](https://doi.org/10.5281/zenodo.17227874)  
 
 * **Angular relational knowledge distillation of machine learning interatomic potentials for scalable catalyst exploration** [2026]  
 Natalie E. Hooven, Arthur Y. Lin, Charles H. Carroll, and Rose K. Cersonsky.  
