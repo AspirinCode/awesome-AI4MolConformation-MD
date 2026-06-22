@@ -1850,7 +1850,9 @@ Pham, T.D., Tanikanti, A. & Keçeli, M.
 
 
 
-
+* **PrimaDORAC: An improved Web Interface for Rapid GAFF2 Parameter Assignment with ABCG2 Charge Models for Drug Design Applications** [2026]  
+Piero Procacci.  
+[Journal of computational chemistry (2026)](https://doi.org/10.1002/jcc.70444) | [web](http://www1.chim.unifi.it/orac/primadorac/)  
 
 * **PpF: a density functional fine-tuned for noncovalent interactions of protein and peptide residues** [2026]  
 Zhou, Yini, Tao Li, Yaqi Li, Jianda Yue, Qifeng Tian, Zhonghua Liu, Donald G. Truhlar, and Ying Wang.  
