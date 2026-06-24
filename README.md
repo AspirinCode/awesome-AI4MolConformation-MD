@@ -911,6 +911,11 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
+
+* **Universal Interatomic Potentials as Configuration-Space Generators for One-Shot and Iterative Fine-Tuning of Ab Initio-Accurate Material-Specific Models** [2026]  
+Jonas Hänseroth, Aaron Flötotto, Christian Dreßler.  
+[arXiv:2606.23214 (2026)](https://doi.org/10.48550/arXiv.2606.23214) | [code](https://github.com/microsoft/mattersim) | [Zenodo](https://zenodo.org/records/20792778)  
+
 * **Leveraging neural network interatomic potentials for a foundation model of chemistry** [2026]  
 Kim, S.Y., Park, Y.J. & Li, J.  
 [npj Comput Mater (2026)](https://doi.org/10.1038/s41524-026-02167-x) | [code](https://github.com/parkyjmit/HackNIP)  
@@ -1867,6 +1872,9 @@ Wieners, L., Garcia, M.E.
 
 
 
+
+
+
 ### Ab Initio
 
 
@@ -1875,6 +1883,10 @@ Wieners, L., Garcia, M.E.
 
 
 
+
+* **Universal Interatomic Potentials as Configuration-Space Generators for One-Shot and Iterative Fine-Tuning of Ab Initio-Accurate Material-Specific Models** [2026]  
+Jonas Hänseroth, Aaron Flötotto, Christian Dreßler.  
+[arXiv:2606.23214 (2026)](https://doi.org/10.48550/arXiv.2606.23214) | [code](https://github.com/microsoft/mattersim) | [Zenodo](https://zenodo.org/records/20792778)  
 
 * **GMFCC-UMA: A Fragment-Based Machine Learning Framework for Scalable Ab Initio-Quality Protein Energies** [2026]  
 Wan-sheng Ren, Jin Xiao, Yingfeng Zhang, Tong Zhu, and John Z. H. Zhang.  
