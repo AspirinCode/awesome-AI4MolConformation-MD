@@ -2043,7 +2043,9 @@ KYuan, E.CY., Kumar, A., Guan, X. et al.
 
 
 
-
+* **LLM-Guided Test-Time Discovery of Quantum-Chemical Approximation Algorithms** [2026]  
+Masaya Hagai, Yuta Suzuki, Tomoya Murata, Shuhei Kurita, Masaki Adachi.  
+[arXiv:2606.20729 (2026)](https://doi.org/10.48550/arXiv.2606.20729)  
 
 * **Leveraging neural network interatomic potentials for a foundation model of chemistry** [2026]  
 Kim, S.Y., Park, Y.J. & Li, J.  
