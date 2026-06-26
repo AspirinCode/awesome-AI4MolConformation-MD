@@ -1812,6 +1812,29 @@ Ross, G.A., Lu, C., Scarabelli, G. et al.
 
 
 
+
+
+
+### Solvent Potential
+
+
+
+
+
+* **ConSolv: Solvent-Conditional Machine Learning Implicit Solvent Potential** [2026]  
+Linying Zhang, Julija Zavadlav.  
+  [arXiv:2606.24983 (2026)](https://doi.org/10.48550/arXiv.2606.24983)  
+
+
+
+
+
+
+
+
+
+
+
 ### Theoretical Chemistry
 
 
@@ -3743,6 +3766,11 @@ Sneha Bheemireddy, Roy González-Alemán, Emmanuelle Bignon, Yasaman Karami.
 
 
 
+
+* **Structuring Disorder via Supervised Molecular Dynamics: Uncovering Arginine-Glycine-Glycine-Mediated Ribonucleic Acid-Intrinsically Disordered Region Recognition Mechanisms** [2026]  
+Gianluca Novello, Andrea Dodaro, Chiara Cavastracci Strascia, Silvia Menin, Mattia Sturlese, Veronica Salmaso, and Stefano Moro.  
+[J. Chem. Inf. Model.(2026)](https://doi.org/10.1021/acs.jcim.5c03135) | [code](https://github.com/molecularmodelingsection/SuMD-analyzer)  
+
 * **Assessing Molecular Dynamics in Predicting Aptamer–Ligand Binding Thermodynamics: Insights from the OTA Binding Aptamers** [2026]  
 Alessio Olivieri, Federica Borzelli, Mauro Giustini, and Marco D’Abramo.  
 [J. Chem. Inf. Model.(2026)](https://doi.org/10.1021/acs.jcim.5c02643) | [Zenodo](https://zenodo.org/records/18199595)  
@@ -3751,7 +3779,9 @@ Alessio Olivieri, Federica Borzelli, Mauro Giustini, and Marco D’Abramo.
 Christopher Fullenkamp, Shams Mehdi, Christopher Jones, Logan Tenney, Patricio Pichling, Peri R. Prestwood, Adrian R. Ferré-D'Amaré, Pratyush Tiwary, John Schneekloth.  
 [ Angew. Chem. Int. Ed. (2025)](https://doi.org/10.1002/anie.202505971)  
 
-
+* **Investigating RNA–protein recognition mechanisms through supervised molecular dynamics (SuMD) simulations** [2022]  
+Matteo Pavan, Davide Bassani, Mattia Sturlese, Stefano Moro.  
+[NAR Genomics and Bioinformatics (2022)](https://doi.org/10.1093/nargab/lqac088) | [code](https://github.com/molecularmodelingsection/SuMD)  
 
 
 
