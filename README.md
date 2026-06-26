@@ -19,7 +19,7 @@ List of **molecules ( small molecules, RNA, peptide, protein, enzymes, antibody,
 | [Reviews](#reviews) | [Datasets and Package](#datasets-and-package) | [Molecular dynamics](#molecular-dynamics) | [Molecular Force Fields](#molecular-force-fields) |
 | [Neural Molecular Force Fields](#neural-molecular-force-fields) | [MD Engines-Frameworks](#md-engines-frameworks) | [AI4MD Engines-Frameworks](#ai4md-engines-frameworks) | [MD Trajectory Processing-Analysis](#md-trajectory-processing-analysis) |
 | [Visualization](#visualization) | [CGMD](#cgmd) | [AI4MD](#ai4md) | [Neural Network Potentials](#neural-network-potentials) |
-| [Neural Reactive Potential](#neural-reactive-potential) | [Reactive Force Fields](#reactive-force-fields) | [Free Energy Perturbation](#free-energy-perturbation) |  |
+| [Neural Reactive Potential](#neural-reactive-potential) | [Reactive Force Fields](#reactive-force-fields) | [Free Energy Perturbation](#free-energy-perturbation) | [Solvent Potential](#solvent-potential) |
 | [Theoretical Chemistry](#theoretical-chemistry) | [QuantumChem](#quantumchem) | [Ab Initio](#ab-initio) | [AI-QuantumChem](#ai-quantumchem) |
 | [AlphaFold-based](#alphaFold-based) | [Autoregressive-Based](#autoregressive-Based)  | [LSTM-based](#lstm-based) | [Transformer-based](#transformer-based) |
 | [VAE-based](#vae-based) | [GAN-based](#gan-based) | [Flow-based](#flow-based) | [Flow Matching-based](#flow-matching-based) |
