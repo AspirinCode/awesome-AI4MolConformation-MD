@@ -41,8 +41,17 @@ List of **molecules ( small molecules, RNA, peptide, protein, enzymes, antibody,
 
 
 
+
+
+
 ## Reviews
 
+
+
+
+* **Replacing Quantum Chemistry With Machine-Learned Interatomic Potentials: Revolution or Evolution?** [2026]  
+Andrew J. Medford and David S. Sholl.  
+[ACS Cent. Sci.(2026)](https://doi.org/10.1021/acscentsci.6c00615)  
 
 * **Toward a unified framework for determining conformational ensembles of disordered proteins** [2026]  
 Ghafouri, H., Kadeřávek, P., Melo, A.M. et al.  
@@ -911,7 +920,9 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
-
+* **Replacing Quantum Chemistry With Machine-Learned Interatomic Potentials: Revolution or Evolution?** [2026]  
+Andrew J. Medford and David S. Sholl.  
+[ACS Cent. Sci.(2026)](https://doi.org/10.1021/acscentsci.6c00615)  
 
 * **Bias in Universal Machine-Learned Interatomic Potentials and Its Effects on Fine-Tuning** [2026]  
 Nicolas H. Wong and Julia H. Yang.  
