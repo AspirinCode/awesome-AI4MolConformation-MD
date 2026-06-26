@@ -302,7 +302,7 @@ Wang, L., Brasnett, C., Borges-Araújo, L. et al.
 
 
 
-
+[bioRxiv. (2026)](https://doi.org/10.1101/2025.08.13.669965) | [code](https://github.com/seekrcentral/seekrflow)  
 
 * **seekrflow: Towards end-to-end automated simulation pipeline with machine-learned force fields for accelerated drug-target kinetic and thermodynamic predictions** [2026]  
 Anupam A. Ojha, Lane W. Votapka, Shiksha Dutta, Anson F. Noland, Sonya M. Hanson, Rommie E. Amaro.  
