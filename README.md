@@ -302,11 +302,10 @@ Wang, L., Brasnett, C., Borges-Araújo, L. et al.
 
 
 
-[bioRxiv. (2026)](https://doi.org/10.1101/2025.08.13.669965) | [code](https://github.com/seekrcentral/seekrflow)  
 
 * **seekrflow: Towards end-to-end automated simulation pipeline with machine-learned force fields for accelerated drug-target kinetic and thermodynamic predictions** [2026]  
 Anupam A. Ojha, Lane W. Votapka, Shiksha Dutta, Anson F. Noland, Sonya M. Hanson, Rommie E. Amaro.  
-[bioRxiv. (2026)](https://doi.org/10.1101/2025.08.13.669965) | [code](https://github.com/seekrcentral/seekrflow)  
+[J. Chem. Theory Comput. (2026)](https://doi.org/10.1021/acs.jctc.6c00659) | [bioRxiv. (2026)](https://doi.org/10.1101/2025.08.13.669965) | [code](https://github.com/seekrcentral/seekrflow)  
 
 * **Fast training of bespoke SMIRNOFF-format molecular mechanics force fields using machine learning potentials** [2026]  
 Finlay Clark, Thomas Pope, Sarah Maier, et al.  
