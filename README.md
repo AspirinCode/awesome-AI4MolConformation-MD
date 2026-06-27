@@ -2897,7 +2897,9 @@ Salomé Guilbert, Cassandra Masschelein, Jeremy Goumaz, Bohdan Naida, Philippe S
 
 
 
-
+* **Scalable Low-Energy Molecular Conformer Generation with Quantum Mechanical Accuracy** [2025]  
+Filipp Nikitin, Dylan M. Anstine, Roman Zubatyuk, et alFilipp Nikitin, Dylan M. Anstine, Roman Zubatyuk, et al.  
+[ChemRxiv. (2025)](https://doi.org/10.26434/chemrxiv-2025-k4h7v/v2) |  [code](https://github.com/isayevlab/LoQI)  
 
 * **Artificial Intelligence for Predicting Small-Molecule Bioactive Conformations** [2026]  
 Yuanchen Liu, Suya Chen, Kejiang Lin, Shang Gao, and Xuanyi Li.  
