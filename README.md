@@ -919,6 +919,14 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
+
+
+
+
+* **Machine learning potentials for modeling alloys across compositions** [2026]  
+Killian Sheriff et al.  
+[Sci. Adv. (2026)](https://doi.org/10.1126/sciadv.aea9951) | [code](https://github.com/killiansheriff/ChemicalMotifIdentifier) | [Zenodo](https://doi.org/10.5281/zenodo.16129603)  
+
 * **Replacing Quantum Chemistry With Machine-Learned Interatomic Potentials: Revolution or Evolution?** [2026]  
 Andrew J. Medford and David S. Sholl.  
 [ACS Cent. Sci.(2026)](https://doi.org/10.1021/acscentsci.6c00615)  
