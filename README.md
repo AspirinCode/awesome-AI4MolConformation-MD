@@ -3032,6 +3032,14 @@ Xu, Minkai, Wujie Wang, Shitong Luo, Chence Shi, Yoshua Bengio, Rafael Gomez-Bom
 ### RNA conformational dynamics
 
 
+
+
+
+
+* **PlanarFold: a coarse-grained molecular dynamics model of RNA in two-dimensional space** [2026]  
+Xiang, L., Xue, Y.  
+[Nat Commun (2026)](https://doi.org/10.1038/s41467-026-74729-y) | [code](https://github.com/Lanxiang-thu/PlanarFold) | [Zenodo](https://zenodo.org/records/19397229)  
+
 * **DynaRNA: Dynamic RNA Conformation Ensemble Generation with Diffusion Model** [2025]  
 Zhengxin Li, Junjie Zhu, Xiaokun Hong, Zhuoqi Zheng, Taeyoung Cui, Yutong Sun, Ting Wei, Haifeng Chen.   
 [bioRxiv. (2025)](https://doi.org/10.1101/2025.05.22.655453)  
