@@ -641,7 +641,9 @@ https://github.com/ipudu/awesome-molecular-dynamics
 
 
 
-
+* **CTGoMartini: A Python Framework for Simulating Biomolecular Conformational Transitions with Gō-Martini Models** [2026]  
+Song Yang, Chen Song.  
+[bioRxiv (2026)](https://doi.org/10.64898/2026.04.30.721921) | [code](https://github.com/ComputBiophys/CTGoMartini)  
 
 * **Learning chemically transferable protein-protein binding energetics from peptide potential of mean force building blocks** [2026]  
 Tariq Shereef, Emiel Kram, Alexander J. Pak.  
