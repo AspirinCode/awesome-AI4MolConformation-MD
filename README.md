@@ -2228,7 +2228,9 @@ Do, Hung N., Jinan Wang, Apurba Bhattarai, and Yinglong Miao.
 
 
 
-
+* **Experiment-guided AlphaFold3 resolves measurement-consistent protein ensembles** [2026]  
+Maddipatla, A., Sellam Bojan, N., Bojan, M. et al.  
+[Nat Biotechnol (2026)](https://doi.org/10.1038/s41587-026-03166-5) | [code](https://github.com/sai-advaith/guided_alphafold)  
 
 * **Biasing Conformational Sampling in Alphafold 3 and Boltz-2 via Pair Representation Scaling** [2026]  
 Shosuke Suzuki, Toshiyuki Amagasa.  
