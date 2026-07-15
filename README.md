@@ -301,7 +301,9 @@ Wang, L., Brasnett, C., Borges-Araújo, L. et al.
 
 
 
-
+* **UniFFBench: evaluating universal machine learning force fields against experimental measurements** [2026]  
+Mannan, S., Bihani, V., Gonzales, C. et al.  
+[Nat Comput Sci (2026)(2026)](https://doi.org/10.1038/s43588-026-01019-4) | [code](https://github.com/M3RG-IITD/UniFFBench) | [Zenodo](https://doi.org/10.5281/zenodo.20165458)  
 
 * **seekrflow: Towards end-to-end automated simulation pipeline with machine-learned force fields for accelerated drug-target kinetic and thermodynamic predictions** [2026]  
 Anupam A. Ojha, Lane W. Votapka, Shiksha Dutta, Anson F. Noland, Sonya M. Hanson, Rommie E. Amaro.  
