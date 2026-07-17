@@ -1870,6 +1870,15 @@ Ross, G.A., Lu, C., Scarabelli, G. et al.
 
 
 
+
+
+
+
+
+* **Transferable Implicit Solvent Machine Learning Potential for Drugs and Proteins Approaching Ab Initio Accuracy** [2026]  
+Jan Eckwert, Julija Zavadlav.  
+  [arXiv:2607.10887 (2026)](https://doi.org/10.48550/arXiv.2607.10887)  
+
 * **ConSolv: Solvent-Conditional Machine Learning Implicit Solvent Potential** [2026]  
 Linying Zhang, Julija Zavadlav.  
   [arXiv:2606.24983 (2026)](https://doi.org/10.48550/arXiv.2606.24983)  
