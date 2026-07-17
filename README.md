@@ -553,7 +553,9 @@ Barnett, Simon, and John D. Chodera.
 
 
 
-
+* **Pharmacon: A Molecular Dynamics Simulation Analysis Toolkit** [2026]  
+Kyriakos Georgiou and Antonios Kolocouris.  
+[J. Chem. Inf. Model. (2026)](https://doi.org/10.1021/acs.jcim.6c00837) | [code](https://github.com/k-georgiou/pharmacon)  
 
 * **Accelerating molecular dynamics simulations using fast Ewald summation with prolates** [2026]  
 Liang, J., Lu, L., Barnett, A. et al.  
