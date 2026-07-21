@@ -299,7 +299,9 @@ Wang, L., Brasnett, C., Borges-Araújo, L. et al.
 
 
 
-
+* **Full-data accuracy with fewer labels for training and fine-tuning machine-learning force fields** [2026]  
+Sheng Bi, Yi-Ze Wang, Jun Cheng.  
+[arXiv:2607.14486 (2026)(2026)](https://doi.org/10.48550/arXiv.2607.14486)  
 
 * **UniFFBench: evaluating universal machine learning force fields against experimental measurements** [2026]  
 Mannan, S., Bihani, V., Gonzales, C. et al.  
