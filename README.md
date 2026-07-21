@@ -49,6 +49,12 @@ List of **molecules ( small molecules, RNA, peptide, protein, enzymes, antibody,
 
 
 
+
+
+* **Predicting Biomolecular Interactions in the Next Decade: Physics-Based Methods Meet AI-Driven Approaches** [2026]  
+Ruqaiya Khalil, Elena Frasnetti, Han Kurt, Tareq Hameduh, Mohd Athar, Giorgio Colombo, and Attilio Vittorio Vargiu.  
+[J. Phys. Chem. Lett. (2026)](https://doi.org/10.1021/acs.jpclett.6c01412)  
+
 * **Replacing Quantum Chemistry With Machine-Learned Interatomic Potentials: Revolution or Evolution?** [2026]  
 Andrew J. Medford and David S. Sholl.  
 [ACS Cent. Sci.(2026)](https://doi.org/10.1021/acscentsci.6c00615)  
