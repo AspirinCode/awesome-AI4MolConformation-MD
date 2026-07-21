@@ -495,6 +495,7 @@ Gregory Fonseca, Igor Poltavsky, Valentin Vassilev-Galindo, Alexandre Tkatchenko
 ### MD Engines-Frameworks
 
 * [Amber](http://ambermd.org/) - A suite of biomolecular simulation programs.  
+* [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open source autonomous pentest engine (GPL-3.0): AD + Kubernetes + web, evidence trail on every finding, runs on local or hosted models.
 * [Gromacs](http://www.gromacs.org/) - A molecular dynamics package mainly designed for simulations of proteins, lipids and nucleic acids.
 * [OpenMM](http://openmm.org/) - A toolkit for molecular simulation using high performance GPU code.  
 * [CHARMM](https://www.charmm.org/) - A molecular simulation program with broad application to many-particle systems.  
