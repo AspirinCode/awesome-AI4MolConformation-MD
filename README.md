@@ -305,6 +305,13 @@ Wang, L., Brasnett, C., Borges-Araújo, L. et al.
 
 
 
+
+
+
+* **UniFlow: Unifying protein conformational ensemble generation and machine-learned force fields with a scalable normalizing Flow** [2026]  
+Yikai Liu, Ming Chen, Guang Lin.  
+[bioRxiv (2026)](https://doi.org/10.64898/2026.07.17.739266) | [code](https://github.com/Harrydirk41/UniFlow)  
+
 * **Full-data accuracy with fewer labels for training and fine-tuning machine-learning force fields** [2026]  
 Sheng Bi, Yi-Ze Wang, Jun Cheng.  
 [arXiv:2607.14486 (2026)(2026)](https://doi.org/10.48550/arXiv.2607.14486)  
@@ -2656,6 +2663,13 @@ Schwing, Gregory, Luigi L. Palese, Ariel Fernández, Loren Schwiebert, and Domen
 
 
 
+
+
+
+* **UniFlow: Unifying protein conformational ensemble generation and machine-learned force fields with a scalable normalizing Flow** [2026]  
+Yikai Liu, Ming Chen, Guang Lin.  
+[bioRxiv (2026)](https://doi.org/10.64898/2026.07.17.739266) | [code](https://github.com/Harrydirk41/UniFlow)  
+
 * **Operator Forces For Coarse-Grained Molecular Dynamics** [2025]  
 Leon Klein, Atharva Kelkar, Aleksander Durumeric, Yaoyi Chen, Frank Noé.   
 [arXiv:2506.19628 (2025)](https://doi.org/10.48550/arXiv.2506.19628) | [data](https://github.com/noegroup/OperatorForces4CG)  
@@ -3182,6 +3196,9 @@ Grambow, Colin A., Hayley Weir, Nathaniel Diamant, Alex Tseng, Tommaso Biancalan
 
 
 
+* **UniFlow: Unifying protein conformational ensemble generation and machine-learned force fields with a scalable normalizing Flow** [2026]  
+Yikai Liu, Ming Chen, Guang Lin.  
+[bioRxiv (2026)](https://doi.org/10.64898/2026.07.17.739266) | [code](https://github.com/Harrydirk41/UniFlow)  
 
 
 * **ProMiSE: Protein Multi-State Evaluation Benchmark in Biological Contexts** [2026]   
