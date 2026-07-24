@@ -3194,12 +3194,13 @@ Grambow, Colin A., Hayley Weir, Nathaniel Diamant, Alex Tseng, Tommaso Biancalan
 
 
 
-
+* **Accelerated Sampling of Protein Dynamics Using BioEmu-Augmented Molecular Simulation** [2026]  
+Soumendranath Bhakat and Eva-Maria Strauch.  
+[J. Chem. Inf. Model. (2026)](https://doi.org/10.1021/acs.jcim.6c01000)  
 
 * **UniFlow: Unifying protein conformational ensemble generation and machine-learned force fields with a scalable normalizing Flow** [2026]  
 Yikai Liu, Ming Chen, Guang Lin.  
 [bioRxiv (2026)](https://doi.org/10.64898/2026.07.17.739266) | [code](https://github.com/Harrydirk41/UniFlow)  
-
 
 * **ProMiSE: Protein Multi-State Evaluation Benchmark in Biological Contexts** [2026]   
  Bonjae Ku, Seeun Kim, Yubeen Kim, Hahnbeom Park, Chaok Seok.  
