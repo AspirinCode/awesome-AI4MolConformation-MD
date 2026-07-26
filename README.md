@@ -2726,7 +2726,9 @@ Yuancheng Sun, Yuxuan Ren, Zhaoming Chen, Xu Han, Kang Liu, Qiwei Ye.
 
 
 
-
+* **Spectral Diffusion for Protein Dynamics** [2026]  
+Hew Phipps, Matteo Cagiada, Santiago D. Villalba, Charlotte M. Deane.  
+[arXiv:2607.04134(2026)](https://doi.org/10.48550/arXiv.2607.04134) | [code](https://github.com/HPuntu/DynaMode)  
 
 * **Distance-Restraint-Guided Diffusion Models for Sampling Protein Conformational Changes and Ligand Dissociation Pathways** [2026]  
 Tatsuki Hori, Yoshitaka Moriwaki, and Ryuichiro Ishitani.  
@@ -3199,6 +3201,14 @@ Grambow, Colin A., Hayley Weir, Nathaniel Diamant, Alex Tseng, Tommaso Biancalan
 
 
 
+
+
+
+
+
+* **Spectral Diffusion for Protein Dynamics** [2026]  
+Hew Phipps, Matteo Cagiada, Santiago D. Villalba, Charlotte M. Deane.  
+[arXiv:2607.04134(2026)](https://doi.org/10.48550/arXiv.2607.04134) | [code](https://github.com/HPuntu/DynaMode)  
 
 * **Accelerated Sampling of Protein Dynamics Using BioEmu-Augmented Molecular Simulation** [2026]  
 Soumendranath Bhakat and Eva-Maria Strauch.  
