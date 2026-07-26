@@ -2892,6 +2892,10 @@ Kleiman, Diego E., and Diwakar Shukla.
 
 
 
+* **Graph Learning on Ensembles of Cyclic Peptides: An Investigation of Molecular Ensemble Modeling** [2026]  
+Aaron Feller, Kris Deibler, Maxim Secor.  
+[arXiv:2607.21561 (2026)](https://doi.org/10.48550/arXiv.2607.21561) | [code](https://github.com/AaronFeller/EnsembleEGNN)  
+
 * **Spatiotemporal graph neural networks reveal conformational binding signature in protein dynamics** [2026]   
  Stefano Motta, Gianluca Santini, Samman Mansoor, Ferdoos Hossein Nezhad, Massimiliano Meli, Alessandro Pandini.  
   [bioRxiv (2026)](https://doi.org/10.64898/2026.05.19.726195) | [code](https://github.com/MottaStefano/GISTnet-MD)  
@@ -3148,7 +3152,9 @@ Bottaro, S., Bussi, G., Kennedy, S.D., Turner, D.H. and Lindorff-Larsen, K.
 
 
 
-
+* **Graph Learning on Ensembles of Cyclic Peptides: An Investigation of Molecular Ensemble Modeling** [2026]  
+Aaron Feller, Kris Deibler, Maxim Secor.  
+[arXiv:2607.21561 (2026)](https://doi.org/10.48550/arXiv.2607.21561) | [code](https://github.com/AaronFeller/EnsembleEGNN)  
 
 * **Extending AIMNet2 to Macrocyclic Peptides Through Data-Efficient Continual Training** [2026]  
 Runtian Gao, Roman Zubatyuk, Olexandr Isayev.  
