@@ -1649,7 +1649,9 @@ Zhang, Yuzhi, Haidi Wang, Weijie Chen, Jinzhe Zeng, Linfeng Zhang, Han Wang, and
 
 
 
-
+* **Label-Free, Quantum-Mechanically Informed Scoring of Protein–Ligand Complexes with Machine-Learned Interatomic Potentials** [2026]  
+  ilkwon cho, Hatice Gokcan, Olexandr Isayev.  
+  [ChemRxiv. (2026)](https://doi.org/10.26434/chemrxiv.15006459/v2) | [code](https://github.com/isayevlab/aimnetcentral)  
 
 * **Enerzyme: A Framework for Efficient Training of Reactive Neural Network Potentials for Enzyme Catalysis with Application to Methyltransferases** [2026]  
   Weiliang Luo, Heather J. Kulik.  
