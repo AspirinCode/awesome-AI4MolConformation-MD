@@ -3792,6 +3792,12 @@ Wu, Fang, Shuting Jin, Yinghui Jiang, Xurui Jin, Bowen Tang, Zhangming Niu, Xian
 
 
 
+
+
+* **PP-MAPS: Dynamic Pharmacophore Signatures of Protein–Peptide Interfaces from Molecular Dynamics Trajectories** [2026]  
+Camille Depenveiller, Arezki Guerda, Emilia Rabia, Aziza Caidi, Yaqoub Ashhab, Fathia Mami-Chouaib, Matthieu Montes.  
+[J. Chem. Inf. Model.(2026)](https://doi.org/10.1021/acs.jcim.6c00605) | [code](https://github.com/camilledepenveiller/PP-MAPS)  
+
 * **Learning chemically transferable protein-protein binding energetics from peptide potential of mean force building blocks** [2026]  
 Tariq Shereef, Emiel Kram, Alexander J. Pak.  
 [ChemRxiv. (2026)](https://doi.org/10.26434/chemrxiv.15004324/v1) | [code](https://gitlab.com/pak-group/pebble_m01)  
