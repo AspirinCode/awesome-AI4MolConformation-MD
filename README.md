@@ -255,6 +255,12 @@ Athavale V, Kulichenko M, Fernandez-Alberti S, Niklasson A, Tretiak S.
 
 
 
+
+
+* **Stapline: Development of a Force Field Library for Stapled Peptide Residues** [2026]  
+Dr. Evangelia Notari, Dr. Marie T. J. Bluntzer, Prof. Julien Michel, et al.  
+[ChemRxiv. (2026)](https://doi.org/10.26434/chemrxiv-2025-xfcnm/v2) | [code](https://github.com/michellab/Stapline)  
+
 * **Force Field and Membrane Patch Size Effects on Atomistic Models of Aquaporin-7** [2026]  
 Marta S. P. Batista, Miguel Machuqueiro, and Bruno L. Victor.  
 [J. Chem. Inf. Model. (2026)](https://doi.org/10.1021/acs.jcim.6c00007)  
