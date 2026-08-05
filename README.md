@@ -3212,7 +3212,9 @@ Grambow, Colin A., Hayley Weir, Nathaniel Diamant, Alex Tseng, Tommaso Biancalan
 
 
 
-
+* **SPINDLE: Unlocking protein dynamics from single-field NMR relaxation data using a deep learning ensemble** [2026]  
+Olivia E Krise, Michael P Latham.  
+[bioRxiv (2026)](https://doi.org/10.64898/2026.07.31.742133) | [code](https://github.com/michaellatham77/SPINDLE)  
 
 * **Spectral Diffusion for Protein Dynamics** [2026]  
 Hew Phipps, Matteo Cagiada, Santiago D. Villalba, Charlotte M. Deane.  
