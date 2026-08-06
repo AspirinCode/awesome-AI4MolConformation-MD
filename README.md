@@ -755,6 +755,12 @@ Kevin V. Bigting, Shubhadeep Nag, Yaxin An.
 
 
 
+
+
+* **MDArena: Evaluating Coding Agents on Realistic Molecular Dynamics Workflows** [2026]  
+Nithishwer Mouroug Anand, Wei-Tse Hsu, Kyle Vaccaro, Eden James Gage, Jonathan David Colburn, Linda Xi Phan, Minjoon Seo, Kevin Guan, Philip C. Biggin.  
+[arXiv:2608.02642(2026)](https://doi.org/10.48550/arXiv.2608.02642) | [code](https://github.com/weitse-hsu/MDArena)  
+
 * **Speculative Sampling For Faster Molecular Dynamics** [2026]  
 Arthur Kosmala, Stephan Günnemann, Meng Gao, Brandon Wood.  
 [arXiv:2606.02455 (2026)](https://doi.org/10.48550/arXiv.2606.02455) | [code](https://github.com/facebookresearch/LSD)  
@@ -2971,6 +2977,11 @@ MD-Agent is a LLM-agent based toolset for Molecular Dynamics.
 
 
 
+
+
+* **MDArena: Evaluating Coding Agents on Realistic Molecular Dynamics Workflows** [2026]  
+Nithishwer Mouroug Anand, Wei-Tse Hsu, Kyle Vaccaro, Eden James Gage, Jonathan David Colburn, Linda Xi Phan, Minjoon Seo, Kevin Guan, Philip C. Biggin.  
+[arXiv:2608.02642(2026)](https://doi.org/10.48550/arXiv.2608.02642) | [code](https://github.com/weitse-hsu/MDArena)  
 
 * **MDForge: Agentic Molecular Dynamics Pipeline Design under Sparse Simulator Feedback** [2026]  
 Zehong Wang, Yijun Ma, Connor R. Schmidt, Tianyi Ma, Weixiang Sun, Ziming Li, Xiaoguang Guo, Chuxu Zhang, Matthew J. Webber, Yanfang Ye.  
