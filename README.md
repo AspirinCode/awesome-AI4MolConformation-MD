@@ -959,6 +959,14 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
+
+
+
+
+* **Quantum machine learning interatomic potential: Application of variational quantum algorithm** [2026]  
+Kohei Numata, Wataru Mizukami, Kosuke Mitarai, Keisuke Fujii, Yutaka Imamura.  
+[arXiv:2607.27841 (2026)](https://doi.org/10.48550/arXiv.2607.27841)  
+
 * **Chemical intuition on bond-dissociation energies as an emergent ability of universal machine-learning interatomic potentials** [2026]  
 Hattori, S., Shimamura, K., Nomura, Ki. et al..  
 [Nat Commun (2026)](https://doi.org/10.1038/s41467-026-74919-8) | [code](https://doi.org/10.5281/zenodo.20264297) | [Zenodo](https://doi.org/10.5281/zenodo.20264297)  
