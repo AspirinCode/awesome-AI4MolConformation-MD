@@ -3229,7 +3229,9 @@ Grambow, Colin A., Hayley Weir, Nathaniel Diamant, Alex Tseng, Tommaso Biancalan
 
 
 
-
+* **Learning millisecond protein dynamics from what is missing in NMR spectra** [2026]  
+Wayment-Steele, H.K., El Nesr, G., Hettiarachchi, R. et al.  
+[Nature (2026)](https://doi.org/10.1038/s41586-026-10989-4) | [code](https://github.com/WaymentSteeleLab/Dyna-1)  
 
 * **SPINDLE: Unlocking protein dynamics from single-field NMR relaxation data using a deep learning ensemble** [2026]  
 Olivia E Krise, Michael P Latham.  
