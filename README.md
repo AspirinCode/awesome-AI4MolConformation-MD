@@ -2005,7 +2005,9 @@ Wieners, L., Garcia, M.E.
 
 
 
-
+* **Ab initio side-chain sampling with PUD+ enables high-fidelity protein dynamics across AI-driven and classical simulations** [2026]  
+Dianwei Wu, Tong Wang.  
+[bioRxiv (2026)](https://doi.org/10.64898/2026.08.10.743906)  
 
 * **Universal Interatomic Potentials as Configuration-Space Generators for One-Shot and Iterative Fine-Tuning of Ab Initio-Accurate Material-Specific Models** [2026]  
 Jonas Hänseroth, Aaron Flötotto, Christian Dreßler.  
@@ -3228,6 +3230,11 @@ Grambow, Colin A., Hayley Weir, Nathaniel Diamant, Alex Tseng, Tommaso Biancalan
 
 
 
+
+
+* **Ab initio side-chain sampling with PUD+ enables high-fidelity protein dynamics across AI-driven and classical simulations** [2026]  
+Dianwei Wu, Tong Wang.  
+[bioRxiv (2026)](https://doi.org/10.64898/2026.08.10.743906)  
 
 * **Learning millisecond protein dynamics from what is missing in NMR spectra** [2026]  
 Wayment-Steele, H.K., El Nesr, G., Hettiarachchi, R. et al.  
