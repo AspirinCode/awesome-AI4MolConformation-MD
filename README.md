@@ -3232,6 +3232,12 @@ Grambow, Colin A., Hayley Weir, Nathaniel Diamant, Alex Tseng, Tommaso Biancalan
 
 
 
+
+
+* **Recovering Conformational Heterogeneity from the Protein Data Bank at Scale** [2026]  
+Wankowicz, Stephanie A.  
+[Radial (2026)](https://thestacks.org/publications/qfit-at-scale/v1) | [code](https://github.com/ExcitedStates/qfit-3.0)  
+
 * **Ab initio side-chain sampling with PUD+ enables high-fidelity protein dynamics across AI-driven and classical simulations** [2026]  
 Dianwei Wu, Tong Wang.  
 [bioRxiv (2026)](https://doi.org/10.64898/2026.08.10.743906)  
