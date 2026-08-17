@@ -3836,7 +3836,9 @@ Wu, Fang, Shuting Jin, Yinghui Jiang, Xurui Jin, Bowen Tang, Zhangming Niu, Xian
 
 
 
-
+* **DynaPPI: A Large-scale Dynamic Protein Dataset for AI-driven Advances in Protein Interactomics** [2026]  
+Jiabao Wei, Zilong Geng, Yuze Wang, Jianjun Li, Ning Ding, Bowen Zhou, Bing Zhang, Zhiyuan Ma.  
+[arXiv:2608.10435(2026)](https://doi.org/10.48550/arXiv.2608.10435)  
 
 * **PP-MAPS: Dynamic Pharmacophore Signatures of Protein–Peptide Interfaces from Molecular Dynamics Trajectories** [2026]  
 Camille Depenveiller, Arezki Guerda, Emilia Rabia, Aziza Caidi, Yaqoub Ashhab, Fathia Mami-Chouaib, Matthieu Montes.  
