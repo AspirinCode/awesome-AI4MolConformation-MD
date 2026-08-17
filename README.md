@@ -3232,7 +3232,9 @@ Grambow, Colin A., Hayley Weir, Nathaniel Diamant, Alex Tseng, Tommaso Biancalan
 
 
 
-
+* **SF-Cluster: Frustration-Guided MSA Subsampling for Alternative Protein Conformation Recovery** [2026]  
+Hanqun Cao, Zijun Gao, Chunbin Gu, Ge Liu, Pheng Ann Heng, Pranam Chatterjee.  
+[arXiv:2607.00180(2026)](https://doi.org/10.48550/arXiv.2607.00180)  
 
 * **Recovering Conformational Heterogeneity from the Protein Data Bank at Scale** [2026]  
 Wankowicz, Stephanie A.  
