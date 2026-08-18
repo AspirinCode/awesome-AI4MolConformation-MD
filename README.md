@@ -961,7 +961,9 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
-
+* **Exploring Conformational Transitions of Adenine RNA Dimer via Machine Learning Potentials** [2026]  
+Leonardo Medrano Sandonas, Macarena Tolmos Nehme, Luis Fernando Cofas-Vargas, Gustavo E. Olivos-Ramirez, Gianaurelio Cuniberti, Simón Poblete, Adolfo B. Poma.  
+[J. Chem. Theory Comput.(2026)](https://doi.org/10.1021/acs.jctc.6c01213) | [Zenodo](https://doi.org/10.5281/zenodo.20838383)  
 
 * **Quantum machine learning interatomic potential: Application of variational quantum algorithm** [2026]  
 Kohei Numata, Wataru Mizukami, Kosuke Mitarai, Keisuke Fujii, Yutaka Imamura.  
