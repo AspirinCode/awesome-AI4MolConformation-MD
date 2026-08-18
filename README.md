@@ -1769,6 +1769,12 @@ Anstine DM, Zhao Q, Zubatiuk R, Zhang S, Singla V, Nikitin F, et al.
 
 
 
+
+
+* **An OpenMM-Based ML/MM–MMGBSA Workflow for End-point Protein–Ligand Binding Energy Ranking** [2026]  
+Chenchen Wang, Shihang Wang, Silong Zhai, Li Qin, Kai Xu, Jianmin Wang, Huanxiang Liu, Xiaojun Yao.  
+[J. Chem. Inf. Model. (2026)](https://doi.org/10.1021/acs.jcim.6c01539) | [code](https://github.com/ChenchenWang-AIDD/mlmm-gbsa)  
+
 * **Estimation of Absolute Protein–DNA Binding Free Energy Using Streamlined Geometric Formalism** [2026]  
 Shreya Mukherjee, Diship Srivastava, and Niladri Patra.  
 [J. Phys. Chem. Lett. (2026)](https://doi.org/10.1021/acs.jpclett.6c01789)  
@@ -3754,6 +3760,12 @@ Spoendlin, Fabian C., Wing Ki Wong, Guy Georges, Alexander Bujotzek, and Charlot
 
 
 
+
+
+
+* **An OpenMM-Based ML/MM–MMGBSA Workflow for End-point Protein–Ligand Binding Energy Ranking** [2026]  
+Chenchen Wang, Shihang Wang, Silong Zhai, Li Qin, Kai Xu, Jianmin Wang, Huanxiang Liu, Xiaojun Yao.  
+[J. Chem. Inf. Model. (2026)](https://doi.org/10.1021/acs.jcim.6c01539) | [code](https://github.com/ChenchenWang-AIDD/mlmm-gbsa)  
 
 * **seekrflow: Towards end-to-end automated simulation pipeline with machine-learned force fields for accelerated drug-target kinetic and thermodynamic predictions** [2026]  
 Anupam A. Ojha, Lane W. Votapka, Shiksha Dutta, Anson F. Noland, Sonya M. Hanson, Rommie E. Amaro.  
