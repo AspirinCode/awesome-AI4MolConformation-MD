@@ -3151,6 +3151,14 @@ Xu, Minkai, Wujie Wang, Shitong Luo, Chence Shi, Yoshua Bengio, Rafael Gomez-Bom
 
 
 
+
+
+
+
+* **Exploring Conformational Transitions of Adenine RNA Dimer via Machine Learning Potentials** [2026]  
+Leonardo Medrano Sandonas, Macarena Tolmos Nehme, Luis Fernando Cofas-Vargas, Gustavo E. Olivos-Ramirez, Gianaurelio Cuniberti, Simón Poblete, Adolfo B. Poma.  
+[J. Chem. Theory Comput.(2026)](https://doi.org/10.1021/acs.jctc.6c01213) | [Zenodo](https://doi.org/10.5281/zenodo.20838383)  
+
 * **PlanarFold: a coarse-grained molecular dynamics model of RNA in two-dimensional space** [2026]  
 Xiang, L., Xue, Y.  
 [Nat Commun (2026)](https://doi.org/10.1038/s41467-026-74729-y) | [code](https://github.com/Lanxiang-thu/PlanarFold) | [Zenodo](https://zenodo.org/records/19397229)  
