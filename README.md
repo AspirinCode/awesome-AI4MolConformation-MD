@@ -3230,7 +3230,9 @@ Grambow, Colin A., Hayley Weir, Nathaniel Diamant, Alex Tseng, Tommaso Biancalan
 
 
 
-
+* **Pi-Ensemble: Sequence-guided generation of interpolated protein conformational ensembles** [2026]  
+Hassan Nadeem, Diego E Kleiman, Yuming Zhou, Andrew Leakey, Diwakar Shukla.  
+[bioRxiv (2026)](https://doi.org/10.64898/2026.08.12.744498)  
 
 * **SF-Cluster: Frustration-Guided MSA Subsampling for Alternative Protein Conformation Recovery** [2026]  
 Hanqun Cao, Zijun Gao, Chunbin Gu, Ge Liu, Pheng Ann Heng, Pranam Chatterjee.  
