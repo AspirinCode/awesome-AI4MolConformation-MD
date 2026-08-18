@@ -3997,6 +3997,10 @@ Matteo Pavan, Davide Bassani, Mattia Sturlese, Stefano Moro.
 
 
 
+* **Universal Thermodynamic Interatomic Potentials for Crystalline Materials** [2026]  
+Juno Nam, Bowen Deng, Xiaochen Du, Luis Barroso-Luque, Benjamin Kurt Miller, Rafael Gómez-Bombarelli.  
+[arXiv:2608.14502 (2026)](https://doi.org/10.48550/arXiv.2608.14502)  
+
 * **Angular relational knowledge distillation of machine learning interatomic potentials for scalable catalyst exploration** [2026]  
 Lim, H., Choung, S., Moon, J. et al.  
 [npj Comput Mater 12, 193 (2026)](https://doi.org/10.1038/s41524-026-02062-5) | [code](https://github.com/hyukjunlim/ARK)  
