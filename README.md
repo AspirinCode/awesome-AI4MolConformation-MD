@@ -1773,6 +1773,13 @@ Anstine DM, Zhao Q, Zubatiuk R, Zhang S, Singla V, Nikitin F, et al.
 
 
 
+
+
+
+* **Evaluating Electrostatic Embedding MLIP/MM for Relative Binding Free Energy Calculations** [2026]  
+Stephen E. Farr, Gianni De Fabritiis.  
+[arXiv:2608.13355(2026)](https://doi.org/10.48550/arXiv.2608.13355) | [code](https://huggingface.co/Acellera)  
+
 * **An OpenMM-Based ML/MM–MMGBSA Workflow for End-point Protein–Ligand Binding Energy Ranking** [2026]  
 Chenchen Wang, Shihang Wang, Silong Zhai, Li Qin, Kai Xu, Jianmin Wang, Huanxiang Liu, Xiaojun Yao.  
 [J. Chem. Inf. Model. (2026)](https://doi.org/10.1021/acs.jcim.6c01539) | [code](https://github.com/ChenchenWang-AIDD/mlmm-gbsa)  
@@ -2320,6 +2327,13 @@ Do, Hung N., Jinan Wang, Apurba Bhattarai, and Yinglong Miao.
 
 
 
+
+
+
+
+* **AlphaConformers: Structure-guided sampling enables prediction of multiple protein conformations** [2026]  
+Julie Liliane Daniel, Lucas Vitoriano De Queiroz Lira, Diego Javier Zea.  
+[bioRxiv (2026)](https://doi.org/10.1038/s41587-026-03166-5) | [code](https://github.com/diegozea/AlphaConformers.jl)  
 
 * **Experiment-guided AlphaFold3 resolves measurement-consistent protein ensembles** [2026]  
 Maddipatla, A., Sellam Bojan, N., Bojan, M. et al.  
@@ -3241,6 +3255,10 @@ Grambow, Colin A., Hayley Weir, Nathaniel Diamant, Alex Tseng, Tommaso Biancalan
 
 
 ### Protein conformational dynamics
+
+
+
+
 
 
 
