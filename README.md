@@ -1993,6 +1993,11 @@ Pham, T.D., Tanikanti, A. & Keçeli, M.
 
 
 
+
+* **PyFock: A Just-In-Time Compiled Gaussian Basis DFT Python Code for CPU and GPU Architectures** [2026]  
+Manas Sharma, Marek Sierka.  
+[J. Phys. Chem. A (2026)](https://doi.org/10.1021/acs.jpca.6c03727) | [web](https://pyfock.bragitoff.com/) | [Code](https://github.com/manassharma07/pyfock)  
+
 * **PrimaDORAC: An improved Web Interface for Rapid GAFF2 Parameter Assignment with ABCG2 Charge Models for Drug Design Applications** [2026]  
 Piero Procacci.  
 [Journal of computational chemistry (2026)](https://doi.org/10.1002/jcc.70444) | [web](http://www1.chim.unifi.it/orac/primadorac/)  
