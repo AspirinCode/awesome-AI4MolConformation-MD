@@ -2020,6 +2020,12 @@ Wieners, L., Garcia, M.E.
 
 
 
+
+
+* **An ab initio foundation model of wavefunctions that accurately describes chemical bond breaking** [2026]  
+Foster, A., Schätzle, Z., Szabó, P.B. et al.  
+[Nat Commun (2026)](https://doi.org/10.1038/s41467-026-76604-2) | [code](https://github.com/microsoft/oneqmc)  
+
 * **Ab initio side-chain sampling with PUD+ enables high-fidelity protein dynamics across AI-driven and classical simulations** [2026]  
 Dianwei Wu, Tong Wang.  
 [bioRxiv (2026)](https://doi.org/10.64898/2026.08.10.743906)  
