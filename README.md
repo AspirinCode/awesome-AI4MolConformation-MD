@@ -2342,6 +2342,11 @@ Do, Hung N., Jinan Wang, Apurba Bhattarai, and Yinglong Miao.
 
 
 
+
+* **Enhanced Sampling of Protein Conformations in AlphaFold3 with Repulsive Bias in the Diffusion Generative Model** [2026]  
+Jun Ohnuki, Kei-ichi Okazaki.  
+[JACS Au(2026)](https://doi.org/10.1021/jacsau.6c00596) | [code](https://github.com/OkazakiLab/af3_red)  
+
 * **AlphaConformers: Structure-guided sampling enables prediction of multiple protein conformations** [2026]  
 Julie Liliane Daniel, Lucas Vitoriano De Queiroz Lira, Diego Javier Zea.  
 [bioRxiv (2026)](https://doi.org/10.1038/s41587-026-03166-5) | [code](https://github.com/diegozea/AlphaConformers.jl)  
@@ -3273,7 +3278,9 @@ Grambow, Colin A., Hayley Weir, Nathaniel Diamant, Alex Tseng, Tommaso Biancalan
 
 
 
-
+* **Enhanced Sampling of Protein Conformations in AlphaFold3 with Repulsive Bias in the Diffusion Generative Model** [2026]  
+Jun Ohnuki, Kei-ichi Okazaki.  
+[JACS Au(2026)](https://doi.org/10.1021/jacsau.6c00596) | [code](https://github.com/OkazakiLab/af3_red)  
 
 * **Pi-Ensemble: Sequence-guided generation of interpolated protein conformational ensembles** [2026]  
 Hassan Nadeem, Diego E Kleiman, Yuming Zhou, Andrew Leakey, Diwakar Shukla.  
