@@ -959,7 +959,9 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
-
+* **Accurate and Transferable Intermolecular Potential Based on Machine-Learned Molecular Electron Density** [2026]  
+Dahvyd Wing, Mihail Bogojeski, Szabolcs Goger, Klaus-Robert Müller, Alexandre Tkatchenko.  
+[arXiv:2608.20753 (2026)](https://doi.org/10.48550/arXiv.2608.20753)  
 
 * **Exploring Conformational Transitions of Adenine RNA Dimer via Machine Learning Potentials** [2026]  
 Leonardo Medrano Sandonas, Macarena Tolmos Nehme, Luis Fernando Cofas-Vargas, Gustavo E. Olivos-Ramirez, Gianaurelio Cuniberti, Simón Poblete, Adolfo B. Poma.  
