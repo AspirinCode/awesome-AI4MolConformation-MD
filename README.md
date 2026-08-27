@@ -3280,6 +3280,12 @@ Grambow, Colin A., Hayley Weir, Nathaniel Diamant, Alex Tseng, Tommaso Biancalan
 
 
 
+
+
+* **AFM-Fold: Rapid reconstruction of protein conformations from AFM images** [2026]  
+Kawai, Tsuyoshi, and Yasuhiro Matsunaga.  
+[Biophysical Journal 125.15 (2026)](https://doi.org/10.1016/j.bpj.2026.06.022) | [code](https://github.com/matsunagalab/afmfold)  
+
 * **Enhanced Sampling of Protein Conformations in AlphaFold3 with Repulsive Bias in the Diffusion Generative Model** [2026]  
 Jun Ohnuki, Kei-ichi Okazaki.  
 [JACS Au(2026)](https://doi.org/10.1021/jacsau.6c00596) | [code](https://github.com/OkazakiLab/af3_red)  
