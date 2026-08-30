@@ -2347,6 +2347,11 @@ Do, Hung N., Jinan Wang, Apurba Bhattarai, and Yinglong Miao.
 
 
 
+
+* **GNMCADS: Sampling For Protein Conformation Diversity With Gaussian Network Model Guided Condition Annealed Diffusion Sampler** [2026]  
+Ahmed Selim Uzum, Turkan Haliloglu.  
+[bioRxiv (2026)](https://doi.org/10.64898/2026.08.28.747885) | [code](https://github.com/ahmedselim2017/af3_gnmcads)  
+
 * **Enhanced Sampling of Protein Conformations in AlphaFold3 with Repulsive Bias in the Diffusion Generative Model** [2026]  
 Jun Ohnuki, Kei-ichi Okazaki.  
 [JACS Au(2026)](https://doi.org/10.1021/jacsau.6c00596) | [code](https://github.com/OkazakiLab/af3_red)  
@@ -3293,6 +3298,11 @@ Grambow, Colin A., Hayley Weir, Nathaniel Diamant, Alex Tseng, Tommaso Biancalan
 
 
 
+
+
+* **GNMCADS: Sampling For Protein Conformation Diversity With Gaussian Network Model Guided Condition Annealed Diffusion Sampler** [2026]  
+Ahmed Selim Uzum, Turkan Haliloglu.  
+[bioRxiv (2026)](https://doi.org/10.64898/2026.08.28.747885) | [code](https://github.com/ahmedselim2017/af3_gnmcads)  
 
 * **AFM-Fold: Rapid reconstruction of protein conformations from AFM images** [2026]  
 Kawai, Tsuyoshi, and Yasuhiro Matsunaga.  
