@@ -957,7 +957,9 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
-
+* **Atomistic machine learning with irreducible Cartesian natural tensors** [2026]  
+Chen, Q., Pattamatta, A.S.L.S., Wang, B. et al.  
+[Nat Commun (2026)](https://doi.org/10.1038/s41467-026-77263-z) | [Code](https://github.com/wengroup/carnet)  
 
 * **Accurate and Transferable Intermolecular Potential Based on Machine-Learned Molecular Electron Density** [2026]  
 Dahvyd Wing, Mihail Bogojeski, Szabolcs Goger, Klaus-Robert Müller, Alexandre Tkatchenko.  
