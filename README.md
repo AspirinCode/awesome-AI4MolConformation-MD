@@ -2784,6 +2784,11 @@ Yuancheng Sun, Yuxuan Ren, Zhaoming Chen, Xu Han, Kang Liu, Qiwei Ye.
 
 
 
+
+
+
+
+
 ### Diffusion-based
 
 
@@ -2791,6 +2796,11 @@ Yuancheng Sun, Yuxuan Ren, Zhaoming Chen, Xu Han, Kang Liu, Qiwei Ye.
 
 
 
+
+
+* **GNMCADS: Sampling For Protein Conformation Diversity With Gaussian Network Model Guided Condition Annealed Diffusion Sampler** [2026]  
+Ahmed Selim Uzum, Turkan Haliloglu.  
+[bioRxiv (2026)](https://doi.org/10.64898/2026.08.28.747885) | [code](https://github.com/ahmedselim2017/af3_gnmcads)  
 
 * **Spectral Diffusion for Protein Dynamics** [2026]  
 Hew Phipps, Matteo Cagiada, Santiago D. Villalba, Charlotte M. Deane.  
