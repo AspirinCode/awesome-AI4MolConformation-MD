@@ -2346,7 +2346,9 @@ Do, Hung N., Jinan Wang, Apurba Bhattarai, and Yinglong Miao.
 
 
 
-
+* **PathFold: Predicting the Entire Protein Folding Pathway from Protein Sequence Alone** [2026]  
+Zicong Zhang, Nabil Ibtehaz, Yuki Kagaya, Ziyi Xu, Pranav Punuru, Daisuke Kihara.  
+[bioRxiv (2026)](https://doi.org/10.64898/2026.08.26.747321) | [code](https://github.com/kiharalab/PathFold)  
 
 * **GNMCADS: Sampling For Protein Conformation Diversity With Gaussian Network Model Guided Condition Annealed Diffusion Sampler** [2026]  
 Ahmed Selim Uzum, Turkan Haliloglu.  
