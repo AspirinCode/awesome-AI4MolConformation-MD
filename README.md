@@ -3804,6 +3804,13 @@ Du, Yilun, Joshua Meier, Jerry Ma, Rob Fergus, and Alexander Rives.
 
 
 
+
+
+
+* **Tweaking Enzymatic Electric Field Can Evolve CYP450-like Activity in Catalase and CYP-P411 Enzymes** [2026]  
+  Dinesh Singh, Kshatresh Dutta Dubey.  
+  [J. Chem. Theory Comput. (2026)](https://doi.org/10.1021/acs.jctc.6c01060)  
+
 * **Enerzyme: A Framework for Efficient Training of Reactive Neural Network Potentials for Enzyme Catalysis with Application to Methyltransferases** [2026]  
   Weiliang Luo, Heather J. Kulik.  
   [arXiv:2607.01362 (2026)](https://doi.org/10.48550/arXiv.2607.01362) | [code](https://github.com/Benzoin96485/Enerzyme)  
