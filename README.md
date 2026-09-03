@@ -2783,9 +2783,20 @@ Jing, Bowen, Bonnie Berger, and Tommi Jaakkola.
 
 
 
+
+
+
+
+* **RPDynaFlow: Generating RNA–protein Conformation Ensembles by Atomic Conditional Flow Matching** [2026]  
+Yuntao Li, Kexin Lu.  
+[bioRxiv.(2026)](https://doi.org/10.64898/2026.08.28.747734) | [code](https://github.com/YuntaoOvO/RPDynaFlow)  
+
 * **EPO: Diverse and Realistic Protein Ensemble Generation via Energy Preference Optimization** [2025]  
 Yuancheng Sun, Yuxuan Ren, Zhaoming Chen, Xu Han, Kang Liu, Qiwei Ye.  
 [arXiv:2511.10165 (2025)](https://doi.org/10.48550/arXiv.2511.10165)  
+
+
+
 
 
 
@@ -4027,6 +4038,13 @@ A. Clay Richard, Robert J. Pantazes.
 
 
 
+
+
+
+
+* **RPDynaFlow: Generating RNA–protein Conformation Ensembles by Atomic Conditional Flow Matching** [2026]  
+Yuntao Li, Kexin Lu.  
+[bioRxiv.(2026)](https://doi.org/10.64898/2026.08.28.747734) | [code](https://github.com/YuntaoOvO/RPDynaFlow)  
 
 * **Estimation of Absolute Protein–DNA Binding Free Energy Using Streamlined Geometric Formalism** [2026]  
 Shreya Mukherjee, Diship Srivastava, and Niladri Patra.  
