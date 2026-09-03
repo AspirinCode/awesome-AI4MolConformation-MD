@@ -2344,7 +2344,9 @@ Do, Hung N., Jinan Wang, Apurba Bhattarai, and Yinglong Miao.
 
 
 
-
+* **Label Noise Limits TCR-pMHC Specificity Prediction: Improved Performance Through AlphaFold3-Based Structural Modeling and Data Denoising** [2026]  
+Pilar Ballesteros-Cuartero, Johanne Lund, Morten Nielsen.  
+[bioRxiv (2026)](https://doi.org/10.64898/2026.08.25.746957) | [code](https://github.com/mnielLab/NetTCRfold-1.0)  
 
 * **PathFold: Predicting the Entire Protein Folding Pathway from Protein Sequence Alone** [2026]  
 Zicong Zhang, Nabil Ibtehaz, Yuki Kagaya, Ziyi Xu, Pranav Punuru, Daisuke Kihara.  
