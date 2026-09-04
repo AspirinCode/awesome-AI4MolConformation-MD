@@ -3315,6 +3315,12 @@ Grambow, Colin A., Hayley Weir, Nathaniel Diamant, Alex Tseng, Tommaso Biancalan
 
 
 
+
+
+* **Accurate and efficient prediction of protein conformations with ProtMonomer** [2026]  
+Yunda Si, Suqi Zhang, Luonan Chen.  
+[bioRxiv. (2026)](https://doi.org/10.64898/2026.08.28.747824) | [code](https://github.com/yunda-si/ProtMonomer)  
+
 * **GNMCADS: Sampling For Protein Conformation Diversity With Gaussian Network Model Guided Condition Annealed Diffusion Sampler** [2026]  
 Ahmed Selim Uzum, Turkan Haliloglu.  
 [bioRxiv (2026)](https://doi.org/10.64898/2026.08.28.747885) | [code](https://github.com/ahmedselim2017/af3_gnmcads)  
