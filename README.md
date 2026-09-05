@@ -230,7 +230,13 @@ https://github.com/LumosBio/MolData
 
 
 
+
+
+
 ## Molecular dynamics
+
+
+
 
 
 
@@ -244,11 +250,18 @@ Nielsen, M.M., Wagen, C.C., Gomes, L.A., Tantillo, D.J., Lopez, S.A. and Jacobse
 Athavale V, Kulichenko M, Fernandez-Alberti S, Niklasson A, Tretiak S.  
 [ChemRxiv. (2025)](https://doi.org/10.26434/chemrxiv-2025-6h565)  
 
+* **STORMM: Structure and topology replica molecular mechanics for chemical simulations** [2024]  
+David S. Cerutti, Rafal Wiewiora, Simon Boothroyd, Woody Sherman.  
+[J. Chem. Phys. (2024)](https://doi.org/10.1063/5.0211032) | [code](https://github.com/psivant/stormm)  
+
+
+
 
 
 
 
 ### Molecular Force Fields
+
 
 
 
