@@ -3328,7 +3328,9 @@ Grambow, Colin A., Hayley Weir, Nathaniel Diamant, Alex Tseng, Tommaso Biancalan
 
 
 
-
+* **Ensemble tests mask missing dynamics in protein conformational generators** [2026]  
+Kaining Liu, Qiuting Qian, Ying Chi.  
+[bioRxiv. (2026)](https://doi.org/10.64898/2026.09.02.748111) | [code](https://github.com/kkkniengLiu/dynbench)  
 
 * **Accurate and efficient prediction of protein conformations with ProtMonomer** [2026]  
 Yunda Si, Suqi Zhang, Luonan Chen.  
