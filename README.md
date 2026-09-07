@@ -4142,7 +4142,9 @@ Matteo Pavan, Davide Bassani, Mattia Sturlese, Stefano Moro.
 
 
 
-
+* **Machine-learned potential for fission gas diffusion in uranium oxide nuclear fuels** [2026]  
+Miles, Audrey R., Bartomeu Monserrat, and Sarah C. Finkeldei.  
+[Physical Review B (2026)](https://doi.org/10.1103/d775-mmsy)  
 
 * **Universal Thermodynamic Interatomic Potentials for Crystalline Materials** [2026]  
 Juno Nam, Bowen Deng, Xiaochen Du, Luis Barroso-Luque, Benjamin Kurt Miller, Rafael Gómez-Bombarelli.  
