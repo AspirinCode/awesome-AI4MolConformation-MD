@@ -3317,6 +3317,9 @@ Grambow, Colin A., Hayley Weir, Nathaniel Diamant, Alex Tseng, Tommaso Biancalan
 
 
 
+
+
+
 ### Protein conformational dynamics
 
 
@@ -3327,6 +3330,12 @@ Grambow, Colin A., Hayley Weir, Nathaniel Diamant, Alex Tseng, Tommaso Biancalan
 
 
 
+
+
+
+* **Carbonara: a SAXS-guided seeding framework for exploring protein solution-state dynamics** [2026]  
+Josh McKeown, Cameron Brown, Arron Bale, Hayden Fisher, Robert P. Rambo, Jonathan W. Essex, Matteo T. Degiacomi, Christopher Prior.  
+[bioRxiv. (2026)](https://doi.org/10.64898/2026.07.25.740665)  
 
 * **Ensemble tests mask missing dynamics in protein conformational generators** [2026]  
 Kaining Liu, Qiuting Qian, Ying Chi.  
