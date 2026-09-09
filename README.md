@@ -970,6 +970,11 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
+
+* **AdaptNTK: Adaptive Uncertainty Quantification and Active Learning for Neural Network Potentials** [2026]  
+Prajwal Ananth, Shuwen Yue.  
+[arXiv:2609.00488(2026)](https://doi.org/10.48550/arXiv.2609.00488)  
+
 * **Atomistic machine learning with irreducible Cartesian natural tensors** [2026]  
 Chen, Q., Pattamatta, A.S.L.S., Wang, B. et al.  
 [Nat Commun (2026)](https://doi.org/10.1038/s41467-026-77263-z) | [Code](https://github.com/wengroup/carnet)  
