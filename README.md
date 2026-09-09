@@ -240,7 +240,9 @@ https://github.com/LumosBio/MolData
 
 
 
-
+* **Gaussian Accelerated Molecular Dynamics in GROMACS** [2026]  
+Yuefeng Yang.  
+[bioRxiv (2026)](https://doi.org/10.64898/2026.08.10.743837)  
 
 * **Ab Initio Molecular Dynamics Simulations for Organic Chemists─It is About Time!** [2026]  
 Nielsen, M.M., Wagen, C.C., Gomes, L.A., Tantillo, D.J., Lopez, S.A. and Jacobsen, E.N.  
