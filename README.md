@@ -268,7 +268,9 @@ David S. Cerutti, Rafal Wiewiora, Simon Boothroyd, Woody Sherman.
 
 
 
-
+* **Quantum Field Approaches to Chemical Systems** [2026]  
+Reza Karimpour, Matteo Gori, Alexandre Tkatchenko.  
+[Journal American Chemical Society (2026)](https://doi.org/10.1021/jacs.6c02077)  
 
 * **Stapline: Development of a Force Field Library for Stapled Peptide Residues** [2026]  
 Dr. Evangelia Notari, Dr. Marie T. J. Bluntzer, Prof. Julien Michel, et al.  
