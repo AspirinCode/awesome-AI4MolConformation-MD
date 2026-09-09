@@ -3336,7 +3336,9 @@ Grambow, Colin A., Hayley Weir, Nathaniel Diamant, Alex Tseng, Tommaso Biancalan
 
 
 
-
+* **A curated benchmark for cofolding models on kinase conformational states** [2026]  
+Sun, K., Head-Gordon, T.  
+[npj Drug Discov. 3, 33 (2026)](https://doi.org/10.1038/s44386-026-00068-z) | [code](https://github.com/THGLab/KinConfBench)  
 
 * **Carbonara: a SAXS-guided seeding framework for exploring protein solution-state dynamics** [2026]  
 Josh McKeown, Cameron Brown, Arron Bale, Hayden Fisher, Robert P. Rambo, Jonathan W. Essex, Matteo T. Degiacomi, Christopher Prior.  
