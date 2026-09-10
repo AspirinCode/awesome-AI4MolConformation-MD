@@ -2849,6 +2849,12 @@ Yuancheng Sun, Yuxuan Ren, Zhaoming Chen, Xu Han, Kang Liu, Qiwei Ye.
 
 
 
+
+
+* **Breaking timescales with generative sampling of conformational transitions** [2026]  
+Tang, C., Pandey, M.P., Chen, C.G. et al.  
+[Nature (2026)](https://doi.org/10.1038/s41586-026-11025-1) | [code](https://github.com/Tangcyu/Gen-COMPAS)  
+
 * **GNMCADS: Sampling For Protein Conformation Diversity With Gaussian Network Model Guided Condition Annealed Diffusion Sampler** [2026]  
 Ahmed Selim Uzum, Turkan Haliloglu.  
 [bioRxiv (2026)](https://doi.org/10.64898/2026.08.28.747885) | [code](https://github.com/ahmedselim2017/af3_gnmcads)  
@@ -3347,7 +3353,9 @@ Grambow, Colin A., Hayley Weir, Nathaniel Diamant, Alex Tseng, Tommaso Biancalan
 
 
 
-
+* **Breaking timescales with generative sampling of conformational transitions** [2026]  
+Tang, C., Pandey, M.P., Chen, C.G. et al.  
+[Nature (2026)](https://doi.org/10.1038/s41586-026-11025-1) | [code](https://github.com/Tangcyu/Gen-COMPAS)  
 
 * **A curated benchmark for cofolding models on kinase conformational states** [2026]  
 Sun, K., Head-Gordon, T.  
