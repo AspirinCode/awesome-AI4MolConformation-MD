@@ -975,6 +975,13 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
+
+
+
+* **MLIP Detective: Active Failure Mode Discovery Beyond Benchmark Scores for Machine-Learning Interatomic Potentials** [2026]  
+Ryuhei Okuno, Nontawat Charoenphakdee, Kaoru Hisama, Yuta Tsuboi.  
+[arXiv:2609.08399 (2026)](https://doi.org/10.48550/arXiv.2609.08399)  
+
 * **AdaptNTK: Adaptive Uncertainty Quantification and Active Learning for Neural Network Potentials** [2026]  
 Prajwal Ananth, Shuwen Yue.  
 [arXiv:2609.00488(2026)](https://doi.org/10.48550/arXiv.2609.00488)  
