@@ -2018,7 +2018,9 @@ Pham, T.D., Tanikanti, A. & Keçeli, M.
 
 
 
-
+* **Performance of a minimally empirical local-hybrid density functional for molecular chemistry** [2026]  
+Erin R. Johnson, Kyle R. Bryenton.  
+[arXiv:2609.06162 (2026)](https://doi.org/10.48550/arXiv.2609.06162)  
 
 * **PyFock: A Just-In-Time Compiled Gaussian Basis DFT Python Code for CPU and GPU Architectures** [2026]  
 Manas Sharma, Marek Sierka.  
