@@ -240,6 +240,14 @@ https://github.com/LumosBio/MolData
 
 
 
+
+
+
+
+* **Early-Enrichment Hit Discovery via Reversible-Work c(t) Estimation in Metadynamics (CTMD)** [2026]  
+Venkata Sai Sreyas Adury, Pratyush Tiwary, Xinyu Gu, Mrinal Shekhar.  
+[bioRxiv (2026)](https://doi.org/10.64898/2026.02.05.703972) | [code](https://github.com/mrinal-shekhar/CTMD)  
+
 * **Gaussian Accelerated Molecular Dynamics in GROMACS** [2026]  
 Yuefeng Yang.  
 [bioRxiv (2026)](https://doi.org/10.64898/2026.08.10.743837)  
