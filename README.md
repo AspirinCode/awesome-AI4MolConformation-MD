@@ -988,7 +988,9 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
-
+* **pdb2reaction: End-to-End Reaction-Path Elucidation from PDB Structures Using Machine-Learning Interatomic Potentials** [2026]  
+Takuto Ohmura, Hajime Sato, Tohru Terada.  
+[ChemRxiv. (2026)](https://doi.org/10.26434/chemrxiv.15003538/v2) | [Code](https://github.com/t-0hmura/pdb2reaction)  
 
 * **Quantum-accurate atomistic modeling of enzyme catalysis using a machine learned potential** [2026]  
 Meng Gao, Armin Shayesteh Zadeh, Aniruddha Seal, Siva Dasetty, Siddarth K. Achar, Misko Dzamba, Benjamin K. Miller, Leif D. Jacobson, C. Lawrence Zitnick, Brandon M. Wood, Zachary W. Ulissi, Daniel S. Levine, Andrew L. Ferguson.  
