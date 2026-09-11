@@ -976,7 +976,9 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
-
+* **Quantum-accurate atomistic modeling of enzyme catalysis using a machine learned potential** [2026]  
+Meng Gao, Armin Shayesteh Zadeh, Aniruddha Seal, Siva Dasetty, Siddarth K. Achar, Misko Dzamba, Benjamin K. Miller, Leif D. Jacobson, C. Lawrence Zitnick, Brandon M. Wood, Zachary W. Ulissi, Daniel S. Levine, Andrew L. Ferguson.  
+[arXiv:2609.09293(2026)](https://doi.org/10.48550/arXiv.2609.09293) | [Code](https://github.com/facebookresearch/fairchem)  
 
 * **MLIP Detective: Active Failure Mode Discovery Beyond Benchmark Scores for Machine-Learning Interatomic Potentials** [2026]  
 Ryuhei Okuno, Nontawat Charoenphakdee, Kaoru Hisama, Yuta Tsuboi.  
@@ -3865,7 +3867,9 @@ Du, Yilun, Joshua Meier, Jerry Ma, Rob Fergus, and Alexander Rives.
 
 
 
-
+* **Quantum-accurate atomistic modeling of enzyme catalysis using a machine learned potential** [2026]  
+Meng Gao, Armin Shayesteh Zadeh, Aniruddha Seal, Siva Dasetty, Siddarth K. Achar, Misko Dzamba, Benjamin K. Miller, Leif D. Jacobson, C. Lawrence Zitnick, Brandon M. Wood, Zachary W. Ulissi, Daniel S. Levine, Andrew L. Ferguson.  
+[arXiv:2609.09293(2026)](https://doi.org/10.48550/arXiv.2609.09293) | [Code](https://github.com/facebookresearch/fairchem)  
 
 * **Tweaking Enzymatic Electric Field Can Evolve CYP450-like Activity in Catalase and CYP-P411 Enzymes** [2026]  
   Dinesh Singh, Kshatresh Dutta Dubey.  
