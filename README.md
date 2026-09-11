@@ -782,6 +782,12 @@ Kevin V. Bigting, Shubhadeep Nag, Yaxin An.
 
 
 
+
+
+* **Edge-Aware Graph Attention Networks for Interpreting Biophysical Mechanisms from Molecular Dynamics Simulations** [2026]  
+Mohd Ahsan, Chinmai Pindi, Giulia Palermo.  
+[bioRxiv (2026)](https://doi.org/10.64898/2026.09.03.749137)  
+
 * **MDArena: Evaluating Coding Agents on Realistic Molecular Dynamics Workflows** [2026]  
 Nithishwer Mouroug Anand, Wei-Tse Hsu, Kyle Vaccaro, Eden James Gage, Jonathan David Colburn, Linda Xi Phan, Minjoon Seo, Kevin Guan, Philip C. Biggin.  
 [arXiv:2608.02642(2026)](https://doi.org/10.48550/arXiv.2608.02642) | [code](https://github.com/weitse-hsu/MDArena)  
