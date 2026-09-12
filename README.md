@@ -988,6 +988,12 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
+
+
+* **GRACE-OFF: A Machine-Learned Interatomic Potential for Organic Liquids Using the GRACE Architecture** [2026]  
+Anna Katharina Picha, Johannes Karwounopoulos, Linus C. Erhard, Stefan Boresch, Esther Heid.  
+[J. Chem. Theory Comput. (2026)](https://doi.org/10.1021/acs.jctc.6c01169) | [Code](https://github.com/heid-lab/grace-off/)  
+
 * **pdb2reaction: End-to-End Reaction-Path Elucidation from PDB Structures Using Machine-Learning Interatomic Potentials** [2026]  
 Takuto Ohmura, Hajime Sato, Tohru Terada.  
 [ChemRxiv. (2026)](https://doi.org/10.26434/chemrxiv.15003538/v2) | [Code](https://github.com/t-0hmura/pdb2reaction)  
