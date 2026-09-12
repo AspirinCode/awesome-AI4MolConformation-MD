@@ -2251,6 +2251,11 @@ KYuan, E.CY., Kumar, A., Guan, X. et al.
 
 
 
+
+* **SALTED: a symmetry-adapted machine-learning program for predicting electron-densities in molecules and materials** [2026]  
+Zekun Lou, Alan M. Lewis, Théophane Bernhard, Lukas Seifert, Agustin Salcedo, Florian Kleemiss, Mariana Rossi, Andrea Grisafi.  
+[arXiv:2609.03576(2026)](https://doi.org/10.48550/arXiv.2609.03576)  
+
 * **PARSEC.py: A Python-based Real-space Kohn–Sham Density Functional Theory Code Accelerated by Machine Learned Charge Density** [2026]  
 Zeyi Zhang, Carlos Mora Perez, Patrick Kwon, et al.  
 [ChemRxiv (2026)](https://doi.org/10.26434/chemrxiv.15005599/v1)  
@@ -4195,6 +4200,10 @@ Matteo Pavan, Davide Bassani, Mattia Sturlese, Stefano Moro.
 
 
 
+
+* **SALTED: a symmetry-adapted machine-learning program for predicting electron-densities in molecules and materials** [2026]  
+Zekun Lou, Alan M. Lewis, Théophane Bernhard, Lukas Seifert, Agustin Salcedo, Florian Kleemiss, Mariana Rossi, Andrea Grisafi.  
+[arXiv:2609.03576(2026)](https://doi.org/10.48550/arXiv.2609.03576)  
 
 * **Machine-learned potential for fission gas diffusion in uranium oxide nuclear fuels** [2026]  
 Miles, Audrey R., Bartomeu Monserrat, and Sarah C. Finkeldei.  
