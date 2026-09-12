@@ -694,7 +694,9 @@ https://github.com/ipudu/awesome-molecular-dynamics
 
 
 
-
+* **Light Martini water accelerates sampling in coarse-grained molecular dynamics simulations** [2026]  
+Aladdin Elgendy, André P. Zeipelt, Lars V. Schäfer.  
+[bioRxiv (2026)](https://doi.org/10.64898/2026.08.03.741232) | [code](https://doi.org/10.17877/RESOLV-2026-MS4UJFFM)  
 
 * **CTGoMartini: A Python Framework for Simulating Biomolecular Conformational Transitions with Gō-Martini Models** [2026]  
 Song Yang, Chen Song.  
