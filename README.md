@@ -3298,7 +3298,9 @@ Xu, Minkai, Wujie Wang, Shitong Luo, Chence Shi, Yoshua Bengio, Rafael Gomez-Bom
 
 
 
-
+* **Enhanced-Sampling Molecular Dynamics Recovers Rare Functional RNA Conformations Across Diverse Structural Contexts** [2026]  
+Leonardo Medrano Sandonas, Macarena Tolmos Nehme, Luis Fernando Cofas-Vargas, Gustavo E. Olivos-Ramirez, Gianaurelio Cuniberti, Simón Poblete, Adolfo B. Poma.  
+[bioRxiv (2026)](https://doi.org/10.64898/2026.08.22.746453) | [Code](https://github.com/Ken-Lab-ScrippsResearch/Li-Ken-RNA-ESMD)  
 
 * **Exploring Conformational Transitions of Adenine RNA Dimer via Machine Learning Potentials** [2026]  
 Leonardo Medrano Sandonas, Macarena Tolmos Nehme, Luis Fernando Cofas-Vargas, Gustavo E. Olivos-Ramirez, Gianaurelio Cuniberti, Simón Poblete, Adolfo B. Poma.  
