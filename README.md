@@ -992,6 +992,11 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
+
+* **Universal Thermodynamic Interatomic Potentials for Crystalline Materials** [2026]  
+Juno Nam, Bowen Deng, Xiaochen Du, Luis Barroso-Luque, Benjamin Kurt Miller, Rafael Gómez-Bombarelli.  
+[arXiv:2608.14502 (2026)](https://doi.org/10.48550/arXiv.2608.14502)  
+
 * **GRACE-OFF: A Machine-Learned Interatomic Potential for Organic Liquids Using the GRACE Architecture** [2026]  
 Anna Katharina Picha, Johannes Karwounopoulos, Linus C. Erhard, Stefan Boresch, Esther Heid.  
 [J. Chem. Theory Comput. (2026)](https://doi.org/10.1021/acs.jctc.6c01169) | [Code](https://github.com/heid-lab/grace-off/)  
@@ -4216,6 +4221,14 @@ Matteo Pavan, Davide Bassani, Mattia Sturlese, Stefano Moro.
 
 
 
+
+
+
+
+
+* **Universal Thermodynamic Interatomic Potentials for Crystalline Materials** [2026]  
+Juno Nam, Bowen Deng, Xiaochen Du, Luis Barroso-Luque, Benjamin Kurt Miller, Rafael Gómez-Bombarelli.  
+[arXiv:2608.14502 (2026)](https://doi.org/10.48550/arXiv.2608.14502)  
 
 * **SALTED: a symmetry-adapted machine-learning program for predicting electron-densities in molecules and materials** [2026]  
 Zekun Lou, Alan M. Lewis, Théophane Bernhard, Lukas Seifert, Agustin Salcedo, Florian Kleemiss, Mariana Rossi, Andrea Grisafi.  
