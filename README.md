@@ -2263,7 +2263,9 @@ KYuan, E.CY., Kumar, A., Guan, X. et al.
 
 
 
-
+* **The Open-Shell Organic Systems Database: Diverse CCSD(T)/CBS Reaction Energies for Assessing Density Functional Theory and Machine Learning Methods** [2026]  
+Amir Karton.  
+[J. Phys. Chem. A (2026)](https://doi.org/10.1021/acs.jpca.6c03915)  
 
 * **SALTED: a symmetry-adapted machine-learning program for predicting electron-densities in molecules and materials** [2026]  
 Zekun Lou, Alan M. Lewis, Théophane Bernhard, Lukas Seifert, Agustin Salcedo, Florian Kleemiss, Mariana Rossi, Andrea Grisafi.  
