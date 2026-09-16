@@ -993,6 +993,12 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
+
+
+* **El Agente Potente: High-Throughput Agentic Atomistic Simulations** [2026]  
+Tsz Wai Ko, Jiaru Bai, Thomas Swanick, Yeonghun Kang, Changhyeok Choi, Angelina Qihong Jiang, Aiwei Yin, Varinia Bernales, Alán Aspuru-Guzik.  
+[arXiv:2609.14840 (2026)](https://doi.org/10.48550/arXiv.2609.14840)  
+
 * **Universal Thermodynamic Interatomic Potentials for Crystalline Materials** [2026]  
 Juno Nam, Bowen Deng, Xiaochen Du, Luis Barroso-Luque, Benjamin Kurt Miller, Rafael Gómez-Bombarelli.  
 [arXiv:2608.14502 (2026)](https://doi.org/10.48550/arXiv.2608.14502)  
@@ -3135,6 +3141,11 @@ MD-Agent is a LLM-agent based toolset for Molecular Dynamics.
 
 
 
+
+
+* **El Agente Potente: High-Throughput Agentic Atomistic Simulations** [2026]  
+Tsz Wai Ko, Jiaru Bai, Thomas Swanick, Yeonghun Kang, Changhyeok Choi, Angelina Qihong Jiang, Aiwei Yin, Varinia Bernales, Alán Aspuru-Guzik.  
+[arXiv:2609.14840 (2026)](https://doi.org/10.48550/arXiv.2609.14840)  
 
 * **MDArena: Evaluating Coding Agents on Realistic Molecular Dynamics Workflows** [2026]  
 Nithishwer Mouroug Anand, Wei-Tse Hsu, Kyle Vaccaro, Eden James Gage, Jonathan David Colburn, Linda Xi Phan, Minjoon Seo, Kevin Guan, Philip C. Biggin.  
