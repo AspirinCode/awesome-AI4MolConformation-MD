@@ -2064,7 +2064,7 @@ Pham, T.D., Tanikanti, A. & Keçeli, M.
 * [PySCF](https://github.com/pyscf/) - Python module for quantum chemistry.
 * [gpu4pyscf](https://github.com/pyscf/gpu4pyscf) - A plugin to use Nvidia GPU in PySCF package.
 * [PyFock](https://github.com/manassharma07/PyFock) - An efficient and fully parallelized pure python DFT code with GPU acceleration.
-
+* [Auto-QChem](https://github.com/doyle-lab-ucla/auto-qchem) - An automated workflow for the generation and storage of DFT calculations for organic molecules.
 
 
 
