@@ -51,6 +51,11 @@ List of **molecules ( small molecules, RNA, peptide, protein, enzymes, antibody,
 
 
 
+
+* **The Allosteric Revolution: From Static Structures to Conformational Ensembles and Next-Generation Therapeutics** [2026]  
+Nussinov, Ruth, and Hyunbum Jang.  
+[Journal of Molecular Biology(2026)](https://doi.org/10.1016/j.jmb.2026.169985)  
+
 * **Predicting Biomolecular Interactions in the Next Decade: Physics-Based Methods Meet AI-Driven Approaches** [2026]  
 Ruqaiya Khalil, Elena Frasnetti, Han Kurt, Tareq Hameduh, Mohd Athar, Giorgio Colombo, and Attilio Vittorio Vargiu.  
 [J. Phys. Chem. Lett. (2026)](https://doi.org/10.1021/acs.jpclett.6c01412)  
