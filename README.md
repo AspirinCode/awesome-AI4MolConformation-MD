@@ -2062,6 +2062,10 @@ Pham, T.D., Tanikanti, A. & Keçeli, M.
 
 
 
+* **A note on the accuracy of spin-densities from Kohn-Sham Density Functional Theory** [2026]  
+Rodrigo A. Mendes, Zachary W. Windom, Ajith Perera, Roberto L. A. Haiduke, Rodney J. Bartlett.  
+[arXiv:2609.17385(2026)](https://doi.org/10.48550/arXiv.2609.17385)  
+
 * **Performance of a minimally empirical local-hybrid density functional for molecular chemistry** [2026]  
 Erin R. Johnson, Kyle R. Bryenton.  
 [arXiv:2609.06162 (2026)](https://doi.org/10.48550/arXiv.2609.06162)  
