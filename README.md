@@ -337,7 +337,9 @@ Wang, L., Brasnett, C., Borges-Araújo, L. et al.
 
 
 
-
+* **Machine-learning force-field scoring rivals free-energy perturbation for congeneric ligand ranking across public benchmarks** [2026]  
+Kevin Ryczko, Sarah Maier, Amogh Sood, et al.  
+[ChemRxiv. (2026)](https://doi.org/10.26434/chemrxiv.15008810/v1)  
 
 * **UniFlow: Unifying protein conformational ensemble generation and machine-learned force fields with a scalable normalizing Flow** [2026]  
 Yikai Liu, Ming Chen, Guang Lin.  
@@ -1844,7 +1846,9 @@ Anstine DM, Zhao Q, Zubatiuk R, Zhang S, Singla V, Nikitin F, et al.
 
 
 
-
+* **Machine-learning force-field scoring rivals free-energy perturbation for congeneric ligand ranking across public benchmarks** [2026]  
+Kevin Ryczko, Sarah Maier, Amogh Sood, et al.  
+[ChemRxiv. (2026)](https://doi.org/10.26434/chemrxiv.15008810/v1)  
 
 * **Evaluating Electrostatic Embedding MLIP/MM for Relative Binding Free Energy Calculations** [2026]  
 Stephen E. Farr, Gianni De Fabritiis.  
