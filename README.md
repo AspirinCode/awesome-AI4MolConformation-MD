@@ -2430,7 +2430,9 @@ Do, Hung N., Jinan Wang, Apurba Bhattarai, and Yinglong Miao.
 
 
 
-
+* **Several multiple sequence alignment-perturbing methods enhance AlphaFold3 sampling of alternative protein states** [2026]  
+Eriksson Lidbrink, S., Nissen, I., Howard, R.J. et al.  
+[Commun Chem 9, 300 (2026)](https://doi.org/10.1038/s42004-026-02198-x) | [Zenodo](https://doi.org/10.5281/zenodo.20624715)  
 
 * **Label Noise Limits TCR-pMHC Specificity Prediction: Improved Performance Through AlphaFold3-Based Structural Modeling and Data Denoising** [2026]  
 Pilar Ballesteros-Cuartero, Johanne Lund, Morten Nielsen.  
