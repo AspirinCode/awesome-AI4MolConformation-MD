@@ -50,7 +50,9 @@ List of **molecules ( small molecules, RNA, peptide, protein, enzymes, antibody,
 
 
 
-
+* **Benchmarking Generative AI and Physics-Based Molecular Simulation for Sampling Conformational Heterogeneity in T4 Lysozyme** [2026]  
+Soumendranath Bhakat.  
+[J. Chem. Inf. Model.(2026)](https://doi.org/10.1021/acs.jcim.6c02044)  
 
 * **The Allosteric Revolution: From Static Structures to Conformational Ensembles and Next-Generation Therapeutics** [2026]  
 Nussinov, Ruth, and Hyunbum Jang.  
