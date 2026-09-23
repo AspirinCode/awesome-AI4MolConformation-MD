@@ -2284,6 +2284,11 @@ KYuan, E.CY., Kumar, A., Guan, X. et al.
 
 
 
+
+* **A Graph-Based Machine Learning Framework to Assign Empirical Interaction Parameters for Novel Molecules** [2026]  
+Y. Fu, M. Stroet, and M. L. O'Mara.  
+[Journal of Computational Chemistry(2026)](https://doi.org/10.1002/jcc.70508) | [code](https://github.com/OMaraLab/Gravy)  
+
 * **The Open-Shell Organic Systems Database: Diverse CCSD(T)/CBS Reaction Energies for Assessing Density Functional Theory and Machine Learning Methods** [2026]  
 Amir Karton.  
 [J. Phys. Chem. A (2026)](https://doi.org/10.1021/acs.jpca.6c03915)  
