@@ -3427,7 +3427,9 @@ Grambow, Colin A., Hayley Weir, Nathaniel Diamant, Alex Tseng, Tommaso Biancalan
 
 
 
-
+* **Phyfold: environment aware mathematical modeling for protein folding dynamics integrated with physics informed neural network** [2026]  
+Ul Rahman, J., Noureen, I., Mannan, A. et al.  
+[J Cheminform (2026)](https://doi.org/10.1186/s13321-026-01271-w) | [code](https://github.com/jamshaidwarraich/PhyFold)  
 
 * **Breaking timescales with generative sampling of conformational transitions** [2026]  
 Tang, C., Pandey, M.P., Chen, C.G. et al.  
