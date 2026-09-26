@@ -2283,7 +2283,9 @@ KYuan, E.CY., Kumar, A., Guan, X. et al.
 
 
 
-
+* **Complete Neural Electronic Initialization Accelerates Materials DFT** [2026]  
+Felix Ærtebjerg, Jonas Elsborg, Arghya Bhowmik.  
+[arXiv:2609.21759 (2026)](https://doi.org/10.48550/arXiv.2609.21759) | [code](https://github.com/aerte/neural_paw_dft)  
 
 * **A Graph-Based Machine Learning Framework to Assign Empirical Interaction Parameters for Novel Molecules** [2026]  
 Y. Fu, M. Stroet, and M. L. O'Mara.  
