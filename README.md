@@ -249,7 +249,9 @@ https://github.com/LumosBio/MolData
 
 
 
-
+* **Large integration time-step in molecular dynamics simulation artificially enhances the strength of hydrophobic interaction** [2026]  
+Dilipkumar N. Asthagiri.  
+[arXiv:2609.30109(2026)](https://doi.org/10.48550/arXiv.2609.30109)  
 
 * **Early-Enrichment Hit Discovery via Reversible-Work c(t) Estimation in Metadynamics (CTMD)** [2026]  
 Venkata Sai Sreyas Adury, Pratyush Tiwary, Xinyu Gu, Mrinal Shekhar.  
