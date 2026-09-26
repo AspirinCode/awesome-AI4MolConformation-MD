@@ -3205,6 +3205,12 @@ Salomé Guilbert, Cassandra Masschelein, Jeremy Goumaz, Bohdan Naida, Philippe S
 
 
 
+
+
+* **Conformer Generation Workflows for COSMO-RS Calculations: Are They All the Same?** [2026]  
+André M. M. Gomes, José F. O. Granjo, Paulo J. Costa.  
+[J. Chem. Inf. Model.(2026)](https://doi.org/10.1021/acs.jcim.6c00606) |  [code](https://github.com/TUHH-TVT/openCOSMO-RS_conformer_pipeline)  
+
 * **Rapid Generation of Transition-State Conformer Ensembles via Constrained Distance Geometry** [2026]  
 Stefan P. Schmid, Henrik Seng, Thibault Kläy, Kjell Jorner.  
 [J. Chem. Inf. Model.(2026)](https://doi.org/10.1021/acs.jcim.5c02794) |  [code](https://github.com/digital-chemistry-laboratory/racerts) |  [Zenodo](https://doi.org/10.5281/zenodo.17610186)  
