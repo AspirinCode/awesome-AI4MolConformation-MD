@@ -1006,6 +1006,10 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
+
+
+
+
 * **El Agente Potente: High-Throughput Agentic Atomistic Simulations** [2026]  
 Tsz Wai Ko, Jiaru Bai, Thomas Swanick, Yeonghun Kang, Changhyeok Choi, Angelina Qihong Jiang, Aiwei Yin, Varinia Bernales, Alán Aspuru-Guzik.  
 [arXiv:2609.14840 (2026)](https://doi.org/10.48550/arXiv.2609.14840)  
