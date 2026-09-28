@@ -2892,7 +2892,9 @@ Jing, Bowen, Bonnie Berger, and Tommi Jaakkola.
 
 
 
-
+* **TopoFlow: Evolutionarily Conditioned Flow Matching for Protein Conformational Ensemble Generation** [2026]  
+Xinguang Yang, Xinyue Cui, Xuhui LI, Dongliang Hou, Suhui Wang, Tengyu Xie, Guijun Zhang.  
+[bioRxiv.(2026)](https://doi.org/10.64898/2026.09.22.753441) | [code](https://github.com/iobio-zjut/Topoflow)  
 
 * **RPDynaFlow: Generating RNA–protein Conformation Ensembles by Atomic Conditional Flow Matching** [2026]  
 Yuntao Li, Kexin Lu.  
