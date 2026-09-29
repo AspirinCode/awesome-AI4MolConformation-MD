@@ -3458,6 +3458,12 @@ Grambow, Colin A., Hayley Weir, Nathaniel Diamant, Alex Tseng, Tommaso Biancalan
 
 
 
+
+
+* **Targeted finetuning enables co-folding models to learn ligand-induced protein conformational states** [2026]  
+Rohan Gorantla, Christian Schleberger, Fabian Sesterhenn.  
+[bioRxiv (2026)](https://doi.org/10.64898/2026.09.21.752570)  
+
 * **Phyfold: environment aware mathematical modeling for protein folding dynamics integrated with physics informed neural network** [2026]  
 Ul Rahman, J., Noureen, I., Mannan, A. et al.  
 [J Cheminform (2026)](https://doi.org/10.1186/s13321-026-01271-w) | [code](https://github.com/jamshaidwarraich/PhyFold)  
