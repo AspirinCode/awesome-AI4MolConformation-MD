@@ -1008,7 +1008,9 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
-
+* **dvancing density functional tight-binding method for large organic molecules through equivariant neural networks** [2026]  
+Leonardo Medrano Sandonas, Mirela Puleva, Zekiye Erarslan, Ricardo Parra Payano, Martin Stöhr, Gianaurelio Cuniberti, Alexandre Tkatchenko.  
+[Phys. Chem. Chem. Phys.(2026)](https://doi.org/10.1039/d6cp00038j) | [Code](https://github.com/lmedranos/EquiDTB)  
 
 * **El Agente Potente: High-Throughput Agentic Atomistic Simulations** [2026]  
 Tsz Wai Ko, Jiaru Bai, Thomas Swanick, Yeonghun Kang, Changhyeok Choi, Angelina Qihong Jiang, Aiwei Yin, Varinia Bernales, Alán Aspuru-Guzik.  
@@ -2288,6 +2290,14 @@ KYuan, E.CY., Kumar, A., Guan, X. et al.
 
 
 
+
+
+
+
+
+* **dvancing density functional tight-binding method for large organic molecules through equivariant neural networks** [2026]  
+Leonardo Medrano Sandonas, Mirela Puleva, Zekiye Erarslan, Ricardo Parra Payano, Martin Stöhr, Gianaurelio Cuniberti, Alexandre Tkatchenko.  
+[Phys. Chem. Chem. Phys.(2026)](https://doi.org/10.1039/d6cp00038j) | [Code](https://github.com/lmedranos/EquiDTB)  
 
 * **Complete Neural Electronic Initialization Accelerates Materials DFT** [2026]  
 Felix Ærtebjerg, Jonas Elsborg, Arghya Bhowmik.  
