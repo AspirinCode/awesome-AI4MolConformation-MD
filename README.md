@@ -3357,7 +3357,9 @@ Xu, Minkai, Wujie Wang, Shitong Luo, Chence Shi, Yoshua Bengio, Rafael Gomez-Bom
 
 
 
-
+* **Topology, Energy Landscapes and Folding Kinetics of RNA Hairpins** [2026]  
+Anjali Verma, Pratyush Tiwary, Yunrui Qiu.  
+[bioRxiv (2026)](https://doi.org/10.64898/2026.09.21.753325) | [Code](https://github.com/tiwarylab/)  
 
 * **Enhanced-Sampling Molecular Dynamics Recovers Rare Functional RNA Conformations Across Diverse Structural Contexts** [2026]  
 Leonardo Medrano Sandonas, Macarena Tolmos Nehme, Luis Fernando Cofas-Vargas, Gustavo E. Olivos-Ramirez, Gianaurelio Cuniberti, Simón Poblete, Adolfo B. Poma.  
