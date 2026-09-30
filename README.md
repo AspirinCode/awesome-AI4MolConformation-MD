@@ -4295,7 +4295,9 @@ Matteo Pavan, Davide Bassani, Mattia Sturlese, Stefano Moro.
 
 
 
-
+* **ElectrolyteMD-Bench: How Well Do AI Agents Conduct Molecular Dynamics Studies across Electrolyte Solvation Regimes?** [2026]  
+Shukai Wu, Shuo Niu, Zhaoming Xu, Yan Luo, Wentao Lin.  
+[arXiv:2609.31743 (2026)](https://doi.org/10.48550/arXiv.2609.31743)  
 
 * **Universal Thermodynamic Interatomic Potentials for Crystalline Materials** [2026]  
 Juno Nam, Bowen Deng, Xiaochen Du, Luis Barroso-Luque, Benjamin Kurt Miller, Rafael Gómez-Bombarelli.  
