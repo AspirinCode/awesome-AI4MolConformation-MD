@@ -287,6 +287,12 @@ David S. Cerutti, Rafal Wiewiora, Simon Boothroyd, Woody Sherman.
 
 
 
+
+
+* **Leveraging Machine Learning Interatomic Potentials into Fitting Fast and Accurate AMBER-Compatible Precise Force Field** [2026]  
+Xuchao Zhou, Xujian Wang, Jiahao Xie, et al.  
+[ChemRxiv. (2026)](https://doi.org/10.26434/chemrxiv.15008812/v1) | [code](https://github.com/ClickFF/MAPLE) | [Zenodo](https://doi.org/10.5281/zenodo.21428725)  
+
 * **Quantum Field Approaches to Chemical Systems** [2026]  
 Reza Karimpour, Matteo Gori, Alexandre Tkatchenko.  
 [Journal American Chemical Society (2026)](https://doi.org/10.1021/jacs.6c02077)  
@@ -1006,7 +1012,9 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
-
+* **Leveraging Machine Learning Interatomic Potentials into Fitting Fast and Accurate AMBER-Compatible Precise Force Field** [2026]  
+Xuchao Zhou, Xujian Wang, Jiahao Xie, et al.  
+[ChemRxiv. (2026)](https://doi.org/10.26434/chemrxiv.15008812/v1) | [code](https://github.com/ClickFF/MAPLE) | [Zenodo](https://doi.org/10.5281/zenodo.21428725)  
 
 * **dvancing density functional tight-binding method for large organic molecules through equivariant neural networks** [2026]  
 Leonardo Medrano Sandonas, Mirela Puleva, Zekiye Erarslan, Ricardo Parra Payano, Martin Stöhr, Gianaurelio Cuniberti, Alexandre Tkatchenko.  
