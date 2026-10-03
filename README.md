@@ -4295,7 +4295,9 @@ Matteo Pavan, Davide Bassani, Mattia Sturlese, Stefano Moro.
 
 
 
-
+* **Long-Range Machine Learning Interatomic Potentials for Defect Energetics in SrTiO3** [2026]  
+Yee Chit Wong, Marcel F. Langer, Reinhard J. Maurer, Nicholas D. M. Hine.  
+[arXiv:2610.00794(2026)](https://doi.org/10.48550/arXiv.2610.00794)  
 
 * **ElectrolyteMD-Bench: How Well Do AI Agents Conduct Molecular Dynamics Studies across Electrolyte Solvation Regimes?** [2026]  
 Shukai Wu, Shuo Niu, Zhaoming Xu, Yan Luo, Wentao Lin.  
