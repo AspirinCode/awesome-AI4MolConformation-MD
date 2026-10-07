@@ -247,7 +247,9 @@ https://github.com/LumosBio/MolData
 
 
 
-
+* **PySTARC: GPU-accelerated Brownian dynamics for bimolecular association rate constants** [2026]  
+Anupam Anand Ojha, Gary Huber, Shiksha Dutta, Sonya M. Hanson.  
+[bioRxiv (2026)](https://doi.org/10.64898/2026.09.28.754770) | [code](https://github.com/anandojha/PySTARC)  
 
 * **Large integration time-step in molecular dynamics simulation artificially enhances the strength of hydrophobic interaction** [2026]  
 Dilipkumar N. Asthagiri.  
