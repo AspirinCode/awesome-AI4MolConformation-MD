@@ -1012,13 +1012,15 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
-
+* **Dielectric Response of Short and Long Range Models of Nonuniform Liquids and Implications for Machine Learned Interatomic Potentials** [2026]  
+Atul C. Thakur, Harender S. Dhattarwal, Richard C. Remsing.  
+[arXiv:2610.04224 (2026)](https://doi.org/10.48550/arXiv.2610.04224)  
 
 * **Leveraging Machine Learning Interatomic Potentials into Fitting Fast and Accurate AMBER-Compatible Precise Force Field** [2026]  
 Xuchao Zhou, Xujian Wang, Jiahao Xie, et al.  
 [ChemRxiv. (2026)](https://doi.org/10.26434/chemrxiv.15008812/v1) | [code](https://github.com/ClickFF/MAPLE) | [Zenodo](https://doi.org/10.5281/zenodo.21428725)  
 
-* **dvancing density functional tight-binding method for large organic molecules through equivariant neural networks** [2026]  
+* **Advancing density functional tight-binding method for large organic molecules through equivariant neural networks** [2026]  
 Leonardo Medrano Sandonas, Mirela Puleva, Zekiye Erarslan, Ricardo Parra Payano, Martin Stöhr, Gianaurelio Cuniberti, Alexandre Tkatchenko.  
 [Phys. Chem. Chem. Phys.(2026)](https://doi.org/10.1039/d6cp00038j) | [Code](https://github.com/lmedranos/EquiDTB)  
 
