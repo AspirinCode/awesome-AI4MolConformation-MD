@@ -1873,7 +1873,9 @@ Anstine DM, Zhao Q, Zubatiuk R, Zhang S, Singla V, Nikitin F, et al.
 
 
 
-
+* **Optimizing Absolute Binding Free Energy Calculations for Production Usage** [2026]  
+Dr. Zhiyi Wu, Dr. Gerhard Koenig, Prof. Stefan Boresch, et al.  
+[ChemRxiv. (2026)](https://doi.org/10.26434/chemrxiv-2025-q08ld-v2)  
 
 * **Machine-learning force-field scoring rivals free-energy perturbation for congeneric ligand ranking across public benchmarks** [2026]  
 Kevin Ryczko, Sarah Maier, Amogh Sood, et al.  
