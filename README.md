@@ -2949,7 +2949,9 @@ Yuancheng Sun, Yuxuan Ren, Zhaoming Chen, Xu Han, Kang Liu, Qiwei Ye.
 
 
 
-
+* **Generating Structural Ensembles of Disordered Proteins with Diffusion Models** [2026]  
+Olivier Trottier, Jack H. Gwozdecky, Sarah Rauscher.  
+[bioRxiv (2026)](https://doi.org/10.64898/2026.10.02.756250) | [code](https://github.com/rauscher-lab/zephyr)  
 
 * **Breaking timescales with generative sampling of conformational transitions** [2026]  
 Tang, C., Pandey, M.P., Chen, C.G. et al.  
@@ -3082,7 +3084,14 @@ Du, Yilun, Joshua Meier, Jerry Ma, Rob Fergus, and Alexander Rives.
 
 
 
+
 ### Bayesian-based
+
+
+
+
+
+
 
 
 * **BaNDyT: Bayesian Network Modeling of Molecular Dynamics Trajectories** [2025]  
@@ -3475,6 +3484,12 @@ Grambow, Colin A., Hayley Weir, Nathaniel Diamant, Alex Tseng, Tommaso Biancalan
 
 
 
+
+
+
+* **Generating Structural Ensembles of Disordered Proteins with Diffusion Models** [2026]  
+Olivier Trottier, Jack H. Gwozdecky, Sarah Rauscher.  
+[bioRxiv (2026)](https://doi.org/10.64898/2026.10.02.756250) | [code](https://github.com/rauscher-lab/zephyr)  
 
 * **Targeted finetuning enables co-folding models to learn ligand-induced protein conformational states** [2026]  
 Rohan Gorantla, Christian Schleberger, Fabian Sesterhenn.  
