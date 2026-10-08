@@ -1010,7 +1010,9 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
-
+* **Train for Accuracy, Execute at Scale: Architecture-Preserving Inference for Equivariant Atomistic Foundation Models** [2026]  
+Lei Fu, Zihui Feng, Yongheng Li, Hongwei Du, Xin He, Junyi Wu, Kejie Bao, Yueyu Zhang, Zeyu Deng, Ziheng Lu, Bonan Zhu.  
+[arXiv:2610.01036 (2026)](https://doi.org/10.48550/arXiv.2610.01036) | [Code](https://github.com/bonan-group/symmetrix-xl)  
 
 * **Dielectric Response of Short and Long Range Models of Nonuniform Liquids and Implications for Machine Learned Interatomic Potentials** [2026]  
 Atul C. Thakur, Harender S. Dhattarwal, Richard C. Remsing.  
