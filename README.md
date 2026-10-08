@@ -354,6 +354,10 @@ Wang, L., Brasnett, C., Borges-Araújo, L. et al.
 
 
 
+* **Learning consistent molecular mechanics force fields from first principles** [2026]  
+Berkay Günes, Leif Seute, Jigyasa Nigam, Frauke Gräter.  
+[arXiv:2610.08020(2026)](https://doi.org/10.48550/arXiv.2610.08020)  
+
 * **Machine-learning force-field scoring rivals free-energy perturbation for congeneric ligand ranking across public benchmarks** [2026]  
 Kevin Ryczko, Sarah Maier, Amogh Sood, et al.  
 [ChemRxiv. (2026)](https://doi.org/10.26434/chemrxiv.15008810/v1)  
