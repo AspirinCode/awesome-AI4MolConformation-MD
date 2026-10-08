@@ -2916,7 +2916,9 @@ Jing, Bowen, Bonnie Berger, and Tommi Jaakkola.
 
 
 
-
+* **trFlow: ultrafast all-atom protein conformational ensemble generation via conditional flow matching** [2026]  
+Chenxiao Xiang, Kailong Zhao, Zhenling Peng, Wenkai Wang, Jianyi Yang.  
+[bioRxiv.(2026)](https://doi.org/10.64898/2026.10.03.756422) | [code](https://github.com/YangLab-SDU/trFlow)  
 
 * **TopoFlow: Evolutionarily Conditioned Flow Matching for Protein Conformational Ensemble Generation** [2026]  
 Xinguang Yang, Xinyue Cui, Xuhui LI, Dongliang Hou, Suhui Wang, Tengyu Xie, Guijun Zhang.  
@@ -3487,7 +3489,9 @@ Grambow, Colin A., Hayley Weir, Nathaniel Diamant, Alex Tseng, Tommaso Biancalan
 
 
 
-
+* **trFlow: ultrafast all-atom protein conformational ensemble generation via conditional flow matching** [2026]  
+Chenxiao Xiang, Kailong Zhao, Zhenling Peng, Wenkai Wang, Jianyi Yang.  
+[bioRxiv.(2026)](https://doi.org/10.64898/2026.10.03.756422) | [code](https://github.com/YangLab-SDU/trFlow)  
 
 * **Generating Structural Ensembles of Disordered Proteins with Diffusion Models** [2026]  
 Olivier Trottier, Jack H. Gwozdecky, Sarah Rauscher.  
