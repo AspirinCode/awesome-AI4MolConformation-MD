@@ -2475,6 +2475,10 @@ Do, Hung N., Jinan Wang, Apurba Bhattarai, and Yinglong Miao.
 
 
 
+* **Multiobjective VHH discovery through integrated high-throughput screening and AlphaFold3-guided structural prioritization** [2026]  
+Max D. Overath et al.  
+[Sci. Adv.12,eaef5325(2026)](https://doi.org/10.1126/sciadv.aef5325)  
+
 * **Several multiple sequence alignment-perturbing methods enhance AlphaFold3 sampling of alternative protein states** [2026]  
 Eriksson Lidbrink, S., Nissen, I., Howard, R.J. et al.  
 [Commun Chem 9, 300 (2026)](https://doi.org/10.1038/s42004-026-02198-x) | [Zenodo](https://doi.org/10.5281/zenodo.20624715)  
