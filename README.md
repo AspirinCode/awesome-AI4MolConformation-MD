@@ -2315,7 +2315,11 @@ KYuan, E.CY., Kumar, A., Guan, X. et al.
 
 
 
-* **dvancing density functional tight-binding method for large organic molecules through equivariant neural networks** [2026]  
+* **Accurately Generalizing Deep-Learning Hamiltonian Methods to Plane-Wave Density Functional Theory** [2026]  
+Chuntian Wu, Jiaxiang Li, Qiang Xu, Xuecheng Shao, Congwei Xie, Yu Xie, Yanming Ma.  
+[arXiv:2610.18317(2026)](https://doi.org/10.48550/arXiv.2610.18317)  
+
+* **Advancing density functional tight-binding method for large organic molecules through equivariant neural networks** [2026]  
 Leonardo Medrano Sandonas, Mirela Puleva, Zekiye Erarslan, Ricardo Parra Payano, Martin Stöhr, Gianaurelio Cuniberti, Alexandre Tkatchenko.  
 [Phys. Chem. Chem. Phys.(2026)](https://doi.org/10.1039/d6cp00038j) | [Code](https://github.com/lmedranos/EquiDTB)  
 
