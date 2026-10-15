@@ -2103,6 +2103,11 @@ Pham, T.D., Tanikanti, A. & Keçeli, M.
 
 
 
+
+* **BOS-TMC Data Set: DFT Properties of 159k Experimentally Characterized Transition Metal Complexes Spanning Multiple Charge and Spin States** [2026]  
+Aaron G. Garrison, Jacob W. Toney, Tatiana Nikolaeva, Roland G. St Michel, Christopher J. Stein, Heather J. Kulik.  
+[J. Chem. Inf. Model.(2026)](https://doi.org/10.1021/acs.jcim.6c01792) | [Zenodo](https://doi.org/10.5281/zenodo.21383037)  
+
 * **A note on the accuracy of spin-densities from Kohn-Sham Density Functional Theory** [2026]  
 Rodrigo A. Mendes, Zachary W. Windom, Ajith Perera, Roberto L. A. Haiduke, Rodney J. Bartlett.  
 [arXiv:2609.17385(2026)](https://doi.org/10.48550/arXiv.2609.17385)  
