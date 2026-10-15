@@ -809,6 +809,14 @@ Kevin V. Bigting, Shubhadeep Nag, Yaxin An.
 
 
 
+* **Seamless QM/MM Simulations via a GROMACS-CP2K Interface** [2026]  
+Dmitry Morozov, Christian Blau, Ole Schütt, Vladimir Mironov, Arno Proeme, Holly Judge, Thomas D. Kühne, Berk Hess, Gerrit Groenhof.  
+[J. Chem. Inf. Model. (2026)](https://doi.org/10.1021/acs.jcim.6c02073)  
+
+* **Enabling Biomolecular Simulations with Neural Network Potentials in GROMACS** [2026]  
+Lukas Müllender, Berk Hess, Erik Lindahl.  
+[J. Chem. Theory Comput. (2026)](https://doi.org/10.1021/acs.jctc.6c00808) | [Code](https://github.com/lmuellender/gmx-nnpot-tools) | [Zenodo](https://doi.org/10.5281/zenodo.19663881)  
+
 * **Edge-Aware Graph Attention Networks for Interpreting Biophysical Mechanisms from Molecular Dynamics Simulations** [2026]  
 Mohd Ahsan, Chinmai Pindi, Giulia Palermo.  
 [bioRxiv (2026)](https://doi.org/10.64898/2026.09.03.749137)  
@@ -1013,6 +1021,12 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
+
+
+
+* **Enabling Biomolecular Simulations with Neural Network Potentials in GROMACS** [2026]  
+Lukas Müllender, Berk Hess, Erik Lindahl.  
+[J. Chem. Theory Comput. (2026)](https://doi.org/10.1021/acs.jctc.6c00808) | [Code](https://github.com/lmuellender/gmx-nnpot-tools) | [Zenodo](https://doi.org/10.5281/zenodo.19663881)  
 
 * **Train for Accuracy, Execute at Scale: Architecture-Preserving Inference for Equivariant Atomistic Foundation Models** [2026]  
 Lei Fu, Zihui Feng, Yongheng Li, Hongwei Du, Xin He, Junyi Wu, Kejie Bao, Yueyu Zhang, Zeyu Deng, Ziheng Lu, Bonan Zhu.  
