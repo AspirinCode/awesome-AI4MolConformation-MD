@@ -2034,7 +2034,9 @@ Ross, G.A., Lu, C., Scarabelli, G. et al.
 
 
 
-
+* **Solvating machine-learning interatomic potentials for solution-phase chemistry** [2026]  
+Anton Z. Ni, Joonho Lee.  
+  [arXiv:2610.17226 (2026)](https://doi.org/10.48550/arXiv.2610.17226) | [code](https://github.com/Ant-on-knee/anysolv)  
 
 * **Transferable Implicit Solvent Machine Learning Potential for Drugs and Proteins Approaching Ab Initio Accuracy** [2026]  
 Jan Eckwert, Julija Zavadlav.  
