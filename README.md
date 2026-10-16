@@ -3536,7 +3536,9 @@ Grambow, Colin A., Hayley Weir, Nathaniel Diamant, Alex Tseng, Tommaso Biancalan
 
 
 
-
+* **Computational design of protein conformational landscapes for metamorphic behavior** [2026]  
+Alisa Khramushin, Maddalena Elia, Christian Schellhaas, Alberto Borsatto, Joseph Schmidt, Mohamad Yazan Chabaan, Roberta Pierattelli, Kelvin Lau, Francesco Luigi Gervasio, Luciano Andres Abriata, Bruno Emanuel Correia.  
+[bioRxiv.(2026)](https://doi.org/10.64898/2026.10.13.758820)  
 
 * **trFlow: ultrafast all-atom protein conformational ensemble generation via conditional flow matching** [2026]  
 Chenxiao Xiang, Kailong Zhao, Zhenling Peng, Wenkai Wang, Jianyi Yang.  
