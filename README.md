@@ -2118,6 +2118,12 @@ Pham, T.D., Tanikanti, A. & Keçeli, M.
 
 
 
+
+
+* **ARES: a plane-wave density-functional-theory code in Rust** [2026]  
+Zehan Liu, Qian Wang, Xiangyu Zheng, Jiaxiang Li, Chuntian Wu, Yongshuo Chen, Xuecheng Shao, Qiang Xu, Yu Xie, Yanming Ma.  
+[arXiv:2610.17854 (2026)](https://doi.org/10.48550/arXiv.2610.17854)  
+
 * **BOS-TMC Data Set: DFT Properties of 159k Experimentally Characterized Transition Metal Complexes Spanning Multiple Charge and Spin States** [2026]  
 Aaron G. Garrison, Jacob W. Toney, Tatiana Nikolaeva, Roland G. St Michel, Christopher J. Stein, Heather J. Kulik.  
 [J. Chem. Inf. Model.(2026)](https://doi.org/10.1021/acs.jcim.6c01792) | [Zenodo](https://doi.org/10.5281/zenodo.21383037)  
@@ -2162,6 +2168,12 @@ Wieners, L., Garcia, M.E.
 
 
 
+
+
+
+* **Imitation and Accuracy in Automated Electronic-Structure Method Selection** [2026]  
+Qianying Liu, Yuki Kurashige, Ruiqi Zhang.  
+[ChemRxiv. (2026)](https://doi.org/10.26434/chemrxiv.15010313/v2) | [code](https://github.com/zenqiaz/Q-planner)  
 
 * **An ab initio foundation model of wavefunctions that accurately describes chemical bond breaking** [2026]  
 Foster, A., Schätzle, Z., Szabó, P.B. et al.  
