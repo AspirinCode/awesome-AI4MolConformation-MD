@@ -1022,7 +1022,9 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
-
+* **Physics-Aligned Electronic Ground-State Learning Improves Generalization** [2026]  
+Eike S. Eberhard, Xaver Kainz, Viktor Kotsev, Abdulrahman Aldossary, Stephan Günnemann.  
+[arXiv:2610.10298(2026)](https://doi.org/10.48550/arXiv.2610.10298) | [Code](https://github.com/ESEberhard/ML4DFT)  
 
 * **Enabling Biomolecular Simulations with Neural Network Potentials in GROMACS** [2026]  
 Lukas Müllender, Berk Hess, Erik Lindahl.  
@@ -2346,7 +2348,9 @@ KYuan, E.CY., Kumar, A., Guan, X. et al.
 
 
 
-
+* **Physics-Aligned Electronic Ground-State Learning Improves Generalization** [2026]  
+Eike S. Eberhard, Xaver Kainz, Viktor Kotsev, Abdulrahman Aldossary, Stephan Günnemann.  
+[arXiv:2610.10298(2026)](https://doi.org/10.48550/arXiv.2610.10298) | [Code](https://github.com/ESEberhard/ML4DFT)  
 
 * **Accurately Generalizing Deep-Learning Hamiltonian Methods to Plane-Wave Density Functional Theory** [2026]  
 Chuntian Wu, Jiaxiang Li, Qiang Xu, Xuecheng Shao, Congwei Xie, Yu Xie, Yanming Ma.  
