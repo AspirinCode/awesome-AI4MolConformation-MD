@@ -4092,7 +4092,7 @@ Meng Gao, Armin Shayesteh Zadeh, Aniruddha Seal, Siva Dasetty, Siddarth K. Achar
 
 * **Generating Multi-state Conformations of P-type ATPases with a Diffusion Model** [2024]  
 Jingtian Xu, Yong Wang.   
-[bioRxiv (2024)](https://doi.org/10.1101/2024.08.07.607107) | [code](https://github.com/yongwangCPH/papers/tree/main/2024/PtypeATPaseGeneration)
+[J. Chem. Inf. Model. (2024)](https://doi.org/10.1021/acs.jcim.4c01519) | [bioRxiv (2024)](https://doi.org/10.1101/2024.08.07.607107) | [code](https://github.com/yongwangCPH/papers/tree/main/2024/PtypeATPaseGeneration)  
 
 * **Deciphering the Coevolutionary Dynamics of L2 β-Lactamases via Deep Learning** [2024]  
   Zhu, Yu, Jing Gu, Zhuoran Zhao, AW Edith Chan, Maria F. Mojica, Andrea M. Hujer, Robert A. Bonomo, and Shozeb Haider.  
