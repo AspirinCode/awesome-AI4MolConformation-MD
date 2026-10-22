@@ -2379,7 +2379,9 @@ KYuan, E.CY., Kumar, A., Guan, X. et al.
 
 
 
-
+* **qcGEM: A Graph-Based Molecular Representation With Quantum Chemistry Awareness** [2026]  
+H. Wang, Z. Zhang, S. H. Ng, and H. Gong.  
+[Advanced Science (2026)](https://doi.org/10.1002/advs.77997) | [Code](https://github.com/GHUSER-haoyu/qcGEM)  
 
 * **From Variational Optimization to Flow-Based Transport: Posterior-Geometry Regularization for Ill-Conditioned Data Assimilation** [2026]  
 Siming Liang, Feng Bao, Hristo G. Chipilski, Peter Jan van Leeuwen, Guannan Zhang.  
