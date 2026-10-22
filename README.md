@@ -247,6 +247,10 @@ https://github.com/LumosBio/MolData
 
 
 
+* **Force Fields and Simulation Engines: Lessons Learned from Porting Amber ff14SB and ff19SB to GROMACS** [2026]  
+Vedran Miletić, Miłosz Wieczór, Carlos Simmerling, Markus Rampp, Bert L. de Groot, Carsten Kutzner, Vytautas Gapsys.  
+[J. Chem. Theory Comput.(2026)](https://doi.org/10.1021/acs.jctc.6c01592) | [code](https://gitlab.mpcdf.mpg.de/barnsteen/workflow)  
+
 * **PySTARC: GPU-accelerated Brownian dynamics for bimolecular association rate constants** [2026]  
 Anupam Anand Ojha, Gary Huber, Shiksha Dutta, Sonya M. Hanson.  
 [bioRxiv (2026)](https://doi.org/10.64898/2026.09.28.754770) | [code](https://github.com/anandojha/PySTARC)  
@@ -289,7 +293,9 @@ David S. Cerutti, Rafal Wiewiora, Simon Boothroyd, Woody Sherman.
 
 
 
-
+* **Force Fields and Simulation Engines: Lessons Learned from Porting Amber ff14SB and ff19SB to GROMACS** [2026]  
+Vedran Miletić, Miłosz Wieczór, Carlos Simmerling, Markus Rampp, Bert L. de Groot, Carsten Kutzner, Vytautas Gapsys.  
+[J. Chem. Theory Comput.(2026)](https://doi.org/10.1021/acs.jctc.6c01592) | [code](https://gitlab.mpcdf.mpg.de/barnsteen/workflow)  
 
 * **Leveraging Machine Learning Interatomic Potentials into Fitting Fast and Accurate AMBER-Compatible Precise Force Field** [2026]  
 Xuchao Zhou, Xujian Wang, Jiahao Xie, et al.  
