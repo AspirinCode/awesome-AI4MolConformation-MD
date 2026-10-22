@@ -2139,7 +2139,9 @@ Pham, T.D., Tanikanti, A. & Keçeli, M.
 
 
 
-
+* **Imitation and Accuracy in Automated Electronic-Structure Method Selection** [2026]  
+Qianying Liu, Yuki Kurashige, Ruiqi Zhang.  
+[ChemRxiv.(2026)](https://doi.org/10.26434/chemrxiv.15010313/v2)  
 
 * **ARES: a plane-wave density-functional-theory code in Rust** [2026]  
 Zehan Liu, Qian Wang, Xiangyu Zheng, Jiaxiang Li, Chuntian Wu, Yongshuo Chen, Xuecheng Shao, Qiang Xu, Yu Xie, Yanming Ma.  
