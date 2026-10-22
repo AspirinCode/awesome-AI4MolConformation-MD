@@ -591,6 +591,8 @@ Barnett, Simon, and John D. Chodera.
 
 ### AI4MD Engines-Frameworks
 
+* [BioEmu2](https://github.com/microsoft/bioemu2) - A foundation model for biomolecular structure and dynamics.
+* [BioEmu](https://github.com/microsoft/bioemu) - Scalable emulation of protein equilibrium ensembles with generative deep learning.  
 * [OpenMM 8](https://github.com/openmm/openmm) - Molecular Dynamics Simulation with Machine Learning Potentials.  
 * [DeePMD-kit](https://github.com/deepmodeling/deepmd-kit) - A deep learning package for many-body potential energy representation and molecular dynamics.  
 * [TorchMD](https://github.com/torchmd/torchmd) - End-To-End Molecular Dynamics (MD) Engine using PyTorch.  
