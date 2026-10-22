@@ -725,6 +725,10 @@ https://github.com/ipudu/awesome-molecular-dynamics
 
 
 
+* **Leveraging elastic networks in a coarse-grained brownian simulation framework for protein conformational dynamics** [2026]  
+Domenico Scaramozzino, Enrica Ruggeri, Mariia Feshyna, Byung Ho Lee, Laura Orellana.  
+[bioRxiv (2026)](https://doi.org/10.64898/2026.09.22.753665) | [code](https://github.com/domenicoscaramozzino/ENM_BD)  
+
 * **Light Martini water accelerates sampling in coarse-grained molecular dynamics simulations** [2026]  
 Aladdin Elgendy, André P. Zeipelt, Lars V. Schäfer.  
 [bioRxiv (2026)](https://doi.org/10.64898/2026.08.03.741232) | [code](https://doi.org/10.17877/RESOLV-2026-MS4UJFFM)  
@@ -3552,6 +3556,12 @@ Grambow, Colin A., Hayley Weir, Nathaniel Diamant, Alex Tseng, Tommaso Biancalan
 
 
 
+
+
+
+* **Leveraging elastic networks in a coarse-grained brownian simulation framework for protein conformational dynamics** [2026]  
+Domenico Scaramozzino, Enrica Ruggeri, Mariia Feshyna, Byung Ho Lee, Laura Orellana.  
+[bioRxiv (2026)](https://doi.org/10.64898/2026.09.22.753665) | [code](https://github.com/domenicoscaramozzino/ENM_BD)  
 
 * **Computational design of protein conformational landscapes for metamorphic behavior** [2026]  
 Alisa Khramushin, Maddalena Elia, Christian Schellhaas, Alberto Borsatto, Joseph Schmidt, Mohamad Yazan Chabaan, Roberta Pierattelli, Kelvin Lau, Francesco Luigi Gervasio, Luciano Andres Abriata, Bruno Emanuel Correia.  
