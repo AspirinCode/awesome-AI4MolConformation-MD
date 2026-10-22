@@ -1892,6 +1892,13 @@ Anstine DM, Zhao Q, Zubatiuk R, Zhang S, Singla V, Nikitin F, et al.
 
 
 
+* **Hybrid Ab Initio and Empirical Machine Learning Models for the Potential Energy Surface** [2026]  
+Pablo Peña-Cano.  
+[Phys. Rev. Lett.(2026)](https://doi.org/10.1103/x3hc-52cp)  
+
+* **Collective-Variable Stein Variational Gradient Descent for Free Energy Surface Exploration** [2026]  
+Ivan Riveros, Bin Zhang.  
+[arXiv:2610.27429(2026)](https://doi.org/10.48550/arXiv.2610.27429)  
 
 * **Optimizing Absolute Binding Free Energy Calculations for Production Usage** [2026]  
 Dr. Zhiyi Wu, Dr. Gerhard Koenig, Prof. Stefan Boresch, et al.  
@@ -2171,7 +2178,9 @@ Wieners, L., Garcia, M.E.
 
 
 
-
+* **Hybrid Ab Initio and Empirical Machine Learning Models for the Potential Energy Surface** [2026]  
+Pablo Peña-Cano.  
+[Phys. Rev. Lett.(2026)](https://doi.org/10.1103/x3hc-52cp)  
 
 * **Imitation and Accuracy in Automated Electronic-Structure Method Selection** [2026]  
 Qianying Liu, Yuki Kurashige, Ruiqi Zhang.  
