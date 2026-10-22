@@ -1036,9 +1036,15 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
+
+
+* **From Variational Optimization to Flow-Based Transport: Posterior-Geometry Regularization for Ill-Conditioned Data Assimilation** [2026]  
+Siming Liang, Feng Bao, Hristo G. Chipilski, Peter Jan van Leeuwen, Guannan Zhang.  
+[arXiv:2609.27243(2026)](https://doi.org/10.48550/arXiv.2609.27243) | [Code](https://github.com/ESEberhard/ML4DFT)  
+
 * **Physics-Aligned Electronic Ground-State Learning Improves Generalization** [2026]  
 Eike S. Eberhard, Xaver Kainz, Viktor Kotsev, Abdulrahman Aldossary, Stephan Günnemann.  
-[arXiv:2610.10298(2026)](https://doi.org/10.48550/arXiv.2610.10298) | [Code](https://github.com/ESEberhard/ML4DFT)  
+[arXiv:2610.10298(2026)](https://doi.org/10.48550/arXiv.2610.10298)  
 
 * **Enabling Biomolecular Simulations with Neural Network Potentials in GROMACS** [2026]  
 Lukas Müllender, Berk Hess, Erik Lindahl.  
@@ -2372,6 +2378,12 @@ KYuan, E.CY., Kumar, A., Guan, X. et al.
 
 
 
+
+
+
+* **From Variational Optimization to Flow-Based Transport: Posterior-Geometry Regularization for Ill-Conditioned Data Assimilation** [2026]  
+Siming Liang, Feng Bao, Hristo G. Chipilski, Peter Jan van Leeuwen, Guannan Zhang.  
+[arXiv:2609.27243(2026)](https://doi.org/10.48550/arXiv.2609.27243) | [Code](https://github.com/ESEberhard/ML4DFT)  
 
 * **Physics-Aligned Electronic Ground-State Learning Improves Generalization** [2026]  
 Eike S. Eberhard, Xaver Kainz, Viktor Kotsev, Abdulrahman Aldossary, Stephan Günnemann.  
