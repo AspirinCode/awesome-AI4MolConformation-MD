@@ -358,7 +358,9 @@ Wang, L., Brasnett, C., Borges-Araújo, L. et al.
 
 
 
-
+* **On-the-Fly Machine-Learned Force Fields for High-Fidelity Polymer Glass Transition Simulations** [2026]  
+Ashutosh Srivastava, Sakshi Agarwal, Shivank Shukla, Harikrishna Sahu, Rampi Ramprasad.  
+[J. Chem. Inf. Model.(2026)](https://doi.org/10.1021/acs.jcim.6c02116) | [code](https://github.com/Ramprasad-Group/OTF-MLFF-Tg)  
 
 * **Learning consistent molecular mechanics force fields from first principles** [2026]  
 Berkay Günes, Leif Seute, Jigyasa Nigam, Frauke Gräter.  
@@ -4402,6 +4404,8 @@ Matteo Pavan, Davide Bassani, Mattia Sturlese, Stefano Moro.
 
 
 
+
+
 ### Material dynamics
 
 
@@ -4411,6 +4415,11 @@ Matteo Pavan, Davide Bassani, Mattia Sturlese, Stefano Moro.
 
 
 
+
+
+* **On-the-Fly Machine-Learned Force Fields for High-Fidelity Polymer Glass Transition Simulations** [2026]  
+Ashutosh Srivastava, Sakshi Agarwal, Shivank Shukla, Harikrishna Sahu, Rampi Ramprasad.  
+[J. Chem. Inf. Model.(2026)](https://doi.org/10.1021/acs.jcim.6c02116) | [code](https://github.com/Ramprasad-Group/OTF-MLFF-Tg)  
 
 * **Systematic fine-tuning of MACE interatomic potentials for catalysis** [2026]  
 Karimitari, N., Clary, J., Vigil-Fowler, D. et al.  
