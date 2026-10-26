@@ -821,7 +821,9 @@ Kevin V. Bigting, Shubhadeep Nag, Yaxin An.
 
 
 
-
+* **Accuracy and Efficiency Benchmarks of Pretrained Machine Learning Potentials for Molecular Simulations** [2026]  
+Peter Eastman, Evan Pretti, Thomas E. Markland.  
+[J. Chem. Theory Comput. (2026)](https://doi.org/10.1021/acs.jctc.6c00130) | [Code](https://github.com/peastman/mlipbenchmarks)  
 
 * **Seamless QM/MM Simulations via a GROMACS-CP2K Interface** [2026]  
 Dmitry Morozov, Christian Blau, Ole Schütt, Vladimir Mironov, Arno Proeme, Holly Judge, Thomas D. Kühne, Berk Hess, Gerrit Groenhof.  
@@ -1036,7 +1038,9 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
-
+* **Accuracy and Efficiency Benchmarks of Pretrained Machine Learning Potentials for Molecular Simulations** [2026]  
+Peter Eastman, Evan Pretti, Thomas E. Markland.  
+[J. Chem. Theory Comput. (2026)](https://doi.org/10.1021/acs.jctc.6c00130) | [Code](https://github.com/peastman/mlipbenchmarks)  
 
 * **From Variational Optimization to Flow-Based Transport: Posterior-Geometry Regularization for Ill-Conditioned Data Assimilation** [2026]  
 Siming Liang, Feng Bao, Hristo G. Chipilski, Peter Jan van Leeuwen, Guannan Zhang.  
@@ -2377,7 +2381,9 @@ KYuan, E.CY., Kumar, A., Guan, X. et al.
 
 
 
-
+* **Efficient equivariant framework for universal charge density prediction** [2026]  
+Li, X., Xin, Z., Yu, H. et al.  
+[Nat Mach Intell (2026)](https://doi.org/10.1038/s42256-026-01326-5) | [Code](http://github.com/rubenlee11/EdenGNN)  
 
 * **qcGEM: A Graph-Based Molecular Representation With Quantum Chemistry Awareness** [2026]  
 H. Wang, Z. Zhang, S. H. Ng, and H. Gong.  
