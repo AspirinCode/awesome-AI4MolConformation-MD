@@ -2151,6 +2151,12 @@ Pham, T.D., Tanikanti, A. & Keçeli, M.
 
 
 
+
+
+* **The Python simulations of chemistry framework: 10 years of an open-source quantum chemistry project** [2026]  
+Sun, Qiming, Matthew R. Hermes, Xiaojie Wu, Huanchen Zhai, Xing Zhang, Abdelrahman M. Ahmed, Juan José Aucar et al.  
+[J. Chem. Phys.(2026)](https://doi.org/10.1063/5.0337441)  
+
 * **Imitation and Accuracy in Automated Electronic-Structure Method Selection** [2026]  
 Qianying Liu, Yuki Kurashige, Ruiqi Zhang.  
 [ChemRxiv.(2026)](https://doi.org/10.26434/chemrxiv.15010313/v2)  
