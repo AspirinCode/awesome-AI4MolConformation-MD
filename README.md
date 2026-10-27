@@ -2387,6 +2387,11 @@ KYuan, E.CY., Kumar, A., Guan, X. et al.
 
 
 
+
+* **Optimizing the Optimizer: Language Models Discover Faster Molecular Relaxation Algorithms** [2026]  
+Artem Tsypin, Vladimir Deshchenya, Kuzma Khrabrov, Denis Potapov, Maxim Radchenko, Artur Kadurin, Michael G. Medvedev.  
+[arXiv:2610.06577 (2026)](https://doi.org/10.48550/arXiv.2610.06577) | [Code](https://github.com/vdeshchenya/autosella)  
+
 * **Efficient equivariant framework for universal charge density prediction** [2026]  
 Li, X., Xin, Z., Yu, H. et al.  
 [Nat Mach Intell (2026)](https://doi.org/10.1038/s42256-026-01326-5) | [Code](http://github.com/rubenlee11/EdenGNN)  
