@@ -1038,6 +1038,13 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
+
+
+
+* **uMOF: A Universal Database, Benchmark, and Machine Learning Interatomic Potentials for Metal-Organic Frameworks** [2026]  
+Théo Jaffrelot Inizan, Prathami Divakar Kamath, Alin Marin Elena, Kristin A. Persson.  
+[arXiv:2608.28100(2026)](https://doi.org/10.48550/arXiv.2608.28100) | [code](https://github.com/ddmms/ml-peg)  
+
 * **Accuracy and Efficiency Benchmarks of Pretrained Machine Learning Potentials for Molecular Simulations** [2026]  
 Peter Eastman, Evan Pretti, Thomas E. Markland.  
 [J. Chem. Theory Comput. (2026)](https://doi.org/10.1021/acs.jctc.6c00130) | [Code](https://github.com/peastman/mlipbenchmarks)  
@@ -4446,7 +4453,9 @@ Matteo Pavan, Davide Bassani, Mattia Sturlese, Stefano Moro.
 
 
 
-
+* **uMOF: A Universal Database, Benchmark, and Machine Learning Interatomic Potentials for Metal-Organic Frameworks** [2026]  
+Théo Jaffrelot Inizan, Prathami Divakar Kamath, Alin Marin Elena, Kristin A. Persson.  
+[arXiv:2608.28100(2026)](https://doi.org/10.48550/arXiv.2608.28100) | [code](https://github.com/ddmms/ml-peg)  
 
 * **On-the-Fly Machine-Learned Force Fields for High-Fidelity Polymer Glass Transition Simulations** [2026]  
 Ashutosh Srivastava, Sakshi Agarwal, Shivank Shukla, Harikrishna Sahu, Rampi Ramprasad.  
