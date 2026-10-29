@@ -170,6 +170,11 @@ Janson, Giacomo, and Michael Feig.
 
 
 
+
+* **PED in 2027: integrating experimental and predicted protein conformational ensembles at scale** [2026]  
+Alexander Miguel Monzon, Hamidreza Ghafouri, Ximena Aixa Castro, Sina Khezrian, Maria Cristina Aspromonte, Kavita Singla, Shrishti Barethiya, Pau Bernadó, Massimiliano Bonomi, Jianhan Chen, Tiago Cordeiro, Juan Cortés, Stefano De Castro, Ryan Emenecker, Michael Feig, Julie D Forman-Kay, Teresa Head-Gordon, Alex Holehouse, Giacomo Janson, Kresten Lindorff-Larsen, Zi Hao Liu, Sonia Longhi, Matyas Pajkos, Paul Robustelli, Santiago Rodriguez, Vincent Schnapka, Nathalie Sibille, Michele Vendruscolo, Silvio C E Tosatto.   
+[Nucleic Acids Research(2026)](https://doi.org/10.1093/nar/gkag1048) | [data](https://proteinensemble.org/)  
+
 * **DynaRepo: The repository of macromolecular conformational dynamics** [2025]  
 Omid Mokhtari, Emmanuelle Bignon, Hamed Khakzad, Yasaman Karami.   
 [Nucleic Acids Research (2025)](https://doi.org/10.1093/nar/gkaf1130) | [bioRxiv (2025)](https://doi.org/10.1101/2025.08.14.670260) | [data](https://dynarepo.inria.fr/)  
@@ -725,7 +730,9 @@ https://github.com/ipudu/awesome-molecular-dynamics
 
 
 
-
+* **A unified coarse-grained neural network potential for the dynamics of biomolecular complexes** [2026]  
+Antonio Mirarchi, Stephen E. Farr, Adrià Peréz, Gianni De Fabritiis.  
+[arXiv:2610.37606(2026)](https://doi.org/10.48550/arXiv.2610.37606) | [code](https://github.com/compsciencelab/amaro)  
 
 * **Leveraging elastic networks in a coarse-grained brownian simulation framework for protein conformational dynamics** [2026]  
 Domenico Scaramozzino, Enrica Ruggeri, Mariia Feshyna, Byung Ho Lee, Laura Orellana.  
@@ -819,7 +826,9 @@ Kevin V. Bigting, Shubhadeep Nag, Yaxin An.
 
 
 
-
+* **A unified coarse-grained neural network potential for the dynamics of biomolecular complexes** [2026]  
+Antonio Mirarchi, Stephen E. Farr, Adrià Peréz, Gianni De Fabritiis.  
+[arXiv:2610.37606(2026)](https://doi.org/10.48550/arXiv.2610.37606) | [code](https://github.com/compsciencelab/amaro)  
 
 * **Accuracy and Efficiency Benchmarks of Pretrained Machine Learning Potentials for Molecular Simulations** [2026]  
 Peter Eastman, Evan Pretti, Thomas E. Markland.  
@@ -3600,6 +3609,9 @@ Grambow, Colin A., Hayley Weir, Nathaniel Diamant, Alex Tseng, Tommaso Biancalan
 
 
 
+* **PED in 2027: integrating experimental and predicted protein conformational ensembles at scale** [2026]  
+Alexander Miguel Monzon, Hamidreza Ghafouri, Ximena Aixa Castro, Sina Khezrian, Maria Cristina Aspromonte, Kavita Singla, Shrishti Barethiya, Pau Bernadó, Massimiliano Bonomi, Jianhan Chen, Tiago Cordeiro, Juan Cortés, Stefano De Castro, Ryan Emenecker, Michael Feig, Julie D Forman-Kay, Teresa Head-Gordon, Alex Holehouse, Giacomo Janson, Kresten Lindorff-Larsen, Zi Hao Liu, Sonia Longhi, Matyas Pajkos, Paul Robustelli, Santiago Rodriguez, Vincent Schnapka, Nathalie Sibille, Michele Vendruscolo, Silvio C E Tosatto.   
+[Nucleic Acids Research(2026)](https://doi.org/10.1093/nar/gkag1048) | [data](https://proteinensemble.org/)  
 
 * **Leveraging elastic networks in a coarse-grained brownian simulation framework for protein conformational dynamics** [2026]  
 Domenico Scaramozzino, Enrica Ruggeri, Mariia Feshyna, Byung Ho Lee, Laura Orellana.  
@@ -4197,7 +4209,9 @@ Spoendlin, Fabian C., Wing Ki Wong, Guy Georges, Alexander Bujotzek, and Charlot
 
 
 
-
+* **A unified coarse-grained neural network potential for the dynamics of biomolecular complexes** [2026]  
+Antonio Mirarchi, Stephen E. Farr, Adrià Peréz, Gianni De Fabritiis.  
+[arXiv:2610.37606(2026)](https://doi.org/10.48550/arXiv.2610.37606) | [code](https://github.com/compsciencelab/amaro)  
 
 * **An OpenMM-Based ML/MM–MMGBSA Workflow for End-point Protein–Ligand Binding Energy Ranking** [2026]  
 Chenchen Wang, Shihang Wang, Silong Zhai, Li Qin, Kai Xu, Jianmin Wang, Huanxiang Liu, Xiaojun Yao.  
