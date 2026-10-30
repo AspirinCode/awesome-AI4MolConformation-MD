@@ -826,6 +826,14 @@ Kevin V. Bigting, Shubhadeep Nag, Yaxin An.
 
 
 
+* **Langevin Flow Maps: Efficient Molecular Dynamics and Transition Path Sampling** [2026]  
+Sam McCallum, Niklas Rindtorff, Alexander Tong, James Foster.  
+[arXiv:2610.05998 (2026)](https://doi.org/10.48550/arXiv.2610.05998) | [code](https://github.com/sammccallum/lfm)  
+
+* **Looking Under the Streetlight: Evaluation in Generative Molecular Dynamics** [2026]  
+ASimon Olsson, Frank Noé, Grant M. Rotskoff, Kresten Lindorff-Larsen.  
+[NeurIPS 2026(2026)](https://doi.org/10.48550/arXiv.2610.12518)  
+
 * **A unified coarse-grained neural network potential for the dynamics of biomolecular complexes** [2026]  
 Antonio Mirarchi, Stephen E. Farr, Adrià Peréz, Gianni De Fabritiis.  
 [arXiv:2610.37606(2026)](https://doi.org/10.48550/arXiv.2610.37606) | [code](https://github.com/compsciencelab/amaro)  
@@ -2991,7 +2999,9 @@ Schwing, Gregory, Luigi L. Palese, Ariel Fernández, Loren Schwiebert, and Domen
 
 
 
-
+* **Langevin Flow Maps: Efficient Molecular Dynamics and Transition Path Sampling** [2026]  
+Sam McCallum, Niklas Rindtorff, Alexander Tong, James Foster.  
+[arXiv:2610.05998 (2026)](https://doi.org/10.48550/arXiv.2610.05998) | [code](https://github.com/sammccallum/lfm)  
 
 * **UniFlow: Unifying protein conformational ensemble generation and machine-learned force fields with a scalable normalizing Flow** [2026]  
 Yikai Liu, Ming Chen, Guang Lin.  
