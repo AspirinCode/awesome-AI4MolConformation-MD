@@ -1447,8 +1447,8 @@ Maruf, Moin Uddin, Sungmin Kim, and Zeeshan Ahmad.
 [J. Phys. Chem. Lett. (2025)](https://doi.org/10.1021/acs.jpclett.5c02352) | [code](https://github.com/ahmad-research-group/nequip-charge/tree/charge-encoding)  
 
 * **Graph atomic cluster expansion for foundational machine learning interatomic potentials** [2025]  
-Yury Lysogorskiy, Anton Bochkarev, Ralf Drautz.  
-  [arXiv:2508.17936 (2025)](https://doi.org/10.48550/arXiv.2508.17936)  
+Lysogorskiy, Y., Bochkarev, A. & Drautz, R.  
+  [npj Comput Mater 12, 114 (2026)](https://doi.org/10.1038/s41524-026-01979-1) | [code](https://github.com/ICAMS/grace-tensorpotential)  
 
 * **A critical review of machine learning interatomic potentials and Hamiltonian** [2025]  
 Li, Y.; Zhang, X.; Liu, M.; Shen, L.  
@@ -4476,6 +4476,10 @@ Matteo Pavan, Davide Bassani, Mattia Sturlese, Stefano Moro.
 
 
 
+
+* **Graph atomic cluster expansion for foundational machine learning interatomic potentials** [2025]  
+Lysogorskiy, Y., Bochkarev, A. & Drautz, R.  
+  [npj Comput Mater 12, 114 (2026)](https://doi.org/10.1038/s41524-026-01979-1) | [code](https://github.com/ICAMS/grace-tensorpotential)  
 
 * **uMOF: A Universal Database, Benchmark, and Machine Learning Interatomic Potentials for Metal-Organic Frameworks** [2026]  
 Théo Jaffrelot Inizan, Prathami Divakar Kamath, Alin Marin Elena, Kristin A. Persson.  
