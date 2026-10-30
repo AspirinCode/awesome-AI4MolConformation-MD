@@ -1056,7 +1056,9 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
-
+* **A latent-space extrapolation grade built into graph atomic cluster expansion foundation potentials** [2026]  
+Yury Lysogorskiy, Anton Bochkarev, Ralf Drautz.  
+  [arXiv:2609.40060(2026)](https://doi.org/10.48550/arXiv.2609.40060) | [code](https://github.com/ICAMS/grace-runtime)  
 
 * **uMOF: A Universal Database, Benchmark, and Machine Learning Interatomic Potentials for Metal-Organic Frameworks** [2026]  
 Théo Jaffrelot Inizan, Prathami Divakar Kamath, Alin Marin Elena, Kristin A. Persson.  
@@ -4475,9 +4477,11 @@ Matteo Pavan, Davide Bassani, Mattia Sturlese, Stefano Moro.
 
 
 
+* **A latent-space extrapolation grade built into graph atomic cluster expansion foundation potentials** [2026]  
+Yury Lysogorskiy, Anton Bochkarev, Ralf Drautz.  
+  [arXiv:2609.40060(2026)](https://doi.org/10.48550/arXiv.2609.40060) | [code](https://github.com/ICAMS/grace-runtime)  
 
-
-* **Graph atomic cluster expansion for foundational machine learning interatomic potentials** [2025]  
+* **Graph atomic cluster expansion for foundational machine learning interatomic potentials** [2026]  
 Lysogorskiy, Y., Bochkarev, A. & Drautz, R.  
   [npj Comput Mater 12, 114 (2026)](https://doi.org/10.1038/s41524-026-01979-1) | [code](https://github.com/ICAMS/grace-tensorpotential)  
 
