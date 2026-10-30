@@ -826,6 +826,11 @@ Kevin V. Bigting, Shubhadeep Nag, Yaxin An.
 
 
 
+
+* **MD-LLM-2: A Transferable Language Model of Molecular Dynamics with Physical Conditioning and Explicit Path Probabilities** [2026]  
+Mhd Hussein Murtada, Z. Faidon Brotzakis, Michele Vendruscolo.  
+[arXiv:2610.10879(2026)](https://doi.org/10.48550/arXiv.2610.10879)  
+
 * **Langevin Flow Maps: Efficient Molecular Dynamics and Transition Path Sampling** [2026]  
 Sam McCallum, Niklas Rindtorff, Alexander Tong, James Foster.  
 [arXiv:2610.05998 (2026)](https://doi.org/10.48550/arXiv.2610.05998) | [code](https://github.com/sammccallum/lfm)  
