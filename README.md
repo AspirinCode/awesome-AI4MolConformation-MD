@@ -2419,7 +2419,9 @@ KYuan, E.CY., Kumar, A., Guan, X. et al.
 
 
 
-
+* **Transformer-inspired architectures make machine-learned electron densities accurate and transferable enough to bypass self-consistency** [2026]  
+Jeheon Woo.  
+[arXiv:2610.39687(2026)](https://doi.org/10.48550/arXiv.2610.39687)  
 
 * **Optimizing the Optimizer: Language Models Discover Faster Molecular Relaxation Algorithms** [2026]  
 Artem Tsypin, Vladimir Deshchenya, Kuzma Khrabrov, Denis Potapov, Maxim Radchenko, Artur Kadurin, Michael G. Medvedev.  
