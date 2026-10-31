@@ -2875,6 +2875,9 @@ Tsai, ST., Kuo, EJ. & Tiwary, P.
 
 
 
+* **Beyond Static Structures: Linking Protein Dynamics to Function via DynaReason-Pro** [2026]  
+Zhaokang Liang, Mingze Yuan, Quanzheng Li, Wengong Jin.  
+[arXiv:2610.33804(2026)](https://doi.org/10.48550/arXiv.2610.33804)  
 
 * **Accurate Prediction of the Kinetic Sequence of Physicochemical States Using Generative Artificial Intelligence** [2025]  
 Bera, Palash and Mondal, Jagannath.   
@@ -3629,6 +3632,11 @@ Grambow, Colin A., Hayley Weir, Nathaniel Diamant, Alex Tseng, Tommaso Biancalan
 
 
 
+
+
+* **Beyond Static Structures: Linking Protein Dynamics to Function via DynaReason-Pro** [2026]  
+Zhaokang Liang, Mingze Yuan, Quanzheng Li, Wengong Jin.  
+[arXiv:2610.33804(2026)](https://doi.org/10.48550/arXiv.2610.33804)  
 
 * **PED in 2027: integrating experimental and predicted protein conformational ensembles at scale** [2026]  
 Alexander Miguel Monzon, Hamidreza Ghafouri, Ximena Aixa Castro, Sina Khezrian, Maria Cristina Aspromonte, Kavita Singla, Shrishti Barethiya, Pau Bernadó, Massimiliano Bonomi, Jianhan Chen, Tiago Cordeiro, Juan Cortés, Stefano De Castro, Ryan Emenecker, Michael Feig, Julie D Forman-Kay, Teresa Head-Gordon, Alex Holehouse, Giacomo Janson, Kresten Lindorff-Larsen, Zi Hao Liu, Sonia Longhi, Matyas Pajkos, Paul Robustelli, Santiago Rodriguez, Vincent Schnapka, Nathalie Sibille, Michele Vendruscolo, Silvio C E Tosatto.   
