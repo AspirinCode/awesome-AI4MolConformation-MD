@@ -1059,6 +1059,11 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
+
+* **MLIPDiff: Guiding Denoising Diffusion Models for Structure-Based Drug Design via Machine-Learned Interatomic Potentials** [2026]  
+Yiyan Liao, Amin Tavakoli, Yu Zhang, Anima Anandkumar.  
+  [arXiv:2610.33315(2026)](https://doi.org/10.48550/arXiv.2610.33315)  
+
 * **High-quality, high-information datasets for universal atomistic machine learning** [2026]  
 Cesare Malosso, Filippo Bigi, Paolo Pegolo, Joseph W. Abbott, Philip Loche, Mariana Rossi, Tiago J. Goncalves, Sandip De, Michele Ceriotti, Arslan Mazitov.  
   [arXiv:2603.02089(2026)](https://doi.org/10.48550/arXiv.2603.02089) | [code](https://github.com/lab-cosmo/upet)  
