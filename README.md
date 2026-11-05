@@ -827,6 +827,12 @@ Kevin V. Bigting, Shubhadeep Nag, Yaxin An.
 
 
 
+
+
+* **DIME: Dynamics Inferred from Monte Carlo Ensembles via Continuous-Time Markov Chains** [2026]  
+Krishna Praneet Mulukutla, Marimuthu Krishnan.  
+[J. Chem. Inf. Model.(2026)](https://doi.org/10.1021/acs.jcim.6c01396)  
+
 * **MD-LLM-2: A Transferable Language Model of Molecular Dynamics with Physical Conditioning and Explicit Path Probabilities** [2026]  
 Mhd Hussein Murtada, Z. Faidon Brotzakis, Michele Vendruscolo.  
 [arXiv:2610.10879(2026)](https://doi.org/10.48550/arXiv.2610.10879)  
