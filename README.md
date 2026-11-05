@@ -1066,6 +1066,11 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
+
+* **Fine-Tuning Universal Machine Learning Potentials Enables Efficient Computation of Li Electrode Potentials in Battery Electrolytes** [2026]  
+Feng Wang, Yu-Hang Tang, Yi-Min Wei, Jun Cheng.  
+  [Journal American Chemical Society(2026)](https://doi.org/10.1021/jacs.6c12519)  
+
 * **MLIPDiff: Guiding Denoising Diffusion Models for Structure-Based Drug Design via Machine-Learned Interatomic Potentials** [2026]  
 Yiyan Liao, Amin Tavakoli, Yu Zhang, Anima Anandkumar.  
   [arXiv:2610.33315(2026)](https://doi.org/10.48550/arXiv.2610.33315)  
@@ -4504,6 +4509,10 @@ Matteo Pavan, Davide Bassani, Mattia Sturlese, Stefano Moro.
 
 
 
+
+* **Fine-Tuning Universal Machine Learning Potentials Enables Efficient Computation of Li Electrode Potentials in Battery Electrolytes** [2026]  
+Feng Wang, Yu-Hang Tang, Yi-Min Wei, Jun Cheng.  
+  [Journal American Chemical Society(2026)](https://doi.org/10.1021/jacs.6c12519)  
 
 * **A latent-space extrapolation grade built into graph atomic cluster expansion foundation potentials** [2026]  
 Yury Lysogorskiy, Anton Bochkarev, Ralf Drautz.  
