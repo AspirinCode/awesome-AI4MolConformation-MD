@@ -1065,7 +1065,9 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
-
+* **FACTO: fast atom-centered tensor operator for accurate and efficient foundational machine-learned interatomic potentials** [2026]  
+Siyuan Liu, Chang Han, Sheng Gong, Yanping Yang, Tianze Zheng, Yu Xia, Kuang Yu, Shenzhen Xu, Wen Yan.  
+  [arXiv:2611.03276(2026)](https://doi.org/10.48550/arXiv.2611.03276)  
 
 * **Fine-Tuning Universal Machine Learning Potentials Enables Efficient Computation of Li Electrode Potentials in Battery Electrolytes** [2026]  
 Feng Wang, Yu-Hang Tang, Yi-Min Wei, Jun Cheng.  
