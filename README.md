@@ -2206,7 +2206,9 @@ Pham, T.D., Tanikanti, A. & Keçeli, M.
 
 
 
-
+* **Bond-valence theory is a general electrostatic valence rule** [2026]  
+M. L. Whittaker.  
+[arXiv:2611.05339 (2026)](https://doi.org/10.48550/arXiv.2611.05339)  
 
 * **The Python simulations of chemistry framework: 10 years of an open-source quantum chemistry project** [2026]  
 Sun, Qiming, Matthew R. Hermes, Xiaojie Wu, Huanchen Zhai, Xing Zhang, Abdelrahman M. Ahmed, Juan José Aucar et al.  
