@@ -2663,7 +2663,7 @@ Maddipatla, A., Sellam Bojan, N., Bojan, M. et al.
 
 * **Biasing Conformational Sampling in Alphafold 3 and Boltz-2 via Pair Representation Scaling** [2026]  
 Shosuke Suzuki, Toshiyuki Amagasa.  
-[bioRxiv (2026)](https://doi.org/10.64898/2026.01.23.701250) | [code](https://github.com/suzuki-2001/pair-representation-scaling)  
+[J. Chem. Inf. Model.(2026)](https://doi.org/10.1021/acs.jcim.6c02094) | [bioRxiv (2026)](https://doi.org/10.64898/2026.01.23.701250) | [code](https://github.com/suzuki-2001/pair-representation-scaling)  
 
 * **BilboMD: a web-accessible SAXS and AlphaFold-guided modeling pipeline** [2026]  
 Scott Classen, Joshua Del Mundo, Dhruva Kulkarni, Shreyas Prabhakar, Alan Hicks, Michal Hammel.  
