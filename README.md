@@ -298,6 +298,10 @@ David S. Cerutti, Rafal Wiewiora, Simon Boothroyd, Woody Sherman.
 
 
 
+* **SO3LR Tauri: Generally Applicable Force Fields for Reactive (Bio)Molecular Simulations Covering the Periodic Table** [2026]  
+Adil Kabylda, Florian N. Brünig, Miguel Gallegos, J. Thorben Frank, Evgeny Moerman, Oliver T. Unke, Stefan Chmiela, Klaus-Robert Müller, Alexandre Tkatchenko.  
+[arXiv:2611.06237(2026)](https://doi.org/10.48550/arXiv.2611.06237) | [code](https://github.com/general-molecular-simulations/so3lr)  
+
 * **Force Fields and Simulation Engines: Lessons Learned from Porting Amber ff14SB and ff19SB to GROMACS** [2026]  
 Vedran Miletić, Miłosz Wieczór, Carlos Simmerling, Markus Rampp, Bert L. de Groot, Carsten Kutzner, Vytautas Gapsys.  
 [J. Chem. Theory Comput.(2026)](https://doi.org/10.1021/acs.jctc.6c01592) | [code](https://gitlab.mpcdf.mpg.de/barnsteen/workflow)  
