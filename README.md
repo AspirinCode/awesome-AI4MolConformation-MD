@@ -1074,6 +1074,16 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
+
+
+* **Unconstrained learning of equivariant atomistic properties** [2026]  
+Joseph W. Abbott, Paolo Pegolo, Pol Febrer, Michelangelo Domina, Sandra Saade, Matthias Kellner, Filippo Bigi, Philip Loche, Michele Ceriotti.  
+  [arXiv:2610.31183(2026)](https://doi.org/10.48550/arXiv.2610.31183)  
+
+* **High-quality, high-information datasets for universal atomistic machine learning** [2026]  
+Cesare Malosso, Filippo Bigi, Paolo Pegolo, Joseph W. Abbott, Philip Loche, Mariana Rossi, Tiago J. Goncalves, Sandip De, Michele Ceriotti, Arslan Mazitov.  
+  [arXiv:2603.02089(2026)](https://doi.org/10.48550/arXiv.2603.02089) | [code](https://github.com/lab-cosmo/upet)  
+
 * **FACTO: fast atom-centered tensor operator for accurate and efficient foundational machine-learned interatomic potentials** [2026]  
 Siyuan Liu, Chang Han, Sheng Gong, Yanping Yang, Tianze Zheng, Yu Xia, Kuang Yu, Shenzhen Xu, Wen Yan.  
   [arXiv:2611.03276(2026)](https://doi.org/10.48550/arXiv.2611.03276)  
