@@ -367,6 +367,11 @@ Wang, L., Brasnett, C., Borges-Araújo, L. et al.
 
 
 
+
+* **Neopep: Reinforcement Learning from Machine-Learned Force Field Energy for Non-Canonical Peptide Structure Prediction** [2026]  
+Dhanya Jagannathan, Philip M. Kim.  
+[bioRxiv(2026)](https://doi.org/10.64898/2026.10.22.760799)  
+
 * **On-the-Fly Machine-Learned Force Fields for High-Fidelity Polymer Glass Transition Simulations** [2026]  
 Ashutosh Srivastava, Sakshi Agarwal, Shivank Shukla, Harikrishna Sahu, Rampi Ramprasad.  
 [J. Chem. Inf. Model.(2026)](https://doi.org/10.1021/acs.jcim.6c02116) | [code](https://github.com/Ramprasad-Group/OTF-MLFF-Tg)  
