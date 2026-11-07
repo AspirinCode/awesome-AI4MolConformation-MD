@@ -2280,7 +2280,9 @@ Wieners, L., Garcia, M.E.
 
 
 
-
+* **Ab initio simulation of excited-state potential energy surfaces with transferable deep quantum Monte Carlo** [2026]  
+Schätzle, Z., Szabó, P.B., Cuzzocrea, A. et al.  
+[Nat Comput Sci (2026)](https://doi.org/10.1038/s43588-026-01065-y) | [code](https://github.com/deepqmc/deepqmc)  
 
 * **Hybrid Ab Initio and Empirical Machine Learning Models for the Potential Energy Surface** [2026]  
 Pablo Peña-Cano.  
