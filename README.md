@@ -644,7 +644,9 @@ Barnett, Simon, and John D. Chodera.
 
 
 
-
+* **Multiscale Interpretable Deep-Learning Framework for the Identification and Visualization of Deformation Stages in Molecular Dynamics Trajectory** [2026]  
+Zhengwu Long, Xinyu Wang, Lingyun You.  
+[J. Chem. Inf. Model. (2026)](https://doi.org/10.1021/acs.jcim.6c01426)  
 
 * **Pharmacon: A Molecular Dynamics Simulation Analysis Toolkit** [2026]  
 Kyriakos Georgiou and Antonios Kolocouris.  
@@ -836,7 +838,9 @@ Kevin V. Bigting, Shubhadeep Nag, Yaxin An.
 
 
 
-
+* **AdaptivePy: A Unified Python Framework for Adaptive Sampling in Molecular Dynamics** [2026]  
+Hassan Nadeem, Diego E. Kleiman, Diwakar Shukla.  
+[J. Chem. Theory Comput. (2026)](https://doi.org/10.1021/acs.jctc.6c01596)  
 
 * **DIME: Dynamics Inferred from Monte Carlo Ensembles via Continuous-Time Markov Chains** [2026]  
 Krishna Praneet Mulukutla, Marimuthu Krishnan.  
