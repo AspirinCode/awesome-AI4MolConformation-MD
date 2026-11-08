@@ -1078,7 +1078,9 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
-
+* **Energetically Anchored Machine-Learning Interatomic Potential Embeddings for Reliable Hydrogen Evolution Electrocatalyst Prediction** [2026]  
+Ching Lin, Po-Wen Chen, Tien-Hsiang Hsueh.  
+  [J. Chem. Inf. Model.(2026)](https://doi.org/10.1021/acs.jcim.6c01720)  
 
 * **Unconstrained learning of equivariant atomistic properties** [2026]  
 Joseph W. Abbott, Paolo Pegolo, Pol Febrer, Michelangelo Domina, Sandra Saade, Matthias Kellner, Filippo Bigi, Philip Loche, Michele Ceriotti.  
@@ -4538,6 +4540,12 @@ Matteo Pavan, Davide Bassani, Mattia Sturlese, Stefano Moro.
 
 
 
+
+
+
+* **Energetically Anchored Machine-Learning Interatomic Potential Embeddings for Reliable Hydrogen Evolution Electrocatalyst Prediction** [2026]  
+Ching Lin, Po-Wen Chen, Tien-Hsiang Hsueh.  
+  [J. Chem. Inf. Model.(2026)](https://doi.org/10.1021/acs.jcim.6c01720)  
 
 * **Fine-Tuning Universal Machine Learning Potentials Enables Efficient Computation of Li Electrode Potentials in Battery Electrolytes** [2026]  
 Feng Wang, Yu-Hang Tang, Yi-Min Wei, Jun Cheng.  
