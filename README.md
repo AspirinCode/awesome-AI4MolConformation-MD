@@ -1078,6 +1078,10 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
+* **A thermodynamic correction layer for machine learning interatomic potentials** [2026]  
+Sarath Menon, Braulio Sanchez Ortega, Ralf Drautz.  
+  [arXiv:2610.34551 (2026)](https://doi.org/10.48550/arXiv.2610.34551)  
+
 * **Energetically Anchored Machine-Learning Interatomic Potential Embeddings for Reliable Hydrogen Evolution Electrocatalyst Prediction** [2026]  
 Ching Lin, Po-Wen Chen, Tien-Hsiang Hsueh.  
   [J. Chem. Inf. Model.(2026)](https://doi.org/10.1021/acs.jcim.6c01720)  
