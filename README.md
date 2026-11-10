@@ -4547,7 +4547,9 @@ Matteo Pavan, Davide Bassani, Mattia Sturlese, Stefano Moro.
 
 
 
-
+* **SimPoly: Simulation of polymers with machine learning force fields derived from first principles** [2026]  
+Simm, G.N.C., Hélie, J., Schulz, H. et al.  
+[Nat Commun (2026)](https://doi.org/10.1038/s41467-026-78736-x) | [code](https://github.com/microsoft/simpoly)  
 
 * **Energetically Anchored Machine-Learning Interatomic Potential Embeddings for Reliable Hydrogen Evolution Electrocatalyst Prediction** [2026]  
 Ching Lin, Po-Wen Chen, Tien-Hsiang Hsueh.  
