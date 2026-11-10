@@ -366,7 +366,9 @@ Wang, L., Brasnett, C., Borges-Araújo, L. et al.
 
 
 
-
+* **SimPoly: Simulation of polymers with machine learning force fields derived from first principles** [2026]  
+Simm, G.N.C., Hélie, J., Schulz, H. et al.  
+[Nat Commun (2026)](https://doi.org/10.1038/s41467-026-78736-x) | [code](https://github.com/microsoft/simpoly)  
 
 * **Neopep: Reinforcement Learning from Machine-Learned Force Field Energy for Non-Canonical Peptide Structure Prediction** [2026]  
 Dhanya Jagannathan, Philip M. Kim.  
