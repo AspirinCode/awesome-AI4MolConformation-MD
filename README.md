@@ -840,6 +840,11 @@ Kevin V. Bigting, Shubhadeep Nag, Yaxin An.
 
 
 
+
+* **OriDynamics: Towards a World Model for Biomolecular Dynamics** [2026]  
+Jiahao Yang, Dong Liu, Hongliang Li, Ji Chen, Yuehua Liu, Daoyun Ding, Duo An, Jun Li, Jiahua Rao, Ziqiao Zhang, Peicong Lin, Shuangjia Zheng.  
+[arXiv:2611.11958(2026)](https://doi.org/10.48550/arXiv.2611.11958)  
+
 * **AdaptivePy: A Unified Python Framework for Adaptive Sampling in Molecular Dynamics** [2026]  
 Hassan Nadeem, Diego E. Kleiman, Diwakar Shukla.  
 [J. Chem. Theory Comput. (2026)](https://doi.org/10.1021/acs.jctc.6c01596)  
