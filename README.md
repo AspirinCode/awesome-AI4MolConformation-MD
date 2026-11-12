@@ -2472,6 +2472,13 @@ KYuan, E.CY., Kumar, A., Guan, X. et al.
 
 
 
+
+
+
+* **Ab Initio Accuracy Beyond the Cutoff: Distributed Message-Passing Equivariant Attention at Tens-of-Millions-of-Atom Scale** [2026]  
+Allex Kan, Ji Zhang, Hao Yin, Hao Li, Owen Fu, Xunxing Chen, Lin Huang, Zion Wang, Lucas Li, Jiajun Cheng, Arthur Jiang, Junping Zhao, Jia Zhang.  
+[arXiv:2611.06122(2026)](https://doi.org/10.48550/arXiv.2611.06122)  
+
 * **Transformer-inspired architectures make machine-learned electron densities accurate and transferable enough to bypass self-consistency** [2026]  
 Jeheon Woo.  
 [arXiv:2610.39687(2026)](https://doi.org/10.48550/arXiv.2610.39687)  
