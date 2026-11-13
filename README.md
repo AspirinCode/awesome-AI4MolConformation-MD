@@ -3699,6 +3699,13 @@ Grambow, Colin A., Hayley Weir, Nathaniel Diamant, Alex Tseng, Tommaso Biancalan
 
 
 
+
+
+
+* **Static Recovery Is Not Dynamic Stability: Dynamics-Aware Benchmarking of Protein Motif Scaffolding** [2026]  
+Emile de Bruyn, Moritz Schäffler, Jannik Schneider, Sebastian R. Schmidt, Chanwoong Hwang, Aleena Siji, Utkarsh Upadhyay, Stefan Bauer, Alexander Schug, Stefan Kesselheim, Artur Yakimovich, Alina Bazarova.  
+[arXiv:2611.07723(2026)](https://doi.org/10.48550/arXiv.2611.07723) | [code](https://github.com/PROFOUND-HFMI/BILBY-MD)  
+
 * **Beyond Static Structures: Linking Protein Dynamics to Function via DynaReason-Pro** [2026]  
 Zhaokang Liang, Mingze Yuan, Quanzheng Li, Wengong Jin.  
 [arXiv:2610.33804(2026)](https://doi.org/10.48550/arXiv.2610.33804)  
