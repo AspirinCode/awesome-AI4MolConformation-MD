@@ -1085,6 +1085,11 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
+
+* **Distilling Large-Scale Machine Learning Interatomic Potentials to Predict Long-Timescale Electrolyte Transport Properties** [2026]  
+Ishan Amin, Yue Jian, Nitesh Kumar, Christine Zhang, Jianwei Lai, Casey S. Mezerkor, Aaron M. Melemed, Jonathan R. Thurston, Neil P. Dasgupta, J. David Bazak, Ethan J. Crumlin, Samuel Blau, Aditi S. Krishnapriyan.  
+  [arXiv:2610.39513(2026)](https://doi.org/10.48550/arXiv.2610.39513)  
+
 * **A thermodynamic correction layer for machine learning interatomic potentials** [2026]  
 Sarath Menon, Braulio Sanchez Ortega, Ralf Drautz.  
   [arXiv:2610.34551 (2026)](https://doi.org/10.48550/arXiv.2610.34551)  
