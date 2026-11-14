@@ -1084,7 +1084,9 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
-
+* **Atomistic simulations of electrochemical systems with machine learning potentials** [2026]  
+Marialore Sulpizi, Jörg Behler.  
+  [arXiv:2611.15939(2026)](https://doi.org/10.48550/arXiv.2611.15939)  
 
 * **Distilling Large-Scale Machine Learning Interatomic Potentials to Predict Long-Timescale Electrolyte Transport Properties** [2026]  
 Ishan Amin, Yue Jian, Nitesh Kumar, Christine Zhang, Jianwei Lai, Casey S. Mezerkor, Aaron M. Melemed, Jonathan R. Thurston, Neil P. Dasgupta, J. David Bazak, Ethan J. Crumlin, Samuel Blau, Aditi S. Krishnapriyan.  
