@@ -4292,6 +4292,15 @@ Jingtian Xu, Yong Wang.
 
 
 
+
+
+
+
+
+* **Rapid generation of antibody conformational ensembles using machine learning** [2026]  
+Pranav V. Rao, David Sommer, Darcy Davidson, Robert G. Alberstein, Jan Ludwiczak, Joseph Kleinhenz, Bodhi Vani, Eliott Park, Jae Hyeon Lee, Saeed Izadi, James R. Kiefer, Richard Bonneau, Sai Pooja Mahajan, Andrew M. Watkins, Frédéric A. Dreyer.  
+[bioRxiv(2026)](https://doi.org/10.64898/2026.11.06.764889)  
+
 * **AbFlex: Predicting the conformational flexibility of antibody CDRs** [2024]  
 Spoendlin, Fabian C., Wing Ki Wong, Guy Georges, Alexander Bujotzek, and Charlotte Deane.   
 [ICML'24 Workshop ML for Life and Material Science: From Theory to Industry Applications (2024)](https://openreview.net/forum?id=or4tArwd5a) | [code](https://openreview.net/forum?id=or4tArwd5a)
