@@ -2681,6 +2681,11 @@ Do, Hung N., Jinan Wang, Apurba Bhattarai, and Yinglong Miao.
 
 
 
+
+* **Leveraging sequence purification for accurate prediction of multiple conformational states with AlphaFold2** [2026]  
+Xing, E., Zhang, J., Wang, S. et al.  
+[Nat Commun (2026)](https://doi.org/10.1038/s41467-026-79677-1) | [Code](https://github.com/enmingxing244/AF_ClaSeq)  
+
 * **Multiobjective VHH discovery through integrated high-throughput screening and AlphaFold3-guided structural prioritization** [2026]  
 Max D. Overath et al.  
 [Sci. Adv.12,eaef5325(2026)](https://doi.org/10.1126/sciadv.aef5325)  
@@ -3709,7 +3714,9 @@ Grambow, Colin A., Hayley Weir, Nathaniel Diamant, Alex Tseng, Tommaso Biancalan
 
 
 
-
+* **Leveraging sequence purification for accurate prediction of multiple conformational states with AlphaFold2** [2026]  
+Xing, E., Zhang, J., Wang, S. et al.  
+[Nat Commun (2026)](https://doi.org/10.1038/s41467-026-79677-1) | [Code](https://github.com/enmingxing244/AF_ClaSeq)  
 
 * **Static Recovery Is Not Dynamic Stability: Dynamics-Aware Benchmarking of Protein Motif Scaffolding** [2026]  
 Emile de Bruyn, Moritz Schäffler, Jannik Schneider, Sebastian R. Schmidt, Chanwoong Hwang, Aleena Siji, Utkarsh Upadhyay, Stefan Bauer, Alexander Schug, Stefan Kesselheim, Artur Yakimovich, Alina Bazarova.  
