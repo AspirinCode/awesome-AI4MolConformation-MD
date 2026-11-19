@@ -366,6 +366,12 @@ Wang, L., Brasnett, C., Borges-Araújo, L. et al.
 
 
 
+
+
+* **Quantum-accurate vibrational and conformational dynamics from small molecules to proteins with machine-learned force fields** [2026]  
+SSuárez-Dou, S., Gallegos, M., Han, K. et al.  
+[Nat Commun (2026)](https://doi.org/10.1038/s41467-026-79241-x) | [Zenodo](https://doi.org/10.5281/zenodo.20315304)  
+
 * **SimPoly: Simulation of polymers with machine learning force fields derived from first principles** [2026]  
 Simm, G.N.C., Hélie, J., Schulz, H. et al.  
 [Nat Commun (2026)](https://doi.org/10.1038/s41467-026-78736-x) | [code](https://github.com/microsoft/simpoly)  
