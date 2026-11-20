@@ -602,7 +602,7 @@ Gregory Fonseca, Igor Poltavsky, Valentin Vassilev-Galindo, Alexandre Tkatchenko
 * [STORMM](https://github.com/Psivant/stormm) - Structure and TOpology Replica Molecular Mechanics.
 * [multiSMD](https://github.com/kszewc/multiSMD) - A Python Toolset for Multidirectional Steered Molecular Dynamics.
 * [CCD2MD](https://github.com/keb721/CCD2MD) - A Suite of Packages for Preparing Co-Folded Outputs for Molecular Dynamics Simulations.
-
+* [cuPotential](https://github.com/nvidia/cupotential) - A CUDA-X library for efficient computation of molecular interactions found in standard forcefields for molecular dynamics.
 
 
 
@@ -2699,6 +2699,12 @@ Do, Hung N., Jinan Wang, Apurba Bhattarai, and Yinglong Miao.
 
 
 
+
+
+
+* **Enhanced Sampling of Protein Conformations in AlphaFold3 with Repulsive Bias in the Diffusion Generative Model** [2026]  
+Jun Ohnuki, Kei-ichi Okazaki.  
+[JACS Au (2026)](https://doi.org/10.1021/jacsau.6c00596) | [Code](https://github.com/OkazakiLab/af3_red)  
 
 * **Leveraging sequence purification for accurate prediction of multiple conformational states with AlphaFold2** [2026]  
 Xing, E., Zhang, J., Wang, S. et al.  
