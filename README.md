@@ -296,7 +296,9 @@ David S. Cerutti, Rafal Wiewiora, Simon Boothroyd, Woody Sherman.
 
 
 
-
+* **SMartini: automated small molecule parametrization for Martini 3 force field** [2026]  
+Danis Yangaliev, S. Banu Ozkan.  
+[bioRxiv(2026)](https://doi.org/10.64898/2026.09.29.755481) | [code](https://github.com/DanYev/SMartini)  
 
 * **SO3LR Tauri: Generally Applicable Force Fields for Reactive (Bio)Molecular Simulations Covering the Periodic Table** [2026]  
 Adil Kabylda, Florian N. Brünig, Miguel Gallegos, J. Thorben Frank, Evgeny Moerman, Oliver T. Unke, Stefan Chmiela, Klaus-Robert Müller, Alexandre Tkatchenko.  
@@ -750,6 +752,14 @@ https://github.com/ipudu/awesome-molecular-dynamics
 
 
 
+
+
+
+
+
+* **SMartini: automated small molecule parametrization for Martini 3 force field** [2026]  
+Danis Yangaliev, S. Banu Ozkan.  
+[bioRxiv(2026)](https://doi.org/10.64898/2026.09.29.755481) | [code](https://github.com/DanYev/SMartini)  
 
 * **A unified coarse-grained neural network potential for the dynamics of biomolecular complexes** [2026]  
 Antonio Mirarchi, Stephen E. Farr, Adrià Peréz, Gianni De Fabritiis.  
