@@ -3632,6 +3632,11 @@ Xu, Minkai, Wujie Wang, Shitong Luo, Chence Shi, Yoshua Bengio, Rafael Gomez-Bom
 
 
 
+
+* **REVEAL: RNA Ensemble Validation and Exploration with AI-guided Landscapes** [2026]  
+Soumendranath Bhakat, Shray Vats.  
+[bioRxiv (2026)](https://doi.org/10.64898/2026.11.10.765771) | [Code](https://github.com/sbhakat/REVEAL)  
+
 * **Topology, Energy Landscapes and Folding Kinetics of RNA Hairpins** [2026]  
 Anjali Verma, Pratyush Tiwary, Yunrui Qiu.  
 [bioRxiv (2026)](https://doi.org/10.64898/2026.09.21.753325) | [Code](https://github.com/tiwarylab/)  
