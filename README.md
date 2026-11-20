@@ -366,7 +366,9 @@ Wang, L., Brasnett, C., Borges-Araújo, L. et al.
 
 
 
-
+* **tmol: a GPU-accelerated implementation of the Rosetta energy function for machine learning** [2026]  
+Andrew Leaver-Fay, Kieran Didi, Jeff Flatten, Alex Ford, Guangfeng Zhou, Nathaniel Corley, Hahnbeom Park, Maxwell W. Kazman, Rafael I. Brent, Joseph Kleinhenz, Henry Solberg, Andrew M. Watkins, Brian Kuhlman, David Baker, Frank DiMaio.  
+[arXiv:2611.21857(2026)](https://doi.org/10.48550/arXiv.2611.21857) | [code](https://github.com/RosettaCommons/tmol)  
 
 * **Quantum-accurate vibrational and conformational dynamics from small molecules to proteins with machine-learned force fields** [2026]  
 SSuárez-Dou, S., Gallegos, M., Han, K. et al.  
