@@ -368,6 +368,13 @@ Wang, L., Brasnett, C., Borges-Araújo, L. et al.
 
 
 
+
+
+
+* **Scaling a Universal Graph Neural Network Force Field to Billions of Atoms on Desk-Side GPUs** [2026]  
+Jaehyung Lee, Kamal Choudhary.  
+[arXiv:2611.20585(2026)](https://doi.org/10.48550/arXiv.2611.20585) | [Zenodo](https://github.com/atomgptlab/scalingmat)  
+
 * **tmol: a GPU-accelerated implementation of the Rosetta energy function for machine learning** [2026]  
 Andrew Leaver-Fay, Kieran Didi, Jeff Flatten, Alex Ford, Guangfeng Zhou, Nathaniel Corley, Hahnbeom Park, Maxwell W. Kazman, Rafael I. Brent, Joseph Kleinhenz, Henry Solberg, Andrew M. Watkins, Brian Kuhlman, David Baker, Frank DiMaio.  
 [arXiv:2611.21857(2026)](https://doi.org/10.48550/arXiv.2611.21857) | [code](https://github.com/RosettaCommons/tmol)  
@@ -2267,6 +2274,11 @@ Pham, T.D., Tanikanti, A. & Keçeli, M.
 
 
 
+
+
+* **xTBloom: GPU Batching for High-Throughput GFN-xTB Calculations** [2026]  
+Zitian Lu, Shengrui Xu, Tong Zhu, Qiangqiang Gu, Jinzhe Zeng.  
+[arXiv:2611.24807(2026)](https://doi.org/10.48550/arXiv.2611.24807) | [Code](https://github.com/jinzhezenggroup/xtbloom)  
 
 * **Bond-valence theory is a general electrostatic valence rule** [2026]  
 M. L. Whittaker.  
