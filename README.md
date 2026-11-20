@@ -757,6 +757,11 @@ https://github.com/ipudu/awesome-molecular-dynamics
 
 
 
+
+* **MemBack: An Equivariant Graph Neural Network for Backmapping Lipid Membranes** [2026]  
+Y. Eren Tunç, Rainer A. Böckmann.  
+[J. Chem. Theory Comput.(2026)](https://doi.org/10.1021/acs.jctc.6c01711) | [code](https://github.com/BioMemPhys-FAU/memback)  
+
 * **SMartini: automated small molecule parametrization for Martini 3 force field** [2026]  
 Danis Yangaliev, S. Banu Ozkan.  
 [bioRxiv(2026)](https://doi.org/10.64898/2026.09.29.755481) | [code](https://github.com/DanYev/SMartini)  
