@@ -2038,7 +2038,9 @@ Anstine DM, Zhao Q, Zubatiuk R, Zhang S, Singla V, Nikitin F, et al.
 
 
 
-
+* **Predictive RNA-Ligand Binding Free Energy Perturbation through Preparatory Simulations and Polarizable Force Fields** [2026]  
+Gianfranco Martino, Giuseppina La Sala, Anders Hogner, Jacopo Manigrasso, Marco De Vivo.  
+[J. Chem. Theory Comput.(2026)](https://doi.org/10.1021/acs.jctc.6c01563) | [Zenodo](https://doi.org/10.5281/zenodo.21834748)  
 
 * **Hybrid Ab Initio and Empirical Machine Learning Models for the Potential Energy Surface** [2026]  
 Pablo Peña-Cano.  
@@ -4601,7 +4603,9 @@ Sneha Bheemireddy, Roy González-Alemán, Emmanuelle Bignon, Yasaman Karami.
 
 
 
-
+* **Predictive RNA-Ligand Binding Free Energy Perturbation through Preparatory Simulations and Polarizable Force Fields** [2026]  
+Gianfranco Martino, Giuseppina La Sala, Anders Hogner, Jacopo Manigrasso, Marco De Vivo.  
+[J. Chem. Theory Comput.(2026)](https://doi.org/10.1021/acs.jctc.6c01563) | [Zenodo](https://doi.org/10.5281/zenodo.21834748)  
 
 * **Structuring Disorder via Supervised Molecular Dynamics: Uncovering Arginine-Glycine-Glycine-Mediated Ribonucleic Acid-Intrinsically Disordered Region Recognition Mechanisms** [2026]  
 Gianluca Novello, Andrea Dodaro, Chiara Cavastracci Strascia, Silvia Menin, Mattia Sturlese, Veronica Salmaso, and Stefano Moro.  
