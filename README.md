@@ -1114,6 +1114,13 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
+
+
+
+* **Quantum-accurate enhanced sampling and mini-protein folding through replica exchange for multiscale neural network potentials** [2026]  
+Riccardo Solazzo, Igor Gordiy, Sereina Riniker.  
+  [Chem. Sci.(2026)](https://doi.org/10.1039/d6sc04555c) | [code](https://github.com/rinikerlab/rest2_ampmm)  
+
 * **Atomistic simulations of electrochemical systems with machine learning potentials** [2026]  
 Marialore Sulpizi, Jörg Behler.  
   [arXiv:2611.15939(2026)](https://doi.org/10.48550/arXiv.2611.15939)  
@@ -3760,7 +3767,9 @@ Grambow, Colin A., Hayley Weir, Nathaniel Diamant, Alex Tseng, Tommaso Biancalan
 
 
 
-
+* **Quantum-accurate enhanced sampling and mini-protein folding through replica exchange for multiscale neural network potentials** [2026]  
+Riccardo Solazzo, Igor Gordiy, Sereina Riniker.  
+  [Chem. Sci.(2026)](https://doi.org/10.1039/d6sc04555c) | [code](https://github.com/rinikerlab/rest2_ampmm)  
 
 * **Leveraging sequence purification for accurate prediction of multiple conformational states with AlphaFold2** [2026]  
 Xing, E., Zhang, J., Wang, S. et al.  
