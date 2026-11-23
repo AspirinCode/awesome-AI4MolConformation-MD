@@ -2283,7 +2283,9 @@ Pham, T.D., Tanikanti, A. & Keçeli, M.
 
 
 
-
+* **GenerativeQC: A Generative, GPU-Accelerated Quantum Chemistry Program** [2026]  
+Shengrui Xu, Longhan Shen, Wenxi Zhai, Tong Zhu, Jinzhe Zeng.  
+[arXiv:2611.24744(2026)](https://doi.org/10.48550/arXiv.2611.24744) | [Code](https://github.com/jinzhezenggroup)  
 
 * **xTBloom: GPU Batching for High-Throughput GFN-xTB Calculations** [2026]  
 Zitian Lu, Shengrui Xu, Tong Zhu, Qiangqiang Gu, Jinzhe Zeng.  
