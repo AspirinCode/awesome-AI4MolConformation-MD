@@ -3011,6 +3011,12 @@ Tsai, ST., Kuo, EJ. & Tiwary, P.
 
 
 
+
+
+* **Generation of protein conformations using a simple inverted transformer** [2026]  
+Luigi Leonardo Palese.   
+[arXiv:2611.19321(2025)](https://doi.org/10.48550/arXiv.2611.19321) | [code](https://github.com/llpalese/MDiT)  
+
 * **Sequence-Derived Geometric Priors Enable Controllable Generation of Intrinsically Disordered Protein Ensembles** [2026]  
 Wonkyeong Jang, Woong-Hee Shin.   
 [bioRxiv(2025)](https://doi.org/10.64898/2026.11.19.768000) | [code](https://github.com/kucm-lsbi/MANTA)  
@@ -3777,7 +3783,9 @@ Grambow, Colin A., Hayley Weir, Nathaniel Diamant, Alex Tseng, Tommaso Biancalan
 
 
 
-
+* **Generation of protein conformations using a simple inverted transformer** [2026]  
+Luigi Leonardo Palese.   
+[arXiv:2611.19321(2025)](https://doi.org/10.48550/arXiv.2611.19321) | [code](https://github.com/llpalese/MDiT)  
 
 * **Sequence-Derived Geometric Priors Enable Controllable Generation of Intrinsically Disordered Protein Ensembles** [2026]  
 Wonkyeong Jang, Woong-Hee Shin.   
