@@ -50,6 +50,12 @@ List of **molecules ( small molecules, RNA, peptide, protein, enzymes, antibody,
 
 
 
+
+
+* **Graphics processing unit-accelerated quantum simulation for molecular biology and drug discovery: algorithms, platforms, and emerging applications** [2026]  
+Yun-Lin Chen, Oscar K Lee.  
+[Briefings in Bioinformatics(2026)](https://doi.org/10.1093/bib/bbag629)  
+
 * **Benchmarking Generative AI and Physics-Based Molecular Simulation for Sampling Conformational Heterogeneity in T4 Lysozyme** [2026]  
 Soumendranath Bhakat.  
 [J. Chem. Inf. Model.(2026)](https://doi.org/10.1021/acs.jcim.6c02044)  
