@@ -3011,6 +3011,9 @@ Tsai, ST., Kuo, EJ. & Tiwary, P.
 
 
 
+* **Sequence-Derived Geometric Priors Enable Controllable Generation of Intrinsically Disordered Protein Ensembles** [2026]  
+Wonkyeong Jang, Woong-Hee Shin.   
+[bioRxiv(2025)](https://doi.org/10.64898/2026.11.19.768000) | [code](https://github.com/kucm-lsbi/MANTA)  
 
 * **Beyond Static Structures: Linking Protein Dynamics to Function via DynaReason-Pro** [2026]  
 Zhaokang Liang, Mingze Yuan, Quanzheng Li, Wengong Jin.  
@@ -3774,6 +3777,11 @@ Grambow, Colin A., Hayley Weir, Nathaniel Diamant, Alex Tseng, Tommaso Biancalan
 
 
 
+
+
+* **Sequence-Derived Geometric Priors Enable Controllable Generation of Intrinsically Disordered Protein Ensembles** [2026]  
+Wonkyeong Jang, Woong-Hee Shin.   
+[bioRxiv(2025)](https://doi.org/10.64898/2026.11.19.768000) | [code](https://github.com/kucm-lsbi/MANTA)  
 
 * **Quantum-accurate enhanced sampling and mini-protein folding through replica exchange for multiscale neural network potentials** [2026]  
 Riccardo Solazzo, Igor Gordiy, Sereina Riniker.  
