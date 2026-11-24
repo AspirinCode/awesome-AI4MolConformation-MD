@@ -877,7 +877,9 @@ Kevin V. Bigting, Shubhadeep Nag, Yaxin An.
 
 
 
-
+* **ChatAtom: A Multi-Agent LLM System for Molecular Dynamics Simulation and Visualization** [2026]  
+Trupti Mohanty, Ming Du, Mitchell A. Wood, Brad L. Boyce, Remi Dingreville, Mathew J. Cherukara.  
+[arXiv:2611.26782(2026)](https://doi.org/10.48550/arXiv.2611.26782)  
 
 * **OriDynamics: Towards a World Model for Biomolecular Dynamics** [2026]  
 Jiahao Yang, Dong Liu, Hongliang Li, Ji Chen, Yuehua Liu, Daoyun Ding, Duo An, Jun Li, Jiahua Rao, Ziqiao Zhang, Peicong Lin, Shuangjia Zheng.  
