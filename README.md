@@ -1123,7 +1123,9 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
-
+* **MACE4IRmol: An Uncertainty-Aware Foundation Model for Molecular Infrared Spectroscopy** [2026]  
+N. Bhatia, O. Krejčí, S. Botti, P. Rinke, and M. A. L. Marques.  
+  [Advanced Science (2026)](https://doi.org/10.1002/advs.78542) | [code](https://huggingface.co/nitbha007/MACE4IR)  
 
 * **Quantum-accurate enhanced sampling and mini-protein folding through replica exchange for multiscale neural network potentials** [2026]  
 Riccardo Solazzo, Igor Gordiy, Sereina Riniker.  
