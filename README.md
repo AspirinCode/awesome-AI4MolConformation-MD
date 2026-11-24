@@ -50,7 +50,9 @@ List of **molecules ( small molecules, RNA, peptide, protein, enzymes, antibody,
 
 
 
-
+* **From static structures to conformational ensembles: Artificial intelligence for protein sampling and dynamics** [2026]  
+Aldo S. Pasos-Trejo and Klara Bonneau and Andrea Guljas and Ana Molina-Taborda and Cecilia Clementi.  
+[Current Opinion in Structural Biology(2026)](https://doi.org/10.1016/j.sbi.2026.103438)  
 
 * **Graphics processing unit-accelerated quantum simulation for molecular biology and drug discovery: algorithms, platforms, and emerging applications** [2026]  
 Yun-Lin Chen, Oscar K Lee.  
