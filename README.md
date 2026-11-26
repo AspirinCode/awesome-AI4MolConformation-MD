@@ -384,7 +384,9 @@ Wang, L., Brasnett, C., Borges-Araújo, L. et al.
 
 
 
-
+* **Data generation for machine-learned force fields** [2026]  
+Saffron Luxford, Connor Williamson, Shayantan Chaudhuri, Alex M. Ganose, Valerio Giuffrida, Julie Greensmith, Katherine Inzani.  
+[Digital Discovery(2026)](https://doi.org/10.1039/d6dd00059b)  
 
 * **Scaling a Universal Graph Neural Network Force Field to Billions of Atoms on Desk-Side GPUs** [2026]  
 Jaehyung Lee, Kamal Choudhary.  
