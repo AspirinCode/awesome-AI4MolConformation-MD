@@ -1136,7 +1136,9 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
-
+* **OMNI-P3x universal neural network potential for large-scale computational photochemistry workflows** [2026]  
+Mikołaj Martyka, Joanna Jankowska, Pavlo O. Dral.  
+  [arXiv:2611.32133(2026)](https://doi.org/10.48550/arXiv.2611.32133) | [code](https://github.com/dralgroup/mlatom)  
 
 * **MACE4IRmol: An Uncertainty-Aware Foundation Model for Molecular Infrared Spectroscopy** [2026]  
 N. Bhatia, O. Krejčí, S. Botti, P. Rinke, and M. A. L. Marques.  
