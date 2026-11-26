@@ -50,6 +50,13 @@ List of **molecules ( small molecules, RNA, peptide, protein, enzymes, antibody,
 
 
 
+
+
+
+* **Simulations of Protein Structure and Dynamics Beyond AlphaFold: From Structure to Function** [2026]  
+B. Singh, G. Alvarez, J. Gaza, E. Rioual, Y. Sugita, and A. Perez.  
+[Wiley Interdiscip. Rev. Comput. Mol. Sci.(2026)](https://doi.org/10.1002/wcms.70091)  
+
 * **From static structures to conformational ensembles: Artificial intelligence for protein sampling and dynamics** [2026]  
 Aldo S. Pasos-Trejo and Klara Bonneau and Andrea Guljas and Ana Molina-Taborda and Cecilia Clementi.  
 [Current Opinion in Structural Biology(2026)](https://doi.org/10.1016/j.sbi.2026.103438)  
@@ -2745,6 +2752,11 @@ Do, Hung N., Jinan Wang, Apurba Bhattarai, and Yinglong Miao.
 
 
 
+
+
+* **Simulations of Protein Structure and Dynamics Beyond AlphaFold: From Structure to Function** [2026]  
+B. Singh, G. Alvarez, J. Gaza, E. Rioual, Y. Sugita, and A. Perez.  
+[Wiley Interdiscip. Rev. Comput. Mol. Sci.(2026)](https://doi.org/10.1002/wcms.70091)  
 
 * **Enhanced Sampling of Protein Conformations in AlphaFold3 with Repulsive Bias in the Diffusion Generative Model** [2026]  
 Jun Ohnuki, Kei-ichi Okazaki.  
