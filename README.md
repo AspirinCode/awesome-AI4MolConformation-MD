@@ -1138,6 +1138,13 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
+
+
+
+* **Computing hydration free energies and crystalline solubility of drug-like molecules with MACE** [2026]  
+J. Harry Moore, Paul Mortenson, Davide Branduardi, Pavel Buslaev, Javier Antorán, Laurence Midgley, Nicholas J. Browning, Gábor Csányi.  
+  [arXiv:2611.33408(2026)](https://doi.org/10.48550/arXiv.2611.33408) | [code](https://github.com/acesuit/mace)  
+
 * **OMNI-P3x universal neural network potential for large-scale computational photochemistry workflows** [2026]  
 Mikołaj Martyka, Joanna Jankowska, Pavlo O. Dral.  
   [arXiv:2611.32133(2026)](https://doi.org/10.48550/arXiv.2611.32133) | [code](https://github.com/dralgroup/mlatom)  
