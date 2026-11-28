@@ -2558,6 +2558,12 @@ KYuan, E.CY., Kumar, A., Guan, X. et al.
 
 
 
+
+
+* **A general-purpose electron density model for molecular chemistry** [2026]  
+Artem Tsypin, Vladimir Deshchenya, Kuzma Khrabrov, Denis Potapov, Maxim Radchenko, Artur Kadurin, Michael G. Medvedev.  
+[arXiv:2611.34732 (2026)](https://doi.org/10.48550/arXiv.2611.34732) | [Code](https://atomistic-cookbook.org/examples/pet-rho-omol25/pet-rho-omol25.html)  
+
 * **Transformer-inspired architectures make machine-learned electron densities accurate and transferable enough to bypass self-consistency** [2026]  
 Jeheon Woo.  
 [arXiv:2610.39687(2026)](https://doi.org/10.48550/arXiv.2610.39687)  
