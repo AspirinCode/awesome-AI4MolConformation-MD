@@ -780,7 +780,9 @@ https://github.com/ipudu/awesome-molecular-dynamics
 
 
 
-
+* **Rapid Assessment of Protein Self-Association Using Coarse-Grained Molecular Dynamics in Implicit Solvent** [2026]  
+Andrea Arsiccio, Tim Menzen.  
+[J. Chem. Theory Comput.(2026)](https://doi.org/10.1021/acs.jctc.6c01941)  
 
 * **MemBack: An Equivariant Graph Neural Network for Backmapping Lipid Membranes** [2026]  
 Y. Eren Tunç, Rainer A. Böckmann.  
